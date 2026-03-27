@@ -337,6 +337,11 @@ async function openSurahAndMaybeAyah(surahNumber, ayahNumber = null) {
 
   await loadSurah(surahNumber);
 
+  if (appState.isMobile) {
+    appState.mobileView = "reader";
+    syncResponsiveLayout();
+  }
+
   if (ayahNumber) {
     const foundAyah = appState.activeSurah?.ayahs.find((ayah) => ayah.number === ayahNumber);
     if (!foundAyah) {
@@ -345,19 +350,19 @@ async function openSurahAndMaybeAyah(surahNumber, ayahNumber = null) {
       return;
     }
 
-    jumpToAyah(ayahNumber);
+    await jumpToAyah(ayahNumber);
+    return;
   }
 
   if (appState.isMobile) {
-    appState.mobileView = "reader";
-    syncResponsiveLayout();
     scrollToReader();
   }
 }
 
 function scrollToReader() {
   requestAnimationFrame(() => {
-    elements.readerPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+    const top = window.scrollY + elements.readerPanel.getBoundingClientRect().top - getScrollOffset();
+    window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
   });
 }
 
@@ -645,24 +650,44 @@ function highlightMatch(text, query) {
   return escapeHtml(text).replace(regex, "<mark>$1</mark>");
 }
 
-function jumpToAyah(ayahNumber) {
+async function jumpToAyah(ayahNumber) {
   appState.highlightedAyahNumber = ayahNumber;
   renderReader();
 
-  const ayahElement = elements.ayahList.querySelector(`[data-ayah-number="${ayahNumber}"]`);
+  const ayahElement = await waitForAyahRender(ayahNumber);
   if (!ayahElement) {
     return;
   }
 
-  requestAnimationFrame(() => {
-    ayahElement.scrollIntoView({ behavior: "smooth", block: "start" });
-  });
+  scrollToAyahElement(ayahElement);
 
   window.clearTimeout(jumpToAyah.timeoutId);
   jumpToAyah.timeoutId = window.setTimeout(() => {
     appState.highlightedAyahNumber = null;
     renderReader();
   }, 2200);
+}
+
+function waitForAyahRender(ayahNumber) {
+  return new Promise((resolve) => {
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        resolve(elements.ayahList.querySelector(`[data-ayah-number="${ayahNumber}"]`));
+      });
+    });
+  });
+}
+
+function scrollToAyahElement(element) {
+  requestAnimationFrame(() => {
+    const elementTop = window.scrollY + element.getBoundingClientRect().top;
+    const top = elementTop - getScrollOffset();
+    window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
+  });
+}
+
+function getScrollOffset() {
+  return appState.isMobile ? 18 : 24;
 }
 
 function setSearchFeedback(message, isWarning) {
