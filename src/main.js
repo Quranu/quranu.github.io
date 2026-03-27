@@ -40,9 +40,6 @@ const elements = {
   surahList: document.querySelector("#surah-list"),
   readerHeading: document.querySelector("#reader-heading"),
   backToList: document.querySelector("#back-to-list"),
-  readerIntro: document.querySelector("#reader-intro"),
-  introTitle: document.querySelector("#intro-title"),
-  introCopy: document.querySelector("#intro-copy"),
   readerStatus: document.querySelector("#reader-status"),
   ayahList: document.querySelector("#ayah-list"),
 };
@@ -174,8 +171,6 @@ function applyUiText() {
   elements.searchSubmit.textContent = translate(appState.language, "searchButton");
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
-  elements.introTitle.textContent = translate(appState.language, "introTitle");
-  elements.introCopy.textContent = translate(appState.language, "introCopy");
 }
 
 function syncResponsiveLayout() {
@@ -378,14 +373,12 @@ function renderReader() {
 
   if (!selected && !surah) {
     elements.readerHeading.textContent = translate(appState.language, "readerHeading");
-    elements.readerIntro.hidden = false;
     elements.ayahList.innerHTML = "";
     return;
   }
 
-  elements.readerIntro.hidden = true;
-
   if (selected && !surah) {
+    resetReaderPanelPosition();
     const pendingName =
       appState.language === "ms" ? selected.name.bm : selected.name.en;
     elements.readerHeading.textContent = formatSuraTitle(selected.number, pendingName);
@@ -396,6 +389,7 @@ function renderReader() {
     return;
   }
 
+  resetReaderPanelPosition();
   const headingName =
     appState.language === "ms" ? surah.name.bm : surah.name.en;
   elements.readerHeading.textContent = formatSuraTitle(surah.surahNumber, headingName);
@@ -404,9 +398,12 @@ function renderReader() {
     .map((ayah) => {
       const hasAudio = Boolean(ayah.audio);
       const translation = getActiveTranslation(ayah);
+      const subtitle = getOptionalLocalizedContent(ayah.subtitle);
+      const footnote = getOptionalLocalizedContent(ayah.footnote);
       const isTarget = ayah.number === appState.highlightedAyahNumber;
       return `
         <article class="ayah-card ${isTarget ? "is-target" : ""}" data-ayah-number="${ayah.number}">
+          ${subtitle ? `<p class="ayah-subtitle">${subtitle}</p>` : ""}
           <div class="ayah-head">
             <span class="ayah-badge">${formatAyahReference(surah.surahNumber, ayah.number)}</span>
             <button
@@ -426,6 +423,7 @@ function renderReader() {
             <p class="ayah-translation">
               ${translation}
             </p>
+            ${footnote ? `<p class="ayah-footnote">${footnote}</p>` : ""}
           </div>
         </article>
       `;
@@ -439,6 +437,22 @@ function getActiveTranslation(ayah) {
   }
 
   return ayah.bm;
+}
+
+function getOptionalLocalizedContent(localizedValue) {
+  if (!localizedValue) {
+    return "";
+  }
+
+  if (appState.language === "en") {
+    return localizedValue.en ?? "";
+  }
+
+  return localizedValue.bm ?? "";
+}
+
+function resetReaderPanelPosition() {
+  elements.readerPanel.scrollTop = 0;
 }
 
 function formatAyahReference(surahNumber, ayahNumber) {

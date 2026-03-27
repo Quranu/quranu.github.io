@@ -78,8 +78,7 @@ function main() {
 function parseSurahFile(content) {
   const lines = content
     .split(/\r?\n/)
-    .map((line) => line.trim())
-    .filter(Boolean);
+    .map((line) => line.trim());
 
   const dividerIndex = lines.indexOf("---");
   if (dividerIndex === -1) {
@@ -87,7 +86,7 @@ function parseSurahFile(content) {
   }
 
   const headers = Object.fromEntries(
-    lines.slice(0, dividerIndex).map((line) => {
+    lines.slice(0, dividerIndex).filter(Boolean).map((line) => {
       const separatorIndex = line.indexOf(":");
       if (separatorIndex === -1) {
         throw new Error(`Invalid header line: ${line}`);
@@ -99,7 +98,26 @@ function parseSurahFile(content) {
     }),
   );
 
-  const ayahs = lines.slice(dividerIndex + 1).map((line) => {
+  const ayahLines = lines.slice(dividerIndex + 1);
+  const ayahs = hasBlockAyahs(ayahLines)
+    ? parseBlockAyahs(ayahLines)
+    : parseLegacyAyahs(ayahLines.filter(Boolean));
+
+  return {
+    surahNumber: Number(headers.SURAH_NUMBER),
+    nameAr: headers.NAME_AR,
+    nameBm: headers.NAME_BM,
+    nameEn: headers.NAME_EN,
+    ayahs,
+  };
+}
+
+function hasBlockAyahs(lines) {
+  return lines.some((line) => line.startsWith("#"));
+}
+
+function parseLegacyAyahs(lines) {
+  return lines.map((line) => {
     const segments = line.split("|");
     if (segments.length !== 5) {
       throw new Error(`Invalid ayah line: ${line}`);
@@ -113,14 +131,103 @@ function parseSurahFile(content) {
       audio: segments[4].trim(),
     };
   });
+}
 
-  return {
-    surahNumber: Number(headers.SURAH_NUMBER),
-    nameAr: headers.NAME_AR,
-    nameBm: headers.NAME_BM,
-    nameEn: headers.NAME_EN,
-    ayahs,
+function parseBlockAyahs(lines) {
+  const ayahs = [];
+  let currentAyah = null;
+
+  for (const line of lines) {
+    if (!line) {
+      continue;
+    }
+
+    if (line.startsWith("#")) {
+      if (currentAyah) {
+        ayahs.push(finalizeAyahBlock(currentAyah));
+      }
+
+      currentAyah = {
+        rawLabel: line,
+      };
+      continue;
+    }
+
+    if (!currentAyah) {
+      throw new Error(`Found ayah field before ayah block header: ${line}`);
+    }
+
+    const separatorIndex = line.indexOf(":");
+    if (separatorIndex === -1) {
+      throw new Error(`Invalid ayah field line: ${line}`);
+    }
+
+    const key = line.slice(0, separatorIndex).trim();
+    const value = line.slice(separatorIndex + 1).trim();
+    currentAyah[key] = value;
+  }
+
+  if (currentAyah) {
+    ayahs.push(finalizeAyahBlock(currentAyah));
+  }
+
+  return ayahs;
+}
+
+function finalizeAyahBlock(block) {
+  const number = parseAyahNumber(block.rawLabel);
+  const ayah = {
+    number,
+    arabic: requireField(block, "AR", number),
+    bm: requireField(block, "BM", number),
+    en: requireField(block, "EN", number),
+    audio: block.AUDIO ?? "",
   };
+
+  const subtitle = buildOptionalLocalizedField(block, "SUBTITLE_BM", "SUBTITLE_EN");
+  if (subtitle) {
+    ayah.subtitle = subtitle;
+  }
+
+  const footnote = buildOptionalLocalizedField(block, "FOOTNOTE_BM", "FOOTNOTE_EN");
+  if (footnote) {
+    ayah.footnote = footnote;
+  }
+
+  return ayah;
+}
+
+function parseAyahNumber(label) {
+  const match = label.match(/^#\s*Ayah\s+(\d+)$/i);
+  if (!match) {
+    throw new Error(`Invalid ayah block header: ${label}`);
+  }
+
+  return Number(match[1]);
+}
+
+function requireField(block, key, ayahNumber) {
+  const value = block[key];
+  if (!value) {
+    throw new Error(`Ayah ${ayahNumber} is missing required field ${key}`);
+  }
+
+  return value;
+}
+
+function buildOptionalLocalizedField(block, bmKey, enKey) {
+  const bm = block[bmKey];
+  const en = block[enKey];
+
+  if (!bm && !en) {
+    return null;
+  }
+
+  if (!bm || !en) {
+    throw new Error(`Optional localized field must include both ${bmKey} and ${enKey}`);
+  }
+
+  return { bm, en };
 }
 
 function ensureDirectory(directoryPath) {

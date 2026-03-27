@@ -44,13 +44,13 @@ The UI supports Bahasa Melayu by default, plus English for interface labels. Qur
 - All 114 surahs listed
 - Instant search by Bahasa Melayu or English surah name
 - Bahasa Melayu and English UI switching with `localStorage`
-- Ayah cards with Arabic, BM translation, English translation, and audio button
+- Ayah cards with Arabic, BM or English translation, audio button, and optional subtitle/footnote support
 - Single shared audio controller so only one ayah audio plays at a time
 - Raw text to JSON pipeline for maintainable Quran data entry
 
 ## Raw `.txt` format
 
-Each surah file follows this structure:
+Each surah file uses metadata at the top, then block-based ayah entries:
 
 ```text
 SURAH_NUMBER: 1
@@ -58,17 +58,73 @@ NAME_AR: الفاتحة
 NAME_BM: Al-Fatihah
 NAME_EN: The Opening
 ---
-1|Arabic text|Bahasa Melayu translation|English translation|audio path or URL
-2|Arabic text|Bahasa Melayu translation|English translation|audio path or URL
+# Ayah 1
+AR: Arabic text
+BM: Bahasa Melayu translation
+EN: English translation
+AUDIO: audio path or URL
+SUBTITLE_BM: Optional BM subtitle
+SUBTITLE_EN: Optional EN subtitle
+FOOTNOTE_BM: Optional BM footnote
+FOOTNOTE_EN: Optional EN footnote
+
+# Ayah 2
+AR: Arabic text
+BM: Bahasa Melayu translation
+EN: English translation
+AUDIO: audio path or URL
 ```
 
 Rules:
 
 - Put one surah in each `.txt` file.
 - Use `---` once to separate metadata from ayah rows.
-- Use `|` as the field separator for each ayah row.
-- Each ayah row must have exactly 5 fields: `ayah number | arabic | bm translation | en translation | audio path`.
+- Start each ayah block with `# Ayah X`.
+- Required fields for each ayah block: `AR`, `BM`, `EN`
+- Optional fields: `AUDIO`, `SUBTITLE_BM`, `SUBTITLE_EN`, `FOOTNOTE_BM`, `FOOTNOTE_EN`
+- If `SUBTITLE_BM` is present, `SUBTITLE_EN` must also be present.
+- If `FOOTNOTE_BM` is present, `FOOTNOTE_EN` must also be present.
 - Audio can be a local path such as `assets/audio/001001.mp3` or a full URL.
+- Subtitle and footnote fields are only included in JSON when present.
+
+Example with optional metadata:
+
+```text
+# Ayah 1
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang.
+EN: In the name of Allah, the Entirely Merciful, the Especially Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001001.mp3
+SUBTITLE_BM: Ayat pertama Quran
+SUBTITLE_EN: The first verse in the Quran
+FOOTNOTE_BM: *1:1 Ayat pertama didalam Quran ini merupakan asas terbenanya mukjizat 19...
+FOOTNOTE_EN: *1:1 The first verse in the Quran represents the foundation upon which a superhuman 19-based mathematical miracle is built...
+```
+
+Generated ayah JSON can now include optional `subtitle` and `footnote` objects:
+
+```json
+{
+  "number": 1,
+  "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+  "bm": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+  "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+  "audio": "https://everyayah.com/data/Alafasy_64kbps/001001.mp3",
+  "subtitle": {
+    "bm": "Ayat pertama Quran",
+    "en": "The first verse in the Quran"
+  },
+  "footnote": {
+    "bm": "*1:1 Ayat pertama didalam Quran ini merupakan asas terbenanya mukjizat 19...",
+    "en": "*1:1 The first verse in the Quran represents the foundation upon which a superhuman 19-based mathematical miracle is built..."
+  }
+}
+```
+
+Backward compatibility:
+
+- The parser still accepts the older pipe-delimited ayah format.
+- New files should use the block format above because it supports optional subtitle and footnote data cleanly.
 
 ## Example input and output
 
@@ -115,7 +171,7 @@ Opening `index.html` directly with `file://` is not recommended because the app 
 ## Add new Quran data
 
 1. Create a new raw file in `data/raw/`, for example `surah-002.txt`.
-2. Follow the same metadata and ayah row format.
+2. Follow the same metadata and block-based ayah format.
 3. If you are using local MP3 files, place them in `assets/audio/`.
 4. Run:
 
