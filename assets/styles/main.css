@@ -372,16 +372,6 @@ select {
   margin: 0;
 }
 
-.translation-label {
-  display: inline-block;
-  margin-bottom: 6px;
-  font-size: 0.76rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--accent);
-  font-weight: 700;
-}
-
 .search-results:empty {
   display: none;
 }

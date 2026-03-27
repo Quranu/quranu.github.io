@@ -270,10 +270,7 @@ function renderSearchResults() {
           data-result-surah="${result.surahNumber}"
           data-result-ayah="${result.ayahNumber}"
         >
-          <h3 class="result-title">${translate(appState.language, "jumpToAyah", {
-            surahNumber: result.surahNumber,
-            ayahNumber: result.ayahNumber,
-          })}</h3>
+          <h3 class="result-title">${formatAyahReference(result.surahNumber, result.ayahNumber)}</h3>
           <p class="result-meta">${primaryName} • ${result.surahName.ar}</p>
           <p class="result-snippet">
             <span class="result-snippet-label">${translate(appState.language, "resultSnippetLabel")}</span>
@@ -413,7 +410,7 @@ function renderReader() {
       return `
         <article class="ayah-card ${isTarget ? "is-target" : ""}" data-ayah-number="${ayah.number}">
           <div class="ayah-head">
-            <span class="ayah-badge">${translate(appState.language, "ayahLabel")} ${ayah.number}</span>
+            <span class="ayah-badge">${formatAyahReference(surah.surahNumber, ayah.number)}</span>
             <button
               class="audio-button"
               type="button"
@@ -429,9 +426,7 @@ function renderReader() {
 
           <div class="translation-block">
             <p class="ayah-translation">
-              <span class="translation-label">${translation.label}</span>
-              <br />
-              ${translation.text}
+              ${translation}
             </p>
           </div>
         </article>
@@ -442,16 +437,14 @@ function renderReader() {
 
 function getActiveTranslation(ayah) {
   if (appState.language === "en") {
-    return {
-      label: translate(appState.language, "enLabel"),
-      text: ayah.en,
-    };
+    return ayah.en;
   }
 
-  return {
-    label: translate(appState.language, "bmLabel"),
-    text: ayah.bm,
-  };
+  return ayah.bm;
+}
+
+function formatAyahReference(surahNumber, ayahNumber) {
+  return `${surahNumber}:${ayahNumber}`;
 }
 
 function parseSearchInput(rawQuery) {
