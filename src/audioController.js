@@ -3,12 +3,11 @@ export class AudioController {
     this.audio = new Audio();
     this.activeButton = null;
     this.activeUrl = null;
-    this.labels = {
-      play: "Play audio",
-      pause: "Pause audio",
-    };
+    this.activeKey = null;
+    this.labels = {};
 
     this.audio.addEventListener("ended", () => this.reset());
+    this.audio.addEventListener("error", () => this.handleError());
     this.audio.addEventListener("pause", () => {
       if (this.audio.currentTime === 0 || this.audio.ended) {
         this.reset();
@@ -23,28 +22,45 @@ export class AudioController {
       return;
     }
 
-    this.labels = labels ?? this.labels;
+    this.labels = labels ?? {};
+    const audioKey = button.dataset.audioKey ?? url;
 
-    if (this.activeUrl === url && !this.audio.paused) {
+    if (this.activeKey === audioKey && !this.audio.paused) {
       this.audio.pause();
-      this.audio.currentTime = 0;
-      this.reset();
+      return;
+    }
+
+    if (this.activeKey === audioKey && this.audio.paused) {
+      this.activeButton = button;
+      try {
+        await this.audio.play();
+        this.syncButtonState(true);
+      } catch (error) {
+        console.error("Audio playback failed", error);
+        this.handleError();
+      }
       return;
     }
 
     this.audio.pause();
-    this.audio.currentTime = 0;
+    if (this.activeKey && this.activeKey !== audioKey) {
+      this.audio.currentTime = 0;
+    }
 
+    this.activeKey = audioKey;
     this.activeUrl = url;
     this.activeButton = button;
-    this.audio.src = url;
+    if (this.audio.src !== new URL(url, window.location.href).href) {
+      this.audio.src = url;
+    }
 
     try {
+      this.audio.currentTime = 0;
       await this.audio.play();
       this.syncButtonState(true);
     } catch (error) {
       console.error("Audio playback failed", error);
-      this.reset();
+      this.handleError();
     }
   }
 
@@ -57,6 +73,7 @@ export class AudioController {
 
   reset() {
     this.syncButtonState(false);
+    this.activeKey = null;
     this.activeUrl = null;
     this.activeButton = null;
     this.audio.removeAttribute("src");
@@ -67,8 +84,42 @@ export class AudioController {
       return;
     }
 
+    const reference = this.activeButton.dataset.audioReference ?? "";
     this.activeButton.classList.toggle("is-playing", isPlaying);
-    this.activeButton.textContent = isPlaying ? this.labels.pause : this.labels.play;
+    this.activeButton.classList.remove("has-error");
+    this.activeButton.innerHTML = isPlaying ? this.labels.pauseIcon ?? "" : this.labels.playIcon ?? "";
     this.activeButton.setAttribute("aria-pressed", String(isPlaying));
+    this.activeButton.setAttribute(
+      "aria-label",
+      isPlaying
+        ? this.labels.pauseLabel ?? `Stop audio for ${reference}`
+        : this.labels.playLabel ?? `Play audio for ${reference}`,
+    );
+    this.activeButton.title = isPlaying
+      ? this.labels.pauseLabel ?? `Stop audio for ${reference}`
+      : this.labels.playLabel ?? `Play audio for ${reference}`;
+    this.activeButton.disabled = false;
+  }
+
+  handleError() {
+    if (!this.activeButton) {
+      return;
+    }
+
+    this.activeButton.classList.remove("is-playing");
+    this.activeButton.classList.add("has-error");
+    this.activeButton.innerHTML = this.labels.errorIcon ?? this.labels.playIcon ?? "";
+    this.activeButton.setAttribute("aria-pressed", "false");
+    this.activeButton.setAttribute(
+      "aria-label",
+      this.labels.errorLabel ?? "Audio failed to load",
+    );
+    this.activeButton.title = this.labels.errorLabel ?? "Audio failed to load";
+    this.activeButton.disabled = true;
+
+    this.activeUrl = null;
+    this.activeKey = null;
+    this.activeButton = null;
+    this.audio.removeAttribute("src");
   }
 }

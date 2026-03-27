@@ -38,6 +38,10 @@ export const uiText = {
     playAudio: "Main audio",
     pauseAudio: "Henti audio",
     noAudio: "Tiada audio",
+    playAudioFor: ({ reference }) => `Main audio untuk ${reference}`,
+    stopAudioFor: ({ reference }) => `Henti audio untuk ${reference}`,
+    audioUnavailableFor: ({ reference }) => `Audio untuk ${reference} tiada`,
+    audioErrorFor: ({ reference }) => `Audio untuk ${reference} gagal dimuatkan`,
     resultSnippetLabel: "Petikan padanan",
   },
   en: {
@@ -77,6 +81,10 @@ export const uiText = {
     playAudio: "Play audio",
     pauseAudio: "Pause audio",
     noAudio: "No audio",
+    playAudioFor: ({ reference }) => `Play audio for ${reference}`,
+    stopAudioFor: ({ reference }) => `Stop audio for ${reference}`,
+    audioUnavailableFor: ({ reference }) => `Audio for ${reference} is unavailable`,
+    audioErrorFor: ({ reference }) => `Audio for ${reference} failed to load`,
     resultSnippetLabel: "Matching snippet",
   },
 };

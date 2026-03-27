@@ -12,14 +12,14 @@
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
       "bm": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
       "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001001.mp3",
+      "audio": "./assets/audio/001/001001.mp3",
       "subtitle": {
         "bm": "Ayat pertama Quran",
         "en": "The first verse in the Quran"
       },
       "footnote": {
-        "bm": "*1:1 Ayat pertama didalam Quran ini merupakan asas terbenanya mukjizat 19 sebuah angka yang berupa matematika yang diluar kemampuan manusia. Ayat ayat yang mustahak ini mengandungi 19 huruf Arab dan tiap tiap perkataan yang didapati didalam Quran ini dapat dibahagikan dengan 19 (lihat Apendik: 1 & 29 untuk penjelasan).",
-        "en": "*1:1 The first verse in the Quran represents the foundation upon which a superhuman 19-based mathematical miracle is built. This important statement consists of 19 Arabic letters, and every word in it occurs in the whole Quran in multiples of 19 (see Appendices 1 & 29 for the details)."
+        "bm": "1:1 Ayat pertama didalam Quran ini merupakan asas terbenanya mukjizat 19 sebuah angka yang berupa matematika yang diluar kemampuan manusia. Ayat ayat yang mustahak ini mengandungi 19 huruf Arab dan tiap tiap perkataan yang didapati didalam Quran ini dapat dibahagikan dengan 19 (lihat Apendik: 1 & 29 untuk penjelasan).",
+        "en": "1:1 The first verse in the Quran represents the foundation upon which a superhuman 19-based mathematical miracle is built. This important statement consists of 19 Arabic letters, and every word in it occurs in the whole Quran in multiples of 19 (see Appendices 1 & 29 for the details)."
       }
     },
     {
@@ -27,42 +27,42 @@
       "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
       "bm": "Segala puji tertentu bagi Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam.",
       "en": "[All] praise is [due] to Allah, Lord of the worlds.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001002.mp3"
+      "audio": "./assets/audio/001/001002.mp3"
     },
     {
       "number": 3,
       "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
       "bm": "Yang Maha Pemurah lagi Maha Penyayang.",
       "en": "The Entirely Merciful, the Especially Merciful.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001003.mp3"
+      "audio": "./assets/audio/001/001003.mp3"
     },
     {
       "number": 4,
       "arabic": "مَالِكِ يَوْمِ الدِّينِ",
       "bm": "Yang Menguasai pemerintahan hari Pembalasan.",
       "en": "Sovereign of the Day of Recompense.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001004.mp3"
+      "audio": "./assets/audio/001/001004.mp3"
     },
     {
       "number": 5,
       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
       "bm": "Engkaulah sahaja yang kami sembah, dan kepada Engkaulah sahaja kami memohon pertolongan.",
       "en": "It is You we worship and You we ask for help.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001005.mp3"
+      "audio": "./assets/audio/001/001005.mp3"
     },
     {
       "number": 6,
       "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
       "bm": "Tunjukilah kami jalan yang lurus.",
       "en": "Guide us to the straight path.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001006.mp3"
+      "audio": "./assets/audio/001/001006.mp3"
     },
     {
       "number": 7,
       "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
       "bm": "Iaitu jalan orang yang Engkau telah kurniakan nikmat kepada mereka, bukan jalan orang yang Engkau murkai, dan bukan pula jalan orang yang sesat.",
       "en": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/001007.mp3"
+      "audio": "./assets/audio/001/001007.mp3"
     }
   ]
 }

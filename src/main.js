@@ -15,6 +15,7 @@ const appState = {
   searchMessageIsWarning: false,
   highlightedAyahNumber: null,
   availableSurahCache: new Map(),
+  audioErrors: new Set(),
   searchQuery: "",
 };
 
@@ -80,8 +81,8 @@ function bindEvents() {
     appState.language = event.target.value;
     window.localStorage.setItem("quran-ui-language", appState.language);
     audioController.stop({
-      play: translate(appState.language, "playAudio"),
-      pause: translate(appState.language, "pauseAudio"),
+      playIcon: renderAudioIcon("play"),
+      pauseIcon: renderAudioIcon("stop"),
     });
     applyUiText();
     renderSurahList();
@@ -118,10 +119,23 @@ function bindEvents() {
       return;
     }
 
+    const reference = button.dataset.audioReference ?? "";
+
     await audioController.toggle(button.dataset.audioUrl, button, {
-      play: translate(appState.language, "playAudio"),
-      pause: translate(appState.language, "pauseAudio"),
+      playIcon: renderAudioIcon("play"),
+      pauseIcon: renderAudioIcon("stop"),
+      errorIcon: renderAudioIcon("error"),
+      playLabel: translate(appState.language, "playAudioFor", { reference }),
+      pauseLabel: translate(appState.language, "stopAudioFor", { reference }),
+      errorLabel: translate(appState.language, "audioErrorFor", { reference }),
     });
+
+    if (button.classList.contains("has-error")) {
+      const audioKey = button.dataset.audioKey;
+      if (audioKey) {
+        appState.audioErrors.add(audioKey);
+      }
+    }
   });
 
   elements.backToList.addEventListener("click", () => {
@@ -285,8 +299,8 @@ async function loadSurah(number) {
   appState.activeSurahNumber = number;
   appState.activeSurah = null;
   audioController.stop({
-    play: translate(appState.language, "playAudio"),
-    pause: translate(appState.language, "pauseAudio"),
+    playIcon: renderAudioIcon("play"),
+    pauseIcon: renderAudioIcon("stop"),
   });
 
   renderSurahList();
@@ -396,7 +410,10 @@ function renderReader() {
 
   elements.ayahList.innerHTML = surah.ayahs
     .map((ayah) => {
-      const hasAudio = Boolean(ayah.audio);
+      const reference = formatAyahReference(surah.surahNumber, ayah.number);
+      const audioPath = getAudioPath(surah.surahNumber, ayah.number, ayah.audio);
+      const audioKey = getAudioKey(surah.surahNumber, ayah.number);
+      const hasAudio = Boolean(audioPath) && !appState.audioErrors.has(audioKey);
       const translation = getActiveTranslation(ayah);
       const subtitle = getOptionalLocalizedContent(ayah.subtitle);
       const footnote = getOptionalLocalizedContent(ayah.footnote);
@@ -409,11 +426,23 @@ function renderReader() {
             <button
               class="audio-button"
               type="button"
-              data-audio-url="${hasAudio ? ayah.audio : ""}"
+              data-audio-url="${hasAudio ? audioPath : ""}"
+              data-audio-reference="${reference}"
+              data-audio-key="${audioKey}"
               aria-pressed="false"
+              aria-label="${translate(
+                appState.language,
+                hasAudio ? "playAudioFor" : "audioUnavailableFor",
+                { reference },
+              )}"
+              title="${translate(
+                appState.language,
+                hasAudio ? "playAudioFor" : "audioUnavailableFor",
+                { reference },
+              )}"
               ${hasAudio ? "" : "disabled"}
             >
-              ${translate(appState.language, hasAudio ? "playAudio" : "noAudio")}
+              ${renderAudioIcon(hasAudio ? "play" : "disabled")}
             </button>
           </div>
 
@@ -457,6 +486,44 @@ function resetReaderPanelPosition() {
 
 function formatAyahReference(surahNumber, ayahNumber) {
   return `${surahNumber}:${ayahNumber}`;
+}
+
+function getAudioPath(surahNumber, ayahNumber, audioPath) {
+  if (audioPath) {
+    return audioPath;
+  }
+
+  const sura = String(surahNumber).padStart(3, "0");
+  const audioFile = `${sura}${String(ayahNumber).padStart(3, "0")}`;
+  return `./assets/audio/${sura}/${audioFile}.mp3`;
+}
+
+function getAudioKey(surahNumber, ayahNumber) {
+  return `${String(surahNumber).padStart(3, "0")}:${String(ayahNumber).padStart(3, "0")}`;
+}
+
+function renderAudioIcon(state) {
+  if (state === "stop") {
+    return `
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <rect x="7" y="7" width="10" height="10" rx="2"></rect>
+      </svg>
+    `;
+  }
+
+  if (state === "error") {
+    return `
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M12 4 3 20h18L12 4Zm0 5.5c.41 0 .75.34.75.75v4.5a.75.75 0 0 1-1.5 0v-4.5c0-.41.34-.75.75-.75Zm0 8.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
+      </svg>
+    `;
+  }
+
+  return `
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M8 6.5v11l9-5.5-9-5.5Z"></path>
+    </svg>
+  `;
 }
 
 function formatSuraTitle(suraNumber, suraName) {

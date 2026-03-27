@@ -342,13 +342,33 @@ select {
 }
 
 .audio-button {
+  width: 42px;
+  min-width: 42px;
+  height: 42px;
+  padding: 0;
   background: #f8fffd;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.audio-button svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
 }
 
 .audio-button.is-playing {
   background: var(--accent);
   color: #fff;
   border-color: var(--accent);
+}
+
+.audio-button.has-error {
+  background: rgba(190, 24, 24, 0.08);
+  color: #b91c1c;
+  border-color: rgba(190, 24, 24, 0.24);
 }
 
 .audio-button:disabled {
