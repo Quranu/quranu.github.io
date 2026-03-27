@@ -1,0 +1,9 @@
+{
+  "name": "quran-reader",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "parse": "node scripts/parse-quran-data.js",
+    "check": "node --check src/main.js && node --check src/i18n.js && node --check src/audioController.js && node --check scripts/parse-quran-data.js"
+  }
+}

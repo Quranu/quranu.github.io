@@ -1,0 +1,1142 @@
+[
+  {
+    "number": 1,
+    "name": {
+      "ar": "الفاتحة",
+      "bm": "Al-Fatihah",
+      "en": "The Opening"
+    },
+    "totalAyahs": 7,
+    "available": true
+  },
+  {
+    "number": 2,
+    "name": {
+      "ar": "البقرة",
+      "bm": "Al-Baqarah",
+      "en": "The Cow"
+    },
+    "totalAyahs": 286,
+    "available": false
+  },
+  {
+    "number": 3,
+    "name": {
+      "ar": "آل عمران",
+      "bm": "Ali 'Imran",
+      "en": "Family of Imran"
+    },
+    "totalAyahs": 200,
+    "available": false
+  },
+  {
+    "number": 4,
+    "name": {
+      "ar": "النساء",
+      "bm": "An-Nisa'",
+      "en": "The Women"
+    },
+    "totalAyahs": 176,
+    "available": false
+  },
+  {
+    "number": 5,
+    "name": {
+      "ar": "المائدة",
+      "bm": "Al-Ma'idah",
+      "en": "The Table Spread"
+    },
+    "totalAyahs": 120,
+    "available": false
+  },
+  {
+    "number": 6,
+    "name": {
+      "ar": "الأنعام",
+      "bm": "Al-An'am",
+      "en": "The Cattle"
+    },
+    "totalAyahs": 165,
+    "available": false
+  },
+  {
+    "number": 7,
+    "name": {
+      "ar": "الأعراف",
+      "bm": "Al-A'raf",
+      "en": "The Heights"
+    },
+    "totalAyahs": 206,
+    "available": false
+  },
+  {
+    "number": 8,
+    "name": {
+      "ar": "الأنفال",
+      "bm": "Al-Anfal",
+      "en": "The Spoils of War"
+    },
+    "totalAyahs": 75,
+    "available": false
+  },
+  {
+    "number": 9,
+    "name": {
+      "ar": "التوبة",
+      "bm": "At-Tawbah",
+      "en": "The Repentance"
+    },
+    "totalAyahs": 129,
+    "available": false
+  },
+  {
+    "number": 10,
+    "name": {
+      "ar": "يونس",
+      "bm": "Yunus",
+      "en": "Jonah"
+    },
+    "totalAyahs": 109,
+    "available": false
+  },
+  {
+    "number": 11,
+    "name": {
+      "ar": "هود",
+      "bm": "Hud",
+      "en": "Hud"
+    },
+    "totalAyahs": 123,
+    "available": false
+  },
+  {
+    "number": 12,
+    "name": {
+      "ar": "يوسف",
+      "bm": "Yusuf",
+      "en": "Joseph"
+    },
+    "totalAyahs": 111,
+    "available": false
+  },
+  {
+    "number": 13,
+    "name": {
+      "ar": "الرعد",
+      "bm": "Ar-Ra'd",
+      "en": "The Thunder"
+    },
+    "totalAyahs": 43,
+    "available": false
+  },
+  {
+    "number": 14,
+    "name": {
+      "ar": "ابراهيم",
+      "bm": "Ibrahim",
+      "en": "Abraham"
+    },
+    "totalAyahs": 52,
+    "available": false
+  },
+  {
+    "number": 15,
+    "name": {
+      "ar": "الحجر",
+      "bm": "Al-Hijr",
+      "en": "The Rocky Tract"
+    },
+    "totalAyahs": 99,
+    "available": false
+  },
+  {
+    "number": 16,
+    "name": {
+      "ar": "النحل",
+      "bm": "An-Nahl",
+      "en": "The Bee"
+    },
+    "totalAyahs": 128,
+    "available": false
+  },
+  {
+    "number": 17,
+    "name": {
+      "ar": "الإسراء",
+      "bm": "Al-Isra'",
+      "en": "The Night Journey"
+    },
+    "totalAyahs": 111,
+    "available": false
+  },
+  {
+    "number": 18,
+    "name": {
+      "ar": "الكهف",
+      "bm": "Al-Kahf",
+      "en": "The Cave"
+    },
+    "totalAyahs": 110,
+    "available": false
+  },
+  {
+    "number": 19,
+    "name": {
+      "ar": "مريم",
+      "bm": "Maryam",
+      "en": "Mary"
+    },
+    "totalAyahs": 98,
+    "available": false
+  },
+  {
+    "number": 20,
+    "name": {
+      "ar": "طه",
+      "bm": "Ta-Ha",
+      "en": "Ta-Ha"
+    },
+    "totalAyahs": 135,
+    "available": false
+  },
+  {
+    "number": 21,
+    "name": {
+      "ar": "الأنبياء",
+      "bm": "Al-Anbiya'",
+      "en": "The Prophets"
+    },
+    "totalAyahs": 112,
+    "available": false
+  },
+  {
+    "number": 22,
+    "name": {
+      "ar": "الحج",
+      "bm": "Al-Hajj",
+      "en": "The Pilgrimage"
+    },
+    "totalAyahs": 78,
+    "available": false
+  },
+  {
+    "number": 23,
+    "name": {
+      "ar": "المؤمنون",
+      "bm": "Al-Mu'minun",
+      "en": "The Believers"
+    },
+    "totalAyahs": 118,
+    "available": false
+  },
+  {
+    "number": 24,
+    "name": {
+      "ar": "النور",
+      "bm": "An-Nur",
+      "en": "The Light"
+    },
+    "totalAyahs": 64,
+    "available": false
+  },
+  {
+    "number": 25,
+    "name": {
+      "ar": "الفرقان",
+      "bm": "Al-Furqan",
+      "en": "The Criterion"
+    },
+    "totalAyahs": 77,
+    "available": false
+  },
+  {
+    "number": 26,
+    "name": {
+      "ar": "الشعراء",
+      "bm": "Ash-Shu'ara'",
+      "en": "The Poets"
+    },
+    "totalAyahs": 227,
+    "available": false
+  },
+  {
+    "number": 27,
+    "name": {
+      "ar": "النمل",
+      "bm": "An-Naml",
+      "en": "The Ant"
+    },
+    "totalAyahs": 93,
+    "available": false
+  },
+  {
+    "number": 28,
+    "name": {
+      "ar": "القصص",
+      "bm": "Al-Qasas",
+      "en": "The Stories"
+    },
+    "totalAyahs": 88,
+    "available": false
+  },
+  {
+    "number": 29,
+    "name": {
+      "ar": "العنكبوت",
+      "bm": "Al-'Ankabut",
+      "en": "The Spider"
+    },
+    "totalAyahs": 69,
+    "available": false
+  },
+  {
+    "number": 30,
+    "name": {
+      "ar": "الروم",
+      "bm": "Ar-Rum",
+      "en": "The Romans"
+    },
+    "totalAyahs": 60,
+    "available": false
+  },
+  {
+    "number": 31,
+    "name": {
+      "ar": "لقمان",
+      "bm": "Luqman",
+      "en": "Luqman"
+    },
+    "totalAyahs": 34,
+    "available": false
+  },
+  {
+    "number": 32,
+    "name": {
+      "ar": "السجدة",
+      "bm": "As-Sajdah",
+      "en": "The Prostration"
+    },
+    "totalAyahs": 30,
+    "available": false
+  },
+  {
+    "number": 33,
+    "name": {
+      "ar": "الأحزاب",
+      "bm": "Al-Ahzab",
+      "en": "The Combined Forces"
+    },
+    "totalAyahs": 73,
+    "available": false
+  },
+  {
+    "number": 34,
+    "name": {
+      "ar": "سبإ",
+      "bm": "Saba'",
+      "en": "Sheba"
+    },
+    "totalAyahs": 54,
+    "available": false
+  },
+  {
+    "number": 35,
+    "name": {
+      "ar": "فاطر",
+      "bm": "Fatir",
+      "en": "Originator"
+    },
+    "totalAyahs": 45,
+    "available": false
+  },
+  {
+    "number": 36,
+    "name": {
+      "ar": "يس",
+      "bm": "Ya-Sin",
+      "en": "Ya-Sin"
+    },
+    "totalAyahs": 83,
+    "available": false
+  },
+  {
+    "number": 37,
+    "name": {
+      "ar": "الصافات",
+      "bm": "As-Saffat",
+      "en": "Those Who Set the Ranks"
+    },
+    "totalAyahs": 182,
+    "available": false
+  },
+  {
+    "number": 38,
+    "name": {
+      "ar": "ص",
+      "bm": "Sad",
+      "en": "Sad"
+    },
+    "totalAyahs": 88,
+    "available": false
+  },
+  {
+    "number": 39,
+    "name": {
+      "ar": "الزمر",
+      "bm": "Az-Zumar",
+      "en": "The Groups"
+    },
+    "totalAyahs": 75,
+    "available": false
+  },
+  {
+    "number": 40,
+    "name": {
+      "ar": "غافر",
+      "bm": "Ghafir",
+      "en": "The Forgiver"
+    },
+    "totalAyahs": 85,
+    "available": false
+  },
+  {
+    "number": 41,
+    "name": {
+      "ar": "فصلت",
+      "bm": "Fussilat",
+      "en": "Explained in Detail"
+    },
+    "totalAyahs": 54,
+    "available": false
+  },
+  {
+    "number": 42,
+    "name": {
+      "ar": "الشورى",
+      "bm": "Ash-Shuraa",
+      "en": "The Consultation"
+    },
+    "totalAyahs": 53,
+    "available": false
+  },
+  {
+    "number": 43,
+    "name": {
+      "ar": "الزخرف",
+      "bm": "Az-Zukhruf",
+      "en": "The Gold Adornments"
+    },
+    "totalAyahs": 89,
+    "available": false
+  },
+  {
+    "number": 44,
+    "name": {
+      "ar": "الدخان",
+      "bm": "Ad-Dukhan",
+      "en": "The Smoke"
+    },
+    "totalAyahs": 59,
+    "available": false
+  },
+  {
+    "number": 45,
+    "name": {
+      "ar": "الجاثية",
+      "bm": "Al-Jathiyah",
+      "en": "The Crouching"
+    },
+    "totalAyahs": 37,
+    "available": false
+  },
+  {
+    "number": 46,
+    "name": {
+      "ar": "الأحقاف",
+      "bm": "Al-Ahqaf",
+      "en": "The Wind-Curved Sandhills"
+    },
+    "totalAyahs": 35,
+    "available": false
+  },
+  {
+    "number": 47,
+    "name": {
+      "ar": "محمد",
+      "bm": "Muhammad",
+      "en": "Muhammad"
+    },
+    "totalAyahs": 38,
+    "available": false
+  },
+  {
+    "number": 48,
+    "name": {
+      "ar": "الفتح",
+      "bm": "Al-Fath",
+      "en": "The Victory"
+    },
+    "totalAyahs": 29,
+    "available": false
+  },
+  {
+    "number": 49,
+    "name": {
+      "ar": "الحجرات",
+      "bm": "Al-Hujurat",
+      "en": "The Rooms"
+    },
+    "totalAyahs": 18,
+    "available": false
+  },
+  {
+    "number": 50,
+    "name": {
+      "ar": "ق",
+      "bm": "Qaf",
+      "en": "Qaf"
+    },
+    "totalAyahs": 45,
+    "available": false
+  },
+  {
+    "number": 51,
+    "name": {
+      "ar": "الذاريات",
+      "bm": "Adh-Dhariyat",
+      "en": "The Winnowing Winds"
+    },
+    "totalAyahs": 60,
+    "available": false
+  },
+  {
+    "number": 52,
+    "name": {
+      "ar": "الطور",
+      "bm": "At-Tur",
+      "en": "The Mount"
+    },
+    "totalAyahs": 49,
+    "available": false
+  },
+  {
+    "number": 53,
+    "name": {
+      "ar": "النجم",
+      "bm": "An-Najm",
+      "en": "The Star"
+    },
+    "totalAyahs": 62,
+    "available": false
+  },
+  {
+    "number": 54,
+    "name": {
+      "ar": "القمر",
+      "bm": "Al-Qamar",
+      "en": "The Moon"
+    },
+    "totalAyahs": 55,
+    "available": false
+  },
+  {
+    "number": 55,
+    "name": {
+      "ar": "الرحمن",
+      "bm": "Ar-Rahman",
+      "en": "The Most Compassionate"
+    },
+    "totalAyahs": 78,
+    "available": false
+  },
+  {
+    "number": 56,
+    "name": {
+      "ar": "الواقعة",
+      "bm": "Al-Waqi'ah",
+      "en": "The Inevitable"
+    },
+    "totalAyahs": 96,
+    "available": false
+  },
+  {
+    "number": 57,
+    "name": {
+      "ar": "الحديد",
+      "bm": "Al-Hadid",
+      "en": "The Iron"
+    },
+    "totalAyahs": 29,
+    "available": false
+  },
+  {
+    "number": 58,
+    "name": {
+      "ar": "المجادلة",
+      "bm": "Al-Mujadilah",
+      "en": "The Pleading Woman"
+    },
+    "totalAyahs": 22,
+    "available": false
+  },
+  {
+    "number": 59,
+    "name": {
+      "ar": "الحشر",
+      "bm": "Al-Hashr",
+      "en": "The Exile"
+    },
+    "totalAyahs": 24,
+    "available": false
+  },
+  {
+    "number": 60,
+    "name": {
+      "ar": "الممتحنة",
+      "bm": "Al-Mumtahanah",
+      "en": "She That Is To Be Examined"
+    },
+    "totalAyahs": 13,
+    "available": false
+  },
+  {
+    "number": 61,
+    "name": {
+      "ar": "الصف",
+      "bm": "As-Saff",
+      "en": "The Ranks"
+    },
+    "totalAyahs": 14,
+    "available": false
+  },
+  {
+    "number": 62,
+    "name": {
+      "ar": "الجمعة",
+      "bm": "Al-Jumu'ah",
+      "en": "The Congregation"
+    },
+    "totalAyahs": 11,
+    "available": false
+  },
+  {
+    "number": 63,
+    "name": {
+      "ar": "المنافقون",
+      "bm": "Al-Munafiqun",
+      "en": "The Hypocrites"
+    },
+    "totalAyahs": 11,
+    "available": false
+  },
+  {
+    "number": 64,
+    "name": {
+      "ar": "التغابن",
+      "bm": "At-Taghabun",
+      "en": "The Mutual Disillusion"
+    },
+    "totalAyahs": 18,
+    "available": false
+  },
+  {
+    "number": 65,
+    "name": {
+      "ar": "الطلاق",
+      "bm": "At-Talaq",
+      "en": "The Divorce"
+    },
+    "totalAyahs": 12,
+    "available": false
+  },
+  {
+    "number": 66,
+    "name": {
+      "ar": "التحريم",
+      "bm": "At-Tahrim",
+      "en": "The Prohibition"
+    },
+    "totalAyahs": 12,
+    "available": false
+  },
+  {
+    "number": 67,
+    "name": {
+      "ar": "الملك",
+      "bm": "Al-Mulk",
+      "en": "The Sovereignty"
+    },
+    "totalAyahs": 30,
+    "available": false
+  },
+  {
+    "number": 68,
+    "name": {
+      "ar": "القلم",
+      "bm": "Al-Qalam",
+      "en": "The Pen"
+    },
+    "totalAyahs": 52,
+    "available": false
+  },
+  {
+    "number": 69,
+    "name": {
+      "ar": "الحاقة",
+      "bm": "Al-Haqqah",
+      "en": "The Reality"
+    },
+    "totalAyahs": 52,
+    "available": false
+  },
+  {
+    "number": 70,
+    "name": {
+      "ar": "المعارج",
+      "bm": "Al-Ma'arij",
+      "en": "The Ascending Stairways"
+    },
+    "totalAyahs": 44,
+    "available": false
+  },
+  {
+    "number": 71,
+    "name": {
+      "ar": "نوح",
+      "bm": "Nuh",
+      "en": "Noah"
+    },
+    "totalAyahs": 28,
+    "available": false
+  },
+  {
+    "number": 72,
+    "name": {
+      "ar": "الجن",
+      "bm": "Al-Jinn",
+      "en": "The Jinn"
+    },
+    "totalAyahs": 28,
+    "available": false
+  },
+  {
+    "number": 73,
+    "name": {
+      "ar": "المزمل",
+      "bm": "Al-Muzzammil",
+      "en": "The Enshrouded One"
+    },
+    "totalAyahs": 20,
+    "available": false
+  },
+  {
+    "number": 74,
+    "name": {
+      "ar": "المدثر",
+      "bm": "Al-Muddaththir",
+      "en": "The Cloaked One"
+    },
+    "totalAyahs": 56,
+    "available": false
+  },
+  {
+    "number": 75,
+    "name": {
+      "ar": "القيامة",
+      "bm": "Al-Qiyamah",
+      "en": "The Resurrection"
+    },
+    "totalAyahs": 40,
+    "available": false
+  },
+  {
+    "number": 76,
+    "name": {
+      "ar": "الانسان",
+      "bm": "Al-Insan",
+      "en": "The Human"
+    },
+    "totalAyahs": 31,
+    "available": false
+  },
+  {
+    "number": 77,
+    "name": {
+      "ar": "المرسلات",
+      "bm": "Al-Mursalat",
+      "en": "Those Sent Forth"
+    },
+    "totalAyahs": 50,
+    "available": false
+  },
+  {
+    "number": 78,
+    "name": {
+      "ar": "النبإ",
+      "bm": "An-Naba'",
+      "en": "The Tidings"
+    },
+    "totalAyahs": 40,
+    "available": false
+  },
+  {
+    "number": 79,
+    "name": {
+      "ar": "النازعات",
+      "bm": "An-Nazi'at",
+      "en": "Those Who Drag Forth"
+    },
+    "totalAyahs": 46,
+    "available": false
+  },
+  {
+    "number": 80,
+    "name": {
+      "ar": "عبس",
+      "bm": "'Abasa",
+      "en": "He Frowned"
+    },
+    "totalAyahs": 42,
+    "available": false
+  },
+  {
+    "number": 81,
+    "name": {
+      "ar": "التكوير",
+      "bm": "At-Takwir",
+      "en": "The Overthrowing"
+    },
+    "totalAyahs": 29,
+    "available": false
+  },
+  {
+    "number": 82,
+    "name": {
+      "ar": "الإنفطار",
+      "bm": "Al-Infitar",
+      "en": "The Cleaving"
+    },
+    "totalAyahs": 19,
+    "available": false
+  },
+  {
+    "number": 83,
+    "name": {
+      "ar": "المطففين",
+      "bm": "Al-Mutaffifin",
+      "en": "Defrauding"
+    },
+    "totalAyahs": 36,
+    "available": false
+  },
+  {
+    "number": 84,
+    "name": {
+      "ar": "الإنشقاق",
+      "bm": "Al-Inshiqaq",
+      "en": "The Splitting Open"
+    },
+    "totalAyahs": 25,
+    "available": false
+  },
+  {
+    "number": 85,
+    "name": {
+      "ar": "البروج",
+      "bm": "Al-Buruj",
+      "en": "The Mansions of the Stars"
+    },
+    "totalAyahs": 22,
+    "available": false
+  },
+  {
+    "number": 86,
+    "name": {
+      "ar": "الطارق",
+      "bm": "At-Tariq",
+      "en": "The Nightcomer"
+    },
+    "totalAyahs": 17,
+    "available": false
+  },
+  {
+    "number": 87,
+    "name": {
+      "ar": "الأعلى",
+      "bm": "Al-A'la",
+      "en": "The Most High"
+    },
+    "totalAyahs": 19,
+    "available": false
+  },
+  {
+    "number": 88,
+    "name": {
+      "ar": "الغاشية",
+      "bm": "Al-Ghashiyah",
+      "en": "The Overwhelming"
+    },
+    "totalAyahs": 26,
+    "available": false
+  },
+  {
+    "number": 89,
+    "name": {
+      "ar": "الفجر",
+      "bm": "Al-Fajr",
+      "en": "The Dawn"
+    },
+    "totalAyahs": 30,
+    "available": false
+  },
+  {
+    "number": 90,
+    "name": {
+      "ar": "البلد",
+      "bm": "Al-Balad",
+      "en": "The City"
+    },
+    "totalAyahs": 20,
+    "available": false
+  },
+  {
+    "number": 91,
+    "name": {
+      "ar": "الشمس",
+      "bm": "Ash-Shams",
+      "en": "The Sun"
+    },
+    "totalAyahs": 15,
+    "available": false
+  },
+  {
+    "number": 92,
+    "name": {
+      "ar": "الليل",
+      "bm": "Al-Layl",
+      "en": "The Night"
+    },
+    "totalAyahs": 21,
+    "available": false
+  },
+  {
+    "number": 93,
+    "name": {
+      "ar": "الضحى",
+      "bm": "Ad-Duhaa",
+      "en": "The Morning Brightness"
+    },
+    "totalAyahs": 11,
+    "available": false
+  },
+  {
+    "number": 94,
+    "name": {
+      "ar": "الشرح",
+      "bm": "Ash-Sharh",
+      "en": "The Relief"
+    },
+    "totalAyahs": 8,
+    "available": false
+  },
+  {
+    "number": 95,
+    "name": {
+      "ar": "التين",
+      "bm": "At-Tin",
+      "en": "The Fig"
+    },
+    "totalAyahs": 8,
+    "available": false
+  },
+  {
+    "number": 96,
+    "name": {
+      "ar": "العلق",
+      "bm": "Al-'Alaq",
+      "en": "The Clinging Clot"
+    },
+    "totalAyahs": 19,
+    "available": false
+  },
+  {
+    "number": 97,
+    "name": {
+      "ar": "القدر",
+      "bm": "Al-Qadr",
+      "en": "The Power"
+    },
+    "totalAyahs": 5,
+    "available": false
+  },
+  {
+    "number": 98,
+    "name": {
+      "ar": "البينة",
+      "bm": "Al-Bayyinah",
+      "en": "The Clear Proof"
+    },
+    "totalAyahs": 8,
+    "available": false
+  },
+  {
+    "number": 99,
+    "name": {
+      "ar": "الزلزلة",
+      "bm": "Az-Zalzalah",
+      "en": "The Earthquake"
+    },
+    "totalAyahs": 8,
+    "available": false
+  },
+  {
+    "number": 100,
+    "name": {
+      "ar": "العاديات",
+      "bm": "Al-'Adiyat",
+      "en": "The Courser"
+    },
+    "totalAyahs": 11,
+    "available": false
+  },
+  {
+    "number": 101,
+    "name": {
+      "ar": "القارعة",
+      "bm": "Al-Qari'ah",
+      "en": "The Calamity"
+    },
+    "totalAyahs": 11,
+    "available": false
+  },
+  {
+    "number": 102,
+    "name": {
+      "ar": "التكاثر",
+      "bm": "At-Takathur",
+      "en": "Rivalry in World Increase"
+    },
+    "totalAyahs": 8,
+    "available": false
+  },
+  {
+    "number": 103,
+    "name": {
+      "ar": "العصر",
+      "bm": "Al-'Asr",
+      "en": "The Declining Day"
+    },
+    "totalAyahs": 3,
+    "available": false
+  },
+  {
+    "number": 104,
+    "name": {
+      "ar": "الهمزة",
+      "bm": "Al-Humazah",
+      "en": "The Traducer"
+    },
+    "totalAyahs": 9,
+    "available": false
+  },
+  {
+    "number": 105,
+    "name": {
+      "ar": "الفيل",
+      "bm": "Al-Fil",
+      "en": "The Elephant"
+    },
+    "totalAyahs": 5,
+    "available": false
+  },
+  {
+    "number": 106,
+    "name": {
+      "ar": "قريش",
+      "bm": "Quraysh",
+      "en": "Quraysh"
+    },
+    "totalAyahs": 4,
+    "available": false
+  },
+  {
+    "number": 107,
+    "name": {
+      "ar": "الماعون",
+      "bm": "Al-Ma'un",
+      "en": "Small Kindnesses"
+    },
+    "totalAyahs": 7,
+    "available": false
+  },
+  {
+    "number": 108,
+    "name": {
+      "ar": "الكوثر",
+      "bm": "Al-Kawthar",
+      "en": "Abundance"
+    },
+    "totalAyahs": 3,
+    "available": false
+  },
+  {
+    "number": 109,
+    "name": {
+      "ar": "الكافرون",
+      "bm": "Al-Kafirun",
+      "en": "The Disbelievers"
+    },
+    "totalAyahs": 6,
+    "available": false
+  },
+  {
+    "number": 110,
+    "name": {
+      "ar": "النصر",
+      "bm": "An-Nasr",
+      "en": "Divine Support"
+    },
+    "totalAyahs": 3,
+    "available": false
+  },
+  {
+    "number": 111,
+    "name": {
+      "ar": "المسد",
+      "bm": "Al-Masad",
+      "en": "The Palm Fiber"
+    },
+    "totalAyahs": 5,
+    "available": false
+  },
+  {
+    "number": 112,
+    "name": {
+      "ar": "الإخلاص",
+      "bm": "Al-Ikhlas",
+      "en": "Sincerity"
+    },
+    "totalAyahs": 4,
+    "available": false
+  },
+  {
+    "number": 113,
+    "name": {
+      "ar": "الفلق",
+      "bm": "Al-Falaq",
+      "en": "The Daybreak"
+    },
+    "totalAyahs": 5,
+    "available": false
+  },
+  {
+    "number": 114,
+    "name": {
+      "ar": "الناس",
+      "bm": "An-Nas",
+      "en": "Mankind"
+    },
+    "totalAyahs": 6,
+    "available": false
+  }
+]
