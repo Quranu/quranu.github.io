@@ -10,8 +10,8 @@
     {
       "number": 1,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
-      "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
       "audio": "./assets/audio/001/001001.mp3",
       "subtitle": {
         "bm": "Ayat pertama Quran",
@@ -25,43 +25,43 @@
     {
       "number": 2,
       "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-      "bm": "Segala puji tertentu bagi Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam.",
-      "en": "[All] praise is [due] to Allah, Lord of the worlds.",
+      "bm": "Segala puji bagi Tuhan, Tuhan alam semesta.",
+      "en": "Praise be to GOD, Lord of the universe.",
       "audio": "./assets/audio/001/001002.mp3"
     },
     {
       "number": 3,
       "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Yang Maha Pemurah lagi Maha Penyayang.",
-      "en": "The Entirely Merciful, the Especially Merciful.",
+      "bm": "Yang Maha Pengasih, Yang Maha Penyayang.",
+      "en": "Most Gracious, Most Merciful.",
       "audio": "./assets/audio/001/001003.mp3"
     },
     {
       "number": 4,
       "arabic": "مَالِكِ يَوْمِ الدِّينِ",
-      "bm": "Yang Menguasai pemerintahan hari Pembalasan.",
-      "en": "Sovereign of the Day of Recompense.",
+      "bm": "Tuan Hari Pembalasan",
+      "en": "Master of the Day of Judgment.",
       "audio": "./assets/audio/001/001004.mp3"
     },
     {
       "number": 5,
       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-      "bm": "Engkaulah sahaja yang kami sembah, dan kepada Engkaulah sahaja kami memohon pertolongan.",
-      "en": "It is You we worship and You we ask for help.",
+      "bm": "Hanya Engkau yang kami sembah; hanya Engkau yang kami minta pertolongan.",
+      "en": "You alone we worship; You alone we ask for help.",
       "audio": "./assets/audio/001/001005.mp3"
     },
     {
       "number": 6,
       "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
-      "bm": "Tunjukilah kami jalan yang lurus.",
-      "en": "Guide us to the straight path.",
+      "bm": "Tunjukkan kami ke jalan yang benar;",
+      "en": "Guide us in the right path;",
       "audio": "./assets/audio/001/001006.mp3"
     },
     {
       "number": 7,
       "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
-      "bm": "Iaitu jalan orang yang Engkau telah kurniakan nikmat kepada mereka, bukan jalan orang yang Engkau murkai, dan bukan pula jalan orang yang sesat.",
-      "en": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.",
+      "bm": "jalan orang-orang yang telah Engkau beri rahmat; bukan jalan mereka yang telah mendapat kemurkaan, dan bukan pula jalan mereka yang sesat.",
+      "en": "the path of those whom You blessed; not of those who have deserved wrath, nor of the strayers.",
       "audio": "./assets/audio/001/001007.mp3"
     }
   ]

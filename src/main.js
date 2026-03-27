@@ -446,12 +446,9 @@ function renderReader() {
             </button>
           </div>
 
-          <p class="ayah-arabic" dir="rtl">${ayah.arabic}</p>
-
           <div class="translation-block">
-            <p class="ayah-translation">
-              ${translation}
-            </p>
+            <p class="ayah-translation">${translation}</p>
+            <p class="ayah-arabic" dir="rtl">${ayah.arabic}</p>
             ${footnote ? `<p class="ayah-footnote">${footnote}</p>` : ""}
           </div>
         </article>
