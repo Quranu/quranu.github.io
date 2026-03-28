@@ -1,5 +1,6 @@
 import { AudioController } from "./audioController.js";
 import { getInitialLanguage, translate } from "./i18n.js";
+import { bmTranslatedSuraNames } from "./suraNames.js";
 
 const appState = {
   language: getInitialLanguage(),
@@ -222,10 +223,7 @@ function renderSurahList() {
         appState.language,
         surah.available ? "available" : "unavailable",
       );
-      const primaryName =
-        appState.language === "ms" ? surah.name.bm : surah.name.en;
-      const secondaryName =
-        appState.language === "ms" ? surah.name.en : surah.name.bm;
+      const displayNames = getSurahCardDisplayNames(surah);
 
       return `
         <button
@@ -236,9 +234,9 @@ function renderSurahList() {
           <div class="surah-row">
             <span class="surah-number">${surah.number}</span>
             <div class="surah-name-group">
-              <h3>${primaryName}</h3>
-              <p class="surah-meta">${secondaryName} • ${surah.name.ar}</p>
-              <p class="surah-meta">${surah.totalAyahs} ayat</p>
+              <h3>${displayNames.primary}</h3>
+              <p class="surah-meta">${displayNames.secondary} • ${surah.name.ar}</p>
+              <p class="surah-meta">${formatVerseCount(surah.totalAyahs)}</p>
             </div>
             <span class="availability-pill ${surah.available ? "available" : ""}">
               ${availabilityText}
@@ -479,6 +477,19 @@ function getOptionalLocalizedContent(localizedValue) {
 
 function resetReaderPanelPosition() {
   elements.readerPanel.scrollTop = 0;
+}
+
+function getSurahCardDisplayNames(surah) {
+  return {
+    primary: appState.language === "ms"
+      ? bmTranslatedSuraNames[surah.number] ?? surah.name.en ?? surah.name.bm
+      : surah.name.en,
+    secondary: surah.name.bm,
+  };
+}
+
+function formatVerseCount(totalAyahs) {
+  return translate(appState.language, "verseCount", { count: totalAyahs });
 }
 
 function formatAyahReference(surahNumber, ayahNumber) {

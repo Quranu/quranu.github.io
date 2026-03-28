@@ -1,0 +1,28 @@
+SURAH_NUMBER: 103
+NAME_AR: العصر
+NAME_BM: Petang Hari
+NAME_EN: The Afternoon
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/103/103000.mp3
+
+# Ayah 1
+AR: وَالعَصرِ
+BM: Demi Petang hari.
+EN: By the afternoon.
+AUDIO: ./assets/audio/103/103001.mp3
+
+# Ayah 2
+AR: إِنَّ الإِنسٰنَ لَفى خُسرٍ
+BM: Manusia itu betul betul telah dilalaikan.
+EN: The human being is utterly lost.
+AUDIO: ./assets/audio/103/103002.mp3
+
+# Ayah 3
+AR: إِلَّا الَّذينَ ءامَنوا وَعَمِلُوا الصّٰلِحٰتِ وَتَواصَوا بِالحَقِّ وَتَواصَوا بِالصَّبرِ
+BM: Melainkan orang orang yang percaya dan yang menjalani kehidupan yang benar, dan yang menyuruh satu sama lain supaya menegakkan kebenaran, dan menyuruh satu sama lain supaya bersabar.
+EN: Except those who believe and lead a righteous life, and exhort one another to uphold the truth, and exhort one another to be steadfast.
+AUDIO: ./assets/audio/103/103003.mp3

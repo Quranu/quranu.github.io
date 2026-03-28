@@ -4,7 +4,7 @@
     "name": {
       "ar": "الفاتحة",
       "bm": "Al-Fatihah",
-      "en": "The Opening"
+      "en": "The Key"
     },
     "totalAyahs": 7,
     "available": true
@@ -14,7 +14,7 @@
     "name": {
       "ar": "البقرة",
       "bm": "Al-Baqarah",
-      "en": "The Cow"
+      "en": "The Heifer"
     },
     "totalAyahs": 286,
     "available": false
@@ -1027,7 +1027,7 @@
       "en": "The Declining Day"
     },
     "totalAyahs": 3,
-    "available": false
+    "available": true
   },
   {
     "number": 104,

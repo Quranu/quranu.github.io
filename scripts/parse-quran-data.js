@@ -26,11 +26,7 @@ function main() {
       throw new Error(`Unknown surah number in ${fileName}: ${parsed.surahNumber}`);
     }
 
-    if (parsed.ayahs.length !== meta.totalAyahs) {
-      throw new Error(
-        `Surah ${parsed.surahNumber} expected ${meta.totalAyahs} ayahs but found ${parsed.ayahs.length}`,
-      );
-    }
+    const officialAyahCount = validateAyahs(parsed.surahNumber, parsed.ayahs, meta.totalAyahs);
 
     availableSurahs.add(parsed.surahNumber);
 
@@ -41,7 +37,7 @@ function main() {
         bm: parsed.nameBm || meta.bm,
         en: parsed.nameEn || meta.en,
       },
-      totalAyahs: parsed.ayahs.length,
+      totalAyahs: officialAyahCount,
       ayahs: parsed.ayahs,
     };
 
@@ -228,6 +224,43 @@ function buildOptionalLocalizedField(block, bmKey, enKey) {
   }
 
   return { bm, en };
+}
+
+function validateAyahs(surahNumber, ayahs, expectedOfficialAyahs) {
+  const ayahNumbers = ayahs.map((ayah) => ayah.number);
+  const uniqueNumbers = new Set(ayahNumbers);
+
+  if (uniqueNumbers.size !== ayahNumbers.length) {
+    throw new Error(`Surah ${surahNumber} contains duplicate ayah numbers.`);
+  }
+
+  const hasAyahZero = uniqueNumbers.has(0);
+  if ((surahNumber === 1 || surahNumber === 9) && hasAyahZero) {
+    throw new Error(`Surah ${surahNumber} must not include Ayah 0.`);
+  }
+
+  const invalidAyahs = ayahNumbers.filter((number) => !Number.isInteger(number) || number < 0);
+  if (invalidAyahs.length > 0) {
+    throw new Error(`Surah ${surahNumber} contains invalid ayah numbers: ${invalidAyahs.join(", ")}.`);
+  }
+
+  const officialAyahNumbers = ayahNumbers.filter((number) => number >= 1);
+  if (officialAyahNumbers.length !== expectedOfficialAyahs) {
+    throw new Error(
+      `Surah ${surahNumber} expected ${expectedOfficialAyahs} official ayahs but found ${officialAyahNumbers.length}. Ayah 0 is preserved but not counted.`,
+    );
+  }
+
+  for (let index = 0; index < officialAyahNumbers.length; index += 1) {
+    const expectedNumber = index + 1;
+    if (officialAyahNumbers[index] !== expectedNumber) {
+      throw new Error(
+        `Surah ${surahNumber} official ayah sequence must be continuous from 1 to ${expectedOfficialAyahs}. Found ${officialAyahNumbers[index]} where ${expectedNumber} was expected.`,
+      );
+    }
+  }
+
+  return officialAyahNumbers.length;
 }
 
 function ensureDirectory(directoryPath) {
