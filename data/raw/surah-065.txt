@@ -1,0 +1,82 @@
+SURAH_NUMBER: 65
+NAME_AR: الطلاق
+NAME_BM: Talak
+NAME_EN: The Divorce
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/065/065000.mp3
+
+# Ayah 1
+AR: TODO_AR_065001
+BM: TODO_BM_065001
+EN: TODO_EN_065001
+AUDIO: ./assets/audio/065/065001.mp3
+
+# Ayah 2
+AR: TODO_AR_065002
+BM: TODO_BM_065002
+EN: TODO_EN_065002
+AUDIO: ./assets/audio/065/065002.mp3
+
+# Ayah 3
+AR: TODO_AR_065003
+BM: TODO_BM_065003
+EN: TODO_EN_065003
+AUDIO: ./assets/audio/065/065003.mp3
+
+# Ayah 4
+AR: TODO_AR_065004
+BM: TODO_BM_065004
+EN: TODO_EN_065004
+AUDIO: ./assets/audio/065/065004.mp3
+
+# Ayah 5
+AR: TODO_AR_065005
+BM: TODO_BM_065005
+EN: TODO_EN_065005
+AUDIO: ./assets/audio/065/065005.mp3
+
+# Ayah 6
+AR: TODO_AR_065006
+BM: TODO_BM_065006
+EN: TODO_EN_065006
+AUDIO: ./assets/audio/065/065006.mp3
+
+# Ayah 7
+AR: TODO_AR_065007
+BM: TODO_BM_065007
+EN: TODO_EN_065007
+AUDIO: ./assets/audio/065/065007.mp3
+
+# Ayah 8
+AR: TODO_AR_065008
+BM: TODO_BM_065008
+EN: TODO_EN_065008
+AUDIO: ./assets/audio/065/065008.mp3
+
+# Ayah 9
+AR: TODO_AR_065009
+BM: TODO_BM_065009
+EN: TODO_EN_065009
+AUDIO: ./assets/audio/065/065009.mp3
+
+# Ayah 10
+AR: TODO_AR_065010
+BM: TODO_BM_065010
+EN: TODO_EN_065010
+AUDIO: ./assets/audio/065/065010.mp3
+
+# Ayah 11
+AR: TODO_AR_065011
+BM: TODO_BM_065011
+EN: TODO_EN_065011
+AUDIO: ./assets/audio/065/065011.mp3
+
+# Ayah 12
+AR: TODO_AR_065012
+BM: TODO_BM_065012
+EN: TODO_EN_065012
+AUDIO: ./assets/audio/065/065012.mp3

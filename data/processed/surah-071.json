@@ -1,0 +1,214 @@
+{
+  "surahNumber": 71,
+  "name": {
+    "ar": "نوح",
+    "bm": "Nuh",
+    "en": "Noah"
+  },
+  "totalAyahs": 28,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/071/071000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_071001",
+      "bm": "TODO_BM_071001",
+      "en": "TODO_EN_071001",
+      "audio": "./assets/audio/071/071001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_071002",
+      "bm": "TODO_BM_071002",
+      "en": "TODO_EN_071002",
+      "audio": "./assets/audio/071/071002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_071003",
+      "bm": "TODO_BM_071003",
+      "en": "TODO_EN_071003",
+      "audio": "./assets/audio/071/071003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_071004",
+      "bm": "TODO_BM_071004",
+      "en": "TODO_EN_071004",
+      "audio": "./assets/audio/071/071004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_071005",
+      "bm": "TODO_BM_071005",
+      "en": "TODO_EN_071005",
+      "audio": "./assets/audio/071/071005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_071006",
+      "bm": "TODO_BM_071006",
+      "en": "TODO_EN_071006",
+      "audio": "./assets/audio/071/071006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_071007",
+      "bm": "TODO_BM_071007",
+      "en": "TODO_EN_071007",
+      "audio": "./assets/audio/071/071007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_071008",
+      "bm": "TODO_BM_071008",
+      "en": "TODO_EN_071008",
+      "audio": "./assets/audio/071/071008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_071009",
+      "bm": "TODO_BM_071009",
+      "en": "TODO_EN_071009",
+      "audio": "./assets/audio/071/071009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_071010",
+      "bm": "TODO_BM_071010",
+      "en": "TODO_EN_071010",
+      "audio": "./assets/audio/071/071010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_071011",
+      "bm": "TODO_BM_071011",
+      "en": "TODO_EN_071011",
+      "audio": "./assets/audio/071/071011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_071012",
+      "bm": "TODO_BM_071012",
+      "en": "TODO_EN_071012",
+      "audio": "./assets/audio/071/071012.mp3"
+    },
+    {
+      "number": 13,
+      "arabic": "TODO_AR_071013",
+      "bm": "TODO_BM_071013",
+      "en": "TODO_EN_071013",
+      "audio": "./assets/audio/071/071013.mp3"
+    },
+    {
+      "number": 14,
+      "arabic": "TODO_AR_071014",
+      "bm": "TODO_BM_071014",
+      "en": "TODO_EN_071014",
+      "audio": "./assets/audio/071/071014.mp3"
+    },
+    {
+      "number": 15,
+      "arabic": "TODO_AR_071015",
+      "bm": "TODO_BM_071015",
+      "en": "TODO_EN_071015",
+      "audio": "./assets/audio/071/071015.mp3"
+    },
+    {
+      "number": 16,
+      "arabic": "TODO_AR_071016",
+      "bm": "TODO_BM_071016",
+      "en": "TODO_EN_071016",
+      "audio": "./assets/audio/071/071016.mp3"
+    },
+    {
+      "number": 17,
+      "arabic": "TODO_AR_071017",
+      "bm": "TODO_BM_071017",
+      "en": "TODO_EN_071017",
+      "audio": "./assets/audio/071/071017.mp3"
+    },
+    {
+      "number": 18,
+      "arabic": "TODO_AR_071018",
+      "bm": "TODO_BM_071018",
+      "en": "TODO_EN_071018",
+      "audio": "./assets/audio/071/071018.mp3"
+    },
+    {
+      "number": 19,
+      "arabic": "TODO_AR_071019",
+      "bm": "TODO_BM_071019",
+      "en": "TODO_EN_071019",
+      "audio": "./assets/audio/071/071019.mp3"
+    },
+    {
+      "number": 20,
+      "arabic": "TODO_AR_071020",
+      "bm": "TODO_BM_071020",
+      "en": "TODO_EN_071020",
+      "audio": "./assets/audio/071/071020.mp3"
+    },
+    {
+      "number": 21,
+      "arabic": "TODO_AR_071021",
+      "bm": "TODO_BM_071021",
+      "en": "TODO_EN_071021",
+      "audio": "./assets/audio/071/071021.mp3"
+    },
+    {
+      "number": 22,
+      "arabic": "TODO_AR_071022",
+      "bm": "TODO_BM_071022",
+      "en": "TODO_EN_071022",
+      "audio": "./assets/audio/071/071022.mp3"
+    },
+    {
+      "number": 23,
+      "arabic": "TODO_AR_071023",
+      "bm": "TODO_BM_071023",
+      "en": "TODO_EN_071023",
+      "audio": "./assets/audio/071/071023.mp3"
+    },
+    {
+      "number": 24,
+      "arabic": "TODO_AR_071024",
+      "bm": "TODO_BM_071024",
+      "en": "TODO_EN_071024",
+      "audio": "./assets/audio/071/071024.mp3"
+    },
+    {
+      "number": 25,
+      "arabic": "TODO_AR_071025",
+      "bm": "TODO_BM_071025",
+      "en": "TODO_EN_071025",
+      "audio": "./assets/audio/071/071025.mp3"
+    },
+    {
+      "number": 26,
+      "arabic": "TODO_AR_071026",
+      "bm": "TODO_BM_071026",
+      "en": "TODO_EN_071026",
+      "audio": "./assets/audio/071/071026.mp3"
+    },
+    {
+      "number": 27,
+      "arabic": "TODO_AR_071027",
+      "bm": "TODO_BM_071027",
+      "en": "TODO_EN_071027",
+      "audio": "./assets/audio/071/071027.mp3"
+    },
+    {
+      "number": 28,
+      "arabic": "TODO_AR_071028",
+      "bm": "TODO_BM_071028",
+      "en": "TODO_EN_071028",
+      "audio": "./assets/audio/071/071028.mp3"
+    }
+  ]
+}

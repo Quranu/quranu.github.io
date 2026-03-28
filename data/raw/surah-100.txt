@@ -1,0 +1,76 @@
+SURAH_NUMBER: 100
+NAME_AR: العاديات
+NAME_BM: Kuda Perang Yang Berlari
+NAME_EN: The Courser
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/100/100000.mp3
+
+# Ayah 1
+AR: TODO_AR_100001
+BM: TODO_BM_100001
+EN: TODO_EN_100001
+AUDIO: ./assets/audio/100/100001.mp3
+
+# Ayah 2
+AR: TODO_AR_100002
+BM: TODO_BM_100002
+EN: TODO_EN_100002
+AUDIO: ./assets/audio/100/100002.mp3
+
+# Ayah 3
+AR: TODO_AR_100003
+BM: TODO_BM_100003
+EN: TODO_EN_100003
+AUDIO: ./assets/audio/100/100003.mp3
+
+# Ayah 4
+AR: TODO_AR_100004
+BM: TODO_BM_100004
+EN: TODO_EN_100004
+AUDIO: ./assets/audio/100/100004.mp3
+
+# Ayah 5
+AR: TODO_AR_100005
+BM: TODO_BM_100005
+EN: TODO_EN_100005
+AUDIO: ./assets/audio/100/100005.mp3
+
+# Ayah 6
+AR: TODO_AR_100006
+BM: TODO_BM_100006
+EN: TODO_EN_100006
+AUDIO: ./assets/audio/100/100006.mp3
+
+# Ayah 7
+AR: TODO_AR_100007
+BM: TODO_BM_100007
+EN: TODO_EN_100007
+AUDIO: ./assets/audio/100/100007.mp3
+
+# Ayah 8
+AR: TODO_AR_100008
+BM: TODO_BM_100008
+EN: TODO_EN_100008
+AUDIO: ./assets/audio/100/100008.mp3
+
+# Ayah 9
+AR: TODO_AR_100009
+BM: TODO_BM_100009
+EN: TODO_EN_100009
+AUDIO: ./assets/audio/100/100009.mp3
+
+# Ayah 10
+AR: TODO_AR_100010
+BM: TODO_BM_100010
+EN: TODO_EN_100010
+AUDIO: ./assets/audio/100/100010.mp3
+
+# Ayah 11
+AR: TODO_AR_100011
+BM: TODO_BM_100011
+EN: TODO_EN_100011
+AUDIO: ./assets/audio/100/100011.mp3

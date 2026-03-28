@@ -1,0 +1,74 @@
+{
+  "surahNumber": 99,
+  "name": {
+    "ar": "الزلزلة",
+    "bm": "Goncangan",
+    "en": "The Earthquake"
+  },
+  "totalAyahs": 8,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/099/099000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_099001",
+      "bm": "TODO_BM_099001",
+      "en": "TODO_EN_099001",
+      "audio": "./assets/audio/099/099001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_099002",
+      "bm": "TODO_BM_099002",
+      "en": "TODO_EN_099002",
+      "audio": "./assets/audio/099/099002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_099003",
+      "bm": "TODO_BM_099003",
+      "en": "TODO_EN_099003",
+      "audio": "./assets/audio/099/099003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_099004",
+      "bm": "TODO_BM_099004",
+      "en": "TODO_EN_099004",
+      "audio": "./assets/audio/099/099004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_099005",
+      "bm": "TODO_BM_099005",
+      "en": "TODO_EN_099005",
+      "audio": "./assets/audio/099/099005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_099006",
+      "bm": "TODO_BM_099006",
+      "en": "TODO_EN_099006",
+      "audio": "./assets/audio/099/099006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_099007",
+      "bm": "TODO_BM_099007",
+      "en": "TODO_EN_099007",
+      "audio": "./assets/audio/099/099007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_099008",
+      "bm": "TODO_BM_099008",
+      "en": "TODO_EN_099008",
+      "audio": "./assets/audio/099/099008.mp3"
+    }
+  ]
+}

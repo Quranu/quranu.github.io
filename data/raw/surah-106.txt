@@ -1,0 +1,34 @@
+SURAH_NUMBER: 106
+NAME_AR: قريش
+NAME_BM: Quraisy
+NAME_EN: Quraysh
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/106/106000.mp3
+
+# Ayah 1
+AR: TODO_AR_106001
+BM: TODO_BM_106001
+EN: TODO_EN_106001
+AUDIO: ./assets/audio/106/106001.mp3
+
+# Ayah 2
+AR: TODO_AR_106002
+BM: TODO_BM_106002
+EN: TODO_EN_106002
+AUDIO: ./assets/audio/106/106002.mp3
+
+# Ayah 3
+AR: TODO_AR_106003
+BM: TODO_BM_106003
+EN: TODO_EN_106003
+AUDIO: ./assets/audio/106/106003.mp3
+
+# Ayah 4
+AR: TODO_AR_106004
+BM: TODO_BM_106004
+EN: TODO_EN_106004
+AUDIO: ./assets/audio/106/106004.mp3

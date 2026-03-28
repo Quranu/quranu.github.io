@@ -1,0 +1,67 @@
+{
+  "surahNumber": 107,
+  "name": {
+    "ar": "الماعون",
+    "bm": "Bantuan Kecil",
+    "en": "Small Kindnesses"
+  },
+  "totalAyahs": 7,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/107/107000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_107001",
+      "bm": "TODO_BM_107001",
+      "en": "TODO_EN_107001",
+      "audio": "./assets/audio/107/107001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_107002",
+      "bm": "TODO_BM_107002",
+      "en": "TODO_EN_107002",
+      "audio": "./assets/audio/107/107002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_107003",
+      "bm": "TODO_BM_107003",
+      "en": "TODO_EN_107003",
+      "audio": "./assets/audio/107/107003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_107004",
+      "bm": "TODO_BM_107004",
+      "en": "TODO_EN_107004",
+      "audio": "./assets/audio/107/107004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_107005",
+      "bm": "TODO_BM_107005",
+      "en": "TODO_EN_107005",
+      "audio": "./assets/audio/107/107005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_107006",
+      "bm": "TODO_BM_107006",
+      "en": "TODO_EN_107006",
+      "audio": "./assets/audio/107/107006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_107007",
+      "bm": "TODO_BM_107007",
+      "en": "TODO_EN_107007",
+      "audio": "./assets/audio/107/107007.mp3"
+    }
+  ]
+}

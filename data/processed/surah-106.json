@@ -1,0 +1,46 @@
+{
+  "surahNumber": 106,
+  "name": {
+    "ar": "قريش",
+    "bm": "Quraisy",
+    "en": "Quraysh"
+  },
+  "totalAyahs": 4,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/106/106000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_106001",
+      "bm": "TODO_BM_106001",
+      "en": "TODO_EN_106001",
+      "audio": "./assets/audio/106/106001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_106002",
+      "bm": "TODO_BM_106002",
+      "en": "TODO_EN_106002",
+      "audio": "./assets/audio/106/106002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_106003",
+      "bm": "TODO_BM_106003",
+      "en": "TODO_EN_106003",
+      "audio": "./assets/audio/106/106003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_106004",
+      "bm": "TODO_BM_106004",
+      "en": "TODO_EN_106004",
+      "audio": "./assets/audio/106/106004.mp3"
+    }
+  ]
+}

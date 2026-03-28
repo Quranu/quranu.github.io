@@ -1,0 +1,95 @@
+{
+  "surahNumber": 100,
+  "name": {
+    "ar": "العاديات",
+    "bm": "Kuda Perang Yang Berlari",
+    "en": "The Courser"
+  },
+  "totalAyahs": 11,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/100/100000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_100001",
+      "bm": "TODO_BM_100001",
+      "en": "TODO_EN_100001",
+      "audio": "./assets/audio/100/100001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_100002",
+      "bm": "TODO_BM_100002",
+      "en": "TODO_EN_100002",
+      "audio": "./assets/audio/100/100002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_100003",
+      "bm": "TODO_BM_100003",
+      "en": "TODO_EN_100003",
+      "audio": "./assets/audio/100/100003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_100004",
+      "bm": "TODO_BM_100004",
+      "en": "TODO_EN_100004",
+      "audio": "./assets/audio/100/100004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_100005",
+      "bm": "TODO_BM_100005",
+      "en": "TODO_EN_100005",
+      "audio": "./assets/audio/100/100005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_100006",
+      "bm": "TODO_BM_100006",
+      "en": "TODO_EN_100006",
+      "audio": "./assets/audio/100/100006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_100007",
+      "bm": "TODO_BM_100007",
+      "en": "TODO_EN_100007",
+      "audio": "./assets/audio/100/100007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_100008",
+      "bm": "TODO_BM_100008",
+      "en": "TODO_EN_100008",
+      "audio": "./assets/audio/100/100008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_100009",
+      "bm": "TODO_BM_100009",
+      "en": "TODO_EN_100009",
+      "audio": "./assets/audio/100/100009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_100010",
+      "bm": "TODO_BM_100010",
+      "en": "TODO_EN_100010",
+      "audio": "./assets/audio/100/100010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_100011",
+      "bm": "TODO_BM_100011",
+      "en": "TODO_EN_100011",
+      "audio": "./assets/audio/100/100011.mp3"
+    }
+  ]
+}

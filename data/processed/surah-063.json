@@ -1,0 +1,95 @@
+{
+  "surahNumber": 63,
+  "name": {
+    "ar": "المنافقون",
+    "bm": "Orang Munafik",
+    "en": "The Hypocrites"
+  },
+  "totalAyahs": 11,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/063/063000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_063001",
+      "bm": "TODO_BM_063001",
+      "en": "TODO_EN_063001",
+      "audio": "./assets/audio/063/063001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_063002",
+      "bm": "TODO_BM_063002",
+      "en": "TODO_EN_063002",
+      "audio": "./assets/audio/063/063002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_063003",
+      "bm": "TODO_BM_063003",
+      "en": "TODO_EN_063003",
+      "audio": "./assets/audio/063/063003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_063004",
+      "bm": "TODO_BM_063004",
+      "en": "TODO_EN_063004",
+      "audio": "./assets/audio/063/063004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_063005",
+      "bm": "TODO_BM_063005",
+      "en": "TODO_EN_063005",
+      "audio": "./assets/audio/063/063005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_063006",
+      "bm": "TODO_BM_063006",
+      "en": "TODO_EN_063006",
+      "audio": "./assets/audio/063/063006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_063007",
+      "bm": "TODO_BM_063007",
+      "en": "TODO_EN_063007",
+      "audio": "./assets/audio/063/063007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_063008",
+      "bm": "TODO_BM_063008",
+      "en": "TODO_EN_063008",
+      "audio": "./assets/audio/063/063008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_063009",
+      "bm": "TODO_BM_063009",
+      "en": "TODO_EN_063009",
+      "audio": "./assets/audio/063/063009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_063010",
+      "bm": "TODO_BM_063010",
+      "en": "TODO_EN_063010",
+      "audio": "./assets/audio/063/063010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_063011",
+      "bm": "TODO_BM_063011",
+      "en": "TODO_EN_063011",
+      "audio": "./assets/audio/063/063011.mp3"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "surahNumber": 104,
+  "name": {
+    "ar": "الهمزة",
+    "bm": "Pengumpat",
+    "en": "The Traducer"
+  },
+  "totalAyahs": 9,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/104/104000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_104001",
+      "bm": "TODO_BM_104001",
+      "en": "TODO_EN_104001",
+      "audio": "./assets/audio/104/104001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_104002",
+      "bm": "TODO_BM_104002",
+      "en": "TODO_EN_104002",
+      "audio": "./assets/audio/104/104002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_104003",
+      "bm": "TODO_BM_104003",
+      "en": "TODO_EN_104003",
+      "audio": "./assets/audio/104/104003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_104004",
+      "bm": "TODO_BM_104004",
+      "en": "TODO_EN_104004",
+      "audio": "./assets/audio/104/104004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_104005",
+      "bm": "TODO_BM_104005",
+      "en": "TODO_EN_104005",
+      "audio": "./assets/audio/104/104005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_104006",
+      "bm": "TODO_BM_104006",
+      "en": "TODO_EN_104006",
+      "audio": "./assets/audio/104/104006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_104007",
+      "bm": "TODO_BM_104007",
+      "en": "TODO_EN_104007",
+      "audio": "./assets/audio/104/104007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_104008",
+      "bm": "TODO_BM_104008",
+      "en": "TODO_EN_104008",
+      "audio": "./assets/audio/104/104008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_104009",
+      "bm": "TODO_BM_104009",
+      "en": "TODO_EN_104009",
+      "audio": "./assets/audio/104/104009.mp3"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+SURAH_NUMBER: 101
+NAME_AR: القارعة
+NAME_BM: Hari Kiamat
+NAME_EN: The Calamity
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/101/101000.mp3
+
+# Ayah 1
+AR: TODO_AR_101001
+BM: TODO_BM_101001
+EN: TODO_EN_101001
+AUDIO: ./assets/audio/101/101001.mp3
+
+# Ayah 2
+AR: TODO_AR_101002
+BM: TODO_BM_101002
+EN: TODO_EN_101002
+AUDIO: ./assets/audio/101/101002.mp3
+
+# Ayah 3
+AR: TODO_AR_101003
+BM: TODO_BM_101003
+EN: TODO_EN_101003
+AUDIO: ./assets/audio/101/101003.mp3
+
+# Ayah 4
+AR: TODO_AR_101004
+BM: TODO_BM_101004
+EN: TODO_EN_101004
+AUDIO: ./assets/audio/101/101004.mp3
+
+# Ayah 5
+AR: TODO_AR_101005
+BM: TODO_BM_101005
+EN: TODO_EN_101005
+AUDIO: ./assets/audio/101/101005.mp3
+
+# Ayah 6
+AR: TODO_AR_101006
+BM: TODO_BM_101006
+EN: TODO_EN_101006
+AUDIO: ./assets/audio/101/101006.mp3
+
+# Ayah 7
+AR: TODO_AR_101007
+BM: TODO_BM_101007
+EN: TODO_EN_101007
+AUDIO: ./assets/audio/101/101007.mp3
+
+# Ayah 8
+AR: TODO_AR_101008
+BM: TODO_BM_101008
+EN: TODO_EN_101008
+AUDIO: ./assets/audio/101/101008.mp3
+
+# Ayah 9
+AR: TODO_AR_101009
+BM: TODO_BM_101009
+EN: TODO_EN_101009
+AUDIO: ./assets/audio/101/101009.mp3
+
+# Ayah 10
+AR: TODO_AR_101010
+BM: TODO_BM_101010
+EN: TODO_EN_101010
+AUDIO: ./assets/audio/101/101010.mp3
+
+# Ayah 11
+AR: TODO_AR_101011
+BM: TODO_BM_101011
+EN: TODO_EN_101011
+AUDIO: ./assets/audio/101/101011.mp3

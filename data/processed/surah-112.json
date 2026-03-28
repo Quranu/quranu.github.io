@@ -1,0 +1,46 @@
+{
+  "surahNumber": 112,
+  "name": {
+    "ar": "الإخلاص",
+    "bm": "Ikhlas",
+    "en": "Sincerity"
+  },
+  "totalAyahs": 4,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/112/112000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_112001",
+      "bm": "TODO_BM_112001",
+      "en": "TODO_EN_112001",
+      "audio": "./assets/audio/112/112001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_112002",
+      "bm": "TODO_BM_112002",
+      "en": "TODO_EN_112002",
+      "audio": "./assets/audio/112/112002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_112003",
+      "bm": "TODO_BM_112003",
+      "en": "TODO_EN_112003",
+      "audio": "./assets/audio/112/112003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_112004",
+      "bm": "TODO_BM_112004",
+      "en": "TODO_EN_112004",
+      "audio": "./assets/audio/112/112004.mp3"
+    }
+  ]
+}

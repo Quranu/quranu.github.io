@@ -1,0 +1,28 @@
+SURAH_NUMBER: 110
+NAME_AR: النصر
+NAME_BM: Pertolongan
+NAME_EN: Divine Support
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/110/110000.mp3
+
+# Ayah 1
+AR: TODO_AR_110001
+BM: TODO_BM_110001
+EN: TODO_EN_110001
+AUDIO: ./assets/audio/110/110001.mp3
+
+# Ayah 2
+AR: TODO_AR_110002
+BM: TODO_BM_110002
+EN: TODO_EN_110002
+AUDIO: ./assets/audio/110/110002.mp3
+
+# Ayah 3
+AR: TODO_AR_110003
+BM: TODO_BM_110003
+EN: TODO_EN_110003
+AUDIO: ./assets/audio/110/110003.mp3

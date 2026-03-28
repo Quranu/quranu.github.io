@@ -1,0 +1,74 @@
+{
+  "surahNumber": 94,
+  "name": {
+    "ar": "الشرح",
+    "bm": "Kelapangan",
+    "en": "The Relief"
+  },
+  "totalAyahs": 8,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/094/094000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_094001",
+      "bm": "TODO_BM_094001",
+      "en": "TODO_EN_094001",
+      "audio": "./assets/audio/094/094001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_094002",
+      "bm": "TODO_BM_094002",
+      "en": "TODO_EN_094002",
+      "audio": "./assets/audio/094/094002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_094003",
+      "bm": "TODO_BM_094003",
+      "en": "TODO_EN_094003",
+      "audio": "./assets/audio/094/094003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_094004",
+      "bm": "TODO_BM_094004",
+      "en": "TODO_EN_094004",
+      "audio": "./assets/audio/094/094004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_094005",
+      "bm": "TODO_BM_094005",
+      "en": "TODO_EN_094005",
+      "audio": "./assets/audio/094/094005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_094006",
+      "bm": "TODO_BM_094006",
+      "en": "TODO_EN_094006",
+      "audio": "./assets/audio/094/094006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_094007",
+      "bm": "TODO_BM_094007",
+      "en": "TODO_EN_094007",
+      "audio": "./assets/audio/094/094007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_094008",
+      "bm": "TODO_BM_094008",
+      "en": "TODO_EN_094008",
+      "audio": "./assets/audio/094/094008.mp3"
+    }
+  ]
+}

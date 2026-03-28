@@ -1,0 +1,40 @@
+SURAH_NUMBER: 105
+NAME_AR: الفيل
+NAME_BM: Gajah
+NAME_EN: The Elephant
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/105/105000.mp3
+
+# Ayah 1
+AR: TODO_AR_105001
+BM: TODO_BM_105001
+EN: TODO_EN_105001
+AUDIO: ./assets/audio/105/105001.mp3
+
+# Ayah 2
+AR: TODO_AR_105002
+BM: TODO_BM_105002
+EN: TODO_EN_105002
+AUDIO: ./assets/audio/105/105002.mp3
+
+# Ayah 3
+AR: TODO_AR_105003
+BM: TODO_BM_105003
+EN: TODO_EN_105003
+AUDIO: ./assets/audio/105/105003.mp3
+
+# Ayah 4
+AR: TODO_AR_105004
+BM: TODO_BM_105004
+EN: TODO_EN_105004
+AUDIO: ./assets/audio/105/105004.mp3
+
+# Ayah 5
+AR: TODO_AR_105005
+BM: TODO_BM_105005
+EN: TODO_EN_105005
+AUDIO: ./assets/audio/105/105005.mp3

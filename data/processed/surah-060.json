@@ -1,0 +1,109 @@
+{
+  "surahNumber": 60,
+  "name": {
+    "ar": "الممتحنة",
+    "bm": "Wanita Yang Diuji",
+    "en": "She That Is To Be Examined"
+  },
+  "totalAyahs": 13,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/060/060000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_060001",
+      "bm": "TODO_BM_060001",
+      "en": "TODO_EN_060001",
+      "audio": "./assets/audio/060/060001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_060002",
+      "bm": "TODO_BM_060002",
+      "en": "TODO_EN_060002",
+      "audio": "./assets/audio/060/060002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_060003",
+      "bm": "TODO_BM_060003",
+      "en": "TODO_EN_060003",
+      "audio": "./assets/audio/060/060003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_060004",
+      "bm": "TODO_BM_060004",
+      "en": "TODO_EN_060004",
+      "audio": "./assets/audio/060/060004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_060005",
+      "bm": "TODO_BM_060005",
+      "en": "TODO_EN_060005",
+      "audio": "./assets/audio/060/060005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_060006",
+      "bm": "TODO_BM_060006",
+      "en": "TODO_EN_060006",
+      "audio": "./assets/audio/060/060006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_060007",
+      "bm": "TODO_BM_060007",
+      "en": "TODO_EN_060007",
+      "audio": "./assets/audio/060/060007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_060008",
+      "bm": "TODO_BM_060008",
+      "en": "TODO_EN_060008",
+      "audio": "./assets/audio/060/060008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_060009",
+      "bm": "TODO_BM_060009",
+      "en": "TODO_EN_060009",
+      "audio": "./assets/audio/060/060009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_060010",
+      "bm": "TODO_BM_060010",
+      "en": "TODO_EN_060010",
+      "audio": "./assets/audio/060/060010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_060011",
+      "bm": "TODO_BM_060011",
+      "en": "TODO_EN_060011",
+      "audio": "./assets/audio/060/060011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_060012",
+      "bm": "TODO_BM_060012",
+      "en": "TODO_EN_060012",
+      "audio": "./assets/audio/060/060012.mp3"
+    },
+    {
+      "number": 13,
+      "arabic": "TODO_AR_060013",
+      "bm": "TODO_BM_060013",
+      "en": "TODO_EN_060013",
+      "audio": "./assets/audio/060/060013.mp3"
+    }
+  ]
+}

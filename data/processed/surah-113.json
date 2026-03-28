@@ -1,0 +1,53 @@
+{
+  "surahNumber": 113,
+  "name": {
+    "ar": "الفلق",
+    "bm": "Waktu Subuh",
+    "en": "The Daybreak"
+  },
+  "totalAyahs": 5,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/113/113000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_113001",
+      "bm": "TODO_BM_113001",
+      "en": "TODO_EN_113001",
+      "audio": "./assets/audio/113/113001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_113002",
+      "bm": "TODO_BM_113002",
+      "en": "TODO_EN_113002",
+      "audio": "./assets/audio/113/113002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_113003",
+      "bm": "TODO_BM_113003",
+      "en": "TODO_EN_113003",
+      "audio": "./assets/audio/113/113003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_113004",
+      "bm": "TODO_BM_113004",
+      "en": "TODO_EN_113004",
+      "audio": "./assets/audio/113/113004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_113005",
+      "bm": "TODO_BM_113005",
+      "en": "TODO_EN_113005",
+      "audio": "./assets/audio/113/113005.mp3"
+    }
+  ]
+}

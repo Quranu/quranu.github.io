@@ -1,0 +1,95 @@
+{
+  "surahNumber": 93,
+  "name": {
+    "ar": "الضحى",
+    "bm": "Waktu Dhuha",
+    "en": "The Morning Brightness"
+  },
+  "totalAyahs": 11,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/093/093000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_093001",
+      "bm": "TODO_BM_093001",
+      "en": "TODO_EN_093001",
+      "audio": "./assets/audio/093/093001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_093002",
+      "bm": "TODO_BM_093002",
+      "en": "TODO_EN_093002",
+      "audio": "./assets/audio/093/093002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_093003",
+      "bm": "TODO_BM_093003",
+      "en": "TODO_EN_093003",
+      "audio": "./assets/audio/093/093003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_093004",
+      "bm": "TODO_BM_093004",
+      "en": "TODO_EN_093004",
+      "audio": "./assets/audio/093/093004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_093005",
+      "bm": "TODO_BM_093005",
+      "en": "TODO_EN_093005",
+      "audio": "./assets/audio/093/093005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_093006",
+      "bm": "TODO_BM_093006",
+      "en": "TODO_EN_093006",
+      "audio": "./assets/audio/093/093006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_093007",
+      "bm": "TODO_BM_093007",
+      "en": "TODO_EN_093007",
+      "audio": "./assets/audio/093/093007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_093008",
+      "bm": "TODO_BM_093008",
+      "en": "TODO_EN_093008",
+      "audio": "./assets/audio/093/093008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_093009",
+      "bm": "TODO_BM_093009",
+      "en": "TODO_EN_093009",
+      "audio": "./assets/audio/093/093009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_093010",
+      "bm": "TODO_BM_093010",
+      "en": "TODO_EN_093010",
+      "audio": "./assets/audio/093/093010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_093011",
+      "bm": "TODO_BM_093011",
+      "en": "TODO_EN_093011",
+      "audio": "./assets/audio/093/093011.mp3"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "surahNumber": 95,
+  "name": {
+    "ar": "التين",
+    "bm": "Buah Tin",
+    "en": "The Fig"
+  },
+  "totalAyahs": 8,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/095/095000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_095001",
+      "bm": "TODO_BM_095001",
+      "en": "TODO_EN_095001",
+      "audio": "./assets/audio/095/095001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_095002",
+      "bm": "TODO_BM_095002",
+      "en": "TODO_EN_095002",
+      "audio": "./assets/audio/095/095002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_095003",
+      "bm": "TODO_BM_095003",
+      "en": "TODO_EN_095003",
+      "audio": "./assets/audio/095/095003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_095004",
+      "bm": "TODO_BM_095004",
+      "en": "TODO_EN_095004",
+      "audio": "./assets/audio/095/095004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_095005",
+      "bm": "TODO_BM_095005",
+      "en": "TODO_EN_095005",
+      "audio": "./assets/audio/095/095005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_095006",
+      "bm": "TODO_BM_095006",
+      "en": "TODO_EN_095006",
+      "audio": "./assets/audio/095/095006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_095007",
+      "bm": "TODO_BM_095007",
+      "en": "TODO_EN_095007",
+      "audio": "./assets/audio/095/095007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_095008",
+      "bm": "TODO_BM_095008",
+      "en": "TODO_EN_095008",
+      "audio": "./assets/audio/095/095008.mp3"
+    }
+  ]
+}

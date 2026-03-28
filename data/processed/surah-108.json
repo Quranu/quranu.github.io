@@ -1,0 +1,39 @@
+{
+  "surahNumber": 108,
+  "name": {
+    "ar": "الكوثر",
+    "bm": "Nikmat Berlimpah",
+    "en": "Abundance"
+  },
+  "totalAyahs": 3,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/108/108000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_108001",
+      "bm": "TODO_BM_108001",
+      "en": "TODO_EN_108001",
+      "audio": "./assets/audio/108/108001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_108002",
+      "bm": "TODO_BM_108002",
+      "en": "TODO_EN_108002",
+      "audio": "./assets/audio/108/108002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_108003",
+      "bm": "TODO_BM_108003",
+      "en": "TODO_EN_108003",
+      "audio": "./assets/audio/108/108003.mp3"
+    }
+  ]
+}

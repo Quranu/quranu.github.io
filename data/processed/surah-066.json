@@ -1,0 +1,102 @@
+{
+  "surahNumber": 66,
+  "name": {
+    "ar": "التحريم",
+    "bm": "Pengharaman",
+    "en": "The Prohibition"
+  },
+  "totalAyahs": 12,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/066/066000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_066001",
+      "bm": "TODO_BM_066001",
+      "en": "TODO_EN_066001",
+      "audio": "./assets/audio/066/066001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_066002",
+      "bm": "TODO_BM_066002",
+      "en": "TODO_EN_066002",
+      "audio": "./assets/audio/066/066002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_066003",
+      "bm": "TODO_BM_066003",
+      "en": "TODO_EN_066003",
+      "audio": "./assets/audio/066/066003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_066004",
+      "bm": "TODO_BM_066004",
+      "en": "TODO_EN_066004",
+      "audio": "./assets/audio/066/066004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_066005",
+      "bm": "TODO_BM_066005",
+      "en": "TODO_EN_066005",
+      "audio": "./assets/audio/066/066005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_066006",
+      "bm": "TODO_BM_066006",
+      "en": "TODO_EN_066006",
+      "audio": "./assets/audio/066/066006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_066007",
+      "bm": "TODO_BM_066007",
+      "en": "TODO_EN_066007",
+      "audio": "./assets/audio/066/066007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_066008",
+      "bm": "TODO_BM_066008",
+      "en": "TODO_EN_066008",
+      "audio": "./assets/audio/066/066008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_066009",
+      "bm": "TODO_BM_066009",
+      "en": "TODO_EN_066009",
+      "audio": "./assets/audio/066/066009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_066010",
+      "bm": "TODO_BM_066010",
+      "en": "TODO_EN_066010",
+      "audio": "./assets/audio/066/066010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_066011",
+      "bm": "TODO_BM_066011",
+      "en": "TODO_EN_066011",
+      "audio": "./assets/audio/066/066011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_066012",
+      "bm": "TODO_BM_066012",
+      "en": "TODO_EN_066012",
+      "audio": "./assets/audio/066/066012.mp3"
+    }
+  ]
+}

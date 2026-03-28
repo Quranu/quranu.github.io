@@ -1,0 +1,40 @@
+SURAH_NUMBER: 111
+NAME_AR: المسد
+NAME_BM: Sabut
+NAME_EN: The Palm Fiber
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/111/111000.mp3
+
+# Ayah 1
+AR: TODO_AR_111001
+BM: TODO_BM_111001
+EN: TODO_EN_111001
+AUDIO: ./assets/audio/111/111001.mp3
+
+# Ayah 2
+AR: TODO_AR_111002
+BM: TODO_BM_111002
+EN: TODO_EN_111002
+AUDIO: ./assets/audio/111/111002.mp3
+
+# Ayah 3
+AR: TODO_AR_111003
+BM: TODO_BM_111003
+EN: TODO_EN_111003
+AUDIO: ./assets/audio/111/111003.mp3
+
+# Ayah 4
+AR: TODO_AR_111004
+BM: TODO_BM_111004
+EN: TODO_EN_111004
+AUDIO: ./assets/audio/111/111004.mp3
+
+# Ayah 5
+AR: TODO_AR_111005
+BM: TODO_BM_111005
+EN: TODO_EN_111005
+AUDIO: ./assets/audio/111/111005.mp3

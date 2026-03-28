@@ -1,0 +1,151 @@
+{
+  "surahNumber": 96,
+  "name": {
+    "ar": "العلق",
+    "bm": "Segumpal Darah",
+    "en": "The Clinging Clot"
+  },
+  "totalAyahs": 19,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/096/096000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_096001",
+      "bm": "TODO_BM_096001",
+      "en": "TODO_EN_096001",
+      "audio": "./assets/audio/096/096001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_096002",
+      "bm": "TODO_BM_096002",
+      "en": "TODO_EN_096002",
+      "audio": "./assets/audio/096/096002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_096003",
+      "bm": "TODO_BM_096003",
+      "en": "TODO_EN_096003",
+      "audio": "./assets/audio/096/096003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_096004",
+      "bm": "TODO_BM_096004",
+      "en": "TODO_EN_096004",
+      "audio": "./assets/audio/096/096004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_096005",
+      "bm": "TODO_BM_096005",
+      "en": "TODO_EN_096005",
+      "audio": "./assets/audio/096/096005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_096006",
+      "bm": "TODO_BM_096006",
+      "en": "TODO_EN_096006",
+      "audio": "./assets/audio/096/096006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_096007",
+      "bm": "TODO_BM_096007",
+      "en": "TODO_EN_096007",
+      "audio": "./assets/audio/096/096007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_096008",
+      "bm": "TODO_BM_096008",
+      "en": "TODO_EN_096008",
+      "audio": "./assets/audio/096/096008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_096009",
+      "bm": "TODO_BM_096009",
+      "en": "TODO_EN_096009",
+      "audio": "./assets/audio/096/096009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_096010",
+      "bm": "TODO_BM_096010",
+      "en": "TODO_EN_096010",
+      "audio": "./assets/audio/096/096010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_096011",
+      "bm": "TODO_BM_096011",
+      "en": "TODO_EN_096011",
+      "audio": "./assets/audio/096/096011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_096012",
+      "bm": "TODO_BM_096012",
+      "en": "TODO_EN_096012",
+      "audio": "./assets/audio/096/096012.mp3"
+    },
+    {
+      "number": 13,
+      "arabic": "TODO_AR_096013",
+      "bm": "TODO_BM_096013",
+      "en": "TODO_EN_096013",
+      "audio": "./assets/audio/096/096013.mp3"
+    },
+    {
+      "number": 14,
+      "arabic": "TODO_AR_096014",
+      "bm": "TODO_BM_096014",
+      "en": "TODO_EN_096014",
+      "audio": "./assets/audio/096/096014.mp3"
+    },
+    {
+      "number": 15,
+      "arabic": "TODO_AR_096015",
+      "bm": "TODO_BM_096015",
+      "en": "TODO_EN_096015",
+      "audio": "./assets/audio/096/096015.mp3"
+    },
+    {
+      "number": 16,
+      "arabic": "TODO_AR_096016",
+      "bm": "TODO_BM_096016",
+      "en": "TODO_EN_096016",
+      "audio": "./assets/audio/096/096016.mp3"
+    },
+    {
+      "number": 17,
+      "arabic": "TODO_AR_096017",
+      "bm": "TODO_BM_096017",
+      "en": "TODO_EN_096017",
+      "audio": "./assets/audio/096/096017.mp3"
+    },
+    {
+      "number": 18,
+      "arabic": "TODO_AR_096018",
+      "bm": "TODO_BM_096018",
+      "en": "TODO_EN_096018",
+      "audio": "./assets/audio/096/096018.mp3"
+    },
+    {
+      "number": 19,
+      "arabic": "TODO_AR_096019",
+      "bm": "TODO_BM_096019",
+      "en": "TODO_EN_096019",
+      "audio": "./assets/audio/096/096019.mp3"
+    }
+  ]
+}

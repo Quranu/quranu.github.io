@@ -38,7 +38,6 @@ const elements = {
   searchHint: document.querySelector("#search-hint"),
   searchFeedback: document.querySelector("#search-feedback"),
   searchResults: document.querySelector("#search-results"),
-  surahCount: document.querySelector("#surah-count"),
   surahList: document.querySelector("#surah-list"),
   readerHeading: document.querySelector("#reader-heading"),
   backToList: document.querySelector("#back-to-list"),
@@ -105,6 +104,16 @@ function bindEvents() {
     }
 
     const number = Number(button.dataset.surahNumber);
+
+    if (number === appState.activeSurahNumber && appState.activeSurah?.surahNumber === number) {
+      if (appState.isMobile) {
+        appState.mobileView = "reader";
+        syncResponsiveLayout();
+        scrollToReader();
+      }
+      return;
+    }
+
     await loadSurah(number);
 
     if (appState.isMobile) {
@@ -198,13 +207,7 @@ function syncResponsiveLayout() {
 }
 
 function renderSurahList() {
-  const total = appState.catalog.length;
   const visible = appState.filteredCatalog.length;
-
-  elements.surahCount.textContent = translate(appState.language, "searchCount", {
-    visible,
-    total,
-  });
 
   if (appState.searchMode === "keyword") {
     elements.surahList.innerHTML = "";
@@ -219,10 +222,6 @@ function renderSurahList() {
   elements.surahList.innerHTML = appState.filteredCatalog
     .map((surah) => {
       const isActive = surah.number === appState.activeSurahNumber;
-      const availabilityText = translate(
-        appState.language,
-        surah.available ? "available" : "unavailable",
-      );
       const displayNames = getSurahCardDisplayNames(surah);
 
       return `
@@ -238,9 +237,6 @@ function renderSurahList() {
               <p class="surah-meta">${displayNames.secondary} • ${surah.name.ar}</p>
               <p class="surah-meta">${formatVerseCount(surah.totalAyahs)}</p>
             </div>
-            <span class="availability-pill ${surah.available ? "available" : ""}">
-              ${availabilityText}
-            </span>
           </div>
         </button>
       `;
@@ -264,8 +260,7 @@ function renderSearchResults() {
 
   elements.searchResults.innerHTML = appState.searchResults
     .map((result) => {
-      const primaryName =
-        appState.language === "ms" ? result.surahName.bm : result.surahName.en;
+      const primaryName = getSuraDisplayName(result);
       const snippet = highlightMatch(result.snippet, result.query);
 
       return `
@@ -391,9 +386,7 @@ function renderReader() {
 
   if (selected && !surah) {
     resetReaderPanelPosition();
-    const pendingName =
-      appState.language === "ms" ? selected.name.bm : selected.name.en;
-    elements.readerHeading.textContent = formatSuraTitle(selected.number, pendingName);
+    elements.readerHeading.textContent = formatSuraTitle(selected.number, getSuraDisplayName(selected));
   }
 
   if (!surah) {
@@ -402,9 +395,7 @@ function renderReader() {
   }
 
   resetReaderPanelPosition();
-  const headingName =
-    appState.language === "ms" ? surah.name.bm : surah.name.en;
-  elements.readerHeading.textContent = formatSuraTitle(surah.surahNumber, headingName);
+  elements.readerHeading.textContent = formatSuraTitle(surah.surahNumber, getSuraDisplayName(surah));
 
   elements.ayahList.innerHTML = surah.ayahs
     .map((ayah) => {
@@ -481,10 +472,29 @@ function resetReaderPanelPosition() {
 
 function getSurahCardDisplayNames(surah) {
   return {
-    primary: appState.language === "ms"
-      ? bmTranslatedSuraNames[surah.number] ?? surah.name.en ?? surah.name.bm
-      : surah.name.en,
-    secondary: surah.name.bm,
+    primary: getSuraDisplayName(surah),
+    secondary: getSuraSecondaryName(surah),
+  };
+}
+
+function getSuraDisplayName(suraLike) {
+  const { number, name } = getSuraNameParts(suraLike);
+  if (appState.language === "ms") {
+    return bmTranslatedSuraNames[number] ?? name.en ?? name.bm;
+  }
+
+  return name.en;
+}
+
+function getSuraSecondaryName(suraLike) {
+  const { name } = getSuraNameParts(suraLike);
+  return name.bm;
+}
+
+function getSuraNameParts(suraLike) {
+  return {
+    number: suraLike.number ?? suraLike.surahNumber,
+    name: suraLike.name ?? suraLike.surahName,
   };
 }
 

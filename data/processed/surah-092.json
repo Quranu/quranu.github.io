@@ -1,0 +1,165 @@
+{
+  "surahNumber": 92,
+  "name": {
+    "ar": "الليل",
+    "bm": "Malam",
+    "en": "The Night"
+  },
+  "totalAyahs": 21,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/092/092000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_092001",
+      "bm": "TODO_BM_092001",
+      "en": "TODO_EN_092001",
+      "audio": "./assets/audio/092/092001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_092002",
+      "bm": "TODO_BM_092002",
+      "en": "TODO_EN_092002",
+      "audio": "./assets/audio/092/092002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_092003",
+      "bm": "TODO_BM_092003",
+      "en": "TODO_EN_092003",
+      "audio": "./assets/audio/092/092003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_092004",
+      "bm": "TODO_BM_092004",
+      "en": "TODO_EN_092004",
+      "audio": "./assets/audio/092/092004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_092005",
+      "bm": "TODO_BM_092005",
+      "en": "TODO_EN_092005",
+      "audio": "./assets/audio/092/092005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_092006",
+      "bm": "TODO_BM_092006",
+      "en": "TODO_EN_092006",
+      "audio": "./assets/audio/092/092006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_092007",
+      "bm": "TODO_BM_092007",
+      "en": "TODO_EN_092007",
+      "audio": "./assets/audio/092/092007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_092008",
+      "bm": "TODO_BM_092008",
+      "en": "TODO_EN_092008",
+      "audio": "./assets/audio/092/092008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_092009",
+      "bm": "TODO_BM_092009",
+      "en": "TODO_EN_092009",
+      "audio": "./assets/audio/092/092009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_092010",
+      "bm": "TODO_BM_092010",
+      "en": "TODO_EN_092010",
+      "audio": "./assets/audio/092/092010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_092011",
+      "bm": "TODO_BM_092011",
+      "en": "TODO_EN_092011",
+      "audio": "./assets/audio/092/092011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_092012",
+      "bm": "TODO_BM_092012",
+      "en": "TODO_EN_092012",
+      "audio": "./assets/audio/092/092012.mp3"
+    },
+    {
+      "number": 13,
+      "arabic": "TODO_AR_092013",
+      "bm": "TODO_BM_092013",
+      "en": "TODO_EN_092013",
+      "audio": "./assets/audio/092/092013.mp3"
+    },
+    {
+      "number": 14,
+      "arabic": "TODO_AR_092014",
+      "bm": "TODO_BM_092014",
+      "en": "TODO_EN_092014",
+      "audio": "./assets/audio/092/092014.mp3"
+    },
+    {
+      "number": 15,
+      "arabic": "TODO_AR_092015",
+      "bm": "TODO_BM_092015",
+      "en": "TODO_EN_092015",
+      "audio": "./assets/audio/092/092015.mp3"
+    },
+    {
+      "number": 16,
+      "arabic": "TODO_AR_092016",
+      "bm": "TODO_BM_092016",
+      "en": "TODO_EN_092016",
+      "audio": "./assets/audio/092/092016.mp3"
+    },
+    {
+      "number": 17,
+      "arabic": "TODO_AR_092017",
+      "bm": "TODO_BM_092017",
+      "en": "TODO_EN_092017",
+      "audio": "./assets/audio/092/092017.mp3"
+    },
+    {
+      "number": 18,
+      "arabic": "TODO_AR_092018",
+      "bm": "TODO_BM_092018",
+      "en": "TODO_EN_092018",
+      "audio": "./assets/audio/092/092018.mp3"
+    },
+    {
+      "number": 19,
+      "arabic": "TODO_AR_092019",
+      "bm": "TODO_BM_092019",
+      "en": "TODO_EN_092019",
+      "audio": "./assets/audio/092/092019.mp3"
+    },
+    {
+      "number": 20,
+      "arabic": "TODO_AR_092020",
+      "bm": "TODO_BM_092020",
+      "en": "TODO_EN_092020",
+      "audio": "./assets/audio/092/092020.mp3"
+    },
+    {
+      "number": 21,
+      "arabic": "TODO_AR_092021",
+      "bm": "TODO_BM_092021",
+      "en": "TODO_EN_092021",
+      "audio": "./assets/audio/092/092021.mp3"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+SURAH_NUMBER: 107
+NAME_AR: الماعون
+NAME_BM: Bantuan Kecil
+NAME_EN: Small Kindnesses
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/107/107000.mp3
+
+# Ayah 1
+AR: TODO_AR_107001
+BM: TODO_BM_107001
+EN: TODO_EN_107001
+AUDIO: ./assets/audio/107/107001.mp3
+
+# Ayah 2
+AR: TODO_AR_107002
+BM: TODO_BM_107002
+EN: TODO_EN_107002
+AUDIO: ./assets/audio/107/107002.mp3
+
+# Ayah 3
+AR: TODO_AR_107003
+BM: TODO_BM_107003
+EN: TODO_EN_107003
+AUDIO: ./assets/audio/107/107003.mp3
+
+# Ayah 4
+AR: TODO_AR_107004
+BM: TODO_BM_107004
+EN: TODO_EN_107004
+AUDIO: ./assets/audio/107/107004.mp3
+
+# Ayah 5
+AR: TODO_AR_107005
+BM: TODO_BM_107005
+EN: TODO_EN_107005
+AUDIO: ./assets/audio/107/107005.mp3
+
+# Ayah 6
+AR: TODO_AR_107006
+BM: TODO_BM_107006
+EN: TODO_EN_107006
+AUDIO: ./assets/audio/107/107006.mp3
+
+# Ayah 7
+AR: TODO_AR_107007
+BM: TODO_BM_107007
+EN: TODO_EN_107007
+AUDIO: ./assets/audio/107/107007.mp3

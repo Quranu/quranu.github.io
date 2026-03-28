@@ -1,0 +1,74 @@
+{
+  "surahNumber": 102,
+  "name": {
+    "ar": "التكاثر",
+    "bm": "Bermegah-Megahan",
+    "en": "Rivalry in World Increase"
+  },
+  "totalAyahs": 8,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/102/102000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_102001",
+      "bm": "TODO_BM_102001",
+      "en": "TODO_EN_102001",
+      "audio": "./assets/audio/102/102001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_102002",
+      "bm": "TODO_BM_102002",
+      "en": "TODO_EN_102002",
+      "audio": "./assets/audio/102/102002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_102003",
+      "bm": "TODO_BM_102003",
+      "en": "TODO_EN_102003",
+      "audio": "./assets/audio/102/102003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_102004",
+      "bm": "TODO_BM_102004",
+      "en": "TODO_EN_102004",
+      "audio": "./assets/audio/102/102004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_102005",
+      "bm": "TODO_BM_102005",
+      "en": "TODO_EN_102005",
+      "audio": "./assets/audio/102/102005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_102006",
+      "bm": "TODO_BM_102006",
+      "en": "TODO_EN_102006",
+      "audio": "./assets/audio/102/102006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_102007",
+      "bm": "TODO_BM_102007",
+      "en": "TODO_EN_102007",
+      "audio": "./assets/audio/102/102007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_102008",
+      "bm": "TODO_BM_102008",
+      "en": "TODO_EN_102008",
+      "audio": "./assets/audio/102/102008.mp3"
+    }
+  ]
+}

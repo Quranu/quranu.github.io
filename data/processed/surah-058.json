@@ -1,0 +1,172 @@
+{
+  "surahNumber": 58,
+  "name": {
+    "ar": "المجادلة",
+    "bm": "Wanita Yang Mengajukan Gugatan",
+    "en": "The Pleading Woman"
+  },
+  "totalAyahs": 22,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/058/058000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_058001",
+      "bm": "TODO_BM_058001",
+      "en": "TODO_EN_058001",
+      "audio": "./assets/audio/058/058001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_058002",
+      "bm": "TODO_BM_058002",
+      "en": "TODO_EN_058002",
+      "audio": "./assets/audio/058/058002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_058003",
+      "bm": "TODO_BM_058003",
+      "en": "TODO_EN_058003",
+      "audio": "./assets/audio/058/058003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_058004",
+      "bm": "TODO_BM_058004",
+      "en": "TODO_EN_058004",
+      "audio": "./assets/audio/058/058004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_058005",
+      "bm": "TODO_BM_058005",
+      "en": "TODO_EN_058005",
+      "audio": "./assets/audio/058/058005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_058006",
+      "bm": "TODO_BM_058006",
+      "en": "TODO_EN_058006",
+      "audio": "./assets/audio/058/058006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_058007",
+      "bm": "TODO_BM_058007",
+      "en": "TODO_EN_058007",
+      "audio": "./assets/audio/058/058007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_058008",
+      "bm": "TODO_BM_058008",
+      "en": "TODO_EN_058008",
+      "audio": "./assets/audio/058/058008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_058009",
+      "bm": "TODO_BM_058009",
+      "en": "TODO_EN_058009",
+      "audio": "./assets/audio/058/058009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_058010",
+      "bm": "TODO_BM_058010",
+      "en": "TODO_EN_058010",
+      "audio": "./assets/audio/058/058010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_058011",
+      "bm": "TODO_BM_058011",
+      "en": "TODO_EN_058011",
+      "audio": "./assets/audio/058/058011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_058012",
+      "bm": "TODO_BM_058012",
+      "en": "TODO_EN_058012",
+      "audio": "./assets/audio/058/058012.mp3"
+    },
+    {
+      "number": 13,
+      "arabic": "TODO_AR_058013",
+      "bm": "TODO_BM_058013",
+      "en": "TODO_EN_058013",
+      "audio": "./assets/audio/058/058013.mp3"
+    },
+    {
+      "number": 14,
+      "arabic": "TODO_AR_058014",
+      "bm": "TODO_BM_058014",
+      "en": "TODO_EN_058014",
+      "audio": "./assets/audio/058/058014.mp3"
+    },
+    {
+      "number": 15,
+      "arabic": "TODO_AR_058015",
+      "bm": "TODO_BM_058015",
+      "en": "TODO_EN_058015",
+      "audio": "./assets/audio/058/058015.mp3"
+    },
+    {
+      "number": 16,
+      "arabic": "TODO_AR_058016",
+      "bm": "TODO_BM_058016",
+      "en": "TODO_EN_058016",
+      "audio": "./assets/audio/058/058016.mp3"
+    },
+    {
+      "number": 17,
+      "arabic": "TODO_AR_058017",
+      "bm": "TODO_BM_058017",
+      "en": "TODO_EN_058017",
+      "audio": "./assets/audio/058/058017.mp3"
+    },
+    {
+      "number": 18,
+      "arabic": "TODO_AR_058018",
+      "bm": "TODO_BM_058018",
+      "en": "TODO_EN_058018",
+      "audio": "./assets/audio/058/058018.mp3"
+    },
+    {
+      "number": 19,
+      "arabic": "TODO_AR_058019",
+      "bm": "TODO_BM_058019",
+      "en": "TODO_EN_058019",
+      "audio": "./assets/audio/058/058019.mp3"
+    },
+    {
+      "number": 20,
+      "arabic": "TODO_AR_058020",
+      "bm": "TODO_BM_058020",
+      "en": "TODO_EN_058020",
+      "audio": "./assets/audio/058/058020.mp3"
+    },
+    {
+      "number": 21,
+      "arabic": "TODO_AR_058021",
+      "bm": "TODO_BM_058021",
+      "en": "TODO_EN_058021",
+      "audio": "./assets/audio/058/058021.mp3"
+    },
+    {
+      "number": 22,
+      "arabic": "TODO_AR_058022",
+      "bm": "TODO_BM_058022",
+      "en": "TODO_EN_058022",
+      "audio": "./assets/audio/058/058022.mp3"
+    }
+  ]
+}

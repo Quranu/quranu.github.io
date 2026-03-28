@@ -1,0 +1,74 @@
+{
+  "surahNumber": 98,
+  "name": {
+    "ar": "البينة",
+    "bm": "Bukti Nyata",
+    "en": "The Clear Proof"
+  },
+  "totalAyahs": 8,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/098/098000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_098001",
+      "bm": "TODO_BM_098001",
+      "en": "TODO_EN_098001",
+      "audio": "./assets/audio/098/098001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_098002",
+      "bm": "TODO_BM_098002",
+      "en": "TODO_EN_098002",
+      "audio": "./assets/audio/098/098002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_098003",
+      "bm": "TODO_BM_098003",
+      "en": "TODO_EN_098003",
+      "audio": "./assets/audio/098/098003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_098004",
+      "bm": "TODO_BM_098004",
+      "en": "TODO_EN_098004",
+      "audio": "./assets/audio/098/098004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_098005",
+      "bm": "TODO_BM_098005",
+      "en": "TODO_EN_098005",
+      "audio": "./assets/audio/098/098005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_098006",
+      "bm": "TODO_BM_098006",
+      "en": "TODO_EN_098006",
+      "audio": "./assets/audio/098/098006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_098007",
+      "bm": "TODO_BM_098007",
+      "en": "TODO_EN_098007",
+      "audio": "./assets/audio/098/098007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_098008",
+      "bm": "TODO_BM_098008",
+      "en": "TODO_EN_098008",
+      "audio": "./assets/audio/098/098008.mp3"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+SURAH_NUMBER: 114
+NAME_AR: الناس
+NAME_BM: Manusia
+NAME_EN: Mankind
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/114/114000.mp3
+
+# Ayah 1
+AR: TODO_AR_114001
+BM: TODO_BM_114001
+EN: TODO_EN_114001
+AUDIO: ./assets/audio/114/114001.mp3
+
+# Ayah 2
+AR: TODO_AR_114002
+BM: TODO_BM_114002
+EN: TODO_EN_114002
+AUDIO: ./assets/audio/114/114002.mp3
+
+# Ayah 3
+AR: TODO_AR_114003
+BM: TODO_BM_114003
+EN: TODO_EN_114003
+AUDIO: ./assets/audio/114/114003.mp3
+
+# Ayah 4
+AR: TODO_AR_114004
+BM: TODO_BM_114004
+EN: TODO_EN_114004
+AUDIO: ./assets/audio/114/114004.mp3
+
+# Ayah 5
+AR: TODO_AR_114005
+BM: TODO_BM_114005
+EN: TODO_EN_114005
+AUDIO: ./assets/audio/114/114005.mp3
+
+# Ayah 6
+AR: TODO_AR_114006
+BM: TODO_BM_114006
+EN: TODO_EN_114006
+AUDIO: ./assets/audio/114/114006.mp3

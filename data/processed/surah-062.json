@@ -1,0 +1,95 @@
+{
+  "surahNumber": 62,
+  "name": {
+    "ar": "الجمعة",
+    "bm": "Hari Jumat",
+    "en": "The Congregation"
+  },
+  "totalAyahs": 11,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/062/062000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_062001",
+      "bm": "TODO_BM_062001",
+      "en": "TODO_EN_062001",
+      "audio": "./assets/audio/062/062001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_062002",
+      "bm": "TODO_BM_062002",
+      "en": "TODO_EN_062002",
+      "audio": "./assets/audio/062/062002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_062003",
+      "bm": "TODO_BM_062003",
+      "en": "TODO_EN_062003",
+      "audio": "./assets/audio/062/062003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_062004",
+      "bm": "TODO_BM_062004",
+      "en": "TODO_EN_062004",
+      "audio": "./assets/audio/062/062004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_062005",
+      "bm": "TODO_BM_062005",
+      "en": "TODO_EN_062005",
+      "audio": "./assets/audio/062/062005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_062006",
+      "bm": "TODO_BM_062006",
+      "en": "TODO_EN_062006",
+      "audio": "./assets/audio/062/062006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_062007",
+      "bm": "TODO_BM_062007",
+      "en": "TODO_EN_062007",
+      "audio": "./assets/audio/062/062007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_062008",
+      "bm": "TODO_BM_062008",
+      "en": "TODO_EN_062008",
+      "audio": "./assets/audio/062/062008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_062009",
+      "bm": "TODO_BM_062009",
+      "en": "TODO_EN_062009",
+      "audio": "./assets/audio/062/062009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_062010",
+      "bm": "TODO_BM_062010",
+      "en": "TODO_EN_062010",
+      "audio": "./assets/audio/062/062010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_062011",
+      "bm": "TODO_BM_062011",
+      "en": "TODO_EN_062011",
+      "audio": "./assets/audio/062/062011.mp3"
+    }
+  ]
+}

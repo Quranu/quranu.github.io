@@ -1,0 +1,60 @@
+{
+  "surahNumber": 109,
+  "name": {
+    "ar": "الكافرون",
+    "bm": "Orang Kafir",
+    "en": "The Disbelievers"
+  },
+  "totalAyahs": 6,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/109/109000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_109001",
+      "bm": "TODO_BM_109001",
+      "en": "TODO_EN_109001",
+      "audio": "./assets/audio/109/109001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_109002",
+      "bm": "TODO_BM_109002",
+      "en": "TODO_EN_109002",
+      "audio": "./assets/audio/109/109002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_109003",
+      "bm": "TODO_BM_109003",
+      "en": "TODO_EN_109003",
+      "audio": "./assets/audio/109/109003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_109004",
+      "bm": "TODO_BM_109004",
+      "en": "TODO_EN_109004",
+      "audio": "./assets/audio/109/109004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_109005",
+      "bm": "TODO_BM_109005",
+      "en": "TODO_EN_109005",
+      "audio": "./assets/audio/109/109005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_109006",
+      "bm": "TODO_BM_109006",
+      "en": "TODO_EN_109006",
+      "audio": "./assets/audio/109/109006.mp3"
+    }
+  ]
+}

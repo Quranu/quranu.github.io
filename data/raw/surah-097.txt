@@ -1,0 +1,40 @@
+SURAH_NUMBER: 97
+NAME_AR: القدر
+NAME_BM: Kemuliaan
+NAME_EN: The Power
+---
+# Ayah 0
+AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.
+AUDIO: ./assets/audio/097/097000.mp3
+
+# Ayah 1
+AR: TODO_AR_097001
+BM: TODO_BM_097001
+EN: TODO_EN_097001
+AUDIO: ./assets/audio/097/097001.mp3
+
+# Ayah 2
+AR: TODO_AR_097002
+BM: TODO_BM_097002
+EN: TODO_EN_097002
+AUDIO: ./assets/audio/097/097002.mp3
+
+# Ayah 3
+AR: TODO_AR_097003
+BM: TODO_BM_097003
+EN: TODO_EN_097003
+AUDIO: ./assets/audio/097/097003.mp3
+
+# Ayah 4
+AR: TODO_AR_097004
+BM: TODO_BM_097004
+EN: TODO_EN_097004
+AUDIO: ./assets/audio/097/097004.mp3
+
+# Ayah 5
+AR: TODO_AR_097005
+BM: TODO_BM_097005
+EN: TODO_EN_097005
+AUDIO: ./assets/audio/097/097005.mp3

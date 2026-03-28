@@ -1,0 +1,53 @@
+{
+  "surahNumber": 111,
+  "name": {
+    "ar": "المسد",
+    "bm": "Sabut",
+    "en": "The Palm Fiber"
+  },
+  "totalAyahs": 5,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/111/111000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_111001",
+      "bm": "TODO_BM_111001",
+      "en": "TODO_EN_111001",
+      "audio": "./assets/audio/111/111001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_111002",
+      "bm": "TODO_BM_111002",
+      "en": "TODO_EN_111002",
+      "audio": "./assets/audio/111/111002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_111003",
+      "bm": "TODO_BM_111003",
+      "en": "TODO_EN_111003",
+      "audio": "./assets/audio/111/111003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_111004",
+      "bm": "TODO_BM_111004",
+      "en": "TODO_EN_111004",
+      "audio": "./assets/audio/111/111004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_111005",
+      "bm": "TODO_BM_111005",
+      "en": "TODO_EN_111005",
+      "audio": "./assets/audio/111/111005.mp3"
+    }
+  ]
+}

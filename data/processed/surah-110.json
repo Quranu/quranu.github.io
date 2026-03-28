@@ -1,0 +1,39 @@
+{
+  "surahNumber": 110,
+  "name": {
+    "ar": "النصر",
+    "bm": "Pertolongan",
+    "en": "Divine Support"
+  },
+  "totalAyahs": 3,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/110/110000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_110001",
+      "bm": "TODO_BM_110001",
+      "en": "TODO_EN_110001",
+      "audio": "./assets/audio/110/110001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_110002",
+      "bm": "TODO_BM_110002",
+      "en": "TODO_EN_110002",
+      "audio": "./assets/audio/110/110002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_110003",
+      "bm": "TODO_BM_110003",
+      "en": "TODO_EN_110003",
+      "audio": "./assets/audio/110/110003.mp3"
+    }
+  ]
+}

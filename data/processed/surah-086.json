@@ -1,0 +1,137 @@
+{
+  "surahNumber": 86,
+  "name": {
+    "ar": "الطارق",
+    "bm": "Yang Datang Malam",
+    "en": "The Nightcomer"
+  },
+  "totalAyahs": 17,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/086/086000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_086001",
+      "bm": "TODO_BM_086001",
+      "en": "TODO_EN_086001",
+      "audio": "./assets/audio/086/086001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_086002",
+      "bm": "TODO_BM_086002",
+      "en": "TODO_EN_086002",
+      "audio": "./assets/audio/086/086002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_086003",
+      "bm": "TODO_BM_086003",
+      "en": "TODO_EN_086003",
+      "audio": "./assets/audio/086/086003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_086004",
+      "bm": "TODO_BM_086004",
+      "en": "TODO_EN_086004",
+      "audio": "./assets/audio/086/086004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_086005",
+      "bm": "TODO_BM_086005",
+      "en": "TODO_EN_086005",
+      "audio": "./assets/audio/086/086005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_086006",
+      "bm": "TODO_BM_086006",
+      "en": "TODO_EN_086006",
+      "audio": "./assets/audio/086/086006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_086007",
+      "bm": "TODO_BM_086007",
+      "en": "TODO_EN_086007",
+      "audio": "./assets/audio/086/086007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_086008",
+      "bm": "TODO_BM_086008",
+      "en": "TODO_EN_086008",
+      "audio": "./assets/audio/086/086008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_086009",
+      "bm": "TODO_BM_086009",
+      "en": "TODO_EN_086009",
+      "audio": "./assets/audio/086/086009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_086010",
+      "bm": "TODO_BM_086010",
+      "en": "TODO_EN_086010",
+      "audio": "./assets/audio/086/086010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_086011",
+      "bm": "TODO_BM_086011",
+      "en": "TODO_EN_086011",
+      "audio": "./assets/audio/086/086011.mp3"
+    },
+    {
+      "number": 12,
+      "arabic": "TODO_AR_086012",
+      "bm": "TODO_BM_086012",
+      "en": "TODO_EN_086012",
+      "audio": "./assets/audio/086/086012.mp3"
+    },
+    {
+      "number": 13,
+      "arabic": "TODO_AR_086013",
+      "bm": "TODO_BM_086013",
+      "en": "TODO_EN_086013",
+      "audio": "./assets/audio/086/086013.mp3"
+    },
+    {
+      "number": 14,
+      "arabic": "TODO_AR_086014",
+      "bm": "TODO_BM_086014",
+      "en": "TODO_EN_086014",
+      "audio": "./assets/audio/086/086014.mp3"
+    },
+    {
+      "number": 15,
+      "arabic": "TODO_AR_086015",
+      "bm": "TODO_BM_086015",
+      "en": "TODO_EN_086015",
+      "audio": "./assets/audio/086/086015.mp3"
+    },
+    {
+      "number": 16,
+      "arabic": "TODO_AR_086016",
+      "bm": "TODO_BM_086016",
+      "en": "TODO_EN_086016",
+      "audio": "./assets/audio/086/086016.mp3"
+    },
+    {
+      "number": 17,
+      "arabic": "TODO_AR_086017",
+      "bm": "TODO_BM_086017",
+      "en": "TODO_EN_086017",
+      "audio": "./assets/audio/086/086017.mp3"
+    }
+  ]
+}

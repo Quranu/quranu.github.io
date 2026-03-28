@@ -1,0 +1,95 @@
+{
+  "surahNumber": 101,
+  "name": {
+    "ar": "القارعة",
+    "bm": "Hari Kiamat",
+    "en": "The Calamity"
+  },
+  "totalAyahs": 11,
+  "ayahs": [
+    {
+      "number": 0,
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
+      "en": "In the name of GOD, Most Gracious, Most Merciful.",
+      "audio": "./assets/audio/101/101000.mp3"
+    },
+    {
+      "number": 1,
+      "arabic": "TODO_AR_101001",
+      "bm": "TODO_BM_101001",
+      "en": "TODO_EN_101001",
+      "audio": "./assets/audio/101/101001.mp3"
+    },
+    {
+      "number": 2,
+      "arabic": "TODO_AR_101002",
+      "bm": "TODO_BM_101002",
+      "en": "TODO_EN_101002",
+      "audio": "./assets/audio/101/101002.mp3"
+    },
+    {
+      "number": 3,
+      "arabic": "TODO_AR_101003",
+      "bm": "TODO_BM_101003",
+      "en": "TODO_EN_101003",
+      "audio": "./assets/audio/101/101003.mp3"
+    },
+    {
+      "number": 4,
+      "arabic": "TODO_AR_101004",
+      "bm": "TODO_BM_101004",
+      "en": "TODO_EN_101004",
+      "audio": "./assets/audio/101/101004.mp3"
+    },
+    {
+      "number": 5,
+      "arabic": "TODO_AR_101005",
+      "bm": "TODO_BM_101005",
+      "en": "TODO_EN_101005",
+      "audio": "./assets/audio/101/101005.mp3"
+    },
+    {
+      "number": 6,
+      "arabic": "TODO_AR_101006",
+      "bm": "TODO_BM_101006",
+      "en": "TODO_EN_101006",
+      "audio": "./assets/audio/101/101006.mp3"
+    },
+    {
+      "number": 7,
+      "arabic": "TODO_AR_101007",
+      "bm": "TODO_BM_101007",
+      "en": "TODO_EN_101007",
+      "audio": "./assets/audio/101/101007.mp3"
+    },
+    {
+      "number": 8,
+      "arabic": "TODO_AR_101008",
+      "bm": "TODO_BM_101008",
+      "en": "TODO_EN_101008",
+      "audio": "./assets/audio/101/101008.mp3"
+    },
+    {
+      "number": 9,
+      "arabic": "TODO_AR_101009",
+      "bm": "TODO_BM_101009",
+      "en": "TODO_EN_101009",
+      "audio": "./assets/audio/101/101009.mp3"
+    },
+    {
+      "number": 10,
+      "arabic": "TODO_AR_101010",
+      "bm": "TODO_BM_101010",
+      "en": "TODO_EN_101010",
+      "audio": "./assets/audio/101/101010.mp3"
+    },
+    {
+      "number": 11,
+      "arabic": "TODO_AR_101011",
+      "bm": "TODO_BM_101011",
+      "en": "TODO_EN_101011",
+      "audio": "./assets/audio/101/101011.mp3"
+    }
+  ]
+}
