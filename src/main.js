@@ -438,7 +438,7 @@ function renderReader() {
           <div class="translation-block">
             <p class="ayah-translation">${translation}</p>
             <p class="ayah-arabic" dir="rtl">${ayah.arabic}</p>
-            ${footnote ? `<p class="ayah-footnote">${footnote}</p>` : ""}
+            ${footnote ? `<div class="ayah-footnote">${formatTrustedFootnoteHtml(footnote)}</div>` : ""}
           </div>
         </article>
       `;
@@ -500,6 +500,42 @@ function getSuraNameParts(suraLike) {
 
 function formatVerseCount(totalAyahs) {
   return translate(appState.language, "verseCount", { count: totalAyahs });
+}
+
+function formatTrustedFootnoteHtml(content) {
+  const tableRegex = /<table[\s\S]*?<\/table>/gi;
+  const parts = [];
+  let lastIndex = 0;
+
+  for (const match of content.matchAll(tableRegex)) {
+    const [tableHtml] = match;
+    const matchIndex = match.index ?? 0;
+
+    if (matchIndex > lastIndex) {
+      parts.push(formatFootnoteTextBlock(content.slice(lastIndex, matchIndex)));
+    }
+
+    parts.push(`<div class="ayah-footnote-table-wrap">${tableHtml}</div>`);
+    lastIndex = matchIndex + tableHtml.length;
+  }
+
+  if (lastIndex < content.length) {
+    parts.push(formatFootnoteTextBlock(content.slice(lastIndex)));
+  }
+
+  return parts.filter(Boolean).join("");
+}
+
+function formatFootnoteTextBlock(text) {
+  const normalized = text.trim();
+  if (!normalized) {
+    return "";
+  }
+
+  return normalized
+    .split(/\n\s*\n/)
+    .map((paragraph) => `<p>${escapeHtml(paragraph).replace(/\n/g, "<br />")}</p>`)
+    .join("");
 }
 
 function formatAyahReference(surahNumber, ayahNumber) {

@@ -72,17 +72,15 @@ function main() {
 }
 
 function parseSurahFile(content) {
-  const lines = content
-    .split(/\r?\n/)
-    .map((line) => line.trim());
+  const lines = content.split(/\r?\n/);
 
-  const dividerIndex = lines.indexOf("---");
+  const dividerIndex = lines.findIndex((line) => line.trim() === "---");
   if (dividerIndex === -1) {
     throw new Error("Raw file is missing the --- divider line.");
   }
 
   const headers = Object.fromEntries(
-    lines.slice(0, dividerIndex).filter(Boolean).map((line) => {
+    lines.slice(0, dividerIndex).map((line) => line.trim()).filter(Boolean).map((line) => {
       const separatorIndex = line.indexOf(":");
       if (separatorIndex === -1) {
         throw new Error(`Invalid header line: ${line}`);
@@ -109,7 +107,7 @@ function parseSurahFile(content) {
 }
 
 function hasBlockAyahs(lines) {
-  return lines.some((line) => line.startsWith("#"));
+  return lines.some((line) => line.trim().startsWith("#"));
 }
 
 function parseLegacyAyahs(lines) {
@@ -132,35 +130,51 @@ function parseLegacyAyahs(lines) {
 function parseBlockAyahs(lines) {
   const ayahs = [];
   let currentAyah = null;
+  let currentFieldKey = null;
 
-  for (const line of lines) {
-    if (!line) {
+  for (const rawLine of lines) {
+    const trimmedLine = rawLine.trim();
+
+    if (!trimmedLine) {
+      if (currentAyah && currentFieldKey && isMultilineField(currentFieldKey)) {
+        appendFieldLine(currentAyah, currentFieldKey, "");
+      }
       continue;
     }
 
-    if (line.startsWith("#")) {
+    if (trimmedLine.startsWith("#")) {
       if (currentAyah) {
         ayahs.push(finalizeAyahBlock(currentAyah));
       }
 
       currentAyah = {
-        rawLabel: line,
+        rawLabel: trimmedLine,
       };
+      currentFieldKey = null;
       continue;
     }
 
     if (!currentAyah) {
-      throw new Error(`Found ayah field before ayah block header: ${line}`);
+      throw new Error(`Found ayah field before ayah block header: ${trimmedLine}`);
     }
 
-    const separatorIndex = line.indexOf(":");
-    if (separatorIndex === -1) {
-      throw new Error(`Invalid ayah field line: ${line}`);
+    const fieldMatch = rawLine.match(/^([A-Z_]+):\s?(.*)$/);
+    if (fieldMatch) {
+      const [, key, value] = fieldMatch;
+      currentAyah[key] = value.trimEnd();
+      currentFieldKey = key;
+      continue;
     }
 
-    const key = line.slice(0, separatorIndex).trim();
-    const value = line.slice(separatorIndex + 1).trim();
-    currentAyah[key] = value;
+    if (!currentFieldKey) {
+      throw new Error(`Invalid ayah field line: ${trimmedLine}`);
+    }
+
+    if (!isMultilineField(currentFieldKey)) {
+      throw new Error(`Field ${currentFieldKey} does not support multiline content.`);
+    }
+
+    appendFieldLine(currentAyah, currentFieldKey, rawLine.trimEnd());
   }
 
   if (currentAyah) {
@@ -168,6 +182,10 @@ function parseBlockAyahs(lines) {
   }
 
   return ayahs;
+}
+
+function appendFieldLine(block, key, line) {
+  block[key] = `${block[key]}\n${line}`;
 }
 
 function finalizeAyahBlock(block) {
@@ -208,7 +226,7 @@ function requireField(block, key, ayahNumber) {
     throw new Error(`Ayah ${ayahNumber} is missing required field ${key}`);
   }
 
-  return value;
+  return value.trim();
 }
 
 function buildOptionalLocalizedField(block, bmKey, enKey) {
@@ -223,7 +241,11 @@ function buildOptionalLocalizedField(block, bmKey, enKey) {
     throw new Error(`Optional localized field must include both ${bmKey} and ${enKey}`);
   }
 
-  return { bm, en };
+  return { bm: bm.trim(), en: en.trim() };
+}
+
+function isMultilineField(key) {
+  return key.startsWith("FOOTNOTE_");
 }
 
 function validateAyahs(surahNumber, ayahs, expectedOfficialAyahs) {

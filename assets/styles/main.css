@@ -1,3 +1,19 @@
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("../fonts/Vazirmatn-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("../fonts/Vazirmatn-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --bg: #f4ecdf;
   --panel: rgba(255, 251, 245, 0.9);
@@ -380,10 +396,12 @@ select {
 }
 
 .ayah-arabic {
-  font-family: "Amiri", "Noto Naskh Arabic", serif;
+  font-family: "Vazirmatn", "Amiri", "Noto Naskh Arabic", serif;
   font-size: clamp(1.55rem, 4.4vw, 2rem);
-  line-height: 1.8;
+  font-weight: 700;
+  line-height: 1.9;
   text-align: right;
+  direction: rtl;
   color: rgba(32, 21, 13, 0.82);
 }
 
@@ -395,6 +413,24 @@ select {
   opacity: 0.88;
   padding-top: 10px;
   border-top: 1px solid rgba(104, 72, 45, 0.12);
+}
+
+.ayah-footnote p {
+  margin: 0 0 12px;
+}
+
+.ayah-footnote p:last-child {
+  margin-bottom: 0;
+}
+
+.ayah-footnote-table-wrap {
+  overflow-x: auto;
+  margin: 8px 0 14px;
+  padding-bottom: 4px;
+}
+
+.ayah-footnote table {
+  max-width: 100%;
 }
 
 .search-results:empty {
