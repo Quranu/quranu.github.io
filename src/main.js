@@ -38,7 +38,6 @@ const elements = {
   searchResults: document.querySelector("#search-results"),
   surahCount: document.querySelector("#surah-count"),
   surahList: document.querySelector("#surah-list"),
-  readerKicker: document.querySelector("#reader-kicker"),
   readerHeading: document.querySelector("#reader-heading"),
   backToList: document.querySelector("#back-to-list"),
   readerIntro: document.querySelector("#reader-intro"),
@@ -173,7 +172,6 @@ function applyUiText() {
   elements.surahSearch.placeholder = translate(appState.language, "searchPlaceholder");
   elements.searchHint.textContent = translate(appState.language, "searchHint");
   elements.searchSubmit.textContent = translate(appState.language, "searchButton");
-  elements.readerKicker.textContent = translate(appState.language, "readerKicker");
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
   elements.introTitle.textContent = translate(appState.language, "introTitle");
@@ -390,7 +388,7 @@ function renderReader() {
   if (selected && !surah) {
     const pendingName =
       appState.language === "ms" ? selected.name.bm : selected.name.en;
-    elements.readerHeading.textContent = `${translate(appState.language, "readerHeading")}: ${pendingName}`;
+    elements.readerHeading.textContent = formatSuraTitle(selected.number, pendingName);
   }
 
   if (!surah) {
@@ -400,7 +398,7 @@ function renderReader() {
 
   const headingName =
     appState.language === "ms" ? surah.name.bm : surah.name.en;
-  elements.readerHeading.textContent = `${translate(appState.language, "readerHeading")}: ${headingName}`;
+  elements.readerHeading.textContent = formatSuraTitle(surah.surahNumber, headingName);
 
   elements.ayahList.innerHTML = surah.ayahs
     .map((ayah) => {
@@ -445,6 +443,10 @@ function getActiveTranslation(ayah) {
 
 function formatAyahReference(surahNumber, ayahNumber) {
   return `${surahNumber}:${ayahNumber}`;
+}
+
+function formatSuraTitle(suraNumber, suraName) {
+  return `${translate(appState.language, "readerHeading")} ${suraNumber}: ${suraName}`;
 }
 
 function parseSearchInput(rawQuery) {
