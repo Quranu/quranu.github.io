@@ -67,6 +67,7 @@
           <p class="search-hint" id="search-hint">
             Contoh: 114, 19:4, atau manusia.
           </p>
+          <button class="last-read-chip" id="last-read-chip" type="button" hidden></button>
           <div class="search-feedback" id="search-feedback" aria-live="polite"></div>
           <div class="search-results" id="search-results"></div>
           <div class="surah-list" id="surah-list" aria-live="polite"></div>
@@ -101,6 +102,8 @@
     >
       <span aria-hidden="true">↑</span>
     </button>
+
+    <div class="toast" id="app-toast" role="status" aria-live="polite" aria-atomic="true"></div>
 
     <script type="module" src="./src/main.js"></script>
   </body>

@@ -19,6 +19,8 @@ const appState = {
   availableSurahCache: new Map(),
   audioErrors: new Set(),
   searchQuery: "",
+  loadingSurahNumber: null,
+  surahRequestId: 0,
 };
 
 const elements = {
@@ -26,6 +28,7 @@ const elements = {
   listPanel: document.querySelector("#surah-list-panel"),
   readerPanel: document.querySelector("#reader-panel"),
   scrollTopButton: document.querySelector("#scroll-top-button"),
+  toast: document.querySelector("#app-toast"),
   appTitle: document.querySelector("#app-title"),
   appSubtitle: document.querySelector("#app-subtitle"),
   appKicker: document.querySelector("#app-kicker"),
@@ -38,6 +41,7 @@ const elements = {
   surahSearch: document.querySelector("#surah-search"),
   searchSubmit: document.querySelector("#search-submit"),
   searchHint: document.querySelector("#search-hint"),
+  lastReadChip: document.querySelector("#last-read-chip"),
   searchFeedback: document.querySelector("#search-feedback"),
   searchResults: document.querySelector("#search-results"),
   surahList: document.querySelector("#surah-list"),
@@ -50,6 +54,8 @@ const elements = {
 const audioController = new AudioController();
 const catalogUrl = new URL("../data/processed/surah-catalog.json", import.meta.url);
 const mobileMediaQuery = window.matchMedia("(max-width: 859px)");
+const LAST_READ_STORAGE_KEY = "quran-last-read";
+let ignoreNextHashChange = false;
 
 init().catch((error) => {
   console.error(error);
@@ -66,14 +72,45 @@ async function init() {
   appState.catalog = await catalogResponse.json();
   appState.filteredCatalog = [...appState.catalog];
 
+  const hashTarget = parseHashReference(window.location.hash);
+  const lastRead = getLastRead();
+  const shouldOpenReaderOnInit = appState.isMobile && Boolean(hashTarget || lastRead);
+  if (shouldOpenReaderOnInit) {
+    appState.mobileView = "reader";
+    syncResponsiveLayout();
+  }
+
   renderSurahList();
   renderSearchResults();
-  await loadSurah(1);
+
+  if (hashTarget) {
+    await openSurahAndMaybeAyah(hashTarget.surahNumber, hashTarget.ayahNumber);
+    renderLastReadChip();
+    return;
+  }
+
+  const initialSurahNumber = lastRead?.surahNumber ?? 1;
+  await loadSurah(initialSurahNumber);
+
+  if (lastRead && appState.isMobile) {
+    appState.mobileView = "reader";
+    syncResponsiveLayout();
+  }
+
+  if (lastRead?.ayahNumber && appState.activeSurah?.surahNumber === initialSurahNumber) {
+    const hasAyah = appState.activeSurah.ayahs.some((ayah) => ayah.number === lastRead.ayahNumber);
+    if (hasAyah) {
+      await jumpToAyah(lastRead.ayahNumber);
+    }
+  }
+
+  renderLastReadChip();
 }
 
 function bindEvents() {
   elements.languageSelect.value = appState.language;
   window.addEventListener("scroll", syncScrollTopButton, { passive: true });
+  window.addEventListener("hashchange", handleHashChange);
 
   mobileMediaQuery.addEventListener("change", (event) => {
     appState.isMobile = event.matches;
@@ -110,6 +147,14 @@ function bindEvents() {
 
     const number = Number(button.dataset.surahNumber);
 
+    if (number === appState.loadingSurahNumber) {
+      if (appState.isMobile) {
+        appState.mobileView = "reader";
+        syncResponsiveLayout();
+      }
+      return;
+    }
+
     if (number === appState.activeSurahNumber && appState.activeSurah?.surahNumber === number) {
       if (appState.isMobile) {
         appState.mobileView = "reader";
@@ -129,6 +174,36 @@ function bindEvents() {
   });
 
   elements.ayahList.addEventListener("click", async (event) => {
+    const copyLinkButton = event.target.closest("[data-copy-link]");
+    if (copyLinkButton) {
+      const surahNumber = Number(copyLinkButton.dataset.surahNumber);
+      const ayahNumber = Number(copyLinkButton.dataset.ayahNumber);
+      const reference = formatAyahReference(surahNumber, ayahNumber);
+      const shareUrl = buildAyahShareUrl(surahNumber, ayahNumber);
+      const copied = await copyTextToClipboard(shareUrl);
+
+      showToast(
+        copied
+          ? getLinkCopiedToastMessage(reference, shareUrl)
+          : translate(appState.language, "linkCopyFailedToast"),
+      );
+      return;
+    }
+
+    const lastReadButton = event.target.closest("[data-mark-last-read]");
+    if (lastReadButton) {
+      const surahNumber = Number(lastReadButton.dataset.surahNumber);
+      const ayahNumber = Number(lastReadButton.dataset.ayahNumber);
+      if (Number.isInteger(surahNumber) && Number.isInteger(ayahNumber)) {
+        saveLastRead({ surahNumber, ayahNumber });
+        renderReader();
+        showToast(translate(appState.language, "lastReadSavedToast", {
+          reference: formatAyahReference(surahNumber, ayahNumber),
+        }));
+      }
+      return;
+    }
+
     const button = event.target.closest("[data-audio-url]");
     if (!button) {
       return;
@@ -139,9 +214,11 @@ function bindEvents() {
     await audioController.toggle(button.dataset.audioUrl, button, {
       playIcon: renderAudioIcon("play"),
       pauseIcon: renderAudioIcon("stop"),
+      loadingIcon: renderAudioIcon("loading"),
       errorIcon: renderAudioIcon("error"),
       playLabel: translate(appState.language, "playAudioFor", { reference }),
       pauseLabel: translate(appState.language, "stopAudioFor", { reference }),
+      loadingLabel: translate(appState.language, "loadingAudioFor", { reference }),
       errorLabel: translate(appState.language, "audioErrorFor", { reference }),
     });
 
@@ -178,6 +255,15 @@ function bindEvents() {
     const ayahNumber = Number(button.dataset.resultAyah);
     await openSurahAndMaybeAyah(surahNumber, ayahNumber);
   });
+
+  elements.lastReadChip.addEventListener("click", async () => {
+    const lastRead = getLastRead();
+    if (!lastRead) {
+      return;
+    }
+
+    await openSurahAndMaybeAyah(lastRead.surahNumber, lastRead.ayahNumber);
+  });
 }
 
 function handleSearchInputChange(event) {
@@ -202,6 +288,7 @@ function applyUiText() {
   elements.surahSearch.placeholder = translate(appState.language, "searchPlaceholder");
   elements.searchHint.textContent = translate(appState.language, "searchHint");
   elements.searchSubmit.textContent = translate(appState.language, "searchButton");
+  renderLastReadChip();
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
   elements.scrollTopButton.setAttribute("aria-label", translate(appState.language, "scrollTop"));
@@ -233,13 +320,15 @@ function renderSurahList() {
   elements.surahList.innerHTML = appState.filteredCatalog
     .map((surah) => {
       const isActive = surah.number === appState.activeSurahNumber;
+      const isLoading = surah.number === appState.loadingSurahNumber;
       const displayNames = getSurahCardDisplayNames(surah);
 
       return `
         <button
-          class="surah-card ${isActive ? "active" : ""} ${surah.available ? "" : "unavailable"}"
+          class="surah-card ${isActive ? "active" : ""} ${surah.available ? "" : "unavailable"} ${isLoading ? "is-loading" : ""}"
           type="button"
           data-surah-number="${surah.number}"
+          ${isLoading ? "disabled" : ""}
         >
           <div class="surah-row">
             <span class="surah-number">${surah.number}</span>
@@ -300,18 +389,25 @@ async function loadSurah(number) {
     return;
   }
 
+  const requestId = appState.surahRequestId + 1;
+  appState.surahRequestId = requestId;
+
   appState.activeSurahNumber = number;
   appState.activeSurah = null;
+  appState.loadingSurahNumber = number;
   audioController.stop({
     playIcon: renderAudioIcon("play"),
     pauseIcon: renderAudioIcon("stop"),
+    loadingIcon: renderAudioIcon("loading"),
   });
 
   renderSurahList();
 
   if (!selected.available) {
+    appState.loadingSurahNumber = null;
     renderStatus(translate(appState.language, "unavailableSurah"), true);
     renderReader();
+    renderSurahList();
     return;
   }
 
@@ -324,14 +420,30 @@ async function loadSurah(number) {
       import.meta.url,
     );
     const response = await fetch(surahUrl);
+    if (!response.ok) {
+      throw new Error(`Failed to load sura ${number}: ${response.status}`);
+    }
+
     appState.activeSurah = await response.json();
+    if (appState.surahRequestId !== requestId) {
+      return;
+    }
+
     appState.availableSurahCache.set(number, appState.activeSurah);
     renderStatus("");
+    appState.loadingSurahNumber = null;
     renderReader();
+    renderSurahList();
   } catch (error) {
+    if (appState.surahRequestId !== requestId) {
+      return;
+    }
+
     console.error(error);
+    appState.loadingSurahNumber = null;
     renderStatus(translate(appState.language, "fetchError"), true);
     renderReader();
+    renderSurahList();
   }
 }
 
@@ -344,6 +456,7 @@ async function openSurahAndMaybeAyah(surahNumber, ayahNumber = null) {
   }
 
   await loadSurah(surahNumber);
+  updateHashReference(surahNumber, ayahNumber);
 
   if (appState.isMobile) {
     appState.mobileView = "reader";
@@ -389,6 +502,7 @@ function syncScrollTopButton() {
 function renderStatus(message, isWarning = false) {
   elements.readerStatus.textContent = message;
   elements.readerStatus.classList.toggle("is-warning", Boolean(message) && isWarning);
+  elements.readerStatus.classList.toggle("is-loading", message === translate(appState.language, "loadingSurah"));
 }
 
 function renderReader() {
@@ -424,32 +538,58 @@ function renderReader() {
       const subtitle = getOptionalLocalizedContent(ayah.subtitle);
       const footnote = getOptionalLocalizedContent(ayah.footnote);
       const isTarget = ayah.number === appState.highlightedAyahNumber;
+      const isLastRead = isLastReadAyah(surah.surahNumber, ayah.number);
       return `
-        <article class="ayah-card ${isTarget ? "is-target" : ""}" data-ayah-number="${ayah.number}">
+        <article class="ayah-card ${isTarget ? "is-target" : ""} ${isLastRead ? "is-last-read" : ""}" data-ayah-number="${ayah.number}">
           ${subtitle ? `<p class="ayah-subtitle">${subtitle}</p>` : ""}
           <div class="ayah-head">
-            <span class="ayah-badge">${formatAyahReference(surah.surahNumber, ayah.number)}</span>
-            <button
-              class="audio-button"
-              type="button"
-              data-audio-url="${hasAudio ? audioPath : ""}"
-              data-audio-reference="${reference}"
-              data-audio-key="${audioKey}"
-              aria-pressed="false"
-              aria-label="${translate(
-                appState.language,
-                hasAudio ? "playAudioFor" : "audioUnavailableFor",
-                { reference },
-              )}"
-              title="${translate(
-                appState.language,
-                hasAudio ? "playAudioFor" : "audioUnavailableFor",
-                { reference },
-              )}"
-              ${hasAudio ? "" : "disabled"}
-            >
-              ${renderAudioIcon(hasAudio ? "play" : "disabled")}
-            </button>
+            <span class="ayah-badge">${reference}</span>
+            <div class="ayah-actions">
+              <button
+                class="copy-link-button"
+                type="button"
+                data-copy-link="true"
+                data-surah-number="${surah.surahNumber}"
+                data-ayah-number="${ayah.number}"
+                aria-label="${getCopyLinkButtonLabel(reference)}"
+                title="${getCopyLinkButtonLabel(reference)}"
+              >
+                ${renderCopyLinkIcon()}
+              </button>
+              <button
+                class="last-read-button ${isLastRead ? "is-marked" : ""}"
+                type="button"
+                data-mark-last-read="true"
+                data-surah-number="${surah.surahNumber}"
+                data-ayah-number="${ayah.number}"
+                aria-pressed="${String(isLastRead)}"
+                aria-label="${getLastReadButtonLabel(reference)}"
+                title="${getLastReadButtonLabel(reference)}"
+              >
+                ${renderLastReadIcon()}
+              </button>
+              <button
+                class="audio-button"
+                type="button"
+                data-audio-url="${hasAudio ? audioPath : ""}"
+                data-audio-reference="${reference}"
+                data-audio-key="${audioKey}"
+                aria-pressed="false"
+                aria-label="${translate(
+                  appState.language,
+                  hasAudio ? "playAudioFor" : "audioUnavailableFor",
+                  { reference },
+                )}"
+                title="${translate(
+                  appState.language,
+                  hasAudio ? "playAudioFor" : "audioUnavailableFor",
+                  { reference },
+                )}"
+                ${hasAudio ? "" : "disabled"}
+              >
+                ${renderAudioIcon(hasAudio ? "play" : "disabled")}
+              </button>
+            </div>
           </div>
 
           <div class="translation-block">
@@ -580,6 +720,15 @@ function getAudioKey(surahNumber, ayahNumber) {
 }
 
 function renderAudioIcon(state) {
+  if (state === "loading") {
+    return `
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <circle class="audio-spinner-track" cx="12" cy="12" r="8"></circle>
+        <path class="audio-spinner-head" d="M12 4a8 8 0 0 1 8 8"></path>
+      </svg>
+    `;
+  }
+
   if (state === "stop") {
     return `
       <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -603,8 +752,96 @@ function renderAudioIcon(state) {
   `;
 }
 
+function renderLastReadIcon() {
+  return `
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M7 4.75A1.75 1.75 0 0 1 8.75 3h6.5A1.75 1.75 0 0 1 17 4.75V21l-5-3.2L7 21V4.75Z"></path>
+    </svg>
+  `;
+}
+
+function getLastReadButtonLabel(reference) {
+  const fallback = appState.language === "en"
+    ? `Mark ${reference} as last read`
+    : `Tandakan ${reference} sebagai bacaan terakhir`;
+  return translate(appState.language, "markLastReadFor", { reference }) ?? fallback;
+}
+
+function renderCopyLinkIcon() {
+  return `
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M9.66 14.34a1 1 0 0 1 0-1.41l3.27-3.27a1 1 0 1 1 1.41 1.41l-3.27 3.27a1 1 0 0 1-1.41 0Z"></path>
+      <path d="M7.54 16.46a4 4 0 0 1 0-5.65l2.12-2.12a4 4 0 0 1 5.65 5.65l-.7.71a1 1 0 1 1-1.42-1.41l.71-.71a2 2 0 0 0-2.83-2.83l-2.12 2.12a2 2 0 1 0 2.83 2.83l.71-.71a1 1 0 0 1 1.41 1.42l-.7.7a4 4 0 0 1-5.65 0Z"></path>
+    </svg>
+  `;
+}
+
+function getCopyLinkButtonLabel(reference) {
+  const fallback = appState.language === "en"
+    ? `Copy link for ${reference}`
+    : `Salin pautan untuk ${reference}`;
+  return translate(appState.language, "copyLinkFor", { reference }) ?? fallback;
+}
+
+function getLinkCopiedToastMessage(reference, shareUrl) {
+  if (appState.isMobile) {
+    return translate(appState.language, "linkCopiedToast", { reference });
+  }
+
+  return translate(appState.language, "linkCopiedToastFull", { url: shareUrl });
+}
+
 function formatSuraTitle(suraNumber, suraName) {
   return `${translate(appState.language, "readerHeading")} ${suraNumber}: ${suraName}`;
+}
+
+async function handleHashChange() {
+  if (ignoreNextHashChange) {
+    ignoreNextHashChange = false;
+    return;
+  }
+
+  const hashTarget = parseHashReference(window.location.hash);
+  if (!hashTarget) {
+    return;
+  }
+
+  await openSurahAndMaybeAyah(hashTarget.surahNumber, hashTarget.ayahNumber);
+}
+
+function parseHashReference(hashValue) {
+  const match = hashValue.match(/^#\/(\d+)(?::(\d+))?$/);
+  if (!match) {
+    return null;
+  }
+
+  const surahNumber = Number(match[1]);
+  const ayahNumber = match[2] == null ? null : Number(match[2]);
+
+  if (!Number.isInteger(surahNumber) || surahNumber < 1 || surahNumber > 114) {
+    return null;
+  }
+
+  if (ayahNumber != null && (!Number.isInteger(ayahNumber) || ayahNumber < 0)) {
+    return null;
+  }
+
+  return { surahNumber, ayahNumber };
+}
+
+function updateHashReference(surahNumber, ayahNumber = null) {
+  const nextHash = ayahNumber == null ? `#/${surahNumber}` : `#/${surahNumber}:${ayahNumber}`;
+  if (window.location.hash === nextHash) {
+    return;
+  }
+
+  ignoreNextHashChange = true;
+  window.location.hash = nextHash;
+}
+
+function buildAyahShareUrl(surahNumber, ayahNumber) {
+  const baseUrl = `${window.location.origin}${window.location.pathname}`;
+  return `${baseUrl}#/${formatAyahReference(surahNumber, ayahNumber)}`;
 }
 
 function parseSearchInput(rawQuery) {
@@ -854,6 +1091,128 @@ function resetSearchState() {
   appState.filteredCatalog = [...appState.catalog];
   appState.highlightedAyahNumber = null;
   setSearchFeedback("", false);
+}
+
+function getLastRead() {
+  try {
+    const storedValue = window.localStorage.getItem(LAST_READ_STORAGE_KEY);
+    if (!storedValue) {
+      return null;
+    }
+
+    const parsed = JSON.parse(storedValue);
+    const surahNumber = Number(parsed?.surahNumber);
+    const ayahNumber = parsed?.ayahNumber == null ? null : Number(parsed.ayahNumber);
+
+    if (!Number.isInteger(surahNumber) || surahNumber < 1 || surahNumber > 114) {
+      return null;
+    }
+
+    if (ayahNumber != null && (!Number.isInteger(ayahNumber) || ayahNumber < 0)) {
+      return { surahNumber, ayahNumber: null };
+    }
+
+    return { surahNumber, ayahNumber };
+  } catch (error) {
+    console.warn("Last read state could not be restored.", error);
+    return null;
+  }
+}
+
+function saveLastRead({ surahNumber, ayahNumber }) {
+  if (!Number.isInteger(surahNumber) || surahNumber < 1 || surahNumber > 114) {
+    return;
+  }
+
+  const payload = {
+    surahNumber,
+    ayahNumber: Number.isInteger(ayahNumber) ? ayahNumber : null,
+  };
+
+  window.localStorage.setItem(LAST_READ_STORAGE_KEY, JSON.stringify(payload));
+  renderLastReadChip();
+}
+
+function isLastReadAyah(surahNumber, ayahNumber) {
+  const lastRead = getLastRead();
+  return lastRead?.surahNumber === surahNumber && lastRead?.ayahNumber === ayahNumber;
+}
+
+function renderLastReadChip() {
+  const lastRead = getLastRead();
+  if (!lastRead || appState.catalog.length === 0) {
+    elements.lastReadChip.hidden = true;
+    elements.lastReadChip.textContent = "";
+    return;
+  }
+
+  const surah = appState.catalog.find((item) => item.number === lastRead.surahNumber);
+  if (!surah) {
+    elements.lastReadChip.hidden = true;
+    elements.lastReadChip.textContent = "";
+    return;
+  }
+
+  const suraName = getSuraDisplayName(surah);
+  const reference = lastRead.ayahNumber
+    ? formatAyahReference(lastRead.surahNumber, lastRead.ayahNumber)
+    : `${lastRead.surahNumber}`;
+  const lastReadLabel = translate(appState.language, "lastRead") ?? (appState.language === "en" ? "Last read" : "Bacaan terakhir");
+  const continueReadingLabel =
+    translate(appState.language, "continueReading")
+    ?? (appState.language === "en" ? "Continue reading" : "Sambung bacaan");
+  const label = `${lastReadLabel}: ${reference} • ${suraName}`;
+
+  elements.lastReadChip.hidden = false;
+  elements.lastReadChip.textContent = label;
+  elements.lastReadChip.setAttribute("aria-label", `${continueReadingLabel} ${label}`);
+  elements.lastReadChip.title = continueReadingLabel;
+}
+
+function showToast(message) {
+  if (!message) {
+    return;
+  }
+
+  window.clearTimeout(showToast.timeoutId);
+  elements.toast.textContent = message;
+  elements.toast.classList.add("is-visible");
+
+  showToast.timeoutId = window.setTimeout(() => {
+    elements.toast.classList.remove("is-visible");
+  }, 2200);
+}
+
+async function copyTextToClipboard(text) {
+  if (!text) {
+    return false;
+  }
+
+  try {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
+      return true;
+    }
+  } catch (error) {
+    console.warn("Clipboard API copy failed, falling back.", error);
+  }
+
+  const textArea = document.createElement("textarea");
+  textArea.value = text;
+  textArea.setAttribute("readonly", "");
+  textArea.style.position = "absolute";
+  textArea.style.left = "-9999px";
+  document.body.append(textArea);
+  textArea.select();
+
+  try {
+    return document.execCommand("copy");
+  } catch (error) {
+    console.warn("execCommand copy failed.", error);
+    return false;
+  } finally {
+    textArea.remove();
+  }
 }
 
 function escapeHtml(value) {

@@ -5,6 +5,7 @@ export class AudioController {
     this.activeUrl = null;
     this.activeKey = null;
     this.labels = {};
+    this.isLoading = false;
 
     this.audio.addEventListener("ended", () => this.reset());
     this.audio.addEventListener("error", () => this.handleError());
@@ -18,7 +19,7 @@ export class AudioController {
   }
 
   async toggle(url, button, labels) {
-    if (!url) {
+    if (!url || this.isLoading) {
       return;
     }
 
@@ -33,7 +34,9 @@ export class AudioController {
     if (this.activeKey === audioKey && this.audio.paused) {
       this.activeButton = button;
       try {
+        this.setLoadingState(button, true);
         await this.audio.play();
+        this.setLoadingState(button, false);
         this.syncButtonState(true);
       } catch (error) {
         console.error("Audio playback failed", error);
@@ -56,7 +59,9 @@ export class AudioController {
 
     try {
       this.audio.currentTime = 0;
+      this.setLoadingState(button, true);
       await this.audio.play();
+      this.setLoadingState(button, false);
       this.syncButtonState(true);
     } catch (error) {
       console.error("Audio playback failed", error);
@@ -72,6 +77,7 @@ export class AudioController {
   }
 
   reset() {
+    this.setLoadingState(this.activeButton, false);
     this.syncButtonState(false);
     this.activeKey = null;
     this.activeUrl = null;
@@ -85,6 +91,7 @@ export class AudioController {
     }
 
     const reference = this.activeButton.dataset.audioReference ?? "";
+    this.activeButton.classList.remove("is-loading");
     this.activeButton.classList.toggle("is-playing", isPlaying);
     this.activeButton.classList.remove("has-error");
     this.activeButton.innerHTML = isPlaying ? this.labels.pauseIcon ?? "" : this.labels.playIcon ?? "";
@@ -106,6 +113,7 @@ export class AudioController {
       return;
     }
 
+    this.setLoadingState(this.activeButton, false);
     this.activeButton.classList.remove("is-playing");
     this.activeButton.classList.add("has-error");
     this.activeButton.innerHTML = this.labels.errorIcon ?? this.labels.playIcon ?? "";
@@ -121,5 +129,25 @@ export class AudioController {
     this.activeKey = null;
     this.activeButton = null;
     this.audio.removeAttribute("src");
+  }
+
+  setLoadingState(button, isLoading) {
+    if (!button) {
+      this.isLoading = false;
+      return;
+    }
+
+    this.isLoading = isLoading;
+    button.classList.toggle("is-loading", isLoading);
+
+    if (!isLoading) {
+      button.disabled = false;
+      return;
+    }
+
+    button.innerHTML = this.labels.loadingIcon ?? "";
+    button.setAttribute("aria-label", this.labels.loadingLabel ?? button.getAttribute("aria-label") ?? "");
+    button.title = this.labels.loadingLabel ?? button.title;
+    button.disabled = true;
   }
 }
