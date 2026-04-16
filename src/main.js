@@ -544,58 +544,59 @@ function renderReader() {
           ${subtitle ? `<p class="ayah-subtitle">${subtitle}</p>` : ""}
           <div class="ayah-head">
             <span class="ayah-badge">${reference}</span>
-            <div class="ayah-actions">
-              <button
-                class="copy-link-button"
-                type="button"
-                data-copy-link="true"
-                data-surah-number="${surah.surahNumber}"
-                data-ayah-number="${ayah.number}"
-                aria-label="${getCopyLinkButtonLabel(reference)}"
-                title="${getCopyLinkButtonLabel(reference)}"
-              >
-                ${renderCopyLinkIcon()}
-              </button>
-              <button
-                class="last-read-button ${isLastRead ? "is-marked" : ""}"
-                type="button"
-                data-mark-last-read="true"
-                data-surah-number="${surah.surahNumber}"
-                data-ayah-number="${ayah.number}"
-                aria-pressed="${String(isLastRead)}"
-                aria-label="${getLastReadButtonLabel(reference)}"
-                title="${getLastReadButtonLabel(reference)}"
-              >
-                ${renderLastReadIcon()}
-              </button>
-              <button
-                class="audio-button"
-                type="button"
-                data-audio-url="${hasAudio ? audioPath : ""}"
-                data-audio-reference="${reference}"
-                data-audio-key="${audioKey}"
-                aria-pressed="false"
-                aria-label="${translate(
-                  appState.language,
-                  hasAudio ? "playAudioFor" : "audioUnavailableFor",
-                  { reference },
-                )}"
-                title="${translate(
-                  appState.language,
-                  hasAudio ? "playAudioFor" : "audioUnavailableFor",
-                  { reference },
-                )}"
-                ${hasAudio ? "" : "disabled"}
-              >
-                ${renderAudioIcon(hasAudio ? "play" : "disabled")}
-              </button>
-            </div>
+            <button
+              class="audio-button"
+              type="button"
+              data-audio-url="${hasAudio ? audioPath : ""}"
+              data-audio-reference="${reference}"
+              data-audio-key="${audioKey}"
+              aria-pressed="false"
+              aria-label="${translate(
+                appState.language,
+                hasAudio ? "playAudioFor" : "audioUnavailableFor",
+                { reference },
+              )}"
+              title="${translate(
+                appState.language,
+                hasAudio ? "playAudioFor" : "audioUnavailableFor",
+                { reference },
+              )}"
+              ${hasAudio ? "" : "disabled"}
+            >
+              ${renderAudioIcon(hasAudio ? "play" : "disabled")}
+            </button>
           </div>
 
           <div class="translation-block">
             <p class="ayah-translation">${translation}</p>
             <p class="ayah-arabic" dir="rtl">${ayah.arabic}</p>
             ${footnote ? `<div class="ayah-footnote">${formatTrustedFootnoteHtml(footnote)}</div>` : ""}
+          </div>
+
+          <div class="ayah-toolbar">
+            <button
+              class="copy-link-button"
+              type="button"
+              data-copy-link="true"
+              data-surah-number="${surah.surahNumber}"
+              data-ayah-number="${ayah.number}"
+              aria-label="${getCopyLinkButtonLabel(reference)}"
+              title="${getCopyLinkButtonLabel(reference)}"
+            >
+              ${renderCopyLinkIcon()}
+            </button>
+            <button
+              class="last-read-button ${isLastRead ? "is-marked" : ""}"
+              type="button"
+              data-mark-last-read="true"
+              data-surah-number="${surah.surahNumber}"
+              data-ayah-number="${ayah.number}"
+              aria-pressed="${String(isLastRead)}"
+              aria-label="${getLastReadButtonLabel(reference)}"
+              title="${getLastReadButtonLabel(reference)}"
+            >
+              ${renderLastReadIcon()}
+            </button>
           </div>
         </article>
       `;

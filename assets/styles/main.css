@@ -356,14 +356,6 @@ select {
   margin-bottom: 12px;
 }
 
-.ayah-actions {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-
 .ayah-badge {
   display: inline-flex;
   align-items: center;
@@ -389,6 +381,16 @@ select {
   background: #fff;
   color: var(--text);
   cursor: pointer;
+}
+
+.ayah-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(104, 72, 45, 0.1);
 }
 
 .scroll-top-button {
@@ -486,9 +488,9 @@ select {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  background: rgba(255, 250, 242, 0.58);
-  border-color: rgba(180, 83, 9, 0.12);
-  color: rgba(138, 75, 8, 0.72);
+  background: rgba(255, 250, 242, 0.42);
+  border-color: rgba(180, 83, 9, 0.1);
+  color: rgba(138, 75, 8, 0.64);
 }
 
 .copy-link-button {
@@ -500,9 +502,9 @@ select {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  background: rgba(239, 246, 255, 0.92);
-  border-color: rgba(59, 130, 246, 0.12);
-  color: rgba(37, 99, 235, 0.88);
+  background: rgba(239, 246, 255, 0.68);
+  border-color: rgba(59, 130, 246, 0.1);
+  color: rgba(37, 99, 235, 0.8);
 }
 
 .audio-button svg,
