@@ -64,6 +64,7 @@ init().catch((error) => {
 
 async function init() {
   bindEvents();
+  registerServiceWorker();
   elements.surahSearch.value = appState.searchQuery;
   applyUiText();
   syncScrollTopButton();
@@ -268,6 +269,18 @@ function bindEvents() {
 
 function handleSearchInputChange(event) {
   appState.searchQuery = event.target.value;
+}
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) {
+    return;
+  }
+
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").catch((error) => {
+      console.warn("Service worker registration failed.", error);
+    });
+  }, { once: true });
 }
 
 async function handleSearchSubmit() {
