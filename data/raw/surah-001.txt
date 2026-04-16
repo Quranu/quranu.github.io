@@ -1,15 +1,13 @@
-SURAH_NUMBER: 1
-NAME_AR: الفاتحة
+﻿SURAH_NUMBER: 1
+NAME_AR: سورة الفاتحة
 NAME_BM: Kunci
 NAME_EN: The Key
 ---
 # Ayah 1
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/001/001001.mp3
-SUBTITLE_BM: Ayat pertama Quran
-SUBTITLE_EN: The first verse in the Quran
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of GOD, Most Gracious, Most Merciful.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001001.mp3
 FOOTNOTE_BM: *1:1 Ayat pertama dalam Quran mewakili asas dimana mukjizat matematik berasaskan 19 yang luar biasa dibina. Pernyataan penting ini terdiri daripada 19 huruf Arab, dan setiap perkataan didalamnya muncul dalam keseluruhan Quran dalam gandaan 19. (lihat Lampiran 1 & 29 untuk penjelasan).
 
 *1:1-7 Sura 1 adalah hadiah dari Tuhan kepada kita untuk menjalin hubungan dengan Dia melalui Sembahyang harian. Fakta ini disokong oleh susunan matematik yang menggemparkan dunia, mudah-difahami-tetapi-mustahil-untuk-ditiru yang mencabar ahli matematik terhebat dunia, dan membungkam mereka. Ia jauh di luar kemampuan manusia:
@@ -147,36 +145,41 @@ FOOTNOTE_EN: *1:1 The first verse in the Quran represents the foundation upon wh
 
 # Ayah 2
 AR: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
-BM: Segala puji bagi Tuhan, Tuhan alam semesta.
+BM: Segala puji bagi Allah Tuhan bagi semesta alam.
 EN: Praise be to GOD, Lord of the universe.
-AUDIO: ./assets/audio/001/001002.mp3
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001002.mp3
 
 # Ayah 3
 AR: الرَّحْمَٰنِ الرَّحِيمِ
-BM: Yang Maha Pengasih, Yang Maha Penyayang.
+BM: Yang Maha Pengasih lagi Maha Penyayang.
 EN: Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/001/001003.mp3
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001003.mp3
 
 # Ayah 4
 AR: مَالِكِ يَوْمِ الدِّينِ
-BM: Tuan Hari Pembalasan
+BM: Tuan diHari Pengadilan.
 EN: Master of the Day of Judgment.
-AUDIO: ./assets/audio/001/001004.mp3
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001004.mp3
 
 # Ayah 5
 AR: إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
-BM: Hanya Engkau yang kami sembah; hanya Engkau yang kami minta pertolongan.
+BM: KepadaMu sahaja kami sembah. Dan KepadaMu sahaja kami minta pertolongan.
 EN: You alone we worship; You alone we ask for help.
-AUDIO: ./assets/audio/001/001005.mp3
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001005.mp3
 
 # Ayah 6
 AR: اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
-BM: Tunjukkan kami ke jalan yang benar;
+BM: Bimbinglah kami kejalan yang lurus;
 EN: Guide us in the right path;
-AUDIO: ./assets/audio/001/001006.mp3
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001006.mp3
 
 # Ayah 7
 AR: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
-BM: jalan orang-orang yang telah Engkau beri rahmat; bukan jalan mereka yang telah mendapat kemurkaan, dan bukan pula jalan mereka yang sesat.
+BM: Dijalan orang orang yang Engkau beri kenikmatan; bukannya orang orang yang patut mendapat kemurkaan, dan bukan juga orang orang yang tersesat jalan.
 EN: the path of those whom You blessed; not of those who have deserved wrath, nor of the strayers.
-AUDIO: ./assets/audio/001/001007.mp3
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/001007.mp3
+
+
+
+
+

@@ -1,634 +1,742 @@
 {
   "surahNumber": 28,
   "name": {
-    "ar": "القصص",
-    "bm": "Kisah-Kisah",
-    "en": "The Stories"
+    "ar": "سورة القصص",
+    "bm": "Sejarah",
+    "en": "History"
   },
   "totalAyahs": 88,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/028/028000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_028001",
-      "bm": "TODO_BM_028001",
-      "en": "TODO_EN_028001",
-      "audio": "./assets/audio/028/028001.mp3"
+      "arabic": "طسم",
+      "bm": "T. S. M. (Tha. Seen. Mim.)",
+      "en": "T. S. M.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_028002",
-      "bm": "TODO_BM_028002",
-      "en": "TODO_EN_028002",
-      "audio": "./assets/audio/028/028002.mp3"
+      "arabic": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+      "bm": "(Huruf huruf) ini mengandungi bukti bukti bagi buku yang nyata ini.",
+      "en": "These (letters) constitute proofs of this profound book.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_028003",
-      "bm": "TODO_BM_028003",
-      "en": "TODO_EN_028003",
-      "audio": "./assets/audio/028/028003.mp3"
+      "arabic": "نَتْلُو عَلَيْكَ مِنْ نَبَإِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+      "bm": "Kami bacakan kepadamu didalam ini beberapa sejarah tentang Musa dan Fir'aun, dengan sebenarnya, supaya dapat memanfaatkan orang orang yang percaya.",
+      "en": "We recite to you herein some history of Moses and Pharaoh, truthfully, for the benefit of people who believe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_028004",
-      "bm": "TODO_BM_028004",
-      "en": "TODO_EN_028004",
-      "audio": "./assets/audio/028/028004.mp3"
+      "arabic": "إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ",
+      "bm": "Fir'aun menjadi seorang penindas dibumi, dan dia telah mendiskriminasikan beberapa manusia. Dia menindas kumpulan yang lemah diantara mereka, menyembelihkan anak anak lelaki mereka, dan membiarkan anak anak perempuan mereka. Dia sesungguhnya seorang yang zalim.",
+      "en": "Pharaoh turned into a tyrant on earth, and discriminated against some people. He persecuted a helpless group of them, slaughtering their sons, while sparing their daughters. He was indeed wicked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_028005",
-      "bm": "TODO_BM_028005",
-      "en": "TODO_EN_028005",
-      "audio": "./assets/audio/028/028005.mp3"
+      "arabic": "وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ",
+      "bm": "Adalah kehendak kami untuk memberikan bantuan kepada orang orang yang telah ditindas dimuka bumi, dan untuk menjadikan mereka para pemimpin, dan menjadikan mereka pewaris pewaris.",
+      "en": "We willed to compensate those who were oppressed on earth, and to turn them into leaders, and make them the inheritors.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028005.mp3",
+      "subtitle": {
+        "bm": "Allah Membantu Orang Orang Yang Tertindas",
+        "en": "God Compensates the Oppressed"
+      }
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_028006",
-      "bm": "TODO_BM_028006",
-      "en": "TODO_EN_028006",
-      "audio": "./assets/audio/028/028006.mp3"
+      "arabic": "وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُمْ مَا كَانُوا يَحْذَرُونَ",
+      "bm": "Dan memantapkan mereka dibumi, dan untuk memberi Fir'aun, Hamaan, dan bala tentera mereka merasai balasannya diatas perbuatan perbuatan jahat mereka sendiri.",
+      "en": "And to establish them on earth, and to give Pharaoh, Hãmãn, and their troops a taste of their own medicine.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_028007",
-      "bm": "TODO_BM_028007",
-      "en": "TODO_EN_028007",
-      "audio": "./assets/audio/028/028007.mp3"
+      "arabic": "وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ",
+      "bm": "Kami meinspirasikan kepada ibu Musa: \"Peliharalah dia, dan apabila kau takut akan nyawanya, buangkanlah dia kedalam sungai dengan tidak merasakan takut ataupun kesedihan. Kami akan kembalikan dia kepadamu, dan akan menjadikannya salah satu dari para rasul kami.\"",
+      "en": "We inspired Moses' mother: \"Nurse him, and when you fear for his life, throw him into the river without fear or grief. We will return him to you, and will make him one of the messengers.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028007.mp3",
+      "subtitle": {
+        "bm": "Berkeyakinan kepada Allah",
+        "en": "Confidence in God"
+      }
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_028008",
-      "bm": "TODO_BM_028008",
-      "en": "TODO_EN_028008",
-      "audio": "./assets/audio/028/028008.mp3"
+      "arabic": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ",
+      "bm": "Keluarga Fir'aun mengambilnya, hanya untuk mendapati yang dia memimpin pihak penentang dan untuk menjadikan dia sumber kesedihan bagi mereka. Itu adalah kerana Fir'aun, Hamaan dan bala tentara mereka itu adalah orang orang yang melampaui batas.",
+      "en": "Pharaoh's family picked him up, only to have him lead the opposition and to be a source of grief for them. That is because Pharaoh, Hãmãn, and their troops were transgressors.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_028009",
-      "bm": "TODO_BM_028009",
-      "en": "TODO_EN_028009",
-      "audio": "./assets/audio/028/028009.mp3"
+      "arabic": "وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِي وَلَكَ لَا تَقْتُلُوهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+      "bm": "Isteri Fir'aun berkata, \"Ini boleh menjadi permulaan yang akan membahagiakanku dan kau. Janganlah bunuh dia, mungkin dia akan memanfaatkan kita, ataupun mungkin kita dapat mengambilnya sebagai anak angkat kita. \"Mereka tidak mempunyai idea.",
+      "en": "Pharaoh's wife said, \"This can be a joyous find for me and you. Do not kill him, for he may be of some benefit for us, or we may adopt him to be our son.\" They had no idea.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028009.mp3",
+      "subtitle": {
+        "bm": "Didalam Jerumun Singa",
+        "en": "Inside the Lion's Den"
+      }
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_028010",
-      "bm": "TODO_BM_028010",
-      "en": "TODO_EN_028010",
-      "audio": "./assets/audio/028/028010.mp3"
+      "arabic": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا إِنْ كَادَتْ لَتُبْدِي بِهِ لَوْلَا أَنْ رَبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "bm": "Fikiran ibu Musa bertambah cemas sehingga hampir hampir dia mendedahkan identitinya. Tetapi kami kuatkan hatinya, untuk menjadikan dia orang orang yang percaya.",
+      "en": "The mind of Moses' mother was growing so anxious that she almost gave away his identity. But we strengthened her heart, to make her a believer.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_028011",
-      "bm": "TODO_BM_028011",
-      "en": "TODO_EN_028011",
-      "audio": "./assets/audio/028/028011.mp3"
+      "arabic": "وَقَالَتْ لِأُخْتِهِ قُصِّيهِ فَبَصُرَتْ بِهِ عَنْ جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
+      "bm": "Dia berkata kepada kakaknya, \"Ikutilah perjalanannya.\" Dia melihatnya dari jauh, sementara mereka pula tidak menyedarinya.",
+      "en": "She said to his sister, \"Trace his path.\" She watched him from afar, while they did not perceive.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_028012",
-      "bm": "TODO_BM_028012",
-      "en": "TODO_EN_028012",
-      "audio": "./assets/audio/028/028012.mp3"
+      "arabic": "وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
+      "bm": "Kami melarangnya dari menerima semua ibu ibu yang dapat menyusu. (Kakaknya) pun berkata, \"Aku boleh menunjukkan kamu sebuah keluarga yang boleh membesarkannya untuk kamu, dan menjaganya dengan baik.\"",
+      "en": "We forbade him from accepting all the nursing mothers. (His sister) then said, \"I can show you a family that can raise him for you, and take good care of him.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028012.mp3",
+      "subtitle": {
+        "bm": "Bayi Di-Pulangkan Kepada Ibunya",
+        "en": "The Infant Returned to His Mother"
+      }
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_028013",
-      "bm": "TODO_BM_028013",
-      "en": "TODO_EN_028013",
-      "audio": "./assets/audio/028/028013.mp3"
+      "arabic": "فَرَدَدْنَاهُ إِلَىٰ أُمِّهِ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ اللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "bm": "Lantas, kami mengembalikannya kepada ibunya, demi untuk menyenangkannya, menghilangkan kerisauannya, dan untuk memberitahu kepadanya yang perjanjian Allah itu adalah benar. Walaupun demikian, kebanyakan dari mereka itu tidak mengetahuinya.",
+      "en": "Thus, we restored him to his mother, in order to please her, remove her worries, and to let her know that GOD's promise is the truth. However, most of them do not know.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_028014",
-      "bm": "TODO_BM_028014",
-      "en": "TODO_EN_028014",
-      "audio": "./assets/audio/028/028014.mp3"
+      "arabic": "وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَىٰ آتَيْنَاهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "bm": "Apabila dia mencapai dewasa dan kuat, kami memberikannya kebijaksanaan dan ilmu pengetahuan. Lantas, kami menganugerahi orang orang yang benar.",
+      "en": "When he reached maturity and strength, we endowed him with wisdom and knowledge. We thus reward the righteous.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_028015",
-      "bm": "TODO_BM_028015",
-      "en": "TODO_EN_028015",
-      "audio": "./assets/audio/028/028015.mp3"
+      "arabic": "وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ الشَّيْطَانِ إِنَّهُ عَدُوٌّ مُضِلٌّ مُبِينٌ",
+      "bm": "Tatkala dia memasuki bandar dengan tidak disangkakan, tanpa dikenali oleh orang ramai. Dia mendapati dua orang sedang berkelahi; seorang adalah (Yahudi) dari kaumnya, dan seorang lagi (Mesir) dari kalangan musuhnya. Seorang yang dari kaumnya memanggilnya untuk meminta tolong menghadapi musuhnya. Musa menumbuknya, membunuhnya. Dia berkata, \"Ini adalah pekerjaan syaitan; dia adalah musuh yang sebenarnya, dan pemimpin yang menyesatkan.\"",
+      "en": "Once he entered the city unexpectedly, without being recognized by the people. He found two men fighting; one was (a Hebrew) from his people, and the other was (an Egyptian) from his enemies. The one from his people called on him for help against his enemy. Moses punched him, killing him. He said, \"This is the work of the devil; he is a real enemy, and a profound misleader.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028015.mp3",
+      "subtitle": {
+        "bm": "Musa Komit Pembunuhan",
+        "en": "Moses Commits Manslaughter"
+      }
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_028016",
-      "bm": "TODO_BM_028016",
-      "en": "TODO_EN_028016",
-      "audio": "./assets/audio/028/028016.mp3"
+      "arabic": "قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+      "bm": "Dia berkata, \"Tuhanku, aku telah menzalimi rohku. Ampunilah daku,\" dan Dia mengampuninya. Sesungguhnya, Dialah Maha Pengampun lagi Maha Penyayang.",
+      "en": "He said, \"My Lord, I have wronged my soul. Please forgive me,\" and He forgave him. He is the Forgiver, Most Merciful.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_028017",
-      "bm": "TODO_BM_028017",
-      "en": "TODO_EN_028017",
-      "audio": "./assets/audio/028/028017.mp3"
+      "arabic": "قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِلْمُجْرِمِينَ",
+      "bm": "Dia berkata, \"Tuhanku, untuk membalas rahmatMu keatasku, aku tidak akan lagi menjadi penyokong bagi orang orang yang bersalah.\"",
+      "en": "He said, \"My Lord, in return for Your blessings upon me, I will never be a supporter of the guilty ones.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_028018",
-      "bm": "TODO_BM_028018",
-      "en": "TODO_EN_028018",
-      "audio": "./assets/audio/028/028018.mp3"
+      "arabic": "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُبِينٌ",
+      "bm": "Diwaktu pagi, dia berada dibandar, takut dan berhati hati. Orang yang mendapatkan pertolongan dia semalam, meminta pertolongannya sekali lagi. Musa berkata kepadanya, \"Kau adalah benar benar pembuat kacau.\"",
+      "en": "In the morning, he was in the city, afraid and watchful. The one who sought his help yesterday, asked for his help again. Moses said to him, \"You are really a troublemaker.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_028019",
-      "bm": "TODO_BM_028019",
-      "en": "TODO_EN_028019",
-      "audio": "./assets/audio/028/028019.mp3"
+      "arabic": "فَلَمَّا أَنْ أَرَادَ أَنْ يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا قَالَ يَامُوسَىٰ أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسًا بِالْأَمْسِ إِنْ تُرِيدُ إِلَّا أَنْ تَكُونَ جَبَّارًا فِي الْأَرْضِ وَمَا تُرِيدُ أَنْ تَكُونَ مِنَ الْمُصْلِحِينَ",
+      "bm": "Sedang dia mencuba untuk memukul musuh mereka yang nyata itu, dia berkata, \"Wahai Musa, adakah kau mahu membunuhku, sebagaimana yang kau telah membunuh lelaki itu semalam? Jelas sekali, kau ingin menjadi penindas dibumi; kerana kau tidak ingin menjadi orang orang yang benar.\"",
+      "en": "Before he attempted to strike their common enemy, he said, \"O Moses, do you want to kill me, as you killed the other man yesterday? Obviously, you wish to be a tyrant on earth; you do not wish to be righteous.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028019.mp3",
+      "subtitle": {
+        "bm": "Jenayah Musa Di-Dedahkan",
+        "en": "Moses' Crime Exposed"
+      }
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_028020",
-      "bm": "TODO_BM_028020",
-      "en": "TODO_EN_028020",
-      "audio": "./assets/audio/028/028020.mp3"
+      "arabic": "وَجَاءَ رَجُلٌ مِنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَامُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ",
+      "bm": "Seorang lelaki datang berlari lari disebelah lain bahagian bandar itu, sambil berkata, \"Wahai Musa, orang orang berkomplot untuk membunuhmu. Baiklah kau pergi dengan segera. Aku hanya memberimu nasihat yang baik.\"",
+      "en": "A man came running from the other side of the city, saying, \"O Moses, the people are plotting to kill you. You better leave immediately. I am giving you good advice.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_028021",
-      "bm": "TODO_BM_028021",
-      "en": "TODO_EN_028021",
-      "audio": "./assets/audio/028/028021.mp3"
+      "arabic": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+      "bm": "Dia lari keluar dari bandar itu, ketakutan dan berhati hati. Dia berkata, \"Tuhanku selamatkanlah aku dari orang orang yang menindas.\"",
+      "en": "He fled the city, afraid and watchful. He said, \"My Lord, save me from the oppressive people.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_028022",
-      "bm": "TODO_BM_028022",
-      "en": "TODO_EN_028022",
-      "audio": "./assets/audio/028/028022.mp3"
+      "arabic": "وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ",
+      "bm": "Sambil dia berjalan menuju keMidyan, dia berkata, \"Semoga Tuhanku membimbingku kejalan yang benar.\"",
+      "en": "As he traveled towards Midyan, he said, \"May my Lord guide me in the right path.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028022.mp3",
+      "subtitle": {
+        "bm": "Di-Midyan",
+        "en": "In Midyan"
+      }
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_028023",
-      "bm": "TODO_BM_028023",
-      "en": "TODO_EN_028023",
-      "audio": "./assets/audio/028/028023.mp3"
+      "arabic": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "bm": "Apabila dia tiba ditempat memberi air diMidyan, dia dapati sekumpulan orang orang yang mengambil air, dan melihat dua wanita sedang menunggu disebelah sana. Dia berkata, \"Apakah yang kamu perlukan?\" Mereka berkata, \"Kami tidak dapat mengambil air, sehingga kumpulan ini pergi, dan bapa kami seorang lelaki tua.\"",
+      "en": "When he reached Midyan's water, he found a crowd of people watering, and noticed two women waiting on the side. He said, \"What is it that you need?\" They said, \"We are not able to water, until the crowd disperses, and our father is an old man.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_028024",
-      "bm": "TODO_BM_028024",
-      "en": "TODO_EN_028024",
-      "audio": "./assets/audio/028/028024.mp3"
+      "arabic": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "bm": "Dia mengambilkan air untuk mereka, dan berpaling ketempat yang teduh, sambil berkata, \"Tuhanku, apa saja rezeki yang Engkau hantarkan untukku, kerana aku tersangat memerlukannya.\"",
+      "en": "He watered for them, then turned to the shade, saying, \"My Lord, whatever provision You send to me, I am in dire need for it.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_028025",
-      "bm": "TODO_BM_028025",
-      "en": "TODO_EN_028025",
-      "audio": "./assets/audio/028/028025.mp3"
+      "arabic": "فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ قَالَتْ إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَاءَهُ وَقَصَّ عَلَيْهِ الْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ",
+      "bm": "Tidak lama kemudian, seorang dari kedua wanita itu mendatanginya, dengan malu malu, dan berkata, \"Bapaku menjemputmu untuk membayarmu kerana mengambilkan kami air.\" Setelah dia berjumpa dengannya, dan menceritakan kepadanya kisahnya, dia berkata, \"Janganlah takut. Kau telah terselamat dari orang orang yang menindas.\"",
+      "en": "Soon, one of the two women approached him, shyly, and said, \"My father invites you to pay you for watering for us.\" When he met him, and told him his story, he said, \"Have no fear. You have been saved from the oppressive people.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_028026",
-      "bm": "TODO_BM_028026",
-      "en": "TODO_EN_028026",
-      "audio": "./assets/audio/028/028026.mp3"
+      "arabic": "قَالَتْ إِحْدَاهُمَا يَاأَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ",
+      "bm": "Salah satu dari kedua wanita itu berkata, \"Wahai bapaku upahlah dia. Dia yang terbaik untuk mengupah, kerana dia itu kuat dan jujur.\"",
+      "en": "One of the two women said, \"O my father, hire him. He is the best one to hire, for he is strong and honest.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028026.mp3",
+      "subtitle": {
+        "bm": "Musa Berkahwin",
+        "en": "Moses Marries"
+      }
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_028027",
-      "bm": "TODO_BM_028027",
-      "en": "TODO_EN_028027",
-      "audio": "./assets/audio/028/028027.mp3"
+      "arabic": "قَالَ إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِنْدِكَ وَمَا أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّالِحِينَ",
+      "bm": "Dia berkata, \"Aku ingin memberikan salah satu dari kedua orang anak perempuanku kepadamu untuk dikahwini, supaya engkau  bekerja untukku selama delapan musim haji; jika kau menjadikannya sepuluh, itu adalah diatas kerelaan dipihakmu. Aku tidak menginginikan perkara ini menjadi susah bagimu. Kau akan dapati Dengan Izin Allah (Insha Allah), seorang yang benar.\"",
+      "en": "He said, \"I wish to offer one of my two daughters for you to marry, in return for working for me for eight pilgrimages; if you make them ten, it will be voluntary on your part. I do not wish to make this matter too difficult for you. You will find me, GOD willing, righteous.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_028028",
-      "bm": "TODO_BM_028028",
-      "en": "TODO_EN_028028",
-      "audio": "./assets/audio/028/028028.mp3"
+      "arabic": "قَالَ ذَٰلِكَ بَيْنِي وَبَيْنَكَ أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ وَاللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "bm": "Dia berkata, \"Ini adalah satu perjanjian diantara aku dan engkau. Mana satu masa yang aku tunaikan, kau tidak akan menjadi keberatan untuk menerima salah satu darinya. Sesungguhnya, Allah yang menjadi penjamin bagi apa yang telah kami cakapkan.\"",
+      "en": "He said, \"It is an agreement between me and you. Whichever period I fulfill, you will not be averse to either one. GOD is the guarantor of what we said.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028028.mp3"
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_028029",
-      "bm": "TODO_BM_028029",
-      "en": "TODO_EN_028029",
-      "audio": "./assets/audio/028/028029.mp3"
+      "arabic": "فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ وَسَارَ بِأَهْلِهِ آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا قَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+      "bm": "Apabila dia telah selesai tunaikan kewajipannya, dia berjalan dengan keluarganya (menuju Mesir). Dia melihat dicerunan gunung Sinai rimbunan api. Dia berkata kepada keluarganya, \"Tinggallah disini. Aku telah melihat api. Boleh jadi aku dapat membawakan berita, ataupun sedikit api untuk memanaskan kamu.\"",
+      "en": "When he had fulfilled his obligation, he traveled with his family (towards Egypt). He saw from the slope of Mount Sinai a fire. He said to his family, \"Stay here. I have seen a fire. Maybe I can bring to you news, or a portion of the fire to warm you.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028029.mp3",
+      "subtitle": {
+        "bm": "Kembali Ke-Mesir",
+        "en": "Back to Egypt"
+      }
     },
     {
       "number": 30,
-      "arabic": "TODO_AR_028030",
-      "bm": "TODO_BM_028030",
-      "en": "TODO_EN_028030",
-      "audio": "./assets/audio/028/028030.mp3"
+      "arabic": "فَلَمَّا أَتَاهَا نُودِيَ مِنْ شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ أَنْ يَامُوسَىٰ إِنِّي أَنَا اللَّهُ رَبُّ الْعَالَمِينَ",
+      "bm": "Apabila dia sampai kepadanya, dia telah dipanggil dari sebelah kanan tepi lembah itu, didalam tempat yang dirahmati dimana terdapat lokasi dirimbunan yang terbakar: \"Wahai Musa, ini adalah Aku. Allah; Tuhan semesta alam.\"",
+      "en": "When he reached it, he was called from the edge of the right side of the valley, in the blessed spot where the burning bush was located: \"O Moses, this is Me. GOD; Lord of the universe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028030.mp3",
+      "subtitle": {
+        "bm": "Musa Di-Lantik",
+        "en": "Moses Appointed"
+      }
     },
     {
       "number": 31,
-      "arabic": "TODO_AR_028031",
-      "bm": "TODO_BM_028031",
-      "en": "TODO_EN_028031",
-      "audio": "./assets/audio/028/028031.mp3"
+      "arabic": "وَأَنْ أَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَىٰ أَقْبِلْ وَلَا تَخَفْ إِنَّكَ مِنَ الْآمِنِينَ",
+      "bm": "\"Lemparkan kebawah tongkatmu itu.\" Apabila dia melihat yang ianya bergerak seperti setan, dia pusing kebelakang dan lari. \"Wahai Musa, datanglah kembali; janganlah takut. Kau cukup selamat.",
+      "en": "\"Throw down your staff.\" When he saw it moving like a demon, he turned around and fled. \"O Moses, come back; do not be afraid. You are perfectly safe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028031.mp3"
     },
     {
       "number": 32,
-      "arabic": "TODO_AR_028032",
-      "bm": "TODO_BM_028032",
-      "en": "TODO_EN_028032",
-      "audio": "./assets/audio/028/028032.mp3"
+      "arabic": "اسْلُكْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ فَذَانِكَ بُرْهَانَانِ مِنْ رَبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+      "bm": "\"Masukkanlah tanganmu didalam kucekmu; ianya akan keluar menjadi keputihan dengan tidak tercemar. Lipatkan kedua lenganmu dan tenangkan perasaan takutmu. Ini adalah dua bukti dari Tuhanmu, untuk ditunjukkan kepada Fir'aun dan pengetua pengetuanya; mereka telah menjadi orang orang yang zalim.\"",
+      "en": "\"Put your hand into your pocket; it will come out white without a blemish. Fold your wings and settle down from your fear. These are two proofs from your Lord, to be shown to Pharaoh and his elders; they have been wicked people.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028032.mp3"
     },
     {
       "number": 33,
-      "arabic": "TODO_AR_028033",
-      "bm": "TODO_BM_028033",
-      "en": "TODO_EN_028033",
-      "audio": "./assets/audio/028/028033.mp3"
+      "arabic": "قَالَ رَبِّ إِنِّي قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَنْ يَقْتُلُونِ",
+      "bm": "Dia berkata, \"Tuhanku, aku telah membunuh salah seorang dari mereka, dan aku takut jangan sampai mereka membunuhku.",
+      "en": "He said, \"My Lord, I killed one of them, and I fear lest they kill me.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028033.mp3"
     },
     {
       "number": 34,
-      "arabic": "TODO_AR_028034",
-      "bm": "TODO_BM_028034",
-      "en": "TODO_EN_028034",
-      "audio": "./assets/audio/028/028034.mp3"
+      "arabic": "وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا فَأَرْسِلْهُ مَعِيَ رِدْءًا يُصَدِّقُنِي إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ",
+      "bm": "\"Juga, saudaraku, Harun lebih pandai bertutur dariku. Hantarkanlah dia bersamaku sebagai penolong untuk mengesahkan dan menguatkanku. Aku takut jangan sampai mereka mengingkariku.\"",
+      "en": "\"Also, my brother Aaron is more eloquent than I. Send him with me as a helper to confirm and strengthen me. I fear lest they disbelieve me.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028034.mp3"
     },
     {
       "number": 35,
-      "arabic": "TODO_AR_028035",
-      "bm": "TODO_BM_028035",
-      "en": "TODO_EN_028035",
-      "audio": "./assets/audio/028/028035.mp3"
+      "arabic": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا بِآيَاتِنَا أَنْتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ",
+      "bm": "Dia berkata, \"Kami akan kuatkan kau dengan saudaramu, dan kami akan memberikan kamu berdua autoriti yang jelas. Lantas, mereka tidak akan dapat menyentuh salah satu dari kamu dengan mukjizat mukjizat kami, kepada kamu berdua, bersama sama dengan orang orang yang mengikuti kamu, akan menjadi pemenang pemenang.\"",
+      "en": "He said, \"We will strengthen you with your brother, and we will provide you both with manifest authority. Thus, they will not be able to touch either one of you. With our miracles, the two of you, together with those who follow you, will be the victors.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028035.mp3"
     },
     {
       "number": 36,
-      "arabic": "TODO_AR_028036",
-      "bm": "TODO_BM_028036",
-      "en": "TODO_EN_028036",
-      "audio": "./assets/audio/028/028036.mp3"
+      "arabic": "فَلَمَّا جَاءَهُمْ مُوسَىٰ بِآيَاتِنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا سِحْرٌ مُفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
+      "bm": "Apabila Musa pergi kepada mereka dengan bukti bukti kami, terang dan nyata, mereka berkata, \"Ini adalah magik yang diada adakan. Kami tidak pernah mendengarkan ini dari keturunan keturunan kami.\"",
+      "en": "When Moses went to them with our proofs, clear and profound, they said, \"This is fabricated magic. We have never heard of this from our ancient ancestors.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028036.mp3",
+      "subtitle": {
+        "bm": "Kesombongan Fir'aun",
+        "en": "Pharaoh's Arrogance"
+      }
     },
     {
       "number": 37,
-      "arabic": "TODO_AR_028037",
-      "bm": "TODO_BM_028037",
-      "en": "TODO_EN_028037",
-      "audio": "./assets/audio/028/028037.mp3"
+      "arabic": "وَقَالَ مُوسَىٰ رَبِّي أَعْلَمُ بِمَنْ جَاءَ بِالْهُدَىٰ مِنْ عِنْدِهِ وَمَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+      "bm": "Musa berkata, \"Tuhanku, amat ketahui sesiapa yang membawa petunjuk dariNya, dan siapakah yang akan akhirnya menjadi pemenang pemenang. Tentu sekali, orang orang yang melampaui batas itu tidak akan berjaya.\"",
+      "en": "Moses said, \"My Lord knows best who brought the guidance from Him, and who will be the ultimate victors. Surely, the transgressors never succeed.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028037.mp3"
     },
     {
       "number": 38,
-      "arabic": "TODO_AR_028038",
-      "bm": "TODO_BM_028038",
-      "en": "TODO_EN_028038",
-      "audio": "./assets/audio/028/028038.mp3"
+      "arabic": "وَقَالَ فِرْعَوْنُ يَاأَيُّهَا الْمَلَأُ مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي فَأَوْقِدْ لِي يَاهَامَانُ عَلَى الطِّينِ فَاجْعَلْ لِي صَرْحًا لَعَلِّي أَطَّلِعُ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ مِنَ الْكَاذِبِينَ",
+      "bm": "Fir'aun berkata, \"Wahai kau pengetua pengetua, aku tidak pernah mengetahui adanya sebarang tuhan untuk kamu selainku. Dari itu, apikan rumah adob, wahai Haman, untuk membina menara, supaya dapat aku tengok dekat tuhan bagi Musa. Aku sangat pasti yang dia itu pembohong.\"",
+      "en": "Pharaoh said, \"O you elders, I have not known of any god for you other than me. Therefore, fire the adobe, O Hãmãn, in order to build a tower, that I may take a look at the god of Moses. I am sure that he is a liar.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028038.mp3"
     },
     {
       "number": 39,
-      "arabic": "TODO_AR_028039",
-      "bm": "TODO_BM_028039",
-      "en": "TODO_EN_028039",
-      "audio": "./assets/audio/028/028039.mp3"
+      "arabic": "وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَظَنُّوا أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ",
+      "bm": "Lantas, dia dan bala tenteranya berterusan mengkomit kesombongan diatas bumi,  dengan tidak mempunyai kebenaran, dan berfikir yang mereka itu tidak akan dapat dikembalikan kepada kami.",
+      "en": "Thus, he and his troops continued to commit arrogance on earth, without any right, and thought that they would not be returned to us.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028039.mp3"
     },
     {
       "number": 40,
-      "arabic": "TODO_AR_028040",
-      "bm": "TODO_BM_028040",
-      "en": "TODO_EN_028040",
-      "audio": "./assets/audio/028/028040.mp3"
+      "arabic": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ",
+      "bm": "Akibatnya, kami menghukum dia dan bala tenterannya, dengan mencampakkan mereka kedalam laut. Perhatikanlah akibatnya bagi orang orang yang melampaui batas.",
+      "en": "Consequently, we punished him and his troops, by throwing them into the sea. Note the consequences for the transgressors.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028040.mp3"
     },
     {
       "number": 41,
-      "arabic": "TODO_AR_028041",
-      "bm": "TODO_BM_028041",
-      "en": "TODO_EN_028041",
-      "audio": "./assets/audio/028/028041.mp3"
+      "arabic": "وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ وَيَوْمَ الْقِيَامَةِ لَا يُنْصَرُونَ",
+      "bm": "Kami jadikan mereka para imam yang membawakan orang orang mereka keNeraka. Tambahan pula, pada Hari Kebangkitan kelak, mereka tidak akan mempunyai sebarang pertolongan.",
+      "en": "We made them imams who led their people to Hell. Furthermore, on the Day of Resurrection, they will have no help.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028041.mp3"
     },
     {
       "number": 42,
-      "arabic": "TODO_AR_028042",
-      "bm": "TODO_BM_028042",
-      "en": "TODO_EN_028042",
-      "audio": "./assets/audio/028/028042.mp3"
+      "arabic": "وَأَتْبَعْنَاهُمْ فِي هَٰذِهِ الدُّنْيَا لَعْنَةً وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ",
+      "bm": "Mereka dikenakan kutukkan dikehidupan ini, dan pada Hari Kebangkitan kelak mereka akan dihina.",
+      "en": "They incurred in this life condemnation, and on the Day of Resurrection they will be despised.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028042.mp3"
     },
     {
       "number": 43,
-      "arabic": "TODO_AR_028043",
-      "bm": "TODO_BM_028043",
-      "en": "TODO_EN_028043",
-      "audio": "./assets/audio/028/028043.mp3"
+      "arabic": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِنْ بَعْدِ مَا أَهْلَكْنَا الْقُرُونَ الْأُولَىٰ بَصَائِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "bm": "Kami berikan kepada Musa kitab - setelah terhapusnya generasi generasi yang lalu, dan sesudah menetapkan contoh contoh melalui mereka- untuk memberikan petunjuk kepada manusia, dan bimbingan, dan belas kasih supaya dapat mereka mengambil peringatan.",
+      "en": "We gave Moses the scripture--after having annihilated the previous generations, and after setting the examples through them--to provide enlightenment for the people, and guidance, and mercy, that they may take heed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028043.mp3",
+      "subtitle": {
+        "bm": "Buku Untuk Musa",
+        "en": "The Book of Moses*"
+      }
     },
     {
       "number": 44,
-      "arabic": "TODO_AR_028044",
-      "bm": "TODO_BM_028044",
-      "en": "TODO_EN_028044",
-      "audio": "./assets/audio/028/028044.mp3"
+      "arabic": "وَمَا كُنْتَ بِجَانِبِ الْغَرْبِيِّ إِذْ قَضَيْنَا إِلَىٰ مُوسَى الْأَمْرَ وَمَا كُنْتَ مِنَ الشَّاهِدِينَ",
+      "bm": "Kau tidak berada dicerunan gunung disebelah barat, apabila kami isukan perintah kepada Musa; kau bukanlah sebagai saksi.",
+      "en": "You were not present on the slope of the western mount, when we issued the command to Moses; you were not a witness.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028044.mp3",
+      "subtitle": {
+        "bm": "Pemberitahuan Kepada Rasul Allah Yang Di-Janjikan",
+        "en": "Addressing God's Messenger of the Covenant"
+      }
     },
     {
       "number": 45,
-      "arabic": "TODO_AR_028045",
-      "bm": "TODO_BM_028045",
-      "en": "TODO_EN_028045",
-      "audio": "./assets/audio/028/028045.mp3"
+      "arabic": "وَلَٰكِنَّا أَنْشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+      "bm": "Tetapi kami telah memantapkan banyak generasi generasi, dan kerana jarak masa yang lama, (mereka telah dilencongkan), Tidak juga kau ada diantara orang orang Midyan, membacakan revelasi revelasi kami kepada mereka. Tetapi kami telah menghantarkan para rasul.",
+      "en": "But we established many generations, and, because of the length of time, (they deviated). Nor were you among the people of Midyan, reciting our revelations to them. But we did send messengers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028045.mp3"
     },
     {
       "number": 46,
-      "arabic": "TODO_AR_028046",
-      "bm": "TODO_BM_028046",
-      "en": "TODO_EN_028046",
-      "audio": "./assets/audio/028/028046.mp3"
+      "arabic": "وَمَا كُنْتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا وَلَٰكِنْ رَحْمَةً مِنْ رَبِّكَ لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "bm": "Tidak juga kau berada dicerunan Gunung Sinai apabila kami memanggil (Musa). Tetapi itu adalah belas kasih dari Tuhan kamu, (terhadap manusia,) supaya dapat memberikan amaran kepada manusia yang tidak menerima amaran sebelummu, supaya mereka dapat merenungkan.",
+      "en": "Nor were you on the slope of Mount Sinai when we called (Moses). But it is mercy from your Lord, (towards the people,) in order to warn people who received no warner before you, that they may take heed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028046.mp3"
     },
     {
       "number": 47,
-      "arabic": "TODO_AR_028047",
-      "bm": "TODO_BM_028047",
-      "en": "TODO_EN_028047",
-      "audio": "./assets/audio/028/028047.mp3"
+      "arabic": "وَلَوْلَا أَنْ تُصِيبَهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "bm": "Lantas, mereka tidak boleh mengatakan, apabila bencana menyerang mereka oleh kerana perbuatan mereka sendiri, \"Tuhan kami, kalaulah Engkau menghantarkan seorang rasul kepada kami, tentunya kami akan mengikuti revelasi revelasiMu, dan tentunya akan menjadi orang orang yang percaya.\"",
+      "en": "Thus, they cannot say, when a disaster strikes them as a consequence of their own deeds, \"Our Lord, had You sent a messenger to us, we would have followed Your revelations, and would have been believers.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028047.mp3",
+      "subtitle": {
+        "bm": "Tidak Ada Alasan",
+        "en": "No Excuse"
+      }
     },
     {
       "number": 48,
-      "arabic": "TODO_AR_028048",
-      "bm": "TODO_BM_028048",
-      "en": "TODO_EN_028048",
-      "audio": "./assets/audio/028/028048.mp3"
+      "arabic": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِنْدِنَا قَالُوا لَوْلَا أُوتِيَ مِثْلَ مَا أُوتِيَ مُوسَىٰ أَوَلَمْ يَكْفُرُوا بِمَا أُوتِيَ مُوسَىٰ مِنْ قَبْلُ قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ كَافِرُونَ",
+      "bm": "Sekarang apabila kebenaran telah datang kepada mereka dari kami, mereka berkata, \"kalaulah sekiranya kita diberi apa yang telah diberikan kepada Musa!\" Tidakkah mereka telah mengingkari dengan apa yang telah diberikan kepada Musa dimasa lalu? Mereka berkata, \"Kedua dua (kitab) itu adalah dari perbuatan magik yang meniru satu sama lainnya.\" Mereka juga berkata, \"Kami tidak akan mempercayai kedua duanya itu.\"",
+      "en": "Now that the truth has come to them from us, they said, \"If only we could be given what was given to Moses!\" Did they not disbelieve in what was given to Moses in the past? They said, \"Both (scriptures) are works of magic that copied one another.\" They also said, \"We are disbelievers in both of them.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028048.mp3",
+      "subtitle": {
+        "bm": "Taurat dan Quran",
+        "en": "The Torah and The Quran"
+      }
     },
     {
       "number": 49,
-      "arabic": "TODO_AR_028049",
-      "bm": "TODO_BM_028049",
-      "en": "TODO_EN_028049",
-      "audio": "./assets/audio/028/028049.mp3"
+      "arabic": "قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِنْدِ اللَّهِ هُوَ أَهْدَىٰ مِنْهُمَا أَتَّبِعْهُ إِنْ كُنْتُمْ صَادِقِينَ",
+      "bm": "Katakanlah, \"Maka terbitkanlah sebuah kitab dari Allah dengan lebih baik bimbingan dari yang dua itu, supaya aku dapat mengikutinya, jika kaulah yang benar.\"",
+      "en": "Say, \"Then produce a scripture from GOD with better guidance than the two, so I can follow it, if you are truthful.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028049.mp3"
     },
     {
       "number": 50,
-      "arabic": "TODO_AR_028050",
-      "bm": "TODO_BM_028050",
-      "en": "TODO_EN_028050",
-      "audio": "./assets/audio/028/028050.mp3"
+      "arabic": "فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءَهُمْ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "bm": "Jika mereka gagal untuk merespons kepadamu, maka ketahuilah yang mereka itu hanya mengikuti pendapat pendapat mereka sendiri. Siapakah yang lebih jauh kesesatannya dari orang orang yang mengikuti pendapat pendapat mereka sendiri, dengan tidak dapat bimbingan dari Allah? Allah tidak akan membimbing orang orang zalim yang sedemikian.",
+      "en": "If they fail to respond to you, then know that they follow only their own opinions. Who is farther astray than those who follow their own opinions, without guidance from GOD? GOD does not guide such wicked people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028050.mp3",
+      "subtitle": {
+        "bm": "Allah Menghantarkan PengajaranNya Kepada Kita Melalui Para RasulNya",
+        "en": "God Sends His Teachings to us Through His Messengers"
+      }
     },
     {
       "number": 51,
-      "arabic": "TODO_AR_028051",
-      "bm": "TODO_BM_028051",
-      "en": "TODO_EN_028051",
-      "audio": "./assets/audio/028/028051.mp3"
+      "arabic": "وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "bm": "Kami telah menyampaikan mesej kepada mereka, supaya mereka dapat merenungkan.",
+      "en": "We have delivered the message to them, that they may take heed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028051.mp3",
+      "subtitle": {
+        "bm": "Semua Orang Orang Yang Benar Benar Percaya Menerima Quran",
+        "en": "All True Believers Accept the Quran"
+      }
     },
     {
       "number": 52,
-      "arabic": "TODO_AR_028052",
-      "bm": "TODO_BM_028052",
-      "en": "TODO_EN_028052",
-      "audio": "./assets/audio/028/028052.mp3"
+      "arabic": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِنْ قَبْلِهِ هُمْ بِهِ يُؤْمِنُونَ",
+      "bm": "Orang orang yang kami rahmati dengan kitab kitab yang terdahulu akan percaya didalam ini.",
+      "en": "Those whom we blessed with the previous scriptures will believe in this.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028052.mp3"
     },
     {
       "number": 53,
-      "arabic": "TODO_AR_028053",
-      "bm": "TODO_BM_028053",
-      "en": "TODO_EN_028053",
-      "audio": "./assets/audio/028/028053.mp3"
+      "arabic": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِنْ رَبِّنَا إِنَّا كُنَّا مِنْ قَبْلِهِ مُسْلِمِينَ",
+      "bm": "Apabila ianya dibacakan kepada mereka, mereka akan berkata, \"Kami percaya dengannya. Ini adalah kebenaran dari Tuhan kami. Walaupun sebelum kami mendengarkannya, kami telah menyerahkan diri diri kami sepenuhnya (kepada Allah).\"",
+      "en": "When it is recited to them, they will say, \"We believe in it. This is the truth from our Lord. Even before we heard of it, we were submitters.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028053.mp3"
     },
     {
       "number": 54,
-      "arabic": "TODO_AR_028054",
-      "bm": "TODO_BM_028054",
-      "en": "TODO_EN_028054",
-      "audio": "./assets/audio/028/028054.mp3"
+      "arabic": "أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "bm": "Untuk mereka ini kami memberikan dua kali ganjaran, kerana mereka sabar dan tabah hati. Mereka mengatasi kerja kerja jahat dengan membuat kerja kerja yang baik, dan dari rezeki rezeki kami kepada mereka, mereka memberi.",
+      "en": "To these we grant twice the reward, because they steadfastly persevere. They counter evil works with good works, and from our provisions to them, they give.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028054.mp3",
+      "subtitle": {
+        "bm": "Ganjaran Yang Berganda Bagi Kristien (Nasrani) & Yahudi Yang Mengenal Kebenaran",
+        "en": "Twice the Reward for Christians & Jews Who Recognize the Truth"
+      }
     },
     {
       "number": 55,
-      "arabic": "TODO_AR_028055",
-      "bm": "TODO_BM_028055",
-      "en": "TODO_EN_028055",
-      "audio": "./assets/audio/028/028055.mp3"
+      "arabic": "وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ",
+      "bm": "Apabila mereka berhadapan dengan percakapan yang sia sia, mereka berpaling darinya dan berkata, \"Kami akan bertanggungjawab diatas perbuatan perbuatan kami, dan kamu bertanggungjawab diatas perbuatan perbuatan kamu. Kesejahteraan bagi kamu. Kami tidak ingin berperangai seperti orang orang yang jahil.\"",
+      "en": "When they come across vain talk, they disregard it and say, \"We are responsible for our deeds, and you are responsible for your deeds. Peace be upon you. We do not wish to behave like the ignorant ones.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028055.mp3"
     },
     {
       "number": 56,
-      "arabic": "TODO_AR_028056",
-      "bm": "TODO_BM_028056",
-      "en": "TODO_EN_028056",
-      "audio": "./assets/audio/028/028056.mp3"
+      "arabic": "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+      "bm": "Kamu tidak akan dapat membimbing orang orang yang kamu sayangi. Allah Sahajalah yang membimbing mengikuti kehendakNya dan mengikuti ilmu pengetahuanNya bagi orang orang yang berhak mendapat bimbingan.",
+      "en": "You cannot guide the ones you love. GOD is the only One who guides in accordance with His will, and in accordance with His knowledge of those who deserve the guidance.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028056.mp3",
+      "subtitle": {
+        "bm": "Hanya Allah Sahaja Yang Membimbing",
+        "en": "Only God Guides"
+      }
     },
     {
       "number": 57,
-      "arabic": "TODO_AR_028057",
-      "bm": "TODO_BM_028057",
-      "en": "TODO_EN_028057",
-      "audio": "./assets/audio/028/028057.mp3"
+      "arabic": "وَقَالُوا إِنْ نَتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَا أَوَلَمْ نُمَكِّنْ لَهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ رِزْقًا مِنْ لَدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "bm": "Mereka berkata, \"Jika kami mengikuti petunjukmu, kami akan menerima penyiksaan.\"Tidakkah kami telah memantapkan untuk mereka Tempat Suci, dimana berbagai bagai rupa buah buahan telah diberikan, sebagai peruntukkan dari kami? Sesungguhnya, kebanyakan dari mereka itu tidak mengetahuinya.",
+      "en": "They said, \"If we follow your guidance, we will suffer persecution.\" Did we not establish for them a Sacred Sanctuary, to which all kinds of fruits are offered, as a provision from us? Indeed, most of them do not know.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028057.mp3"
     },
     {
       "number": 58,
-      "arabic": "TODO_AR_028058",
-      "bm": "TODO_BM_028058",
-      "en": "TODO_EN_028058",
-      "audio": "./assets/audio/028/028058.mp3"
+      "arabic": "وَكَمْ أَهْلَكْنَا مِنْ قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا فَتِلْكَ مَسَاكِنُهُمْ لَمْ تُسْكَنْ مِنْ بَعْدِهِمْ إِلَّا قَلِيلًا وَكُنَّا نَحْنُ الْوَارِثِينَ",
+      "bm": "Banyak komuniti telah kami hapuskan kerana tidak tahu menyukuri keadaan kehidupan mereka. Akibatnya, disinilah rumah rumah mereka, tiada mempunyai apa apa langsung dan tidak dapat didiami kerana kehancuran sesudah mereka, melainkan sedikit. Kamilah pewaris pewarisnya.",
+      "en": "Many a community we annihilated for turning unappreciative of their lives. Consequently, here are their homes, nothing but uninhabited ruins after them, except a few. We were the inheritors.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028058.mp3"
     },
     {
       "number": 59,
-      "arabic": "TODO_AR_028059",
-      "bm": "TODO_BM_028059",
-      "en": "TODO_EN_028059",
-      "audio": "./assets/audio/028/028059.mp3"
+      "arabic": "وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَىٰ حَتَّىٰ يَبْعَثَ فِي أُمِّهَا رَسُولًا يَتْلُو عَلَيْهِمْ آيَاتِنَا وَمَا كُنَّا مُهْلِكِي الْقُرَىٰ إِلَّا وَأَهْلُهَا ظَالِمُونَ",
+      "bm": "Kerana Tuhan kamu tidak pernah menghapuskan sebarang komuniti sebelum menghantarkan rasul ditengah tengah tempat itu, untuk membacakan revelasi revelasi kami kepada mereka. Kami tidak pernah menghapuskan sebarang komuniti, melainkan jika orang orangnya zalim.",
+      "en": "For your Lord never annihilates any community without sending a messenger in the midst thereof, to recite our revelations to them. We never annihilate any community, unless its people are wicked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028059.mp3"
     },
     {
       "number": 60,
-      "arabic": "TODO_AR_028060",
-      "bm": "TODO_BM_028060",
-      "en": "TODO_EN_028060",
-      "audio": "./assets/audio/028/028060.mp3"
+      "arabic": "وَمَا أُوتِيتُمْ مِنْ شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَزِينَتُهَا وَمَا عِنْدَ اللَّهِ خَيْرٌ وَأَبْقَىٰ أَفَلَا تَعْقِلُونَ",
+      "bm": "Segala apa yang diberikan kepada kamu adalah hanya kebendaan bagi kehidupan ini, dan semata mata untuk bermegah megah. Apa yang ada bersama Allah itu lebih jauh lagi baiknya, dan berkekalan. Tidakkah kamu faham?",
+      "en": "Everything that is given to you is only the material of this life, and its vanity. What is with GOD is far better, and everlasting. Do you not understand?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028060.mp3"
     },
     {
       "number": 61,
-      "arabic": "TODO_AR_028061",
-      "bm": "TODO_BM_028061",
-      "en": "TODO_EN_028061",
-      "audio": "./assets/audio/028/028061.mp3"
+      "arabic": "أَفَمَنْ وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَنْ مَتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا ثُمَّ هُوَ يَوْمَ الْقِيَامَةِ مِنَ الْمُحْضَرِينَ",
+      "bm": "Adakah seorang yang kami janjikan dengan perjanjian yang baik yang tentu sekali akan berlaku, sama dengan seorang yang kami memperuntukkan dengan kebendaan yang sementara bagi kehidupan ini, kemudian sesudah itu menderita dengan azab yang berkekalan pada Hari Kebangkitan kelak?",
+      "en": "Is one whom we promised a good promise that will surely come to pass, equal to one whom we provide with the temporary materials of this life, then suffers eternal doom on the Day of Resurrection?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028061.mp3"
     },
     {
       "number": 62,
-      "arabic": "TODO_AR_028062",
-      "bm": "TODO_BM_028062",
-      "en": "TODO_EN_028062",
-      "audio": "./assets/audio/028/028062.mp3"
+      "arabic": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+      "bm": "Harinya akan tiba apabila Dia memanggilkan mereka, dengan berkata, \"Dimanakah pujaan pujaan yang kamu ada adakan disampingKu?\"",
+      "en": "The day will come when He calls upon them, saying, \"Where are those idols you had set up beside Me?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028062.mp3",
+      "subtitle": {
+        "bm": "Pujaan Pujaan Tidak Mengakui Pemuja Pemuja Mereka",
+        "en": "The Idols Disown Their Idolizers"
+      }
     },
     {
       "number": 63,
-      "arabic": "TODO_AR_028063",
-      "bm": "TODO_BM_028063",
-      "en": "TODO_EN_028063",
-      "audio": "./assets/audio/028/028063.mp3"
+      "arabic": "قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ رَبَّنَا هَٰؤُلَاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا تَبَرَّأْنَا إِلَيْكَ مَا كَانُوا إِيَّانَا يَعْبُدُونَ",
+      "bm": "Orang orang yang menghadapi pengadilan akan berkata, \"Tuhan kami, inilah orang orangnya yang kami sesatkan; kami menyesatkan mereka hanyalah kerana kami sendiri telah tersesat. Sekarang ini kami mengabdikan diri diri kami sepenuhnya kepadaMu. Mereka sebenarnya bukanlah menyembah kami.\"",
+      "en": "Those who incurred the judgment will say, \"Our Lord, these are the ones we misled; we misled them only because we ourselves had gone astray. We now devote ourselves totally to You. They were not really worshiping us.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028063.mp3"
     },
     {
       "number": 64,
-      "arabic": "TODO_AR_028064",
-      "bm": "TODO_BM_028064",
-      "en": "TODO_EN_028064",
-      "audio": "./assets/audio/028/028064.mp3"
+      "arabic": "وَقِيلَ ادْعُوا شُرَكَاءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَرَأَوُا الْعَذَابَ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ",
+      "bm": "Akan dikatakan, \"Panggilah pujaan pujaan kamu (untuk menolong kamu).\" Mereka akan memanggilkan mereka, tetapi mereka tidak akan merespons. Mereka akan menderita dengan hukuman, dan berkeinginan yang mereka itu telah mendapat bimbingan!",
+      "en": "It will be said, \"Call upon your idols (to help you).\" They will call upon them, but they will not respond. They will suffer the retribution, and wish that they were guided!",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028064.mp3"
     },
     {
       "number": 65,
-      "arabic": "TODO_AR_028065",
-      "bm": "TODO_BM_028065",
-      "en": "TODO_EN_028065",
-      "audio": "./assets/audio/028/028065.mp3"
+      "arabic": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ",
+      "bm": "Pada hari itu, Dia akan bertanya kepada semua orang, \" Bagaimana kamu merespons kepada para rasul?\"",
+      "en": "On that day, He will ask everyone, \"How did you respond to the messengers?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028065.mp3",
+      "subtitle": {
+        "bm": "Respons Kami Kepada Para Rasul",
+        "en": "Our Response to the Messengers"
+      }
     },
     {
       "number": 66,
-      "arabic": "TODO_AR_028066",
-      "bm": "TODO_BM_028066",
-      "en": "TODO_EN_028066",
-      "audio": "./assets/audio/028/028066.mp3"
+      "arabic": "فَعَمِيَتْ عَلَيْهِمُ الْأَنْبَاءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَاءَلُونَ",
+      "bm": "Mereka akan terkejut dengan fakta pada hari itu, dan akan mereka terdiam tanpa berkata.",
+      "en": "They will be so stunned by the facts on that day, they will be speechless.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028066.mp3"
     },
     {
       "number": 67,
-      "arabic": "TODO_AR_028067",
-      "bm": "TODO_BM_028067",
-      "en": "TODO_EN_028067",
-      "audio": "./assets/audio/028/028067.mp3"
+      "arabic": "فَأَمَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَعَسَىٰ أَنْ يَكُونَ مِنَ الْمُفْلِحِينَ",
+      "bm": "Bagi sesiapa yang bertaubat, percaya, dan menjalani kehidupan yang benar, mereka akan berakhir bersama sama dengan orang orang yang berjaya.",
+      "en": "As for those who repent, believe, and lead a righteous life, they will end up with the winners.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028067.mp3"
     },
     {
       "number": 68,
-      "arabic": "TODO_AR_028068",
-      "bm": "TODO_BM_028068",
-      "en": "TODO_EN_028068",
-      "audio": "./assets/audio/028/028068.mp3"
+      "arabic": "وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ مَا كَانَ لَهُمُ الْخِيَرَةُ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "bm": "Tuhan kamu yang Esa yang mencipta apa saja dengan kehendakNya, dan yang memilih; tidak ada sesiapa pun dapat membuat sebarang pilihan. Maha suci Allah, yang Maha Tinggi. Dia sahajalah yang lebih jauh keatas dari mempunyai pasangan pasangan.",
+      "en": "Your Lord is the One who creates whatever He wills, and chooses; no one else does any choosing. Glory be to GOD, the Most Exalted. He is far above needing partners.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028068.mp3"
     },
     {
       "number": 69,
-      "arabic": "TODO_AR_028069",
-      "bm": "TODO_BM_028069",
-      "en": "TODO_EN_028069",
-      "audio": "./assets/audio/028/028069.mp3"
+      "arabic": "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+      "bm": "Tuhan kamu amat tahu tentang fikiran yang jauh tersembunyi didalam dada dada mereka, begitu juga dengan apa saja yang diumumkan.",
+      "en": "Your Lord knows the innermost thoughts hidden in their chests, as well as everything they declare.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028069.mp3"
     },
     {
       "number": 70,
-      "arabic": "TODO_AR_028070",
-      "bm": "TODO_BM_028070",
-      "en": "TODO_EN_028070",
-      "audio": "./assets/audio/028/028070.mp3"
+      "arabic": "وَهُوَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ لَهُ الْحَمْدُ فِي الْأُولَىٰ وَالْآخِرَةِ وَلَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+      "bm": "Dia adalah Allah Tuhan yang Esa; tidak ada tuhan lain disampingNya. KepadaNya segala kepujian bagi kehidupan pertama ini, dan diAkhirat kelak. Segala pengadilan kepunyaanNya, dan kepadaNya sahajalah kamu akan dikembalikan.",
+      "en": "He is the one GOD; there is no other god beside Him. To Him belongs all praise in this first life, and in the Hereafter. All judgment belongs with Him, and to Him you will be returned.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028070.mp3"
     },
     {
       "number": 71,
-      "arabic": "TODO_AR_028071",
-      "bm": "TODO_BM_028071",
-      "en": "TODO_EN_028071",
-      "audio": "./assets/audio/028/028071.mp3"
+      "arabic": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ الَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِضِيَاءٍ أَفَلَا تَسْمَعُونَ",
+      "bm": "Katakanlah, \"Apa akan jadi jika Allah menjadikan malam selama lamanya, sehingga sampai keHari Kebangkitan? Tuhan yang manakah, selain dari Allah, boleh memberikan kamu cahaya? tidakkah dapat kamu dengar?\"",
+      "en": "Say, \"What if GOD made the night perpetual, until the Day of Resurrection? Which god, other than GOD, can provide you with light? Do you not hear?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028071.mp3",
+      "subtitle": {
+        "bm": "Rahmat Allah",
+        "en": "God's Blessings"
+      }
     },
     {
       "number": 72,
-      "arabic": "TODO_AR_028072",
-      "bm": "TODO_BM_028072",
-      "en": "TODO_EN_028072",
-      "audio": "./assets/audio/028/028072.mp3"
+      "arabic": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ النَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِلَيْلٍ تَسْكُنُونَ فِيهِ أَفَلَا تُبْصِرُونَ",
+      "bm": "Katakanlah, \"Apa akan jadi jika Allah menjadikan siang hari itu selama lamanya, sehingga sampai keHari Kebangkitan? Tuhan yang manakah, selain dari Allah, dapat mengadakan untuk kamu malam supaya kamu dapat berehat? Tidakkah kamu dapat lihat?\"",
+      "en": "Say, \"What if GOD made the daylight perpetual, until the Day of Resurrection? Which god, other than GOD, can provide you with a night for your rest? Do you not see?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028072.mp3"
     },
     {
       "number": 73,
-      "arabic": "TODO_AR_028073",
-      "bm": "TODO_BM_028073",
-      "en": "TODO_EN_028073",
-      "audio": "./assets/audio/028/028073.mp3"
+      "arabic": "وَمِنْ رَحْمَتِهِ جَعَلَ لَكُمُ الَّيْلَ وَالنَّهَارَ لِتَسْكُنُوا فِيهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "bm": "Itu adalah belas kasih dariNya yang Dia menciptakan untuk kamu malam dan siang hari supaya dapat berehat (diwaktu malam), dan mencari rezeki rezekiNya (diwaktu siang hari), semoga kamu dapat bersyukur.",
+      "en": "It is mercy from Him that He created for you the night and the day in order to rest (during the night), then seek His provisions (during the day), that you may be appreciative.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028073.mp3"
     },
     {
       "number": 74,
-      "arabic": "TODO_AR_028074",
-      "bm": "TODO_BM_028074",
-      "en": "TODO_EN_028074",
-      "audio": "./assets/audio/028/028074.mp3"
+      "arabic": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+      "bm": "Harinya akan tiba apabila Dia menanyakan mereka, \"Dimanakah pujaan pujaan yang kamu telah mengada adakan untuk disamakan denganKu?\"",
+      "en": "The day will come when He asks them, \"Where are the idols you had fabricated to rank with Me?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028074.mp3",
+      "subtitle": {
+        "bm": "Pujaan Pujaan Tidak Mempunyai Kuasa",
+        "en": "Idols Possess No Power"
+      }
     },
     {
       "number": 75,
-      "arabic": "TODO_AR_028075",
-      "bm": "TODO_BM_028075",
-      "en": "TODO_EN_028075",
-      "audio": "./assets/audio/028/028075.mp3"
+      "arabic": "وَنَزَعْنَا مِنْ كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+      "bm": "Kami akan pilih dari setiap komuniti seorang saksi, dan kemudian berkata, \"Berikanlah bukti kamu.\" Barulah mereka akan menyedari yang semua kebenaran ada disisi Allah, sementara pujaan pujaan yang mereka telah ada adakan itu akan meninggalkan mereka.",
+      "en": "We will select from every community a witness, then say, \"Present your proof.\" They will realize then that all truth belongs with GOD, while the idols they had fabricated will abandon them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028075.mp3"
     },
     {
       "number": 76,
-      "arabic": "TODO_AR_028076",
-      "bm": "TODO_BM_028076",
-      "en": "TODO_EN_028076",
-      "audio": "./assets/audio/028/028076.mp3"
+      "arabic": "إِنَّ قَارُونَ كَانَ مِنْ قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ بِالْعُصْبَةِ أُولِي الْقُوَّةِ إِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ إِنَّ اللَّهَ لَا يُحِبُّ الْفَرِحِينَ",
+      "bm": "Qarun (penjual hamba) adalah seorang dari kaum Musa yang telah mengkhianati mereka dan menindas mereka. Kami berikan kepadanya harta yang amat banyak yang kunci kunci untuk tempatnya itu hampir terlalu berat bagi orang orang yang paling kuat. Orang orangnya berkata kepada dia, \"Janganlah menjadi terlalu sombong; Allah tidak mencintai orang orang yang sombong.",
+      "en": "Qãroon (the slave driver) was one of Moses' people who betrayed them and oppressed them. We gave him so many treasures that the keys thereof were almost too heavy for the strongest band. His people said to him, \"Do not be so arrogant; GOD does not love those who are arrogant.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028076.mp3",
+      "subtitle": {
+        "bm": "Qarun",
+        "en": "Qãroon"
+      }
     },
     {
       "number": 77,
-      "arabic": "TODO_AR_028077",
-      "bm": "TODO_BM_028077",
-      "en": "TODO_EN_028077",
-      "audio": "./assets/audio/028/028077.mp3"
+      "arabic": "وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا وَأَحْسِنْ كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ إِنَّ اللَّهَ لَا يُحِبُّ الْمُفْسِدِينَ",
+      "bm": "\"Gunakanlah peruntukkan peruntukkan yang dikurniakan kepadamu dari Allah untuk mencari tempat diAkhirat, dengan tidak mengabaikan bahagianmu didunia ini. Jadilah dermawan, sebagaimana Allah telah berlaku dermawan terhadapmu. Janganlah berterusan mengkorup dibumi ini. Sesungguhnya Allah tidak mencintai orang orang yang berlaku korup.\"",
+      "en": "\"Use the provisions bestowed upon you by GOD to seek the abode of the Hereafter, without neglecting your share in this world. Be charitable, as GOD has been charitable towards you. Do not keep on corrupting the earth. GOD does not love the corruptors.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028077.mp3"
     },
     {
       "number": 78,
-      "arabic": "TODO_AR_028078",
-      "bm": "TODO_BM_028078",
-      "en": "TODO_EN_028078",
-      "audio": "./assets/audio/028/028078.mp3"
+      "arabic": "قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي أَوَلَمْ يَعْلَمْ أَنَّ اللَّهَ قَدْ أَهْلَكَ مِنْ قَبْلِهِ مِنَ الْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا وَلَا يُسْأَلُ عَنْ ذُنُوبِهِمُ الْمُجْرِمُونَ",
+      "bm": "Dia berkata, \"Aku mendapatkan kesemuanya ini kerana kepintaranku sendiri. \" Tidakkah dia sedar yang Allah telah menghapuskan sebelumnya generasi generasi yang lebih kuat dari dia, dan lebih lagi ramai bilangannya? Orang orang yang melampaui batas itu (tetap terhapus) tanpa ditanya berkenaan jenayah jenayah mereka.",
+      "en": "He said, \"I attained all this because of my own cleverness.\" Did he not realize that GOD had annihilated before him generations that were much stronger than he, and greater in number? The (annihilated) transgressors were not asked about their crimes.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028078.mp3"
     },
     {
       "number": 79,
-      "arabic": "TODO_AR_028079",
-      "bm": "TODO_BM_028079",
-      "en": "TODO_EN_028079",
-      "audio": "./assets/audio/028/028079.mp3"
+      "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِي زِينَتِهِ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَاةَ الدُّنْيَا يَالَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ إِنَّهُ لَذُو حَظٍّ عَظِيمٍ",
+      "bm": "Satu hari, dia keluar mendatangi orang orangnya dengan penuh perhiasan. Orang orang yang mengutamakan dunia ini berkata, \"Oh, kalaulah kami mempunyai apa yang dipunyai oleh Qarun. Sesungguhnya, dia sangatlah beruntung.\"",
+      "en": "One day, he came out to his people in full splendor. Those who preferred this worldly life said, \"Oh, we wish that we possess what Qãroon has attained. Indeed, he is very fortunate.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028079.mp3"
     },
     {
       "number": 80,
-      "arabic": "TODO_AR_028080",
-      "bm": "TODO_BM_028080",
-      "en": "TODO_EN_028080",
-      "audio": "./assets/audio/028/028080.mp3"
+      "arabic": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحًا وَلَا يُلَقَّاهَا إِلَّا الصَّابِرُونَ",
+      "bm": "Bagi orang orang yang dirahmati dengan ilmu pengetahuan, mereka berkata, \" Malang bagimu, ganjaran dari Allah adalah lebih baik lagi bagi orang orang percaya yang menjalani kehidupan yang benar.\" Tidak ada sesiapa yang akan mendapatkannya melainkan orang orang yang sabar.",
+      "en": "As for those who were blessed with knowledge, they said, \"Woe to you, GOD's recompense is far better for those who believe and lead a righteous life.\" None attains this except the steadfast.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028080.mp3",
+      "subtitle": {
+        "bm": "Kekayaan Yang Sebenar",
+        "en": "The Real Wealth"
+      }
     },
     {
       "number": 81,
-      "arabic": "TODO_AR_028081",
-      "bm": "TODO_BM_028081",
-      "en": "TODO_EN_028081",
-      "audio": "./assets/audio/028/028081.mp3"
+      "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِنْ فِئَةٍ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنْتَصِرِينَ",
+      "bm": "Lalu kami yang menyebabkan bumi menelannya dan rumah besarnya. Tidak ada pasukan yang boleh menolongnya terhadap Allah; dia tidaklah ditakdirkan untuk menjadi orang orang yang berjaya.",
+      "en": "We then caused the earth to swallow him and his mansion. No army could have helped him against GOD; he was not destined to be a winner.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028081.mp3",
+      "subtitle": {
+        "bm": "Nasib Malang Bagi Penindas",
+        "en": "The Tyrants' Inevitable Fate"
+      }
     },
     {
       "number": 82,
-      "arabic": "TODO_AR_028082",
-      "bm": "TODO_BM_028082",
-      "en": "TODO_EN_028082",
-      "audio": "./assets/audio/028/028082.mp3"
+      "arabic": "وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَوْلَا أَنْ مَنَّ اللَّهُ عَلَيْنَا لَخَسَفَ بِنَا وَيْكَأَنَّهُ لَا يُفْلِحُ الْكَافِرُونَ",
+      "bm": "Orang orang yang iri hati terhadapnya sehari sebelumnya berkata, \"Sekarang barulah kami sedar yang Allah Sahajalah yang memberi kepada sesiapa saja yang Dia pilih diantara hamba hambaNya, dan menahannya. Jika tidak kerana kurnian Allah terhadap kita, Dia tentunya akan menyebabkan bumi menelan kita juga. Sekarang kami baru sedar bahwa orang orang yang ingkar tidak akan berjaya.\"",
+      "en": "Those who were envious of him the day before said, \"Now we realize that GOD is the One who provides for whomever He chooses from among His servants, and withholds. If it were not for GOD's grace towards us, He could have caused the earth to swallow us too. We now realize that the disbelievers never succeed.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028082.mp3"
     },
     {
       "number": 83,
-      "arabic": "TODO_AR_028083",
-      "bm": "TODO_BM_028083",
-      "en": "TODO_EN_028083",
-      "audio": "./assets/audio/028/028083.mp3"
+      "arabic": "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا وَالْعَاقِبَةُ لِلْمُتَّقِينَ",
+      "bm": "Kami telah tetapkan tempat tinggal diAkhirat bagi orang orang yang tidak mencari kemegahan diri dibumi, maupun melakukan korupsi. Kemenangan yang muktamad adalah kepunyaan orang orang yang takwa.",
+      "en": "We reserve the abode of the Hereafter for those who do not seek exaltation on earth, nor corruption. The ultimate victory belongs to the righteous.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028083.mp3",
+      "subtitle": {
+        "bm": "Pemenang Pemenang Yang Muktamad",
+        "en": "The Ultimate Winners"
+      }
     },
     {
       "number": 84,
-      "arabic": "TODO_AR_028084",
-      "bm": "TODO_BM_028084",
-      "en": "TODO_EN_028084",
-      "audio": "./assets/audio/028/028084.mp3"
+      "arabic": "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَمَنْ جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَّا مَا كَانُوا يَعْمَلُونَ",
+      "bm": "Sesiapa saja yang mengerjakan kebaikan akan mendapat ganjaran yang jauh lebih baik. Bagi orang orang yang mengkomit dosa dosa, hukuman bagi dosa dosa mereka adalah bertepatan dengan kerja kerja mereka.",
+      "en": "Whoever works righteousness receives a far better reward. As for those who commit sins, the retribution for their sins is precisely equivalent to their works.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028084.mp3"
     },
     {
       "number": 85,
-      "arabic": "TODO_AR_028085",
-      "bm": "TODO_BM_028085",
-      "en": "TODO_EN_028085",
-      "audio": "./assets/audio/028/028085.mp3"
+      "arabic": "إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ قُلْ رَبِّي أَعْلَمُ مَنْ جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُبِينٍ",
+      "bm": "Tentu sekali, yang Esa yang mendekrikan Quran untukmu akan menghimpunkan kamu dimasa yang telah ditetapkan pertemuannya. Katakanlah, \"Tuhanku amat sedar sesiapa yang mendukung petunjuk, dan sesiapa yang telah tersesat.\"",
+      "en": "Surely, the One who decreed the Quran for you will summon you to a predetermined appointment. Say, \"My Lord is fully aware of those who uphold the guidance, and those who have gone astray.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028085.mp3"
     },
     {
       "number": 86,
-      "arabic": "TODO_AR_028086",
-      "bm": "TODO_BM_028086",
-      "en": "TODO_EN_028086",
-      "audio": "./assets/audio/028/028086.mp3"
+      "arabic": "وَمَا كُنْتَ تَرْجُو أَنْ يُلْقَىٰ إِلَيْكَ الْكِتَابُ إِلَّا رَحْمَةً مِنْ رَبِّكَ فَلَا تَكُونَنَّ ظَهِيرًا لِلْكَافِرِينَ",
+      "bm": "Kau tidak menyangkakan yang kitab ini akan datang kepadamu; tetapi ini adalah belas kasih dari Tuhanmu. Dari itu, janganlah kamu menyebelahi orang orang yang ingkar.",
+      "en": "You never expected this scripture to come your way; but this is a mercy from your Lord. Therefore, you shall not side with the disbelievers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028086.mp3"
     },
     {
       "number": 87,
-      "arabic": "TODO_AR_028087",
-      "bm": "TODO_BM_028087",
-      "en": "TODO_EN_028087",
-      "audio": "./assets/audio/028/028087.mp3"
+      "arabic": "وَلَا يَصُدُّنَّكَ عَنْ آيَاتِ اللَّهِ بَعْدَ إِذْ أُنْزِلَتْ إِلَيْكَ وَادْعُ إِلَىٰ رَبِّكَ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
+      "bm": "Dan tidak boleh kau melencong dari revelasi revelasi Allah, setelah ianya telah datang kepadamu, dan jemputlah yang lainnya kepada Tuhanmu. Dan janganlah sekali kali jatuh kedalam penyembahan pujaan.",
+      "en": "Nor shall you be diverted from GOD's revelations, after they have come to you, and invite the others to your Lord. And do not ever fall into idol worship.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028087.mp3"
     },
     {
       "number": 88,
-      "arabic": "TODO_AR_028088",
-      "bm": "TODO_BM_028088",
-      "en": "TODO_EN_028088",
-      "audio": "./assets/audio/028/028088.mp3"
+      "arabic": "وَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ لَا إِلَٰهَ إِلَّا هُوَ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+      "bm": "Jangan sekali kau menyembah disamping Allah sebarang tuhan yang lain. Tidak ada tuhan lain disampingNya. Kesemuanya akan hapus melainkan kewujudanNya. KepunyaanNya segala kedaulatan, dan kepadaNya sahajalah kau akan dikembalikan.",
+      "en": "You shall not worship beside GOD any other god. There is no other god beside Him. Everything perishes except His presence. To Him belongs all sovereignty, and to Him you will be returned.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028088.mp3"
     }
   ]
 }

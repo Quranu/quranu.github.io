@@ -1,46 +1,46 @@
 {
   "surahNumber": 112,
   "name": {
-    "ar": "الإخلاص",
-    "bm": "Ikhlas",
-    "en": "Sincerity"
+    "ar": "سورة الإخلاص",
+    "bm": "Dengan Segala Kebenaran",
+    "en": "Absoluteness"
   },
   "totalAyahs": 4,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/112/112000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/112000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_112001",
-      "bm": "TODO_BM_112001",
-      "en": "TODO_EN_112001",
-      "audio": "./assets/audio/112/112001.mp3"
+      "arabic": "قُل هُوَ اللَّهُ أَحَدٌ",
+      "bm": "Umumkanlah, \"Dia yang Esa dan hanyalah Allah sahaja.",
+      "en": "Proclaim, \"He is the One and only GOD.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/112001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_112002",
-      "bm": "TODO_BM_112002",
-      "en": "TODO_EN_112002",
-      "audio": "./assets/audio/112/112002.mp3"
+      "arabic": "اللَّهُ الصَّمَدُ",
+      "bm": "\"Allah yang sebenar benarnya.",
+      "en": "\"The Absolute GOD.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/112002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_112003",
-      "bm": "TODO_BM_112003",
-      "en": "TODO_EN_112003",
-      "audio": "./assets/audio/112/112003.mp3"
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "bm": "\"Tidak pernah Dia mempunyai anak. Dan tidak juga Dia diperanakkan.",
+      "en": "\"Never did He beget. Nor was He begotten.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/112003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_112004",
-      "bm": "TODO_BM_112004",
-      "en": "TODO_EN_112004",
-      "audio": "./assets/audio/112/112004.mp3"
+      "arabic": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "bm": "\"Tidak ada suatu apa pun yang serupaNya.\"",
+      "en": "\"None equals Him.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/112004.mp3"
     }
   ]
 }

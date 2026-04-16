@@ -1,178 +1,185 @@
-SURAH_NUMBER: 72
-NAME_AR: الجن
+﻿SURAH_NUMBER: 72
+NAME_AR: سورة الجن
 NAME_BM: Jin
 NAME_EN: The Jinn
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/072/072000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072000.mp3
 
 # Ayah 1
-AR: TODO_AR_072001
-BM: TODO_BM_072001
-EN: TODO_EN_072001
-AUDIO: ./assets/audio/072/072001.mp3
+AR: قُل أوحِيَ إِلَيَّ أَنَّهُ استَمَعَ نَفَرٌ مِنَ الجِنِّ فَقالوا إِنّا سَمِعنا قُرآنًا عَجَبًا
+BM: Katakanlah, "Aku telah diinspirasikan yang segolongan para jin mendengarkan, lalu berkata, 'Kami telah mendengar sebuah Quran yang amat hebat.
+EN: Say, "I was inspired that a group of jinns listened, then said, 'We have heard a wonderful Quran.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072001.mp3
 
 # Ayah 2
-AR: TODO_AR_072002
-BM: TODO_BM_072002
-EN: TODO_EN_072002
-AUDIO: ./assets/audio/072/072002.mp3
+AR: يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ وَلَنْ نُشْرِكَ بِرَبِّنَا أَحَدًا
+BM: " 'Ianya membimbing kepada kebenaran, dan kami telah percaya kepadanya; kami tidak akan mengada adakan pujaan pujaan disamping Tuhan kami.
+EN: "'It guides to righteousness, and we have believed in it; we will never set up any idols besides our Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072002.mp3
 
 # Ayah 3
-AR: TODO_AR_072003
-BM: TODO_BM_072003
-EN: TODO_EN_072003
-AUDIO: ./assets/audio/072/072003.mp3
+AR: وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا
+BM: " 'Yang Maha Tinggi adalah Tuhan kami sahaja. Dia tidak pernah mempunyai pasangan mahupun seorang anak lelaki.
+EN: "'The Most High is our only Lord. He never had a mate, nor a son.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072003.mp3
 
 # Ayah 4
-AR: TODO_AR_072004
-BM: TODO_BM_072004
-EN: TODO_EN_072004
-AUDIO: ./assets/audio/072/072004.mp3
+AR: وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا
+BM: " 'Ianya  adalah  yang bodoh diantara kami yang pernah melafazkan kata kata yang tidak bermakna berkenaan Allah.
+EN: "'It is the foolish among us who used to utter such nonsense about GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072004.mp3
 
 # Ayah 5
-AR: TODO_AR_072005
-BM: TODO_BM_072005
-EN: TODO_EN_072005
-AUDIO: ./assets/audio/072/072005.mp3
+AR: وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا
+BM: " 'Kami berfikir tiada dari manusia, tidak juga dari para jin, akan berani melafazkan kebohongan terhadap Allah.
+EN: "'We thought that neither the humans, nor the jinns, could possibly utter lies about GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072005.mp3
 
 # Ayah 6
-AR: TODO_AR_072006
-BM: TODO_BM_072006
-EN: TODO_EN_072006
-AUDIO: ./assets/audio/072/072006.mp3
+AR: وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا
+BM: " 'Manusia pernah mencari kekuasaan melalui makhluk jin, tetapi mereka hanyalah mengenakan banyak penderitaan.
+EN: "'Human beings used to seek power through jinn beings, but they only afflicted them with a lot of adversity.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072006.mp3
 
 # Ayah 7
-AR: TODO_AR_072007
-BM: TODO_BM_072007
-EN: TODO_EN_072007
-AUDIO: ./assets/audio/072/072007.mp3
+AR: وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ أَحَدًا
+BM: " 'Mereka berfikir, seperti mana yang kamu fikirkan, yang Allah tidak akan menghantarkan (rasul) lagi.
+EN: "'They thought, just like you thought, that GOD would not send another (messenger).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072007.mp3
 
 # Ayah 8
-AR: TODO_AR_072008
-BM: TODO_BM_072008
-EN: TODO_EN_072008
-AUDIO: ./assets/audio/072/072008.mp3
+AR: وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا
+BM: " 'Kami telah menyentuh cekrawala dan mendapatinya dipenuhi dengan penjaga penjaga dan pelancar pelancar yang menggerunkan.
+EN: "'We touched the heaven and found it filled with formidable guards and projectiles.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072008.mp3
 
 # Ayah 9
-AR: TODO_AR_072009
-BM: TODO_BM_072009
-EN: TODO_EN_072009
-AUDIO: ./assets/audio/072/072009.mp3
+AR: وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ فَمَنْ يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا
+BM: " 'Kami telah duduk disana supaya dapat mengintip. Sesiapa yang mendengar akan dikejar dengan pelancar pelancar yang amat kuat.
+EN: "'We used to sit there in order to spy. Anyone who listens is pursued by a powerful projectile.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072009.mp3
 
 # Ayah 10
-AR: TODO_AR_072010
-BM: TODO_BM_072010
-EN: TODO_EN_072010
-AUDIO: ./assets/audio/072/072010.mp3
+AR: وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا
+BM: " 'Kami tidak mempunyai idea jika sebarang kejahatan dirancangkan untuk penduduk penduduk bumi, ataupun jika Tuhan mereka kehendaki untuk menebus mereka.
+EN: "'We have no idea if something bad is intended for the inhabitants of Earth, or if their Lord wills to redeem them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072010.mp3
 
 # Ayah 11
-AR: TODO_AR_072011
-BM: TODO_BM_072011
-EN: TODO_EN_072011
-AUDIO: ./assets/audio/072/072011.mp3
+AR: وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ كُنَّا طَرَائِقَ قِدَدًا
+BM: " 'Ada diantara kami yang benar, dan ada yang kurang kebenarannya; kami mengikuti jalan yang berbagai bagai.
+EN: "'Some of us are righteous, and some are less than righteous; we follow various paths.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072011.mp3
 
 # Ayah 12
-AR: TODO_AR_072012
-BM: TODO_BM_072012
-EN: TODO_EN_072012
-AUDIO: ./assets/audio/072/072012.mp3
+AR: وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ نُعْجِزَهُ هَرَبًا
+BM: " 'Kami tahu dengan sepenuhnya yang kami tidak mungkin dapat melarikan diri dari Allah diatas Bumi; dan kami tidak akan dapat melarikan diri dan terlepas.
+EN: "'We knew full well that we can never run away from GOD on earth; we can never run away and escape.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072012.mp3
 
 # Ayah 13
-AR: TODO_AR_072013
-BM: TODO_BM_072013
-EN: TODO_EN_072013
-AUDIO: ./assets/audio/072/072013.mp3
+AR: وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ فَمَنْ يُؤْمِنْ بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا
+BM: " 'Apabila kami mendengar akan petunjuk, kami percaya terhadapnya. Sesiapa yang percaya kepada Tuhannya tidak pernah akan merasakan sebarang ketidak adilan, dan tidak juga sebarang penderitaan.
+EN: "'When we heard the guidance, we believed therein. Anyone who believes in his Lord will never fear any injustice, nor any affliction.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072013.mp3
 
 # Ayah 14
-AR: TODO_AR_072014
-BM: TODO_BM_072014
-EN: TODO_EN_072014
-AUDIO: ./assets/audio/072/072014.mp3
+AR: وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ فَمَنْ أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا
+BM: " 'Diantara kami ada yang menyerahkan diri diri sepenuhnya (kepada Allah), dan diantara kami ada yang bekompromi.' " Bagi orang orang yang menyerahkan diri (kepada Allah), mereka berada dijalan yang benar.
+EN: "'Among us are the submitters, and among us are the compromisers.'" As for those who submitted, they are on the right path.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072014.mp3
 
 # Ayah 15
-AR: TODO_AR_072015
-BM: TODO_BM_072015
-EN: TODO_EN_072015
-AUDIO: ./assets/audio/072/072015.mp3
+AR: وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا
+BM: Bagi yang berkompromi, mereka akan menjadi bahan bakaran diGehenna.
+EN: As for the compromisers, they will be fuel for Gehenna.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072015.mp3
 
 # Ayah 16
-AR: TODO_AR_072016
-BM: TODO_BM_072016
-EN: TODO_EN_072016
-AUDIO: ./assets/audio/072/072016.mp3
+AR: وَأَلَّوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً غَدَقًا
+BM: Jika mereka tetap dijalan yang benar, kami akan merahmati mereka dengan air yang banyak.
+EN: If they remain on the right path, we will bless them with abundant water.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072016.mp3
 
 # Ayah 17
-AR: TODO_AR_072017
-BM: TODO_BM_072017
-EN: TODO_EN_072017
-AUDIO: ./assets/audio/072/072017.mp3
+AR: لِنَفْتِنَهُمْ فِيهِ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا
+BM: Sudah tentu akan kami mencuba mereka semuanya. Baginya yang mengingkari mesej dari Tuhannya, Dia akan mengarahkannya kepada hukuman yang sentiasa ditambahkan.
+EN: We will surely test them all. As for him who disregards the message of his Lord, He will direct him to ever increasing retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072017.mp3
 
 # Ayah 18
-AR: TODO_AR_072018
-BM: TODO_BM_072018
-EN: TODO_EN_072018
-AUDIO: ./assets/audio/072/072018.mp3
+AR: وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا
+BM: Tempat untuk menyembah adalah kepunyaan Allah; janganlah memanggil kepada sesiapa pun melainkan Allah.
+EN: The places of worship belong to GOD; do not call on anyone else beside GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072018.mp3
 
 # Ayah 19
-AR: TODO_AR_072019
-BM: TODO_BM_072019
-EN: TODO_EN_072019
-AUDIO: ./assets/audio/072/072019.mp3
+AR: وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا
+BM: Apabila hamba Allah menyeru kepada Dia sahaja, hampir kesemuanya mereka berkumpul menjadi satu untuk menentangnya.
+EN: When GOD's servant* advocated Him alone, almost all of them banded together to oppose him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072019.mp3
+SUBTITLE_BM: Rasul Allah Yang Di-Janjikan
+SUBTITLE_EN: God's Messenger of the Covenant*
 
 # Ayah 20
-AR: TODO_AR_072020
-BM: TODO_BM_072020
-EN: TODO_EN_072020
-AUDIO: ./assets/audio/072/072020.mp3
+AR: قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا
+BM: Katakanlah, "Aku hanya menyembah Tuhanku; aku tidak pernah mengada adakan pujaan pujaan disampingNya."
+EN: Say, "I worship only my Lord; I never set up any idols besides Him."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072020.mp3
 
 # Ayah 21
-AR: TODO_AR_072021
-BM: TODO_BM_072021
-EN: TODO_EN_072021
-AUDIO: ./assets/audio/072/072021.mp3
+AR: قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا
+BM: Katakanlah, "Aku tidak mempunyai kuasa untuk memudharatkan kamu, dan tidak juga untuk membimbingkan kamu."
+EN: Say, "I possess no power to harm you, nor to guide you."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072021.mp3
 
 # Ayah 22
-AR: TODO_AR_072022
-BM: TODO_BM_072022
-EN: TODO_EN_072022
-AUDIO: ./assets/audio/072/072022.mp3
+AR: قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا
+BM: Katakanlah, "Tidak ada sesiapa pun yang akan dapat melindungiku dari Allah, dan tidak juga akan aku mendapati sebarang perlindungan yang lain selainNya.
+EN: Say, "No one can protect me from GOD, nor can I find any other refuge besides Him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072022.mp3
 
 # Ayah 23
-AR: TODO_AR_072023
-BM: TODO_BM_072023
-EN: TODO_EN_072023
-AUDIO: ./assets/audio/072/072023.mp3
+AR: إِلَّا بَلَاغًا مِنَ اللَّهِ وَرِسَالَاتِهِ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا
+BM: "Aku menyampaikan pengumuman pengumuman dan mesej mesej Allah." Orang orang yang mengingkari Allah dan rasulNya akan menerima api Neraka, dimana mereka akan tinggal untuk selama lamanya.
+EN: "I deliver GOD's proclamations and messages." Those who disobey GOD and His messenger incur the fire of Hell, wherein they abide forever.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072023.mp3
 
 # Ayah 24
-AR: TODO_AR_072024
-BM: TODO_BM_072024
-EN: TODO_EN_072024
-AUDIO: ./assets/audio/072/072024.mp3
+AR: حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا
+BM: Apabila saja mereka melihat apa yang telah menunggu mereka, mereka akan mengetahui siapakah yang benar benar lemah dalam berkuasa, dan sedikit didalam bilangan.
+EN: Once they see what is awaiting them, they will find out who is really weaker in power, and fewer in number.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072024.mp3
 
 # Ayah 25
-AR: TODO_AR_072025
-BM: TODO_BM_072025
-EN: TODO_EN_072025
-AUDIO: ./assets/audio/072/072025.mp3
+AR: قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا
+BM: Katakanlah, "Aku tidak tahu apa yang telah dijanjikan untuk kamu akan berlaku dengan segera, ataupun jika Tuhanku akan melambatkannya untuk seketika."
+EN: Say, "I do not know if what is promised to you will happen soon, or if my Lord will delay it for awhile."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072025.mp3
 
 # Ayah 26
-AR: TODO_AR_072026
-BM: TODO_BM_072026
-EN: TODO_EN_072026
-AUDIO: ./assets/audio/072/072026.mp3
+AR: عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا
+BM: Dialah yang Maha Mengetahui tentang masa hadapan; sesungguhnya, Dia tidaklah menerangkan tentang masa hadapan kepada sesiapa pun.
+EN: He is the Knower of the future; He does not reveal the future to anyone.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072026.mp3
 
 # Ayah 27
-AR: TODO_AR_072027
-BM: TODO_BM_072027
-EN: TODO_EN_072027
-AUDIO: ./assets/audio/072/072027.mp3
+AR: إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا
+BM: Hanyalah kepada rasul yang Dia pilih, akan Dia terangkan tentang masa lampau dan masa hadapan, dengan berita berita yang telah ditentukan.
+EN: Only to a messenger that He chooses,* does He reveal from the past and the future, specific news.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072027.mp3
 
 # Ayah 28
-AR: TODO_AR_072028
-BM: TODO_BM_072028
-EN: TODO_EN_072028
-AUDIO: ./assets/audio/072/072028.mp3
+AR: لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا
+BM: Ini adalah untuk memastikan yang mereka telah menyampaikan mesej mesej Tuhan mereka. Dia amatlah sedar akan apa yang mereka punyai. Sesungguhnya, Dia telah mengira bilangan bilangan bagi segala sesuatu.
+EN: This is to ascertain that they have delivered their Lord's messages. He is fully aware of what they have. He has counted the numbers of all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/072028.mp3
+
+
+
+
+

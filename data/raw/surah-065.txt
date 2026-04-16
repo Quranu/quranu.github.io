@@ -1,82 +1,89 @@
-SURAH_NUMBER: 65
-NAME_AR: الطلاق
-NAME_BM: Talak
-NAME_EN: The Divorce
+﻿SURAH_NUMBER: 65
+NAME_AR: سورة الـطلاق
+NAME_BM: Perceraian
+NAME_EN: Divorce
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/065/065000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065000.mp3
 
 # Ayah 1
-AR: TODO_AR_065001
-BM: TODO_BM_065001
-EN: TODO_EN_065001
-AUDIO: ./assets/audio/065/065001.mp3
+AR: ياأَيُّهَا النَّبِيُّ إِذا طَلَّقتُمُ النِّساءَ فَطَلِّقوهُنَّ لِعِدَّتِهِنَّ وَأَحصُوا العِدَّةَ وَاتَّقُوا اللَّهَ رَبَّكُم لا تُخرِجوهُنَّ مِن بُيوتِهِنَّ وَلا يَخرُجنَ إِلّا أَن يَأتينَ بِفاحِشَةٍ مُبَيِّنَةٍ وَتِلكَ حُدودُ اللَّهِ وَمَن يَتَعَدَّ حُدودَ اللَّهِ فَقَد ظَلَمَ نَفسَهُ لا تَدري لَعَلَّ اللَّهَ يُحدِثُ بَعدَ ذٰلِكَ أَمرًا
+BM: Wahai engkau nabi, apabila kau orang menceraikan perempuan perempuan (isteri isteri), kau mestilah pastikan yang masa penungguan penceraian dipenuhkan. Kau mestilah mengira masa penungguannya dengan tepat. Kau mestilah menghormati Allah Tuhanmu. Janganlah mengusir mereka keluar dari rumah rumah mereka, dan jangan juga kau menjadikan kehidupan mereka menderita, untuk memaksakan mereka keluar rumah dengan sendirinya, melainkan jika terbukti yang mereka itu mengkomit zina. Ini adalah undang undang dari Allah. Sesiapa yang keterlaluan dengan undang undang Allah telah mengkomit ketidak adilan terhadap dirinya sendiri. Mana kamu tahu; mungkin Allah kehendaki suatu kebaikan akan datang daripada ini.
+EN: O you prophet, when you people divorce the women, you shall ensure that a divorce interim is fulfilled. You shall measure such an interim precisely.* You shall reverence GOD your Lord. Do not evict them from their homes, nor shall you make life miserable for them, to force them to leave on their own, unless they commit a proven adultery. These are GOD's laws. Anyone who transgresses GOD's laws commits an injustice against himself. You never know; maybe GOD wills something good to come out of this.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065001.mp3
 
 # Ayah 2
-AR: TODO_AR_065002
-BM: TODO_BM_065002
-EN: TODO_EN_065002
-AUDIO: ./assets/audio/065/065002.mp3
+AR: فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَأَقِيمُوا الشَّهَادَةَ لِلَّهِ ذَٰلِكُمْ يُوعَظُ بِهِ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا
+BM: Apabila saja masa penungguannya telah selesai, kamu bolehlah berbaik semula dengan mereka dengan seksama, ataupun meneruskan penceraian dengan seksama. Kamu mestilah mengadakan dua orang saksi yang adil untuk mengadili perceraian dihadapan Allah. Ini adalah untuk memberikan kesedaran kepada orang orang yang percaya kepada Allah dan Hari Penghabisan. Sesiapa saja yang menghormati Allah, Dia akan menciptakan jalan keluar untuknya.
+EN: Once the interim is fulfilled, you may reconcile with them equitably, or go through with the separation equitably. You shall have two equitable witnesses witness the divorce before GOD. This is to enlighten those who believe in GOD and the Last Day. Anyone who reverences GOD, He will create an exit for him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065002.mp3
 
 # Ayah 3
-AR: TODO_AR_065003
-BM: TODO_BM_065003
-EN: TODO_EN_065003
-AUDIO: ./assets/audio/065/065003.mp3
+AR: وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَنْ يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ قَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا
+BM: Dan akan mengadakan untuknya dari apa yang dia tidak pernah jangkakan. Sesiapa yang percayakan Allah, Dia sahaja cukuplah untuknya.  Perintah perintah Allah telah terlaksana. Allah telah mendekrikan segala galanya adalah nasib.
+EN: And will provide for him whence he never expected. Anyone who trusts in GOD, He suffices him. GOD's commands are done. GOD has decreed for everything its fate.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065003.mp3
 
 # Ayah 4
-AR: TODO_AR_065004
-BM: TODO_BM_065004
-EN: TODO_EN_065004
-AUDIO: ./assets/audio/065/065004.mp3
+AR: وَالّٰٓیِ يَئِسْنَ مِنَ الْمَحِيضِ مِنْ نِسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَّالّٰٓیِ لَمْ يَحِضْنَ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَنْ يَضَعْنَ حَمْلَهُنَّ وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مِنْ أَمْرِهِ يُسْرًا
+BM: Bagi perempuan perempuan yang telah putus haid, jika kamu mempunyai keraguan, masa penungguannya mestilah tiga bulan. Bagi mereka yang tidak mempunyai haid, dan mendapati yang mereka itu mengandung, masa penungguannya berakhir selepas melahirkan anak. Sesiapa yang menghormati Allah, Dia akan menjadikan segalanya mudah untuknya.
+EN: As for the women who have reached menopause, if you have any doubts, their interim shall be three months. As for those who do not menstruate, and discover that they are pregnant, their interim ends upon giving birth. Anyone who reverences GOD, He makes everything easy for him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065004.mp3
 
 # Ayah 5
-AR: TODO_AR_065005
-BM: TODO_BM_065005
-EN: TODO_EN_065005
-AUDIO: ./assets/audio/065/065005.mp3
+AR: ذَٰلِكَ أَمْرُ اللَّهِ أَنْزَلَهُ إِلَيْكُمْ وَمَنْ يَتَّقِ اللَّهَ يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُعْظِمْ لَهُ أَجْرًا
+BM: Ini adalah perintah perintah Allah yang Dia turunkan kepada kamu. Sesiapa yang menghormati Allah, Dia akan menebuskan dosa dosanya, dan menganugerahkannya dengan mewah.
+EN: This is GOD's command that He sends down to you. Anyone who reverences GOD, He remits his sins, and rewards him generously.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065005.mp3
 
 # Ayah 6
-AR: TODO_AR_065006
-BM: TODO_BM_065006
-EN: TODO_EN_065006
-AUDIO: ./assets/audio/065/065006.mp3
+AR: أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِنْ وُجْدِكُمْ وَلَا تُضَارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّ وَإِنْ كُنَّ أُولَاتِ حَمْلٍ فَأَنْفِقُوا عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ فَإِنْ أَرْضَعْنَ لَكُمْ فَآتُوهُنَّ أُجُورَهُنَّ وَأْتَمِرُوا بَيْنَكُمْ بِمَعْرُوفٍ وَإِنْ تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُ أُخْرَىٰ
+BM: Kamu mestilah mengizinkan mereka tinggal dirumah yang sama yang mana mereka pernah tinggal bersama sama kamu, dan janganlah menjadikan kehidupan mereka menderita supaya mereka keluar dengan sendirinya. Jika mereka itu mengandung, kamu mestilah membelanjakan untuk mereka sehingga mereka melahirkan anak. Jika mereka memelihara bayi itu, kamu mestilah membayar mereka servis ini. Kamu mestilah megadakan perhubungan yang baik diantara kamu. Jika kamu tidak bersetuju, kamu bolehlah membayar perempuan lain untuk memelihara bayi itu.
+EN: You shall allow them to live in the same home in which they lived with you, and do not make life so miserable for them that they leave on their own. If they are pregnant, you shall spend on them until they give birth. If they nurse the infant, you shall pay them for this service. You shall maintain the amicable relations among you. If you disagree, you may hire another woman to nurse the child.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065006.mp3
 
 # Ayah 7
-AR: TODO_AR_065007
-BM: TODO_BM_065007
-EN: TODO_EN_065007
-AUDIO: ./assets/audio/065/065007.mp3
+AR: لِيُنْفِقْ ذُو سَعَةٍ مِنْ سَعَتِهِ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنْفِقْ مِمَّا آتَاهُ اللَّهُ لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا مَا آتَاهَا سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا
+BM: Suami yang kaya mestilah memberikan sokongan mengikut kemampuannya, dan yang miskin pula mestilah memberi mengikut kemampuan yang Allah telah kurniakan kepadanya. Allah tidak pernah memaksakan sebarang roh lebih dari apa yang telah Dia berikan. Allah akan mengadakan kemudahan sesudah kesusahan.
+EN: The rich husband shall provide support in accordance with his means, and the poor shall provide according to the means that GOD bestowed upon him. GOD does not impose on any soul more than He has given it. GOD will provide ease after difficulty.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065007.mp3
 
 # Ayah 8
-AR: TODO_AR_065008
-BM: TODO_BM_065008
-EN: TODO_EN_065008
-AUDIO: ./assets/audio/065/065008.mp3
+AR: وَكَأَيِّنْ مِنْ قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِ فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا وَعَذَّبْنَاهَا عَذَابًا نُكْرًا
+BM: Kebanyakan dari sesebuah komuniti menentang perintah perintah dari Tuhannya dan menentang para rasulNya. Akibatnya, kami jadikan mereka betul betul bertanggungjawab, dan membalas mereka dengan balasan yang dahsyat.
+EN: Many a community rebelled against the commands of its Lord and against His messengers. Consequently, we held them strictly accountable, and requited them a terrible requital.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065008.mp3
 
 # Ayah 9
-AR: TODO_AR_065009
-BM: TODO_BM_065009
-EN: TODO_EN_065009
-AUDIO: ./assets/audio/065/065009.mp3
+AR: فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَاقِبَةُ أَمْرِهَا خُسْرًا
+BM: Mereka menderita akibat dari keputusan keputusan mereka; kerugian yang nyata.
+EN: They suffered the consequences of their decisions; a profound loss.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065009.mp3
 
 # Ayah 10
-AR: TODO_AR_065010
-BM: TODO_BM_065010
-EN: TODO_EN_065010
-AUDIO: ./assets/audio/065/065010.mp3
+AR: أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا فَاتَّقُوا اللَّهَ يَاأُولِي الْأَلْبَابِ الَّذِينَ آمَنُوا قَدْ أَنْزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا
+BM: Allah telah sediakan untuk mereka hukuman yang dahsyat. Dari itu, kamu mestilah menghormati Allah, wahai kamu yang mempunyai kecerdasan dan kepercayaan. Sesungguhnya, Allah telah turunkan kepada kamu sebuah mesej-
+EN: GOD has prepared for them severe retribution. Therefore, you shall reverence GOD, O you who possess intelligence and believed. GOD has sent down to you a message--*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065010.mp3
 
 # Ayah 11
-AR: TODO_AR_065011
-BM: TODO_BM_065011
-EN: TODO_EN_065011
-AUDIO: ./assets/audio/065/065011.mp3
+AR: رَسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ لِيُخْرِجَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَمَنْ يُؤْمِنْ بِاللَّهِ وَيَعْمَلْ صَالِحًا يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا
+BM: seorang rasul yang membacakan kepada kamu revelasi revelasi Allah, dengan jelas, untuk membimbing orang orang yang percaya dan yang mengerjakan kebaikan keluar dari kegelapan menuju cahaya. Sesiapa yang percaya kepada Allah dan menjalani kehidupan yang benar, Dia akan memasukkannya kedalam taman taman yang air sungai sungainya mengalir; mereka akan tinggal didalamnya untuk selama lamanya. Allah akan menganugerahkannya dengan mewah.
+EN: a messenger* who recites to you GOD's revelations, clearly, to lead those who believe and work righteousness out of the darkness into the light. Anyone who believes in GOD and leads a righteous life, He will admit him into gardens with flowing streams; they abide therein forever. GOD will generously reward him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065011.mp3
 
 # Ayah 12
-AR: TODO_AR_065012
-BM: TODO_BM_065012
-EN: TODO_EN_065012
-AUDIO: ./assets/audio/065/065012.mp3
+AR: اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ وَمِنَ الْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ الْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوا أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ وَأَنَّ اللَّهَ قَدْ أَحَاطَ بِكُلِّ شَيْءٍ عِلْمًا
+BM: Allah menciptakan tujuh semesta alam dan bilangan yang sama bagi bumi bumi. Perintah perintah berjalan diantara mereka. Ini adalah untuk memberitahukan yang Allah sahajalah yang Maha Berkuasa, dan Allah amat sedar akan segala sesuatu.
+EN: GOD created seven universes and the same number of earths. The commands flow among them. This is to let you know that GOD is Omnipotent, and that GOD is fully aware of all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/065012.mp3
+SUBTITLE_BM: Tujuh Semesta Alam Dan Tujuh Bumi
+SUBTITLE_EN: Seven Universes And Seven Earths*
+
+
+
+
+

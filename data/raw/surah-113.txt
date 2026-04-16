@@ -1,40 +1,45 @@
-SURAH_NUMBER: 113
-NAME_AR: الفلق
-NAME_BM: Waktu Subuh
-NAME_EN: The Daybreak
+﻿SURAH_NUMBER: 113
+NAME_AR: سورة الـفلق
+NAME_BM: Matahari Terbit
+NAME_EN: Daybreak
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/113/113000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/113000.mp3
 
 # Ayah 1
-AR: TODO_AR_113001
-BM: TODO_BM_113001
-EN: TODO_EN_113001
-AUDIO: ./assets/audio/113/113001.mp3
+AR: قُل أَعوذُ بِرَبِّ الفَلَقِ
+BM: Katakanlah, "Aku mencari perlindungan Tuhan kepada matahari terbit.
+EN: Say, "I seek refuge in the Lord of daybreak.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/113001.mp3
 
 # Ayah 2
-AR: TODO_AR_113002
-BM: TODO_BM_113002
-EN: TODO_EN_113002
-AUDIO: ./assets/audio/113/113002.mp3
+AR: مِنْ شَرِّ مَا خَلَقَ
+BM: "Dari kejahatan diantara ciptaan ciptaanNya.
+EN: "From the evils among His creations.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/113002.mp3
 
 # Ayah 3
-AR: TODO_AR_113003
-BM: TODO_BM_113003
-EN: TODO_EN_113003
-AUDIO: ./assets/audio/113/113003.mp3
+AR: وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ
+BM: "Dari kejahatan kegelapan apabila ianya menurun.
+EN: "From the evils of darkness as it falls.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/113003.mp3
 
 # Ayah 4
-AR: TODO_AR_113004
-BM: TODO_BM_113004
-EN: TODO_EN_113004
-AUDIO: ./assets/audio/113/113004.mp3
+AR: وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ
+BM: "Dari kejahatan pengacau pengacau.
+EN: "From the evils of the troublemakers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/113004.mp3
 
 # Ayah 5
-AR: TODO_AR_113005
-BM: TODO_BM_113005
-EN: TODO_EN_113005
-AUDIO: ./assets/audio/113/113005.mp3
+AR: وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ
+BM: "Dari kejahatan yang iri hati apabila mereka merasakan iri hati."
+EN: "From the evils of the envious when they envy."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/113005.mp3
+
+
+
+
+

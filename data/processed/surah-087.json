@@ -1,7 +1,7 @@
 {
   "surahNumber": 87,
   "name": {
-    "ar": "الأعلى",
+    "ar": "سورة الأعـلى",
     "bm": "Yang Maha Tinggi",
     "en": "The Most High"
   },
@@ -10,142 +10,142 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/087/087000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_087001",
-      "bm": "TODO_BM_087001",
-      "en": "TODO_EN_087001",
-      "audio": "./assets/audio/087/087001.mp3"
+      "arabic": "سَبِّحِ اسمَ رَبِّكَ الأَعلَى",
+      "bm": "Agungkanlah nama Tuhan kamu, yang Maha Tinggi.",
+      "en": "Glorify the name of your Lord, the Most High.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_087002",
-      "bm": "TODO_BM_087002",
-      "en": "TODO_EN_087002",
-      "audio": "./assets/audio/087/087002.mp3"
+      "arabic": "الَّذِي خَلَقَ فَسَوَّىٰ",
+      "bm": "Dia yang menciptakan dan membentukkan.",
+      "en": "He creates and shapes.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_087003",
-      "bm": "TODO_BM_087003",
-      "en": "TODO_EN_087003",
-      "audio": "./assets/audio/087/087003.mp3"
+      "arabic": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+      "bm": "Dia yang merekakan dan membimbing.",
+      "en": "He designs and guides.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_087004",
-      "bm": "TODO_BM_087004",
-      "en": "TODO_EN_087004",
-      "audio": "./assets/audio/087/087004.mp3"
+      "arabic": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+      "bm": "Dia yang mengeluarkan padang rumput.",
+      "en": "He produces the pasture.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_087005",
-      "bm": "TODO_BM_087005",
-      "en": "TODO_EN_087005",
-      "audio": "./assets/audio/087/087005.mp3"
+      "arabic": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+      "bm": "Dan menukarnya menjadi rumpunan kering yang ringan.",
+      "en": "Then turns it into light hay.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_087006",
-      "bm": "TODO_BM_087006",
-      "en": "TODO_EN_087006",
-      "audio": "./assets/audio/087/087006.mp3"
+      "arabic": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ",
+      "bm": "Kami akan membacakan kepada kamu; janganlah lupa.",
+      "en": "We will recite to you; do not forget.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_087007",
-      "bm": "TODO_BM_087007",
-      "en": "TODO_EN_087007",
-      "audio": "./assets/audio/087/087007.mp3"
+      "arabic": "إِلَّا مَا شَاءَ اللَّهُ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+      "bm": "Segala galanya mengikuti kehendak dari Allah; Dia tahu apa yang diumumkan, dan apa yang disembunyikan.",
+      "en": "Everything is in accordance with GOD's will; He knows what is declared, and what is hidden.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_087008",
-      "bm": "TODO_BM_087008",
-      "en": "TODO_EN_087008",
-      "audio": "./assets/audio/087/087008.mp3"
+      "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+      "bm": "Kami akan mengarahkanmu kejalan yang paling mudah.",
+      "en": "We will direct you to the easiest path.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_087009",
-      "bm": "TODO_BM_087009",
-      "en": "TODO_EN_087009",
-      "audio": "./assets/audio/087/087009.mp3"
+      "arabic": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ",
+      "bm": "Dari itu, kau mestilah memberikan peringatan; semoga peringatan akan memanfaatkan.",
+      "en": "Therefore, you shall remind; perhaps the reminder will benefit.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_087010",
-      "bm": "TODO_BM_087010",
-      "en": "TODO_EN_087010",
-      "audio": "./assets/audio/087/087010.mp3"
+      "arabic": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ",
+      "bm": "Yang menghormatinya akan merenungkannya.",
+      "en": "The reverent will take heed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_087011",
-      "bm": "TODO_BM_087011",
-      "en": "TODO_EN_087011",
-      "audio": "./assets/audio/087/087011.mp3"
+      "arabic": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+      "bm": "Yang zalim akan menghindarinya.",
+      "en": "The wicked will avoid it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_087012",
-      "bm": "TODO_BM_087012",
-      "en": "TODO_EN_087012",
-      "audio": "./assets/audio/087/087012.mp3"
+      "arabic": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+      "bm": "Akibatnya, dia akan menderitai api Neraka yang besar.",
+      "en": "Consequently, he will suffer the great Hellfire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_087013",
-      "bm": "TODO_BM_087013",
-      "en": "TODO_EN_087013",
-      "audio": "./assets/audio/087/087013.mp3"
+      "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+      "bm": "Dimana dia tidak akan mati, dan tidak juga hidup.",
+      "en": "Wherein he never dies, nor stays alive.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_087014",
-      "bm": "TODO_BM_087014",
-      "en": "TODO_EN_087014",
-      "audio": "./assets/audio/087/087014.mp3"
+      "arabic": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
+      "bm": "Berjaya sungguh adalah seseorang yang memberkati rohnya.",
+      "en": "Successful indeed is the one who redeems his soul.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_087015",
-      "bm": "TODO_BM_087015",
-      "en": "TODO_EN_087015",
-      "audio": "./assets/audio/087/087015.mp3"
+      "arabic": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+      "bm": "Dengan mengingati nama Tuhannya dan mengerjakan sembahyang (Salat).",
+      "en": "By remembering the name of his Lord, and observing the contact prayers (Salat).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_087016",
-      "bm": "TODO_BM_087016",
-      "en": "TODO_EN_087016",
-      "audio": "./assets/audio/087/087016.mp3"
+      "arabic": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+      "bm": "Sesungguhnya, kamu terlalu sibuk dengan kehidupan pertama ini.",
+      "en": "Indeed, you are preoccupied with this first life.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_087017",
-      "bm": "TODO_BM_087017",
-      "en": "TODO_EN_087017",
-      "audio": "./assets/audio/087/087017.mp3"
+      "arabic": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+      "bm": "Walaupun Akhirat adalah lebih lagi baiknya dan berkekalan.",
+      "en": "Even though the Hereafter is far better and everlasting.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_087018",
-      "bm": "TODO_BM_087018",
-      "en": "TODO_EN_087018",
-      "audio": "./assets/audio/087/087018.mp3"
+      "arabic": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+      "bm": "Ini telah direkodkan didalam ajaran ajaran yang terdahulu.",
+      "en": "This is recorded in the earlier teachings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_087019",
-      "bm": "TODO_BM_087019",
-      "en": "TODO_EN_087019",
-      "audio": "./assets/audio/087/087019.mp3"
+      "arabic": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+      "bm": "Ajaran ajaran dari Ibrahim dan Musa.",
+      "en": "The teachings of Abraham and Moses.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/087019.mp3"
     }
   ]
 }

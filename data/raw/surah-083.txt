@@ -1,226 +1,233 @@
-SURAH_NUMBER: 83
-NAME_AR: المطففين
-NAME_BM: Orang-Orang Curang
-NAME_EN: Defrauding
+﻿SURAH_NUMBER: 83
+NAME_AR: سورة المطـفـفين
+NAME_BM: Para Penipu
+NAME_EN: The Cheaters
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/083/083000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083000.mp3
 
 # Ayah 1
-AR: TODO_AR_083001
-BM: TODO_BM_083001
-EN: TODO_EN_083001
-AUDIO: ./assets/audio/083/083001.mp3
+AR: وَيلٌ لِلمُطَفِّفينَ
+BM: Malang sungguh bagi para penipu.
+EN: Woe to the cheaters.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083001.mp3
 
 # Ayah 2
-AR: TODO_AR_083002
-BM: TODO_BM_083002
-EN: TODO_EN_083002
-AUDIO: ./assets/audio/083/083002.mp3
+AR: الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ
+BM: Yang menuntutkan ukuran yang penuh dari manusia apabila menerima.
+EN: Who demand full measure when receiving from the people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083002.mp3
 
 # Ayah 3
-AR: TODO_AR_083003
-BM: TODO_BM_083003
-EN: TODO_EN_083003
-AUDIO: ./assets/audio/083/083003.mp3
+AR: وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ
+BM: Tetapi apabila memberi mereka mengukur atau menimbang, mereka menipu.
+EN: But when giving them the measures or weights, they cheat.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083003.mp3
 
 # Ayah 4
-AR: TODO_AR_083004
-BM: TODO_BM_083004
-EN: TODO_EN_083004
-AUDIO: ./assets/audio/083/083004.mp3
+AR: أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ
+BM: Tidakkah mereka tahu yang mereka itu akan dibangkitkan?
+EN: Do they not know that they will be resurrected?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083004.mp3
 
 # Ayah 5
-AR: TODO_AR_083005
-BM: TODO_BM_083005
-EN: TODO_EN_083005
-AUDIO: ./assets/audio/083/083005.mp3
+AR: لِيَوْمٍ عَظِيمٍ
+BM: Pada suatu hari yang amat sangat dahsyat?
+EN: On a tremendous day?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083005.mp3
 
 # Ayah 6
-AR: TODO_AR_083006
-BM: TODO_BM_083006
-EN: TODO_EN_083006
-AUDIO: ./assets/audio/083/083006.mp3
+AR: يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ
+BM: Pada hari itulah apabila semua manusia akan berdiri dihadapan Tuhan bagi sekelian alam.
+EN: That is the day when all people will stand before the Lord of the universe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083006.mp3
 
 # Ayah 7
-AR: TODO_AR_083007
-BM: TODO_BM_083007
-EN: TODO_EN_083007
-AUDIO: ./assets/audio/083/083007.mp3
+AR: كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ
+BM: Sesungguhnya, buku bagi orang orang yang zalim adalah didalam Sijjeen.
+EN: Indeed, the book of the wicked is in Sijjeen.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083007.mp3
+SUBTITLE_BM: Buku Buku Struktur Yang Berangka
+SUBTITLE_EN: Numerically Structured Books
 
 # Ayah 8
-AR: TODO_AR_083008
-BM: TODO_BM_083008
-EN: TODO_EN_083008
-AUDIO: ./assets/audio/083/083008.mp3
+AR: وَمَا أَدْرَٮکَ مَا سِجِّينٌ
+BM: Tahukah kamu apa itu Sijjeen?
+EN: Do you know what Sijjeen is?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083008.mp3
 
 # Ayah 9
-AR: TODO_AR_083009
-BM: TODO_BM_083009
-EN: TODO_EN_083009
-AUDIO: ./assets/audio/083/083009.mp3
+AR: كِتَابٌ مَرْقُومٌ
+BM: Buku struktur yang berangka.
+EN: A numerically structured book.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083009.mp3
 
 # Ayah 10
-AR: TODO_AR_083010
-BM: TODO_BM_083010
-EN: TODO_EN_083010
-AUDIO: ./assets/audio/083/083010.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh pada hari itu bagi pengingkar pengingkar.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083010.mp3
 
 # Ayah 11
-AR: TODO_AR_083011
-BM: TODO_BM_083011
-EN: TODO_EN_083011
-AUDIO: ./assets/audio/083/083011.mp3
+AR: الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ
+BM: Mereka tidak percayakan Hari Pengadilan.
+EN: They do not believe in the Day of Judgment.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083011.mp3
 
 # Ayah 12
-AR: TODO_AR_083012
-BM: TODO_BM_083012
-EN: TODO_EN_083012
-AUDIO: ./assets/audio/083/083012.mp3
+AR: وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ
+BM: Tidak ada pengingkar pengingkar didalam ini melainkan pelampau, dan pendosa.
+EN: None disbelieves therein except the transgressor, the sinful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083012.mp3
 
 # Ayah 13
-AR: TODO_AR_083013
-BM: TODO_BM_083013
-EN: TODO_EN_083013
-AUDIO: ./assets/audio/083/083013.mp3
+AR: إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ
+BM: Apabila revelasi revelasi kami dibacakan kepadanya, dia berkata, "Dongengan masa lampau!"
+EN: When our revelations are recited to him, he says, "Tales from the past!"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083013.mp3
 
 # Ayah 14
-AR: TODO_AR_083014
-BM: TODO_BM_083014
-EN: TODO_EN_083014
-AUDIO: ./assets/audio/083/083014.mp3
+AR: كَلَّا بَلْ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ
+BM: Sesungguhnya, hati hati mereka telah menjadi terkepung dengan dosa dosa mereka.
+EN: Indeed, their hearts have become shielded by their sins.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083014.mp3
 
 # Ayah 15
-AR: TODO_AR_083015
-BM: TODO_BM_083015
-EN: TODO_EN_083015
-AUDIO: ./assets/audio/083/083015.mp3
+AR: كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ
+BM: Sesungguhnya, mereka akan diasingkan, pada hari itu, dari Tuhan mereka.
+EN: Indeed, they will be isolated, on that day, from their Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083015.mp3
 
 # Ayah 16
-AR: TODO_AR_083016
-BM: TODO_BM_083016
-EN: TODO_EN_083016
-AUDIO: ./assets/audio/083/083016.mp3
+AR: ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ
+BM: Lalu mereka akan dicampakkan keNeraka.
+EN: Then they will be thrown into Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083016.mp3
 
 # Ayah 17
-AR: TODO_AR_083017
-BM: TODO_BM_083017
-EN: TODO_EN_083017
-AUDIO: ./assets/audio/083/083017.mp3
+AR: ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ
+BM: Mereka akan dikatakan, "Inilah apa yang kamu pernah menafikan."
+EN: They will be told, "This is what you used to deny."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083017.mp3
 
 # Ayah 18
-AR: TODO_AR_083018
-BM: TODO_BM_083018
-EN: TODO_EN_083018
-AUDIO: ./assets/audio/083/083018.mp3
+AR: كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ
+BM: Sesungguhnya, buku bagi orang orang yang benar akan berada di'Elleyyeen.
+EN: Indeed, the book of the righteous will be in 'Elleyyeen.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083018.mp3
 
 # Ayah 19
-AR: TODO_AR_083019
-BM: TODO_BM_083019
-EN: TODO_EN_083019
-AUDIO: ./assets/audio/083/083019.mp3
+AR: وَمَا أَدْرَٮکَ مَا عِلِّيُّونَ
+BM: Tahukah kamu apakah 'Elleyyeen itu?
+EN: Do you know what 'Elleyyeen is?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083019.mp3
 
 # Ayah 20
-AR: TODO_AR_083020
-BM: TODO_BM_083020
-EN: TODO_EN_083020
-AUDIO: ./assets/audio/083/083020.mp3
+AR: كِتَابٌ مَرْقُومٌ
+BM: Buku struktur yang berangka.
+EN: A numerically structured book.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083020.mp3
 
 # Ayah 21
-AR: TODO_AR_083021
-BM: TODO_BM_083021
-EN: TODO_EN_083021
-AUDIO: ./assets/audio/083/083021.mp3
+AR: يَشْهَدُهُ الْمُقَرَّبُونَ
+BM: Akan disaksikan oleh orang orang yang rapat kepadaKu.
+EN: To be witnessed by those close to Me.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083021.mp3
 
 # Ayah 22
-AR: TODO_AR_083022
-BM: TODO_BM_083022
-EN: TODO_EN_083022
-AUDIO: ./assets/audio/083/083022.mp3
+AR: إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
+BM: Orang orang yang benar sepatutnyalah menerima kebahgiaan.
+EN: The righteous have deserved bliss.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083022.mp3
 
 # Ayah 23
-AR: TODO_AR_083023
-BM: TODO_BM_083023
-EN: TODO_EN_083023
-AUDIO: ./assets/audio/083/083023.mp3
+AR: عَلَى الْأَرَائِكِ يَنْظُرُونَ
+BM: Diatas suasana perhiasan yang indah mereka melihat.
+EN: On luxurious furnishings they watch.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083023.mp3
 
 # Ayah 24
-AR: TODO_AR_083024
-BM: TODO_BM_083024
-EN: TODO_EN_083024
-AUDIO: ./assets/audio/083/083024.mp3
+AR: تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ
+BM: Kamu akan mengenali diwajah wajah mereka yang penuh dengan kegembiraan kerana kebahagiaan.
+EN: You recognize in their faces the joy of bliss.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083024.mp3
 
 # Ayah 25
-AR: TODO_AR_083025
-BM: TODO_BM_083025
-EN: TODO_EN_083025
-AUDIO: ./assets/audio/083/083025.mp3
+AR: يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ
+BM: Minuman mereka akan dicampurkan dengan madu bunga.
+EN: Their drinks will be spiced with nectar.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083025.mp3
 
 # Ayah 26
-AR: TODO_AR_083026
-BM: TODO_BM_083026
-EN: TODO_EN_083026
-AUDIO: ./assets/audio/083/083026.mp3
+AR: خِتَامُهُ مِسْكٌ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ
+BM: Campuran itu adalah serupa kasturi. Inilah apa yang pesaing pesaing sepatutnya bersaingkan.
+EN: Its spice is like musk. This is what the competitors should compete for.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083026.mp3
 
 # Ayah 27
-AR: TODO_AR_083027
-BM: TODO_BM_083027
-EN: TODO_EN_083027
-AUDIO: ./assets/audio/083/083027.mp3
+AR: وَمِزَاجُهُ مِنْ تَسْنِيمٍ
+BM: Dicampurkan didalamnya adalah perasa perasa yang istimewa.
+EN: Mixed into it will be special flavors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083027.mp3
 
 # Ayah 28
-AR: TODO_AR_083028
-BM: TODO_BM_083028
-EN: TODO_EN_083028
-AUDIO: ./assets/audio/083/083028.mp3
+AR: عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ
+BM: Dari pancuran yang telah dikhaskan untuk orang orang yang rapat kepadaKu.
+EN: From a spring that is reserved for those close to Me.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083028.mp3
 
 # Ayah 29
-AR: TODO_AR_083029
-BM: TODO_BM_083029
-EN: TODO_EN_083029
-AUDIO: ./assets/audio/083/083029.mp3
+AR: إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ
+BM: Orang orang yang zalim pernah mentertawakan orang orang yang percaya.
+EN: The wicked used to laugh at those who believed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083029.mp3
 
 # Ayah 30
-AR: TODO_AR_083030
-BM: TODO_BM_083030
-EN: TODO_EN_083030
-AUDIO: ./assets/audio/083/083030.mp3
+AR: وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ
+BM: Apabila mereka berlalu didepan mereka, mereka selalu mempersendakan.
+EN: When they passed by them, they used to poke fun.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083030.mp3
 
 # Ayah 31
-AR: TODO_AR_083031
-BM: TODO_BM_083031
-EN: TODO_EN_083031
-AUDIO: ./assets/audio/083/083031.mp3
+AR: وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ
+BM: Apabila mereka bersama sama dengan orang orang mereka, mereka pernah mengejek ejek.
+EN: When they got together with their people, they used to joke.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083031.mp3
 
 # Ayah 32
-AR: TODO_AR_083032
-BM: TODO_BM_083032
-EN: TODO_EN_083032
-AUDIO: ./assets/audio/083/083032.mp3
+AR: وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ
+BM: Bila saja mereka melihat mereka, mereka berkata, "Orang orang ini telah tersesat jauh!
+EN: Whenever they saw them, they said, "These people are far astray!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083032.mp3
 
 # Ayah 33
-AR: TODO_AR_083033
-BM: TODO_BM_083033
-EN: TODO_EN_083033
-AUDIO: ./assets/audio/083/083033.mp3
+AR: وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ
+BM: "Mereka tidaklah ada sebarang penjaga penjaga yang (gaib).
+EN: "They have no such thing as (invisible) guards."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083033.mp3
 
 # Ayah 34
-AR: TODO_AR_083034
-BM: TODO_BM_083034
-EN: TODO_EN_083034
-AUDIO: ./assets/audio/083/083034.mp3
+AR: فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
+BM: Hari ini, orang orang yang percaya mentertawakan orang orang yang ingkar.
+EN: Today, those who believed are laughing at the disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083034.mp3
 
 # Ayah 35
-AR: TODO_AR_083035
-BM: TODO_BM_083035
-EN: TODO_EN_083035
-AUDIO: ./assets/audio/083/083035.mp3
+AR: عَلَى الْأَرَائِكِ يَنْظُرُونَ
+BM: Diatas suasana perhiasan yang indah mereka melihat.
+EN: On luxurious furnishings they watch.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083035.mp3
 
 # Ayah 36
-AR: TODO_AR_083036
-BM: TODO_BM_083036
-EN: TODO_EN_083036
-AUDIO: ./assets/audio/083/083036.mp3
+AR: هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ
+BM: Sudah pasti, orang orang yang ingkar akan mendapat balasan diatas apa yang mereka telah lakukan.
+EN: Most assuredly, the disbelievers are requited for what they did.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/083036.mp3
+
+
+
+
+

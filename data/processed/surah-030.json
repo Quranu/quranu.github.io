@@ -1,8 +1,8 @@
 {
   "surahNumber": 30,
   "name": {
-    "ar": "الروم",
-    "bm": "Rom",
+    "ar": "سورة الروم",
+    "bm": "Orang Orang Rom",
     "en": "The Romans"
   },
   "totalAyahs": 60,
@@ -10,429 +10,485 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/030/030000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_030001",
-      "bm": "TODO_BM_030001",
-      "en": "TODO_EN_030001",
-      "audio": "./assets/audio/030/030001.mp3"
+      "arabic": "الم",
+      "bm": "A. L. M. (Alif. Lam. Mim.)",
+      "en": "A. L. M.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_030002",
-      "bm": "TODO_BM_030002",
-      "en": "TODO_EN_030002",
-      "audio": "./assets/audio/030/030002.mp3"
+      "arabic": "غُلِبَتِ الرُّومُ",
+      "bm": "Pasti sekali orang orang Rom akan dikalahkan.",
+      "en": "Certainly, the Romans will be defeated.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_030003",
-      "bm": "TODO_BM_030003",
-      "en": "TODO_EN_030003",
-      "audio": "./assets/audio/030/030003.mp3"
+      "arabic": "فِي أَدْنَى الْأَرْضِ وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+      "bm": "Dibumi yang terdekat. Selepas kekalahan mereka, mereka akan bangkit kembali dengan kemenangan.",
+      "en": "In the nearest land. After their defeat, they will rise again and win.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_030004",
-      "bm": "TODO_BM_030004",
-      "en": "TODO_EN_030004",
-      "audio": "./assets/audio/030/030004.mp3"
+      "arabic": "فِي بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ",
+      "bm": "Didalam beberapa tahun. Demikianlah keputusan dari Allah, bagi kedua duanya didalam ramalan yang pertama, dan kedua. Pada hari itu, orang orang yang percaya akan kegirangan.",
+      "en": "Within several years. Such is GOD's decision, both in the first prophecy, and the second. On that day, the believers shall rejoice",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_030005",
-      "bm": "TODO_BM_030005",
-      "en": "TODO_EN_030005",
-      "audio": "./assets/audio/030/030005.mp3"
+      "arabic": "بِنَصْرِ اللَّهِ يَنْصُرُ مَنْ يَشَاءُ وَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "bm": "Dengan kemenangan dari Allah. Dia memberikan kemenangan kepada sesiapa saja yang Dia kehendaki. Sesungguhnya, Dialah yang Maha Berkuasa lagi Maha Penyayang.",
+      "en": "in GOD's victory. He grants victory to whomever He wills. He is the Almighty, Most Merciful.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_030006",
-      "bm": "TODO_BM_030006",
-      "en": "TODO_EN_030006",
-      "audio": "./assets/audio/030/030006.mp3"
+      "arabic": "وَعْدَ اللَّهِ لَا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "bm": "Demikian itulah perjanjian Allah - dan Allah tidak pernah memungkiri janjiNya - tetapi kebanyakan manusia tidak ketahui.",
+      "en": "Such is GOD's promise--and GOD never breaks His promise--but most people do not know.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030006.mp3",
+      "subtitle": {
+        "bm": "Terlalu Asyik Dengan Kehidupan Yang Salah",
+        "en": "Preoccupation With the Wrong Life"
+      }
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_030007",
-      "bm": "TODO_BM_030007",
-      "en": "TODO_EN_030007",
-      "audio": "./assets/audio/030/030007.mp3"
+      "arabic": "يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَةِ هُمْ غَافِلُونَ",
+      "bm": "Mereka hanya mengambil berat tentang perkara perkara dunia yang dapat dilihat oleh mereka, sementara, tidak sedar sepenuhnya dengan Akhirat.",
+      "en": "They care only about things of this world that are visible to them, while being totally oblivious to the Hereafter.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_030008",
-      "bm": "TODO_BM_030008",
-      "en": "TODO_EN_030008",
-      "audio": "./assets/audio/030/030008.mp3"
+      "arabic": "أَوَلَمْ يَتَفَكَّرُوا فِي أَنْفُسِهِمْ مَا خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُسَمًّى وَإِنَّ كَثِيرًا مِنَ النَّاسِ بِلِقَاءِ رَبِّهِمْ لَكَافِرُونَ",
+      "bm": "Kenapa tidak mereka merenungkan keadaan diri mereka sendiri? Allah tidak menciptakan sekelian cekrawala dan bumi, dan segala gala diantara keduanya itu, melainkan dengan tujuan yang tertentu, dan ajal kehidupan yang telah ditetapkan. Bagaimana pun, kebanyakan dari manusia, berkenaan pertemuan dengan Tuhan mereka, tetap mengingkarinya.",
+      "en": "Why do they not reflect on themselves? GOD did not create the heavens and the earth, and everything between them, except for a specific purpose, and for a specific life span. However, most people, with regard to meeting their Lord, are disbelievers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_030009",
-      "bm": "TODO_BM_030009",
-      "en": "TODO_EN_030009",
-      "audio": "./assets/audio/030/030009.mp3"
+      "arabic": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+      "bm": "Tidakkah mereka menjelajah dimuka bumi dan perhatikan akibatnya orang orang yang terdahulu dari mereka? Mereka pernah menjadi lebih berkuasa, lebih mewah,dan lebih lagi produktif dibumi. Para rasul mereka datang kepada mereka dengan membawa tanda tanda yang jelas. Akibatnya, bukan Allah Sahajalah yang menyalahkan mereka, sebaliknya, mereka yang telah menzalimi roh roh mereka sendiri.",
+      "en": "Have they not roamed the earth and noted the consequences for those who preceded them? They used to be more powerful, more prosperous, and more productive on earth. Their messengers went to them with clear signs. Consequently, GOD was not the One who wronged them, they are the ones who wronged their own souls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_030010",
-      "bm": "TODO_BM_030010",
-      "en": "TODO_EN_030010",
-      "audio": "./assets/audio/030/030010.mp3"
+      "arabic": "ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ",
+      "bm": "Akibatnya orang orang yang komit kejahatan pastilah akan mendapatkan kejahatan juga. Itu adalah kerana mereka mengingkari revelasi revelasi Allah, dan mencemuhkannya.",
+      "en": "The consequences for those who committed evil had to be evil. That is because they rejected GOD's revelations, and ridiculed them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_030011",
-      "bm": "TODO_BM_030011",
-      "en": "TODO_EN_030011",
-      "audio": "./assets/audio/030/030011.mp3"
+      "arabic": "اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+      "bm": "Allah Sahajalah yang meinisiasikan ciptaan dan mengulanginya. Akhirnya, kepadaNya sajalah kamu akan dikembalikan.",
+      "en": "GOD is the One who initiates the creation and repeats it. Ultimately, you will be returned to Him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030011.mp3",
+      "subtitle": {
+        "bm": "Pemuja Pemuja Akan Menafikan Pujaan Pujaan Mereka",
+        "en": "Idol Worshipers Disown Their Idols"
+      }
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_030012",
-      "bm": "TODO_BM_030012",
-      "en": "TODO_EN_030012",
-      "audio": "./assets/audio/030/030012.mp3"
+      "arabic": "وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُجْرِمُونَ",
+      "bm": "Pada hari apabila Waktu itu berlaku, orang orang yang bersalah akan terperanjat.",
+      "en": "On the Day when the Hour comes to pass, the guilty will be shocked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_030013",
-      "bm": "TODO_BM_030013",
-      "en": "TODO_EN_030013",
-      "audio": "./assets/audio/030/030013.mp3"
+      "arabic": "وَلَمْ يَكُنْ لَهُمْ مِنْ شُرَكَائِهِمْ شُفَعَاءُ وَكَانُوا بِشُرَكَائِهِمْ كَافِرِينَ",
+      "bm": "Pujaan Pujaan mereka tidak akan mempunyai kuasa untuk menjamin bagi pihak mereka; sebaliknya, mereka akan menafikan pujaan pujaan mereka.",
+      "en": "Their idols will have no power to intercede on their behalf; on the contrary, they will disown their idols.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_030014",
-      "bm": "TODO_BM_030014",
-      "en": "TODO_EN_030014",
-      "audio": "./assets/audio/030/030014.mp3"
+      "arabic": "وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ",
+      "bm": "Pada hari apabila Waktu itu berlaku, mereka akan menjadi golongan yang terpisah.",
+      "en": "On the day when the Hour comes to pass, they will part company.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_030015",
-      "bm": "TODO_BM_030015",
-      "en": "TODO_EN_030015",
-      "audio": "./assets/audio/030/030015.mp3"
+      "arabic": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَهُمْ فِي رَوْضَةٍ يُحْبَرُونَ",
+      "bm": "Bagi orang orang yang percaya dan menjalani kehidupan yang benar, mereka akan berada diSyurga, kegirangan.",
+      "en": "As for those who believe and lead a righteous life, they will be in Paradise, rejoicing.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_030016",
-      "bm": "TODO_BM_030016",
-      "en": "TODO_EN_030016",
-      "audio": "./assets/audio/030/030016.mp3"
+      "arabic": "وَأَمَّا الَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا وَلِقَاءِ الْآخِرَةِ فَأُولَٰئِكَ فِي الْعَذَابِ مُحْضَرُونَ",
+      "bm": "Bagi orang orang yang ingkar, dan mengingkari revelasi revelasi kami dan pertemuan diAkhirat, mereka akan berkekalan dengan siksaan untuk selama lamanya.",
+      "en": "As for those who disbelieve, and reject our revelations and the meeting of the Hereafter, they will last in the retribution forever.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_030017",
-      "bm": "TODO_BM_030017",
-      "en": "TODO_EN_030017",
-      "audio": "./assets/audio/030/030017.mp3"
+      "arabic": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "bm": "Dari itu, kamu mestilah mengagungkan Allah apabila kamu berehat diwaktu malam, dan apabila kamu bangun diwaktu pagi.",
+      "en": "Therefore, you shall glorify GOD when you retire at night, and when you rise in the morning.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030017.mp3",
+      "subtitle": {
+        "bm": "Ingatlah Allah Selalu",
+        "en": "Remember God, Always"
+      }
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_030018",
-      "bm": "TODO_BM_030018",
-      "en": "TODO_EN_030018",
-      "audio": "./assets/audio/030/030018.mp3"
+      "arabic": "وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
+      "bm": "Segala kepujian adalah hanya untukNya disekelian cekrawala dan bumi, sepanjang malam hari, begitu juga dipertengahan hari bagi kamu.",
+      "en": "All praise is due to Him in the heavens and the earth, throughout the evening, as well as in the middle of your day.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_030019",
-      "bm": "TODO_BM_030019",
-      "en": "TODO_EN_030019",
-      "audio": "./assets/audio/030/030019.mp3"
+      "arabic": "يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا وَكَذَٰلِكَ تُخْرَجُونَ",
+      "bm": "Dia menjadikan hidup dari yang mati, dan menjadikan mati dari yang hidup, dan Dia menghidupkan semula tanah setelah ianya mati; kamu adalah serupa cara kebangkitannya.",
+      "en": "He produces the live from the dead, and produces the dead from the live, and He revives the land after it had died; you are similarly resurrected.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_030020",
-      "bm": "TODO_BM_030020",
-      "en": "TODO_EN_030020",
-      "audio": "./assets/audio/030/030020.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ إِذَا أَنْتُمْ بَشَرٌ تَنْتَشِرُونَ",
+      "bm": "Diantara bukti buktiNya adalah yang Dia menciptakan kamu dari debu, dan kamu yang membiakkan manusia.",
+      "en": "Among His proofs is that He created you from dust, then you became reproducing humans.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030020.mp3",
+      "subtitle": {
+        "bm": "Perkahwinan: Institusi Ilahi",
+        "en": "Marriage: A Divine Institution"
+      }
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_030021",
-      "bm": "TODO_BM_030021",
-      "en": "TODO_EN_030021",
-      "audio": "./assets/audio/030/030021.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "bm": "Diantara bukti buktiNya adalah Dia menciptakan untuk kamu pasangan pasangan dari kalangan kamu sendiri, supaya mendapatkan ketenangan dan rasa puas hati diantara satu sama lainnya, dan Dia letakkan didalam hati hati kamu rasa kasih dan penjagaan terhadap pasangan pasangan kamu. Didalam ini, ada terdapat beberapa bukti bukti yang cukup bagi manusia yang boleh memikirkan.",
+      "en": "Among His proofs is that He created for you spouses from among yourselves, in order to have tranquility and contentment with each other, and He placed in your hearts love and care towards your spouses. In this, there are sufficient proofs for people who think.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_030022",
-      "bm": "TODO_BM_030022",
-      "en": "TODO_EN_030022",
-      "audio": "./assets/audio/030/030022.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِلْعَالِمِينَ",
+      "bm": "Diantara bukti buktiNya adalah penciptaan sekelian cekrawala dan bumi, dan berlainan dalam tuturan bahasa kamu dan warna warna kamu. Ini, adalah tanda tanda bagi orang orang yang mempunyai ilmu pengetahuan.",
+      "en": "Among His proofs are the creation of the heavens and the earth, and the variations in your languages and your colors. In these, there are signs for the knowledgeable.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030022.mp3",
+      "subtitle": {
+        "bm": "Banyak Lagi Bukti Bukti",
+        "en": "More Proofs"
+      }
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_030023",
-      "bm": "TODO_BM_030023",
-      "en": "TODO_EN_030023",
-      "audio": "./assets/audio/030/030023.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ مَنَامُكُمْ بِالَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَسْمَعُونَ",
+      "bm": "Diantara bukti buktiNya adalah apabila kamu tidur diwaktu malam ataupun siang hari, dan pekerjaan yang kamu jalankan untuk mendapatkan rezeki rezeki dariNya. Dalam keadaan ini, ada tanda tanda yang cukup bagi orang orang yang dapat mendengarkan.",
+      "en": "Among His proofs is your sleeping during the night or the day, and your working in pursuit of His provisions. In this, there are sufficient proofs for people who can hear.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_030024",
-      "bm": "TODO_BM_030024",
-      "en": "TODO_EN_030024",
-      "audio": "./assets/audio/030/030024.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ السَّمَاءِ مَاءً فَيُحْيِي بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "bm": "Diantara bukti buktiNya adalah yang Dia menunjukkan kamu petir sebagai sumber ketakutan, dan juga harapan, dan kemudian Dia menghantarkan air dari langit untuk menghidupkan semula tanah yang sudah mati. Dalam ini, adalah tanda tanda yang cukup bagi orang orang yang faham.",
+      "en": "Among His proofs is that He shows you the lightning as a source of fear, as well as hope, then He sends down from the sky water to revive a land that has been dead. In these, there are sufficient proofs for people who understand.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_030025",
-      "bm": "TODO_BM_030025",
-      "en": "TODO_EN_030025",
-      "audio": "./assets/audio/030/030025.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ أَنْ تَقُومَ السَّمَاءُ وَالْأَرْضُ بِأَمْرِهِ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِنَ الْأَرْضِ إِذَا أَنْتُمْ تَخْرُجُونَ",
+      "bm": "Diantara bukti buktiNya adalah cekrawala dan bumi sedang berdiri mengikut pengaturanNya. Akhir sekali, apabila Dia memanggil kamu keluar dari bumi, dengan satu panggilan saja, kamu akan keluar dengan segera.",
+      "en": "Among His proofs is that the heaven and the earth are standing at His disposal. Finally, when He calls you out of the earth, one call, you will immediately come out.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_030026",
-      "bm": "TODO_BM_030026",
-      "en": "TODO_EN_030026",
-      "audio": "./assets/audio/030/030026.mp3"
+      "arabic": "وَلَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ كُلٌّ لَهُ قَانِتُونَ",
+      "bm": "KepunyaanNya segala apa yang berada disekelian cekrawala dan bumi; kesemuanya tunduk menuruti perintah dariNya.",
+      "en": "To Him belongs everyone in the heavens and the earth; all are subservient to Him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_030027",
-      "bm": "TODO_BM_030027",
-      "en": "TODO_EN_030027",
-      "audio": "./assets/audio/030/030027.mp3"
+      "arabic": "وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ وَلَهُ الْمَثَلُ الْأَعْلَىٰ فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "bm": "Dan Dialah Sahaja yang meinisiasikan segala ciptaan, kemudian mengulanginya; bahkan ini adalah lebih mudah bagiNya. KepunyaanNya persamaan yang amat menakjubkan, disekelian cekrawala dan bumi, dan sesungguhnya, Dialah yang Maha Kuat lagi Maha Bijaksana.",
+      "en": "And He is the One who initiates the creation, then repeats it; this is even easier for Him. To Him belongs the most sublime similitude, in the heavens and the earth, and He is the Almighty, Most Wise.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_030028",
-      "bm": "TODO_BM_030028",
-      "en": "TODO_EN_030028",
-      "audio": "./assets/audio/030/030028.mp3"
+      "arabic": "ضَرَبَ لَكُمْ مَثَلًا مِنْ أَنْفُسِكُمْ هَلْ لَكُمْ مِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنْتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنْفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ",
+      "bm": "Dia tunjukkan kepada kamu contoh didalam ini dari kalangan kamu sendiri: Adakah kamu mengangkat pembantu pembantu ataupun pekerja pekerja bawahan kamu keperingkat dimana mereka akan menyaingi kamu, sehinggakan ketaraf dimana kamu memberikan mereka penghormatan yang melebihi dari apa yang sepatutnya diberikan kepada kamu? Lantas kami menerangkan revelasi revelasi kepada manusia yang faham.",
+      "en": "He cites for you herein an example from among yourselves: Do you ever elevate your servants or subordinates to the level where they rival you, and to the point that you pay them as much allegiance as is being paid to you? We thus explain the revelations for people who understand.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030028.mp3",
+      "subtitle": {
+        "bm": "Penyekutuan Yang Tidak Munasabah",
+        "en": "Absurdity of Idol Worship"
+      }
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_030029",
-      "bm": "TODO_BM_030029",
-      "en": "TODO_EN_030029",
-      "audio": "./assets/audio/030/030029.mp3"
+      "arabic": "بَلِ اتَّبَعَ الَّذِينَ ظَلَمُوا أَهْوَاءَهُمْ بِغَيْرِ عِلْمٍ فَمَنْ يَهْدِي مَنْ أَضَلَّ اللَّهُ وَمَا لَهُمْ مِنْ نَاصِرِينَ",
+      "bm": "Sesungguhnya, orang orang yang melampaui batas itu telah mengikuti pendapat pendapat mereka sendiri, tanpa berilmu pengetahuan. Siapakah yang boleh membimbing orang orang yang telah disesatkan oleh Allah? Tidak ada sesiapa pun yang akan dapat menolong mereka.",
+      "en": "Indeed, the transgressors have followed their own opinions, without knowledge. Who then can guide those who have been sent astray by GOD? No one can ever help them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030029.mp3"
     },
     {
       "number": 30,
-      "arabic": "TODO_AR_030030",
-      "bm": "TODO_BM_030030",
-      "en": "TODO_EN_030030",
-      "audio": "./assets/audio/030/030030.mp3"
+      "arabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "bm": "Dari itu, kamu mestilah mengabdikan diri diri kamu kepada agama monoteisme yang sebenar. Demikian itu adalah naluri semula jadi manusia yang diletakkan oleh Allah. Ciptaan yang sedemikian dari Allah itu tidak pernah akan berubah. Ini adalah agama yang sempurna, tetapi kebanyakan manusia tidak mengetahuinya.",
+      "en": "Therefore, you shall devote yourself to the religion of strict monotheism. Such is the natural instinct placed into the people by GOD. Such creation of GOD will never change. This is the perfect religion, but most people do not know.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030030.mp3",
+      "subtitle": {
+        "bm": "Monoteisme: Naluri Semula Jadi",
+        "en": "Monotheism: Natural Instinct*"
+      }
     },
     {
       "number": 31,
-      "arabic": "TODO_AR_030031",
-      "bm": "TODO_BM_030031",
-      "en": "TODO_EN_030031",
-      "audio": "./assets/audio/030/030031.mp3"
+      "arabic": "مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ",
+      "bm": "Kamu mestilah menyerahkan diri diri kamu kepadaNya, menghormatiNya, Mengerjakan Sembahyang (Salat ), dan - apa saja yang kamu lakukan - jangan sekali kali kamu jatuh kedalam menyekutukan (Allah).",
+      "en": "You shall submit to Him, reverence Him, observe the Contact Prayers (Salat), and--whatever you do--do not ever fall into idol worship.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030031.mp3"
     },
     {
       "number": 32,
-      "arabic": "TODO_AR_030032",
-      "bm": "TODO_BM_030032",
-      "en": "TODO_EN_030032",
-      "audio": "./assets/audio/030/030032.mp3"
+      "arabic": "مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
+      "bm": "(Jangan sembah pujaan) seperti orang orang yang memecah belahkan agama mereka kepada sekta sekta; tiap tiap kumpulan bergembira dengan apa yang mereka perolehi.",
+      "en": "(Do not fall in idol worship,) like those who divide their religion into sects; each party rejoicing with what they have.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030032.mp3",
+      "subtitle": {
+        "bm": "Sekta Sekta Di-Kutuk",
+        "en": "Sectarianism Condemned"
+      }
     },
     {
       "number": 33,
-      "arabic": "TODO_AR_030033",
-      "bm": "TODO_BM_030033",
-      "en": "TODO_EN_030033",
-      "audio": "./assets/audio/030/030033.mp3"
+      "arabic": "وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُمْ مُنِيبِينَ إِلَيْهِ ثُمَّ إِذَا أَذَاقَهُمْ مِنْهُ رَحْمَةً إِذَا فَرِيقٌ مِنْهُمْ بِرَبِّهِمْ يُشْرِكُونَ",
+      "bm": "Apabila kesukaran mengenai manusia, mereka berbalik kepada Tuhan mereka, dengan mengabdikan diri diri mereka dengan sepenuhnya  kepadaNya. Tetapi apabila saja Dia mencucuri mereka dengan belas kasih, ada dari mereka kembali dengan menyekutukan (Allah).",
+      "en": "When adversity afflicts the people, they turn to their Lord, totally devoting themselves to Him. But then, as soon as He showers them with mercy, some of them revert to idol worship.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030033.mp3",
+      "subtitle": {
+        "bm": "Kawan Kawan Masa Senang",
+        "en": "Bad Weather Friends"
+      }
     },
     {
       "number": 34,
-      "arabic": "TODO_AR_030034",
-      "bm": "TODO_BM_030034",
-      "en": "TODO_EN_030034",
-      "audio": "./assets/audio/030/030034.mp3"
+      "arabic": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ",
+      "bm": "Biarkanlah mereka menjadi tidak bersyukur dengan apa yang telah kami berikan kepada mereka. Nikmatilah untuk sementara waktu saja; tentu sekali kamu akan ketahui",
+      "en": "Let them be unappreciative of what we have given them. Enjoy temporarily; you will surely find out.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030034.mp3"
     },
     {
       "number": 35,
-      "arabic": "TODO_AR_030035",
-      "bm": "TODO_BM_030035",
-      "en": "TODO_EN_030035",
-      "audio": "./assets/audio/030/030035.mp3"
+      "arabic": "أَمْ أَنْزَلْنَا عَلَيْهِمْ سُلْطَانًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا بِهِ يُشْرِكُونَ",
+      "bm": "Adakah kami yang memberikan mereka autoriti dengan memberikan alasan yang kuat diatas penyekutuan mereka?",
+      "en": "Have we given them authorization that justifies their idolatry?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030035.mp3"
     },
     {
       "number": 36,
-      "arabic": "TODO_AR_030036",
-      "bm": "TODO_BM_030036",
-      "en": "TODO_EN_030036",
-      "audio": "./assets/audio/030/030036.mp3"
+      "arabic": "وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
+      "bm": "Apabila kami kurniakan belas kasih kepada manusia, mereka bergembira dengannya. Tetapi apabila kesukaran menimpa mereka, akibat dari kerja kerja mereka sendiri, mereka berputus asa.",
+      "en": "When we bestow mercy upon the people, they rejoice therein. But when adversity befalls them, as a consequence of their own works, they become despondent.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030036.mp3"
     },
     {
       "number": 37,
-      "arabic": "TODO_AR_030037",
-      "bm": "TODO_BM_030037",
-      "en": "TODO_EN_030037",
-      "audio": "./assets/audio/030/030037.mp3"
+      "arabic": "أَوَلَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "bm": "Tidakkah mereka sedar yang Allah menambahkan peruntukkan kepada sesiapa saja yang Dia kehendaki, ataupun mengurangkannya? Ini sepatutnya menjadi pengajaran bagi orang orang yang percaya.",
+      "en": "Do they not realize that GOD increases the provision for whomever He wills, or reduces it? These should be lessons for people who believe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030037.mp3"
     },
     {
       "number": 38,
-      "arabic": "TODO_AR_030038",
-      "bm": "TODO_BM_030038",
-      "en": "TODO_EN_030038",
-      "audio": "./assets/audio/030/030038.mp3"
+      "arabic": "فَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ذَٰلِكَ خَيْرٌ لِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "bm": "Dari itu, kamu mestilah memberikan kepada saudara mara bahagian dari hak mereka (derma), begitu juga dengan orang orang miskin, dan pengembara. Ini adalah lebih baik bagi orang orang yang bersungguh sungguh ingin mencari keredhaan Allah dengan jujur; mereka itu adalah orang orang yang menang.",
+      "en": "Therefore, you shall give the relatives their rightful share (of charity), as well as the poor, and the traveling alien. This is better for those who sincerely seek GOD's pleasure; they are the winners.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030038.mp3"
     },
     {
       "number": 39,
-      "arabic": "TODO_AR_030039",
-      "bm": "TODO_BM_030039",
-      "en": "TODO_EN_030039",
-      "audio": "./assets/audio/030/030039.mp3"
+      "arabic": "وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِنْدَ اللَّهِ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+      "bm": "Riba' yang diamalkan untuk menambahkan kekayaan manusia, tidak akan mendapat apa apa dari Allah. Tetapi jika kamu memberi derma, untuk mencari keredhaan Allah, inilah orang orangnya yang akan menerima ganjaran yang berganda banyaknya.",
+      "en": "The usury that is practiced to increase some people's wealth, does not gain anything at GOD. But if you give to charity, seeking GOD's pleasure, these are the ones who receive their reward manifold.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030039.mp3"
     },
     {
       "number": 40,
-      "arabic": "TODO_AR_030040",
-      "bm": "TODO_BM_030040",
-      "en": "TODO_EN_030040",
-      "audio": "./assets/audio/030/030040.mp3"
+      "arabic": "اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ هَلْ مِنْ شُرَكَائِكُمْ مَنْ يَفْعَلُ مِنْ ذَٰلِكُمْ مِنْ شَيْءٍ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+      "bm": "Allah Sahajalah yang menciptakan kamu. Dia Sahajalah yang mengadakan rezeki rezeki untuk kamu. Dia Sahajalah yang mematikan kamu. Dia Sahajalah yang membangkitkan kamu semula. Bolehkah sebarang dari pujaan pujaan kamu melakukan ini semua? Maha Suci bagiNya. Dia terlalu amat tinggi untuk mempunyai pasangan pasangan.",
+      "en": "GOD is the One who created you. He is the One who provides for you. He is the One who puts you to death. He is the One who resurrects you. Can any of your idols do any of these things? Be He glorified. He is much too exalted to have any partners.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030040.mp3",
+      "subtitle": {
+        "bm": "Siapakah Yang Lebih Patut Di-Sembah",
+        "en": "Who Is Worthy of Worship?"
+      }
     },
     {
       "number": 41,
-      "arabic": "TODO_AR_030041",
-      "bm": "TODO_BM_030041",
-      "en": "TODO_EN_030041",
-      "audio": "./assets/audio/030/030041.mp3"
+      "arabic": "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ",
+      "bm": "Mala petaka telah merebak keseluruh daratan dan laut, disebabkan apa yang telah dikomitkan oleh manusia. Lantas Dia biarkan mereka merasai akibat dari kerja kerja sebahagian dari mereka, supaya mereka dapat kembali (kepada pekerjaan yang benar).",
+      "en": "Disasters have spread throughout the land and sea, because of what the people have committed. He thus lets them taste the consequences of some of their works, that they may return (to the right works).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030041.mp3"
     },
     {
       "number": 42,
-      "arabic": "TODO_AR_030042",
-      "bm": "TODO_BM_030042",
-      "en": "TODO_EN_030042",
-      "audio": "./assets/audio/030/030042.mp3"
+      "arabic": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلُ كَانَ أَكْثَرُهُمْ مُشْرِكِينَ",
+      "bm": "Katakanlah, \"Jelajahilah dimuka bumi dan perhatikan akibat akibat dari orang orang yang sebelum kamu.\" Kebanyakan dari mereka itulah yang menyekutukan (Allah).",
+      "en": "Say, \"Roam the earth and note the consequences for those before you.\" Most of them were idol worshipers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030042.mp3",
+      "subtitle": {
+        "bm": "Belajar Dari Sejarah",
+        "en": "Learning From History"
+      }
     },
     {
       "number": 43,
-      "arabic": "TODO_AR_030043",
-      "bm": "TODO_BM_030043",
-      "en": "TODO_EN_030043",
-      "audio": "./assets/audio/030/030043.mp3"
+      "arabic": "فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ يَوْمَئِذٍ يَصَّدَّعُونَ",
+      "bm": "Dari itu, kamu mestilah mengabdikan diri diri kamu dengan keseluruhannya kepada agama yang sempurna ini, sebelum harinya tiba yang mana Allah akan menjadikan ianya tidak boleh dielakkan lagi. Pada hari itu, mereka akan menjadi terperanjat.",
+      "en": "Therefore, you shall devote yourself completely to this perfect religion, before a day comes which is made inevitable by GOD. On that day, they will be shocked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030043.mp3"
     },
     {
       "number": 44,
-      "arabic": "TODO_AR_030044",
-      "bm": "TODO_BM_030044",
-      "en": "TODO_EN_030044",
-      "audio": "./assets/audio/030/030044.mp3"
+      "arabic": "مَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ وَمَنْ عَمِلَ صَالِحًا فَلِأَنْفُسِهِمْ يَمْهَدُونَ",
+      "bm": "Sesiapa saja yang ingkar, keingkarannya hanya menjejaskan roh rohnya sendiri, sementara orang orang yang menjalani kehidupan yang benar, melakukannya untuk menguatkan dan membangunkan roh roh mereka sendiri.",
+      "en": "Whoever disbelieves, disbelieves to the detriment of his own soul, while those who lead a righteous life, do so to strengthen and develop their own souls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030044.mp3"
     },
     {
       "number": 45,
-      "arabic": "TODO_AR_030045",
-      "bm": "TODO_BM_030045",
-      "en": "TODO_EN_030045",
-      "audio": "./assets/audio/030/030045.mp3"
+      "arabic": "لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْ فَضْلِهِ إِنَّهُ لَا يُحِبُّ الْكَافِرِينَ",
+      "bm": "Kerana Dia akan memberikan ganjaran yang melimpah ganda kepada orang orang yang percaya dan yang menjalani kehidupan yang benar dengan segala kemurahanNya. Dia tidak mencintai orang orang yang ingkar.",
+      "en": "For He will generously recompense those who believe and lead a righteous life from His bounties. He does not love the disbelievers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030045.mp3"
     },
     {
       "number": 46,
-      "arabic": "TODO_AR_030046",
-      "bm": "TODO_BM_030046",
-      "en": "TODO_EN_030046",
-      "audio": "./assets/audio/030/030046.mp3"
+      "arabic": "وَمِنْ آيَاتِهِ أَنْ يُرْسِلَ الرِّيَاحَ مُبَشِّرَاتٍ وَلِيُذِيقَكُمْ مِنْ رَحْمَتِهِ وَلِتَجْرِيَ الْفُلْكُ بِأَمْرِهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "bm": "Diantara bukti buktiNya adalah Dia menghantarkan angin dengan petanda yang baik, untuk mencucuri kamu dengan belas kasihNya, dan mengizinkan kapal kapal belayar berlari dilautan dengan mengikut peraturan peraturanNya, dan untuk kamu mencari kurnianNya (melalui perdagangan), supaya dapat kamu bersyukur.",
+      "en": "Among His proofs is that He sends the winds with good omen, to shower you with His mercy, and to allow the ships to run in the sea in accordance with His rules, and for you to seek His bounties (through commerce), that you may be appreciative.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030046.mp3"
     },
     {
       "number": 47,
-      "arabic": "TODO_AR_030047",
-      "bm": "TODO_BM_030047",
-      "en": "TODO_EN_030047",
-      "audio": "./assets/audio/030/030047.mp3"
+      "arabic": "وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
+      "bm": "Kami telah menghantarkan para rasul sebelum kau kepada orang orang mereka, dengan tanda tanda yang nyata. Kemudiannya, kami menghukum orang orang yang melampaui batas. Itu adalah tugas kami untuk memberikan kemenangan kepada orang orang yang percaya.",
+      "en": "We have sent messengers before you to their people, with profound signs. Subsequently, we punished those who transgressed. It is our duty that we grant victory to the believers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030047.mp3",
+      "subtitle": {
+        "bm": "Orang Orang Yang Percaya Di-Jamin Dengan Kemenangan",
+        "en": "Guaranteed Victory for the Believers"
+      }
     },
     {
       "number": 48,
-      "arabic": "TODO_AR_030048",
-      "bm": "TODO_BM_030048",
-      "en": "TODO_EN_030048",
-      "audio": "./assets/audio/030/030048.mp3"
+      "arabic": "اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ فَإِذَا أَصَابَ بِهِ مَنْ يَشَاءُ مِنْ عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ",
+      "bm": "Allah Sahajalah yang menghantarkan angin angin, untuk menggerakkan awan awan, supaya merebak keseluruh langit dengan mengikuti kehendakNya. Lalu Dia melonggokkan awan awan diatas satu sama lain, dan kamu lihat hujan turun darinya. Apabila ianya jatuh keatas siapa jua yang Dia pilih diantara hamba hambaNya, mereka kegirangan.",
+      "en": "GOD is the One who sends the winds, to stir up clouds, to be spread throughout the sky in accordance with His will. He then piles the clouds up, then you see the rain coming down therefrom. When it falls on whomever He chooses from among His servants, they rejoice.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030048.mp3"
     },
     {
       "number": 49,
-      "arabic": "TODO_AR_030049",
-      "bm": "TODO_BM_030049",
-      "en": "TODO_EN_030049",
-      "audio": "./assets/audio/030/030049.mp3"
+      "arabic": "وَإِنْ كَانُوا مِنْ قَبْلِ أَنْ يُنَزَّلَ عَلَيْهِمْ مِنْ قَبْلِهِ لَمُبْلِسِينَ",
+      "bm": "Sebelum ianya diturunkan kepada mereka, mereka telah berputus asa.",
+      "en": "Before it fell on them, they had resorted to despair.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030049.mp3"
     },
     {
       "number": 50,
-      "arabic": "TODO_AR_030050",
-      "bm": "TODO_BM_030050",
-      "en": "TODO_EN_030050",
-      "audio": "./assets/audio/030/030050.mp3"
+      "arabic": "فَانْظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "bm": "Kamu mestilah bersyukur dengan belas kasih dari Allah yang berterusan, dan bagaimana Dia menghidupkan semula tanah yang telah pun mati. Dia tentu sekali dengan pastinya akan membangkitkan yang mati. Sesungguhnya, Dialah yang Maha Berkuasa.",
+      "en": "You shall appreciate GOD's continuous mercy, and how He revives the land that has been dead. He will just as certainly resurrect the dead. He is Omnipotent.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030050.mp3"
     },
     {
       "number": 51,
-      "arabic": "TODO_AR_030051",
-      "bm": "TODO_BM_030051",
-      "en": "TODO_EN_030051",
-      "audio": "./assets/audio/030/030051.mp3"
+      "arabic": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَظَلُّوا مِنْ بَعْدِهِ يَكْفُرُونَ",
+      "bm": "Kalaulah kami menghantarkan kepada mereka sebaliknya ribut berpasir kuning, mereka akan tentunya berterusan mengingkarkan.",
+      "en": "Had we sent upon them instead a yellow sandstorm, they would have continued to disbelieve.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030051.mp3"
     },
     {
       "number": 52,
-      "arabic": "TODO_AR_030052",
-      "bm": "TODO_BM_030052",
-      "en": "TODO_EN_030052",
-      "audio": "./assets/audio/030/030052.mp3"
+      "arabic": "فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ",
+      "bm": "Kau tidak akan dapat menjadikan yang mati, tidak juga yang pekak, mendengarkan panggilan, apabila saja mereka berpusing balik.",
+      "en": "You cannot make the dead, nor the deaf, hear the call, once they turn away.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030052.mp3"
     },
     {
       "number": 53,
-      "arabic": "TODO_AR_030053",
-      "bm": "TODO_BM_030053",
-      "en": "TODO_EN_030053",
-      "audio": "./assets/audio/030/030053.mp3"
+      "arabic": "وَمَا أَنْتَ بِهَادِ الْعُمْيِ عَنْ ضَلَالَتِهِمْ إِنْ تُسْمِعُ إِلَّا مَنْ يُؤْمِنُ بِآيَاتِنَا فَهُمْ مُسْلِمُونَ",
+      "bm": "Tidak juga dapat kau membimbing sibuta dari kesesatan mereka. Kamu hanya boleh dapat didengarkan oleh orang orang yang percaya dengan revelasi revelasi kami, dan bercadang untuk menyerahkan diri diri mereka (kepada Allah).",
+      "en": "Nor can you guide the blind out of their straying. You can only be heard by those who believe in our revelations, and decide to become submitters.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030053.mp3"
     },
     {
       "number": 54,
-      "arabic": "TODO_AR_030054",
-      "bm": "TODO_BM_030054",
-      "en": "TODO_EN_030054",
-      "audio": "./assets/audio/030/030054.mp3"
+      "arabic": "اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً يَخْلُقُ مَا يَشَاءُ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
+      "bm": "Allah Sahajalah yang menciptakan kamu berkeadaan lemah, dan memberikan kamu selepas kelemahan itu kekuatan, dan digantikan selepas kekuatan kelemahan dan rambut yang beruban. Dia mencipta apa saja yang Dia kehendaki. Sesungguhnya, Dialah yang Maha Mengetahui lagi Maha Berkuasa.",
+      "en": "GOD is the One who created you weak, then granted you after the weakness strength, then substituted after the strength weakness and gray hair. He creates whatever He wills. He is the Omniscient, the Omnipotent.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030054.mp3",
+      "subtitle": {
+        "bm": "Kehidupan Ini Amatlah Singkat",
+        "en": "This Life is Very Short"
+      }
     },
     {
       "number": 55,
-      "arabic": "TODO_AR_030055",
-      "bm": "TODO_BM_030055",
-      "en": "TODO_EN_030055",
-      "audio": "./assets/audio/030/030055.mp3"
+      "arabic": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ كَذَٰلِكَ كَانُوا يُؤْفَكُونَ",
+      "bm": "Dihari apabila Waktu itu berlaku, yang bersalah akan bersumpah yang mereka itu tinggal (didunia ini) hanyalah sejam. Begitulah bagaimana salahnya mereka.",
+      "en": "On the day when the Hour comes to pass, the guilty will swear that they lasted (in this world) only one hour. That is how wrong they were.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030055.mp3"
     },
     {
       "number": 56,
-      "arabic": "TODO_AR_030056",
-      "bm": "TODO_BM_030056",
-      "en": "TODO_EN_030056",
-      "audio": "./assets/audio/030/030056.mp3"
+      "arabic": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَالْإِيمَانَ لَقَدْ لَبِثْتُمْ فِي كِتَابِ اللَّهِ إِلَىٰ يَوْمِ الْبَعْثِ فَهَٰذَا يَوْمُ الْبَعْثِ وَلَٰكِنَّكُمْ كُنْتُمْ لَا تَعْلَمُونَ",
+      "bm": "Orang orang yang dirahmati dengan ilmu pengetahuan dan iman akan berkata, \"Kamu telah tinggal, mengikut dekri dari Allah, sampai keHari Kebangkitan. Sekarang, ini adalah Hari Kebangkitan, tetapi kamu gagal untuk mengenalinya.\"",
+      "en": "Those who are blessed with knowledge and faith will say, \"You have lasted, according to GOD's decree, until the Day of Resurrection. Now, this is the Day of Resurrection, but you failed to recognize it.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030056.mp3"
     },
     {
       "number": 57,
-      "arabic": "TODO_AR_030057",
-      "bm": "TODO_BM_030057",
-      "en": "TODO_EN_030057",
-      "audio": "./assets/audio/030/030057.mp3"
+      "arabic": "فَيَوْمَئِذٍ لَا يَنْفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "bm": "Dari itu, tidak ada kemaafan, dihari itu, akan memanfaatkan orang orang yang melampaui batas, tidak juga mereka akan mendapatkan kelepasan.",
+      "en": "Therefore, no apology, on that day, will benefit the transgressors, nor will they be excused.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030057.mp3"
     },
     {
       "number": 58,
-      "arabic": "TODO_AR_030058",
-      "bm": "TODO_BM_030058",
-      "en": "TODO_EN_030058",
-      "audio": "./assets/audio/030/030058.mp3"
+      "arabic": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ وَلَئِنْ جِئْتَهُمْ بِآيَةٍ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ أَنْتُمْ إِلَّا مُبْطِلُونَ",
+      "bm": "Lantas, kami telah memberikan berbagai contoh kepada manusia didalam Quran ini. Namun, begitu, walau bagaimana cara bukti yang kau tunjukkan kepada orang orang yang ingkar itu, mereka berkata, \"Kau pembawa kepalsuan.\"",
+      "en": "Thus, we have cited for the people in this Quran all kinds of examples. Yet, no matter what kind of proof you present to the disbelievers, they say, \"You are falsifiers.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030058.mp3"
     },
     {
       "number": 59,
-      "arabic": "TODO_AR_030059",
-      "bm": "TODO_BM_030059",
-      "en": "TODO_EN_030059",
-      "audio": "./assets/audio/030/030059.mp3"
+      "arabic": "كَذَٰلِكَ يَطْبَعُ اللَّهُ عَلَىٰ قُلُوبِ الَّذِينَ لَا يَعْلَمُونَ",
+      "bm": "Lantaran itu Allah menutupkan hati hati orang orang yang tidak mengetahui.",
+      "en": "GOD thus seals the hearts of those who do not know.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030059.mp3",
+      "subtitle": {
+        "bm": "Campur Tangan Dari Ilahi",
+        "en": "Divine Intervention"
+      }
     },
     {
       "number": 60,
-      "arabic": "TODO_AR_030060",
-      "bm": "TODO_BM_030060",
-      "en": "TODO_EN_030060",
-      "audio": "./assets/audio/030/030060.mp3"
+      "arabic": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ",
+      "bm": "Dari itu, kau mestilah sabar dan tabah hati - kerana perjanjian Allah itu adalah benar - dan janganlah membiarkan dirimu ditakut takutkan oleh orang orang yang tidak memperolehi kepastian.",
+      "en": "Therefore, you shall steadfastly persevere--for GOD's promise is the truth--and do not be intimidated by those who have not attained certainty.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/030060.mp3"
     }
   ]
 }

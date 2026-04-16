@@ -1,60 +1,60 @@
 {
   "surahNumber": 114,
   "name": {
-    "ar": "الناس",
+    "ar": "سورة الـناس",
     "bm": "Manusia",
-    "en": "Mankind"
+    "en": "People"
   },
   "totalAyahs": 6,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/114/114000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_114001",
-      "bm": "TODO_BM_114001",
-      "en": "TODO_EN_114001",
-      "audio": "./assets/audio/114/114001.mp3"
+      "arabic": "قُل أَعوذُ بِرَبِّ النّاسِ",
+      "bm": "Katakanlah, \" Aku mencari perlindungan Tuhan kepada manusia.",
+      "en": "Say, \"I seek refuge in the Lord of the people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_114002",
-      "bm": "TODO_BM_114002",
-      "en": "TODO_EN_114002",
-      "audio": "./assets/audio/114/114002.mp3"
+      "arabic": "مَلِكِ النَّاسِ",
+      "bm": "\"Raja kepada manusia.",
+      "en": "\"The King of the people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_114003",
-      "bm": "TODO_BM_114003",
-      "en": "TODO_EN_114003",
-      "audio": "./assets/audio/114/114003.mp3"
+      "arabic": "إِلَٰهِ النَّاسِ",
+      "bm": "\"Tuhan kepada manusia.",
+      "en": "\"The god of the people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_114004",
-      "bm": "TODO_BM_114004",
-      "en": "TODO_EN_114004",
-      "audio": "./assets/audio/114/114004.mp3"
+      "arabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "bm": "\"Dari kejahatan yang menghasuti pembisik pembisik.",
+      "en": "\"From the evils of sneaky whisperers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_114005",
-      "bm": "TODO_BM_114005",
-      "en": "TODO_EN_114005",
-      "audio": "./assets/audio/114/114005.mp3"
+      "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "bm": "\"Yang membisik didalam dada dada manusia.",
+      "en": "\"Who whisper into the chests of the people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_114006",
-      "bm": "TODO_BM_114006",
-      "en": "TODO_EN_114006",
-      "audio": "./assets/audio/114/114006.mp3"
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "bm": "\"Biarpun mereka itu dari para jin, ataupun manusia.\"",
+      "en": "\"Be they of the jinns, or the people.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/114006.mp3"
     }
   ]
 }

@@ -1,76 +1,85 @@
-SURAH_NUMBER: 63
-NAME_AR: المنافقون
-NAME_BM: Orang Munafik
+﻿SURAH_NUMBER: 63
+NAME_AR: سورة الـمنافقون
+NAME_BM: Orang Orang Hypokrit
 NAME_EN: The Hypocrites
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/063/063000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063000.mp3
 
 # Ayah 1
-AR: TODO_AR_063001
-BM: TODO_BM_063001
-EN: TODO_EN_063001
-AUDIO: ./assets/audio/063/063001.mp3
+AR: إِذا جاءَكَ المُنافِقونَ قالوا نَشهَدُ إِنَّكَ لَرَسولُ اللَّهِ وَاللَّهُ يَعلَمُ إِنَّكَ لَرَسولُهُ وَاللَّهُ يَشهَدُ إِنَّ المُنافِقينَ لَكاذِبونَ
+BM: Apabila orang orang hypokrit datang kepadamu mereka berkata, "Kami menjadi saksi yang kau adalah rasul Allah." Allah tahu yang kau itu adalah rasulNya, dan Allah menjadi saksi bahwa orang orang hypokrit itu adalah pembohong.
+EN: When the hypocrites come to you they say, "We bear witness that you are the messenger of GOD."* GOD knows that you are His messenger, and GOD bears witness that the hypocrites are liars.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063001.mp3
 
 # Ayah 2
-AR: TODO_AR_063002
-BM: TODO_BM_063002
-EN: TODO_EN_063002
-AUDIO: ./assets/audio/063/063002.mp3
+AR: اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+BM: Didalam penyamaran mereka tentang keimanan, mereka memalingkan manusia dari jalan Allah. Azab sungguh apa yang mereka telah lakukan.
+EN: Under the guise of their apparent faith, they repel the people from the path of GOD. Miserable indeed is what they do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063002.mp3
 
 # Ayah 3
-AR: TODO_AR_063003
-BM: TODO_BM_063003
-EN: TODO_EN_063003
-AUDIO: ./assets/audio/063/063003.mp3
+AR: ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+BM: Ini adalah kerana mereka sudah percaya, lalu menjadi tidak percaya. Lantas minda minda mereka sudah tertutup; mereka tidak dapat memahamkan.
+EN: This is because they believed, then disbelieved. Hence, their minds are blocked; they do not understand.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063003.mp3
 
 # Ayah 4
-AR: TODO_AR_063004
-BM: TODO_BM_063004
-EN: TODO_EN_063004
-AUDIO: ./assets/audio/063/063004.mp3
+AR: وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ أَنَّىٰ يُؤْفَكُونَ
+BM: Apabila kamu melihat mereka, kamu mungkin akan tertarik dengan keadaan rupa mereka. Dan apabila mereka bercakap, kamu akan mendengarkan kata kata manis mereka. Mereka itu seperti kayu kayu balak yang berdiri. Mereka berfikir yang setiap panggilan telah ditujukan untuk menentang mereka. Ini adalah musuh musuh yang sebenarnya; berhati hatilah terhadap mereka. Allah telah mengutuk mereka; mereka itu telah berpaling.
+EN: When you see them, you may be impressed by their looks. And when they speak, you may listen to their eloquence. They are like standing logs. They think that every call is intended against them. These are the real enemies; beware of them. GOD condemns them; they have deviated.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063004.mp3
+SUBTITLE_BM: Mudah Marah Dan Tersinggung
+SUBTITLE_EN: A Chip On Their Shoulders
 
 # Ayah 5
-AR: TODO_AR_063005
-BM: TODO_BM_063005
-EN: TODO_EN_063005
-AUDIO: ./assets/audio/063/063005.mp3
+AR: وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ
+BM: Apabila dikatakan kepada mereka, "Marilah biar rasul Allah mendoa'kan pengampunan kamu," mereka mengejek ejek sambil memalingkan kepala kepala mereka, dan kamu akan melihat mereka menentang dan yang lainnya berlagak sombong.
+EN: When they are told, "Come let the messenger of GOD pray for your forgiveness," they mockingly turn their heads, and you see them repel others and act arrogantly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063005.mp3
 
 # Ayah 6
-AR: TODO_AR_063006
-BM: TODO_BM_063006
-EN: TODO_EN_063006
-AUDIO: ./assets/audio/063/063006.mp3
+AR: سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+BM: Ianya adalah sama saja bagi mereka, sama ada kau doa'kan untuk pengampunan mereka, ataupun tidak mendoa'kan untuk pengampunan mereka; Allah tidak akan mengampunkan mereka. Kerana Allah tidak akan membimbing orang orang yang zalim.
+EN: It is the same for them, whether you pray for their forgiveness, or not pray for their forgiveness; GOD will not forgive them. For GOD does not guide the wicked people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063006.mp3
+SUBTITLE_BM: Mitos Perantaraan Hancur Berkecai
+SUBTITLE_EN: The Myth of Intercession Shattered*
 
 # Ayah 7
-AR: TODO_AR_063007
-BM: TODO_BM_063007
-EN: TODO_EN_063007
-AUDIO: ./assets/audio/063/063007.mp3
+AR: هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
+BM: Mereka itulah orang orangnya yang berkata, "Jangan berikan sebarang wang kepada orang orang yang mengikuti rasul Allah, berkemungkinan kelak mereka akan meninggalkan dia!" Bagaimana pun, Allah mempunyai segala harta benda disekelian cekrawala dan bumi, tetapi orang orang hypokrit itu tidak faham.
+EN: They are the ones who say, "Do not give any money to those who followed the messenger of GOD, perhaps they abandon him!" However, GOD possesses the treasures of the heavens and the earth, but the hypocrites do not comprehend.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063007.mp3
 
 # Ayah 8
-AR: TODO_AR_063008
-BM: TODO_BM_063008
-EN: TODO_EN_063008
-AUDIO: ./assets/audio/063/063008.mp3
+AR: يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
+BM: Mereka berkata, "Jika kami pulang kembali kebandar, yang berkuasa didalamnya akan mengusirkan yang lemah (dan kami akan menjadi mangsa)." (Mereka sepatutnya ketahui yang) semua maruah kepunyaan Allah dan rasulNya, dan orang orang yang percaya. Bagaimana pun, orang orang hypokrit tidak mengetahuinya.
+EN: They say, "If we go back to the city, the powerful therein will evict the weak (and we will be victimized)." (They should know that) all dignity belongs to GOD and His messenger, and the believers. However, the hypocrites do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063008.mp3
 
 # Ayah 9
-AR: TODO_AR_063009
-BM: TODO_BM_063009
-EN: TODO_EN_063009
-AUDIO: ./assets/audio/063/063009.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+BM: Wahai kamu yang percaya, janganlah dilalaikan oleh wang dan anak anak kamu dari mengingati Allah. Sesiapa yang melakukan ini adalah orang orang yang rugi.
+EN: O you who believe, do not be distracted by your money and your children from remembering GOD. Those who do this are the losers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063009.mp3
 
 # Ayah 10
-AR: TODO_AR_063010
-BM: TODO_BM_063010
-EN: TODO_EN_063010
-AUDIO: ./assets/audio/063/063010.mp3
+AR: وَأَنْفِقُوا مِنْ مَا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينَ
+BM: Kamu mestilah memberikan dari peruntukkan peruntukkan yang telah kami berikan kepada kamu sebelum kematian datang kepada kamu lalu kamu akan berkata, "Tuhanku, hanya jika Engkau dapat melewatkan ini untuk seketika! Aku akan menjadi dermawan dan bersama sama dengan orang orang yang benar!"
+EN: You shall give from our provisions to you before death comes to you, then you say, "My Lord, if only You could delay this for a short while! I would then be charitable and join the righteous!"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063010.mp3
 
 # Ayah 11
-AR: TODO_AR_063011
-BM: TODO_BM_063011
-EN: TODO_EN_063011
-AUDIO: ./assets/audio/063/063011.mp3
+AR: وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+BM: Allah tidak pernah melambatkan waktu kematian yang telah ditetapkan bagi sebarang roh. Sesungguhnya, Allah amat Perihatin akan segala apa yang kamu lakukan.
+EN: GOD never delays the appointed time of death for any soul. GOD is fully Cognizant of everything you do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/063011.mp3
+
+
+
+
+

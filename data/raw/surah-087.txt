@@ -1,124 +1,129 @@
-SURAH_NUMBER: 87
-NAME_AR: الأعلى
+﻿SURAH_NUMBER: 87
+NAME_AR: سورة الأعـلى
 NAME_BM: Yang Maha Tinggi
 NAME_EN: The Most High
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/087/087000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087000.mp3
 
 # Ayah 1
-AR: TODO_AR_087001
-BM: TODO_BM_087001
-EN: TODO_EN_087001
-AUDIO: ./assets/audio/087/087001.mp3
+AR: سَبِّحِ اسمَ رَبِّكَ الأَعلَى
+BM: Agungkanlah nama Tuhan kamu, yang Maha Tinggi.
+EN: Glorify the name of your Lord, the Most High.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087001.mp3
 
 # Ayah 2
-AR: TODO_AR_087002
-BM: TODO_BM_087002
-EN: TODO_EN_087002
-AUDIO: ./assets/audio/087/087002.mp3
+AR: الَّذِي خَلَقَ فَسَوَّىٰ
+BM: Dia yang menciptakan dan membentukkan.
+EN: He creates and shapes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087002.mp3
 
 # Ayah 3
-AR: TODO_AR_087003
-BM: TODO_BM_087003
-EN: TODO_EN_087003
-AUDIO: ./assets/audio/087/087003.mp3
+AR: وَالَّذِي قَدَّرَ فَهَدَىٰ
+BM: Dia yang merekakan dan membimbing.
+EN: He designs and guides.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087003.mp3
 
 # Ayah 4
-AR: TODO_AR_087004
-BM: TODO_BM_087004
-EN: TODO_EN_087004
-AUDIO: ./assets/audio/087/087004.mp3
+AR: وَالَّذِي أَخْرَجَ الْمَرْعَىٰ
+BM: Dia yang mengeluarkan padang rumput.
+EN: He produces the pasture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087004.mp3
 
 # Ayah 5
-AR: TODO_AR_087005
-BM: TODO_BM_087005
-EN: TODO_EN_087005
-AUDIO: ./assets/audio/087/087005.mp3
+AR: فَجَعَلَهُ غُثَاءً أَحْوَىٰ
+BM: Dan menukarnya menjadi rumpunan kering yang ringan.
+EN: Then turns it into light hay.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087005.mp3
 
 # Ayah 6
-AR: TODO_AR_087006
-BM: TODO_BM_087006
-EN: TODO_EN_087006
-AUDIO: ./assets/audio/087/087006.mp3
+AR: سَنُقْرِئُكَ فَلَا تَنْسَىٰ
+BM: Kami akan membacakan kepada kamu; janganlah lupa.
+EN: We will recite to you; do not forget.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087006.mp3
 
 # Ayah 7
-AR: TODO_AR_087007
-BM: TODO_BM_087007
-EN: TODO_EN_087007
-AUDIO: ./assets/audio/087/087007.mp3
+AR: إِلَّا مَا شَاءَ اللَّهُ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ
+BM: Segala galanya mengikuti kehendak dari Allah; Dia tahu apa yang diumumkan, dan apa yang disembunyikan.
+EN: Everything is in accordance with GOD's will; He knows what is declared, and what is hidden.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087007.mp3
 
 # Ayah 8
-AR: TODO_AR_087008
-BM: TODO_BM_087008
-EN: TODO_EN_087008
-AUDIO: ./assets/audio/087/087008.mp3
+AR: وَنُيَسِّرُكَ لِلْيُسْرَىٰ
+BM: Kami akan mengarahkanmu kejalan yang paling mudah.
+EN: We will direct you to the easiest path.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087008.mp3
 
 # Ayah 9
-AR: TODO_AR_087009
-BM: TODO_BM_087009
-EN: TODO_EN_087009
-AUDIO: ./assets/audio/087/087009.mp3
+AR: فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ
+BM: Dari itu, kau mestilah memberikan peringatan; semoga peringatan akan memanfaatkan.
+EN: Therefore, you shall remind; perhaps the reminder will benefit.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087009.mp3
 
 # Ayah 10
-AR: TODO_AR_087010
-BM: TODO_BM_087010
-EN: TODO_EN_087010
-AUDIO: ./assets/audio/087/087010.mp3
+AR: سَيَذَّكَّرُ مَنْ يَخْشَىٰ
+BM: Yang menghormatinya akan merenungkannya.
+EN: The reverent will take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087010.mp3
 
 # Ayah 11
-AR: TODO_AR_087011
-BM: TODO_BM_087011
-EN: TODO_EN_087011
-AUDIO: ./assets/audio/087/087011.mp3
+AR: وَيَتَجَنَّبُهَا الْأَشْقَى
+BM: Yang zalim akan menghindarinya.
+EN: The wicked will avoid it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087011.mp3
 
 # Ayah 12
-AR: TODO_AR_087012
-BM: TODO_BM_087012
-EN: TODO_EN_087012
-AUDIO: ./assets/audio/087/087012.mp3
+AR: الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ
+BM: Akibatnya, dia akan menderitai api Neraka yang besar.
+EN: Consequently, he will suffer the great Hellfire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087012.mp3
 
 # Ayah 13
-AR: TODO_AR_087013
-BM: TODO_BM_087013
-EN: TODO_EN_087013
-AUDIO: ./assets/audio/087/087013.mp3
+AR: ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+BM: Dimana dia tidak akan mati, dan tidak juga hidup.
+EN: Wherein he never dies, nor stays alive.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087013.mp3
 
 # Ayah 14
-AR: TODO_AR_087014
-BM: TODO_BM_087014
-EN: TODO_EN_087014
-AUDIO: ./assets/audio/087/087014.mp3
+AR: قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ
+BM: Berjaya sungguh adalah seseorang yang memberkati rohnya.
+EN: Successful indeed is the one who redeems his soul.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087014.mp3
 
 # Ayah 15
-AR: TODO_AR_087015
-BM: TODO_BM_087015
-EN: TODO_EN_087015
-AUDIO: ./assets/audio/087/087015.mp3
+AR: وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ
+BM: Dengan mengingati nama Tuhannya dan mengerjakan sembahyang (Salat).
+EN: By remembering the name of his Lord, and observing the contact prayers (Salat).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087015.mp3
 
 # Ayah 16
-AR: TODO_AR_087016
-BM: TODO_BM_087016
-EN: TODO_EN_087016
-AUDIO: ./assets/audio/087/087016.mp3
+AR: بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا
+BM: Sesungguhnya, kamu terlalu sibuk dengan kehidupan pertama ini.
+EN: Indeed, you are preoccupied with this first life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087016.mp3
 
 # Ayah 17
-AR: TODO_AR_087017
-BM: TODO_BM_087017
-EN: TODO_EN_087017
-AUDIO: ./assets/audio/087/087017.mp3
+AR: وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ
+BM: Walaupun Akhirat adalah lebih lagi baiknya dan berkekalan.
+EN: Even though the Hereafter is far better and everlasting.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087017.mp3
 
 # Ayah 18
-AR: TODO_AR_087018
-BM: TODO_BM_087018
-EN: TODO_EN_087018
-AUDIO: ./assets/audio/087/087018.mp3
+AR: إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ
+BM: Ini telah direkodkan didalam ajaran ajaran yang terdahulu.
+EN: This is recorded in the earlier teachings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087018.mp3
 
 # Ayah 19
-AR: TODO_AR_087019
-BM: TODO_BM_087019
-EN: TODO_EN_087019
-AUDIO: ./assets/audio/087/087019.mp3
+AR: صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ
+BM: Ajaran ajaran dari Ibrahim dan Musa.
+EN: The teachings of Abraham and Moses.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/087019.mp3
+
+
+
+
+

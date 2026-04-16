@@ -1,46 +1,51 @@
-SURAH_NUMBER: 109
-NAME_AR: الكافرون
-NAME_BM: Orang Kafir
+﻿SURAH_NUMBER: 109
+NAME_AR: سورة الـكافرون
+NAME_BM: Pengingkar Pengingkar
 NAME_EN: The Disbelievers
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/109/109000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109000.mp3
 
 # Ayah 1
-AR: TODO_AR_109001
-BM: TODO_BM_109001
-EN: TODO_EN_109001
-AUDIO: ./assets/audio/109/109001.mp3
+AR: قُل ياأَيُّهَا الكافِرونَ
+BM: Katakanlah, "Wahai orang orang yang ingkar.
+EN: Say, "O you disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109001.mp3
 
 # Ayah 2
-AR: TODO_AR_109002
-BM: TODO_BM_109002
-EN: TODO_EN_109002
-AUDIO: ./assets/audio/109/109002.mp3
+AR: لَا أَعْبُدُ مَا تَعْبُدُونَ
+BM: "Aku tidak sembah apa yang kamu sembah.
+EN: "I do not worship what you worship.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109002.mp3
 
 # Ayah 3
-AR: TODO_AR_109003
-BM: TODO_BM_109003
-EN: TODO_EN_109003
-AUDIO: ./assets/audio/109/109003.mp3
+AR: وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ
+BM: "Tidak juga kamu sembah apa yang aku sembah.
+EN: "Nor do you worship what I worship.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109003.mp3
 
 # Ayah 4
-AR: TODO_AR_109004
-BM: TODO_BM_109004
-EN: TODO_EN_109004
-AUDIO: ./assets/audio/109/109004.mp3
+AR: وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ
+BM: "Tidak juga akan aku ingin menyembah apa yang kamu sembah.
+EN: "Nor will I ever worship what you worship.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109004.mp3
 
 # Ayah 5
-AR: TODO_AR_109005
-BM: TODO_BM_109005
-EN: TODO_EN_109005
-AUDIO: ./assets/audio/109/109005.mp3
+AR: وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ
+BM: "Dan tidak juga akan kamu sembah apa yang aku sembah.
+EN: "Nor will you ever worship what I worship.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109005.mp3
 
 # Ayah 6
-AR: TODO_AR_109006
-BM: TODO_BM_109006
-EN: TODO_EN_109006
-AUDIO: ./assets/audio/109/109006.mp3
+AR: لَكُمْ دِينُكُمْ وَلِيَ دِينِ
+BM: "Kepada kamu adalah agama kamu, dan kepadaku adalah agamaku."
+EN: "To you is your religion, and to me is my religion."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/109006.mp3
+
+
+
+
+

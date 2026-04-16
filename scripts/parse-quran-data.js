@@ -26,7 +26,8 @@ function main() {
       throw new Error(`Unknown surah number in ${fileName}: ${parsed.surahNumber}`);
     }
 
-    const officialAyahCount = validateAyahs(parsed.surahNumber, parsed.ayahs, meta.totalAyahs);
+    const expectedOfficialAyahs = getExpectedOfficialAyahs(meta.number, meta.totalAyahs);
+    const officialAyahCount = validateAyahs(parsed.surahNumber, parsed.ayahs, expectedOfficialAyahs);
 
     availableSurahs.add(parsed.surahNumber);
 
@@ -56,7 +57,7 @@ function main() {
       bm: item.bm,
       en: item.en,
     },
-    totalAyahs: item.totalAyahs,
+    totalAyahs: getExpectedOfficialAyahs(item.number, item.totalAyahs),
     available: availableSurahs.has(item.number),
   }));
 
@@ -94,7 +95,7 @@ function parseSurahFile(content) {
 
   const ayahLines = lines.slice(dividerIndex + 1);
   const ayahs = hasBlockAyahs(ayahLines)
-    ? parseBlockAyahs(ayahLines)
+    ? parseBlockAyahs(headers.SURAH_NUMBER, ayahLines)
     : parseLegacyAyahs(ayahLines.filter(Boolean));
 
   return {
@@ -127,7 +128,8 @@ function parseLegacyAyahs(lines) {
   });
 }
 
-function parseBlockAyahs(lines) {
+function parseBlockAyahs(surahNumberValue, lines) {
+  const surahNumber = Number(surahNumberValue);
   const ayahs = [];
   let currentAyah = null;
   let currentFieldKey = null;
@@ -144,7 +146,10 @@ function parseBlockAyahs(lines) {
 
     if (trimmedLine.startsWith("#")) {
       if (currentAyah) {
-        ayahs.push(finalizeAyahBlock(currentAyah));
+        const ayah = finalizeAyahBlock(surahNumber, currentAyah);
+        if (ayah) {
+          ayahs.push(ayah);
+        }
       }
 
       currentAyah = {
@@ -178,7 +183,10 @@ function parseBlockAyahs(lines) {
   }
 
   if (currentAyah) {
-    ayahs.push(finalizeAyahBlock(currentAyah));
+    const ayah = finalizeAyahBlock(surahNumber, currentAyah);
+    if (ayah) {
+      ayahs.push(ayah);
+    }
   }
 
   return ayahs;
@@ -188,8 +196,13 @@ function appendFieldLine(block, key, line) {
   block[key] = `${block[key]}\n${line}`;
 }
 
-function finalizeAyahBlock(block) {
+function finalizeAyahBlock(surahNumber, block) {
   const number = parseAyahNumber(block.rawLabel);
+
+  if (shouldOmitAyah(surahNumber, number, block)) {
+    return null;
+  }
+
   const ayah = {
     number,
     arabic: requireField(block, "AR", number),
@@ -209,6 +222,14 @@ function finalizeAyahBlock(block) {
   }
 
   return ayah;
+}
+
+function shouldOmitAyah(surahNumber, ayahNumber, block) {
+  if (surahNumber !== 9 || (ayahNumber !== 128 && ayahNumber !== 129)) {
+    return false;
+  }
+
+  return [block.AR, block.BM, block.EN].every((value) => !String(value ?? "").trim());
 }
 
 function parseAyahNumber(label) {
@@ -283,6 +304,14 @@ function validateAyahs(surahNumber, ayahs, expectedOfficialAyahs) {
   }
 
   return officialAyahNumbers.length;
+}
+
+function getExpectedOfficialAyahs(surahNumber, fallbackTotalAyahs) {
+  if (surahNumber === 9) {
+    return 127;
+  }
+
+  return fallbackTotalAyahs;
 }
 
 function ensureDirectory(directoryPath) {

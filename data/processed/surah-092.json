@@ -1,7 +1,7 @@
 {
   "surahNumber": 92,
   "name": {
-    "ar": "الليل",
+    "ar": "سورة الـيـل",
     "bm": "Malam",
     "en": "The Night"
   },
@@ -10,156 +10,156 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/092/092000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_092001",
-      "bm": "TODO_BM_092001",
-      "en": "TODO_EN_092001",
-      "audio": "./assets/audio/092/092001.mp3"
+      "arabic": "وَالَّيلِ إِذا يَغشىٰ",
+      "bm": "Demi malam apabila ianya menutup.",
+      "en": "By the night as it covers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_092002",
-      "bm": "TODO_BM_092002",
-      "en": "TODO_EN_092002",
-      "audio": "./assets/audio/092/092002.mp3"
+      "arabic": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+      "bm": "Demi siang apabila ianya mendedahkan.",
+      "en": "The day as it reveals.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_092003",
-      "bm": "TODO_BM_092003",
-      "en": "TODO_EN_092003",
-      "audio": "./assets/audio/092/092003.mp3"
+      "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ",
+      "bm": "Dan Dia yang menciptakan lelaki dan perempuan.",
+      "en": "And Him who created the male and the female.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_092004",
-      "bm": "TODO_BM_092004",
-      "en": "TODO_EN_092004",
-      "audio": "./assets/audio/092/092004.mp3"
+      "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "bm": "Pekerjaan pekerjaan kamu yang bermacam macam cara.",
+      "en": "Your works are of various kinds.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_092005",
-      "bm": "TODO_BM_092005",
-      "en": "TODO_EN_092005",
-      "audio": "./assets/audio/092/092005.mp3"
+      "arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+      "bm": "Baginya yang memberi derma dan sentiasa menjaga ketakwahan.",
+      "en": "As for him who gives to charity and maintains righteousness.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_092006",
-      "bm": "TODO_BM_092006",
-      "en": "TODO_EN_092006",
-      "audio": "./assets/audio/092/092006.mp3"
+      "arabic": "وَصَدَّقَ بِالْحُسْنَىٰ",
+      "bm": "Dan mendukung kitab.",
+      "en": "And upholds the scripture.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_092007",
-      "bm": "TODO_BM_092007",
-      "en": "TODO_EN_092007",
-      "audio": "./assets/audio/092/092007.mp3"
+      "arabic": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+      "bm": "Kami akan mengarahkannya kepada kebahagian.",
+      "en": "We will direct him towards happiness.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_092008",
-      "bm": "TODO_BM_092008",
-      "en": "TODO_EN_092008",
-      "audio": "./assets/audio/092/092008.mp3"
+      "arabic": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ",
+      "bm": "Tetapi dia yang kikir, sedangkan dianya kaya.",
+      "en": "But he who is stingy, though he is rich.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_092009",
-      "bm": "TODO_BM_092009",
-      "en": "TODO_EN_092009",
-      "audio": "./assets/audio/092/092009.mp3"
+      "arabic": "وَكَذَّبَ بِالْحُسْنَىٰ",
+      "bm": "Dan tidak mempercayakan kitab.",
+      "en": "And disbelieves in the scripture.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_092010",
-      "bm": "TODO_BM_092010",
-      "en": "TODO_EN_092010",
-      "audio": "./assets/audio/092/092010.mp3"
+      "arabic": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+      "bm": "Kami akan mengarahkannya kepada kesengsaraan.",
+      "en": "We will direct him towards misery.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_092011",
-      "bm": "TODO_BM_092011",
-      "en": "TODO_EN_092011",
-      "audio": "./assets/audio/092/092011.mp3"
+      "arabic": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+      "bm": "Wanganya tidak akan dapat menolongnya apabila dia jatuh.",
+      "en": "His money cannot help him when he falls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_092012",
-      "bm": "TODO_BM_092012",
-      "en": "TODO_EN_092012",
-      "audio": "./assets/audio/092/092012.mp3"
+      "arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "bm": "Kami yang memberikan petunjuk.",
+      "en": "We provide the guidance.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_092013",
-      "bm": "TODO_BM_092013",
-      "en": "TODO_EN_092013",
-      "audio": "./assets/audio/092/092013.mp3"
+      "arabic": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+      "bm": "Kami yang menguasai Akhirat, dan juga kehidupan ini.",
+      "en": "We control the Hereafter, as well as this life.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_092014",
-      "bm": "TODO_BM_092014",
-      "en": "TODO_EN_092014",
-      "audio": "./assets/audio/092/092014.mp3"
+      "arabic": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "bm": "Aku telah memberikan kamu amaran tentang api Neraka yang bernyala nyala.",
+      "en": "I have warned you about the blazing Hellfire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_092015",
-      "bm": "TODO_BM_092015",
-      "en": "TODO_EN_092015",
-      "audio": "./assets/audio/092/092015.mp3"
+      "arabic": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+      "bm": "Tidak ada siapa yang terbakar didalamnya melainkan orang orang yang zalim.",
+      "en": "None burns therein except the wicked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_092016",
-      "bm": "TODO_BM_092016",
-      "en": "TODO_EN_092016",
-      "audio": "./assets/audio/092/092016.mp3"
+      "arabic": "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+      "bm": "Yang mengingkarkan dan berpaling.",
+      "en": "Who disbelieves and turns away.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_092017",
-      "bm": "TODO_BM_092017",
-      "en": "TODO_EN_092017",
-      "audio": "./assets/audio/092/092017.mp3"
+      "arabic": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+      "bm": "Yang menghindarinya adalah orang orang yang benar.",
+      "en": "Avoiding it will be the righteous.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_092018",
-      "bm": "TODO_BM_092018",
-      "en": "TODO_EN_092018",
-      "audio": "./assets/audio/092/092018.mp3"
+      "arabic": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+      "bm": "Yang memberikan derma dari wangnya.",
+      "en": "Who gives from his money to charity.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_092019",
-      "bm": "TODO_BM_092019",
-      "en": "TODO_EN_092019",
-      "audio": "./assets/audio/092/092019.mp3"
+      "arabic": "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ",
+      "bm": "Tidak mengharapkan apa apa balasan.",
+      "en": "Seeking nothing in return.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_092020",
-      "bm": "TODO_BM_092020",
-      "en": "TODO_EN_092020",
-      "audio": "./assets/audio/092/092020.mp3"
+      "arabic": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+      "bm": "Hanya mencari keredhaan Tuhannya, yang Maha Tinggi.",
+      "en": "Seeking only his Lord, the Most High.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_092021",
-      "bm": "TODO_BM_092021",
-      "en": "TODO_EN_092021",
-      "audio": "./assets/audio/092/092021.mp3"
+      "arabic": "وَلَسَوْفَ يَرْضَىٰ",
+      "bm": "Dia tentu sekali akan mendapat keselamatan.",
+      "en": "He will certainly attain salvation.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/092021.mp3"
     }
   ]
 }

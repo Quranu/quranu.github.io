@@ -1,221 +1,225 @@
 {
   "surahNumber": 81,
   "name": {
-    "ar": "التكوير",
-    "bm": "Penggulungan",
-    "en": "The Overthrowing"
+    "ar": "سورة التكوير",
+    "bm": "Menggulung",
+    "en": "The Rolling"
   },
   "totalAyahs": 29,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/081/081000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_081001",
-      "bm": "TODO_BM_081001",
-      "en": "TODO_EN_081001",
-      "audio": "./assets/audio/081/081001.mp3"
+      "arabic": "إِذَا الشَّمسُ كُوِّرَت",
+      "bm": "Apabila matahari menggulung.",
+      "en": "When the sun is rolled.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_081002",
-      "bm": "TODO_BM_081002",
-      "en": "TODO_EN_081002",
-      "audio": "./assets/audio/081/081002.mp3"
+      "arabic": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+      "bm": "Bintang bintang pun bertembung dengan satu sama lain.",
+      "en": "The stars are crashed into each other.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_081003",
-      "bm": "TODO_BM_081003",
-      "en": "TODO_EN_081003",
-      "audio": "./assets/audio/081/081003.mp3"
+      "arabic": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+      "bm": "Gunung gunung akan dilenyapkan",
+      "en": "The mountains are wiped out.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_081004",
-      "bm": "TODO_BM_081004",
-      "en": "TODO_EN_081004",
-      "audio": "./assets/audio/081/081004.mp3"
+      "arabic": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+      "bm": "Pembiakan dihentikan.",
+      "en": "The reproduction is halted.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_081005",
-      "bm": "TODO_BM_081005",
-      "en": "TODO_EN_081005",
-      "audio": "./assets/audio/081/081005.mp3"
+      "arabic": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+      "bm": "Binatang liar dikumpulkan.",
+      "en": "The beasts are summoned.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_081006",
-      "bm": "TODO_BM_081006",
-      "en": "TODO_EN_081006",
-      "audio": "./assets/audio/081/081006.mp3"
+      "arabic": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+      "bm": "Lautan lautan menjadi terbakar.",
+      "en": "The oceans are set aflame.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_081007",
-      "bm": "TODO_BM_081007",
-      "en": "TODO_EN_081007",
-      "audio": "./assets/audio/081/081007.mp3"
+      "arabic": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+      "bm": "Roh roh dikembalikan kepada tubuh tubuh mereka.",
+      "en": "The souls are restored to their bodies.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_081008",
-      "bm": "TODO_BM_081008",
-      "en": "TODO_EN_081008",
-      "audio": "./assets/audio/081/081008.mp3"
+      "arabic": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+      "bm": "Bayi bayi perempuan yang telah ditanam hidup hidup akan ditanya:",
+      "en": "The girl who was buried alive is asked:",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_081009",
-      "bm": "TODO_BM_081009",
-      "en": "TODO_EN_081009",
-      "audio": "./assets/audio/081/081009.mp3"
+      "arabic": "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+      "bm": "Kerana jenayah apakah yang dia dibunuh?",
+      "en": "For what crime was she killed?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_081010",
-      "bm": "TODO_BM_081010",
-      "en": "TODO_EN_081010",
-      "audio": "./assets/audio/081/081010.mp3"
+      "arabic": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+      "bm": "Rekod rekod telah diperkenalkan.",
+      "en": "The records are made known.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_081011",
-      "bm": "TODO_BM_081011",
-      "en": "TODO_EN_081011",
-      "audio": "./assets/audio/081/081011.mp3"
+      "arabic": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+      "bm": "Cekrawala akan dilenyapkan.",
+      "en": "The heaven is removed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_081012",
-      "bm": "TODO_BM_081012",
-      "en": "TODO_EN_081012",
-      "audio": "./assets/audio/081/081012.mp3"
+      "arabic": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+      "bm": "Neraka telah dinyalakan.",
+      "en": "Hell is ignited.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_081013",
-      "bm": "TODO_BM_081013",
-      "en": "TODO_EN_081013",
-      "audio": "./assets/audio/081/081013.mp3"
+      "arabic": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+      "bm": "Syurga dihadirkan.",
+      "en": "Paradise is presented.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_081014",
-      "bm": "TODO_BM_081014",
-      "en": "TODO_EN_081014",
-      "audio": "./assets/audio/081/081014.mp3"
+      "arabic": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+      "bm": "Tiap tiap roh akan ketahui segala apa yang dibawanya.",
+      "en": "Every soul will know everything it brought.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_081015",
-      "bm": "TODO_BM_081015",
-      "en": "TODO_EN_081015",
-      "audio": "./assets/audio/081/081015.mp3"
+      "arabic": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+      "bm": "Aku bersumpah dengan seriusnya kepada bimasakti bimasakti.",
+      "en": "I solemnly swear by the galaxies.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081015.mp3",
+      "subtitle": {
+        "bm": "Rasul Allah Yang Di-Janjikan",
+        "en": "God's Messenger of the Covenant"
+      }
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_081016",
-      "bm": "TODO_BM_081016",
-      "en": "TODO_EN_081016",
-      "audio": "./assets/audio/081/081016.mp3"
+      "arabic": "الْجَوَارِ الْكُنَّسِ",
+      "bm": "Yang berjalan dalam orbit orbit mereka dengan tepat.",
+      "en": "Precisely running in their orbits.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_081017",
-      "bm": "TODO_BM_081017",
-      "en": "TODO_EN_081017",
-      "audio": "./assets/audio/081/081017.mp3"
+      "arabic": "وَالَّيْلِ إِذَا عَسْعَسَ",
+      "bm": "Malam apabila ianya jatuh.",
+      "en": "By the night as it falls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_081018",
-      "bm": "TODO_BM_081018",
-      "en": "TODO_EN_081018",
-      "audio": "./assets/audio/081/081018.mp3"
+      "arabic": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+      "bm": "Dan pagi apabila ianya bernafas.",
+      "en": "And the morn as it breathes.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_081019",
-      "bm": "TODO_BM_081019",
-      "en": "TODO_EN_081019",
-      "audio": "./assets/audio/081/081019.mp3"
+      "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "bm": "Ini adalah perkataan dari rasul yang mulia.",
+      "en": "This is the utterance of an honorable messenger. *",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_081020",
-      "bm": "TODO_BM_081020",
-      "en": "TODO_EN_081020",
-      "audio": "./assets/audio/081/081020.mp3"
+      "arabic": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+      "bm": "Mendapat kebenaran dari Yang Maha Pemilik bagi Tahta, dengan sokongan yang sepenuhnya.",
+      "en": "Authorized by the Possessor of the Throne, fully supported.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_081021",
-      "bm": "TODO_BM_081021",
-      "en": "TODO_EN_081021",
-      "audio": "./assets/audio/081/081021.mp3"
+      "arabic": "مُطَاعٍ ثَمَّ أَمِينٍ",
+      "bm": "Dia mestilah dita'ati dan diyakini.",
+      "en": "He shall be obeyed and trusted.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_081022",
-      "bm": "TODO_BM_081022",
-      "en": "TODO_EN_081022",
-      "audio": "./assets/audio/081/081022.mp3"
+      "arabic": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+      "bm": "Kawan kamu (Rashad) tidaklah gila.",
+      "en": "Your friend (Rashad) is not crazy.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_081023",
-      "bm": "TODO_BM_081023",
-      "en": "TODO_EN_081023",
-      "audio": "./assets/audio/081/081023.mp3"
+      "arabic": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+      "bm": "Dia melihatnya diufuk yang tinggi.",
+      "en": "He saw him at the high horizon. *",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_081024",
-      "bm": "TODO_BM_081024",
-      "en": "TODO_EN_081024",
-      "audio": "./assets/audio/081/081024.mp3"
+      "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+      "bm": "Dia tidak menyembunyikan sebarang berita berita.",
+      "en": "He is not holding back any news.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_081025",
-      "bm": "TODO_BM_081025",
-      "en": "TODO_EN_081025",
-      "audio": "./assets/audio/081/081025.mp3"
+      "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+      "bm": "Ianya bukanlah percakapan dari syaitan yang disingkirkan.",
+      "en": "It is not the talk of a rejected devil.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_081026",
-      "bm": "TODO_BM_081026",
-      "en": "TODO_EN_081026",
-      "audio": "./assets/audio/081/081026.mp3"
+      "arabic": "فَأَيْنَ تَذْهَبُونَ",
+      "bm": "Sekarang ini, kemana kamu akan pergi?",
+      "en": "Now then, where will you go?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_081027",
-      "bm": "TODO_BM_081027",
-      "en": "TODO_EN_081027",
-      "audio": "./assets/audio/081/081027.mp3"
+      "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+      "bm": "Ini adalah mesej untuk kesemuanya manusia.",
+      "en": "This is a message to all the people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_081028",
-      "bm": "TODO_BM_081028",
-      "en": "TODO_EN_081028",
-      "audio": "./assets/audio/081/081028.mp3"
+      "arabic": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+      "bm": "Bagi orang orang yang inginkan untuk mencari kelurusan.",
+      "en": "For those who wish to go straight.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081028.mp3"
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_081029",
-      "bm": "TODO_BM_081029",
-      "en": "TODO_EN_081029",
-      "audio": "./assets/audio/081/081029.mp3"
+      "arabic": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+      "bm": "Apa saja yang kamu kehendaki adalah menurut kehendak dari Allah, Tuhan bagi semesta alam.",
+      "en": "Whatever you will is in accordance with the will of GOD, Lord of the universe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081029.mp3"
     }
   ]
 }

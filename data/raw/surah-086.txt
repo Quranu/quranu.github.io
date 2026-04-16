@@ -1,112 +1,117 @@
-SURAH_NUMBER: 86
-NAME_AR: الطارق
-NAME_BM: Yang Datang Malam
-NAME_EN: The Nightcomer
+﻿SURAH_NUMBER: 86
+NAME_AR: سورة الـطارق
+NAME_BM: Bintang Yang Terang
+NAME_EN: The Bright Star
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/086/086000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086000.mp3
 
 # Ayah 1
-AR: TODO_AR_086001
-BM: TODO_BM_086001
-EN: TODO_EN_086001
-AUDIO: ./assets/audio/086/086001.mp3
+AR: وَالسَّماءِ وَالطّارِقِ
+BM: Demi langit dan Al-Taareq.
+EN: By the sky and Al-Taareq.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086001.mp3
 
 # Ayah 2
-AR: TODO_AR_086002
-BM: TODO_BM_086002
-EN: TODO_EN_086002
-AUDIO: ./assets/audio/086/086002.mp3
+AR: وَمَا أَدْرَٮکَ مَا الطَّارِقُ
+BM: Tahukah kamu apa itu Al-Taareq?
+EN: Do you know what Al-Taareq is?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086002.mp3
 
 # Ayah 3
-AR: TODO_AR_086003
-BM: TODO_BM_086003
-EN: TODO_EN_086003
-AUDIO: ./assets/audio/086/086003.mp3
+AR: النَّجْمُ الثَّاقِبُ
+BM: Bintang yang terang.
+EN: The bright star.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086003.mp3
 
 # Ayah 4
-AR: TODO_AR_086004
-BM: TODO_BM_086004
-EN: TODO_EN_086004
-AUDIO: ./assets/audio/086/086004.mp3
+AR: إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ
+BM: Sudah pasti, tiap tiap orang telah dijaga rapi.
+EN: Absolutely, everyone is well guarded.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086004.mp3
 
 # Ayah 5
-AR: TODO_AR_086005
-BM: TODO_BM_086005
-EN: TODO_EN_086005
-AUDIO: ./assets/audio/086/086005.mp3
+AR: فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ
+BM: hendaklah manusia memperhatikan tentang penciptaannya.
+EN: Let the human reflect on his creation.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086005.mp3
 
 # Ayah 6
-AR: TODO_AR_086006
-BM: TODO_BM_086006
-EN: TODO_EN_086006
-AUDIO: ./assets/audio/086/086006.mp3
+AR: خُلِقَ مِنْ مَاءٍ دَافِقٍ
+BM: Dia telah diciptakan dari cecair yang terpancut.
+EN: He was created from ejected liquid.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086006.mp3
 
 # Ayah 7
-AR: TODO_AR_086007
-BM: TODO_BM_086007
-EN: TODO_EN_086007
-AUDIO: ./assets/audio/086/086007.mp3
+AR: يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ
+BM: Diantara tulang belakang dan visera.
+EN: From between the spine and the viscera.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086007.mp3
 
 # Ayah 8
-AR: TODO_AR_086008
-BM: TODO_BM_086008
-EN: TODO_EN_086008
-AUDIO: ./assets/audio/086/086008.mp3
+AR: إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ
+BM: Tentu sekali Dia berupaya untuk membangkitkannya.
+EN: He is certainly able to resurrect him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086008.mp3
 
 # Ayah 9
-AR: TODO_AR_086009
-BM: TODO_BM_086009
-EN: TODO_EN_086009
-AUDIO: ./assets/audio/086/086009.mp3
+AR: يَوْمَ تُبْلَى السَّرَائِرُ
+BM: Dihari yang semua rahsia rahsia dapat diketahui.
+EN: The day all secrets become known.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086009.mp3
 
 # Ayah 10
-AR: TODO_AR_086010
-BM: TODO_BM_086010
-EN: TODO_EN_086010
-AUDIO: ./assets/audio/086/086010.mp3
+AR: فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ
+BM: Dia tidak akan mempunyai kuasa, ataupun seorang penolong.
+EN: He will have no power, nor a helper.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086010.mp3
 
 # Ayah 11
-AR: TODO_AR_086011
-BM: TODO_BM_086011
-EN: TODO_EN_086011
-AUDIO: ./assets/audio/086/086011.mp3
+AR: وَالسَّمَاءِ ذَاتِ الرَّجْعِ
+BM: Dari langit yang memulangkan (air).
+EN: By the sky that returns (the water).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086011.mp3
 
 # Ayah 12
-AR: TODO_AR_086012
-BM: TODO_BM_086012
-EN: TODO_EN_086012
-AUDIO: ./assets/audio/086/086012.mp3
+AR: وَالْأَرْضِ ذَاتِ الصَّدْعِ
+BM: Demi bumi yang terbelah (untuk menumbuhkan tumbuh tumbuhan).
+EN: By the earth that cracks (to grow plants).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086012.mp3
 
 # Ayah 13
-AR: TODO_AR_086013
-BM: TODO_BM_086013
-EN: TODO_EN_086013
-AUDIO: ./assets/audio/086/086013.mp3
+AR: إِنَّهُ لَقَوْلٌ فَصْلٌ
+BM: Ini adalah pengisahan yang serius.
+EN: This is a serious narration.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086013.mp3
 
 # Ayah 14
-AR: TODO_AR_086014
-BM: TODO_BM_086014
-EN: TODO_EN_086014
-AUDIO: ./assets/audio/086/086014.mp3
+AR: وَمَا هُوَ بِالْهَزْلِ
+BM: Janganlah diambil ringan.
+EN: Not to be taken lightly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086014.mp3
 
 # Ayah 15
-AR: TODO_AR_086015
-BM: TODO_BM_086015
-EN: TODO_EN_086015
-AUDIO: ./assets/audio/086/086015.mp3
+AR: إِنَّهُمْ يَكِيدُونَ كَيْدًا
+BM: Mereka berkomplot dan merancang.
+EN: They plot and scheme.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086015.mp3
 
 # Ayah 16
-AR: TODO_AR_086016
-BM: TODO_BM_086016
-EN: TODO_EN_086016
-AUDIO: ./assets/audio/086/086016.mp3
+AR: وَأَكِيدُ كَيْدًا
+BM: Begitu juga dengan Aku.
+EN: But so do I.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086016.mp3
 
 # Ayah 17
-AR: TODO_AR_086017
-BM: TODO_BM_086017
-EN: TODO_EN_086017
-AUDIO: ./assets/audio/086/086017.mp3
+AR: فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا
+BM: Biarkanlah pengingkar pengingkar berihat buat seketika.
+EN: Just respite the disbelievers a short respite.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/086017.mp3
+
+
+
+
+

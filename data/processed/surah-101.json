@@ -1,95 +1,95 @@
 {
   "surahNumber": 101,
   "name": {
-    "ar": "القارعة",
-    "bm": "Hari Kiamat",
-    "en": "The Calamity"
+    "ar": "سورة الـقارعـة",
+    "bm": "Memeranjatkan",
+    "en": "The Shocker"
   },
   "totalAyahs": 11,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/101/101000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_101001",
-      "bm": "TODO_BM_101001",
-      "en": "TODO_EN_101001",
-      "audio": "./assets/audio/101/101001.mp3"
+      "arabic": "القارِعَةُ",
+      "bm": "Yang memeranjatkan.",
+      "en": "The Shocker.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_101002",
-      "bm": "TODO_BM_101002",
-      "en": "TODO_EN_101002",
-      "audio": "./assets/audio/101/101002.mp3"
+      "arabic": "مَا الْقَارِعَةُ",
+      "bm": "Apakah yang memeranjatkan!",
+      "en": "What a shocker!",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_101003",
-      "bm": "TODO_BM_101003",
-      "en": "TODO_EN_101003",
-      "audio": "./assets/audio/101/101003.mp3"
+      "arabic": "وَمَا أَدْرَٮکَ مَا الْقَارِعَةُ",
+      "bm": "Adakah kamu mempunyai idea apakah yang memeranjatkan itu?",
+      "en": "Do you have any idea what the Shocker is?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_101004",
-      "bm": "TODO_BM_101004",
-      "en": "TODO_EN_101004",
-      "audio": "./assets/audio/101/101004.mp3"
+      "arabic": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "bm": "Itulah harinya apabila manusia keluar seperti kumpulan kumpulan kupu kupu.",
+      "en": "That is the day when the people come out like swarms of butterflies.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_101005",
-      "bm": "TODO_BM_101005",
-      "en": "TODO_EN_101005",
-      "audio": "./assets/audio/101/101005.mp3"
+      "arabic": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+      "bm": "Gunung gunung akan menjadi seperti benang bulu bulu yang ringan.",
+      "en": "The mountains will be like fluffy wool.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_101006",
-      "bm": "TODO_BM_101006",
-      "en": "TODO_EN_101006",
-      "audio": "./assets/audio/101/101006.mp3"
+      "arabic": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+      "bm": "Baginya yang pertimbangannya berat",
+      "en": "As for him whose weights are heavy.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_101007",
-      "bm": "TODO_BM_101007",
-      "en": "TODO_EN_101007",
-      "audio": "./assets/audio/101/101007.mp3"
+      "arabic": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+      "bm": "Dia akan menjalani penghidupan yang (kekal) bahagia",
+      "en": "He will lead a happy (eternal) life.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_101008",
-      "bm": "TODO_BM_101008",
-      "en": "TODO_EN_101008",
-      "audio": "./assets/audio/101/101008.mp3"
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "bm": "Baginya yang pertimbangannya ringan.",
+      "en": "As for him whose weights are light.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_101009",
-      "bm": "TODO_BM_101009",
-      "en": "TODO_EN_101009",
-      "audio": "./assets/audio/101/101009.mp3"
+      "arabic": "فَأُمُّهُ هَاوِيَةٌ",
+      "bm": "Destininya adalah yang paling bawah.",
+      "en": "His destiny is lowly.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_101010",
-      "bm": "TODO_BM_101010",
-      "en": "TODO_EN_101010",
-      "audio": "./assets/audio/101/101010.mp3"
+      "arabic": "وَمَا أَدْرَٮکَ مَا هِيَهْ",
+      "bm": "Tahukah kamu apakah ianya itu?",
+      "en": "Do you know what it is?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_101011",
-      "bm": "TODO_BM_101011",
-      "en": "TODO_EN_101011",
-      "audio": "./assets/audio/101/101011.mp3"
+      "arabic": "نَارٌ حَامِيَةٌ",
+      "bm": "Api Neraka yang menyala nyala.",
+      "en": "The blazing Hellfire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/101011.mp3"
     }
   ]
 }

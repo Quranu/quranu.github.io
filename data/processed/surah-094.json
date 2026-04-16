@@ -1,74 +1,74 @@
 {
   "surahNumber": 94,
   "name": {
-    "ar": "الشرح",
-    "bm": "Kelapangan",
-    "en": "The Relief"
+    "ar": "سورة الـشرح",
+    "bm": "Mengawal Perasaan Marah",
+    "en": "Cooling the Temper"
   },
   "totalAyahs": 8,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/094/094000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_094001",
-      "bm": "TODO_BM_094001",
-      "en": "TODO_EN_094001",
-      "audio": "./assets/audio/094/094001.mp3"
+      "arabic": "أَلَم نَشرَح لَكَ صَدرَكَ",
+      "bm": "Tidakkah kami yang mengawalkan kemarahanmu?",
+      "en": "Did we not cool your temper?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_094002",
-      "bm": "TODO_BM_094002",
-      "en": "TODO_EN_094002",
-      "audio": "./assets/audio/094/094002.mp3"
+      "arabic": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+      "bm": "Dan kami meringankan bebananmu ( dosa dosa).",
+      "en": "And we unloaded your load (of sins).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_094003",
-      "bm": "TODO_BM_094003",
-      "en": "TODO_EN_094003",
-      "audio": "./assets/audio/094/094003.mp3"
+      "arabic": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+      "bm": "Yang telah membebani belakangmu.",
+      "en": "One that burdened your back.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_094004",
-      "bm": "TODO_BM_094004",
-      "en": "TODO_EN_094004",
-      "audio": "./assets/audio/094/094004.mp3"
+      "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "bm": "Kami naikkanmu kepada kedudukan yang mulia.",
+      "en": "We exalted you to an honorable position.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_094005",
-      "bm": "TODO_BM_094005",
-      "en": "TODO_EN_094005",
-      "audio": "./assets/audio/094/094005.mp3"
+      "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bm": "Tentunya dengan kesulitan barulah adanya kemudahan.",
+      "en": "With pain there is gain.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_094006",
-      "bm": "TODO_BM_094006",
-      "en": "TODO_EN_094006",
-      "audio": "./assets/audio/094/094006.mp3"
+      "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "bm": "Sesungguhnya, dengan kesulitan barulah adanya kemudahan.",
+      "en": "Indeed, with pain there is gain.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_094007",
-      "bm": "TODO_BM_094007",
-      "en": "TODO_EN_094007",
-      "audio": "./assets/audio/094/094007.mp3"
+      "arabic": "فَإِذَا فَرَغْتَ فَانْصَبْ",
+      "bm": "Bila saja mungkin kamu mestilah berjuang.",
+      "en": "Whenever possible you shall strive.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_094008",
-      "bm": "TODO_BM_094008",
-      "en": "TODO_EN_094008",
-      "audio": "./assets/audio/094/094008.mp3"
+      "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+      "bm": "Hanyalah mencarikan keredhaan Tuhanmu.",
+      "en": "Seeking only your Lord.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/094008.mp3"
     }
   ]
 }

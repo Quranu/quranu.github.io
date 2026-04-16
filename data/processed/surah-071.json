@@ -1,7 +1,7 @@
 {
   "surahNumber": 71,
   "name": {
-    "ar": "نوح",
+    "ar": "سورة نوح",
     "bm": "Nuh",
     "en": "Noah"
   },
@@ -10,205 +10,205 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/071/071000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_071001",
-      "bm": "TODO_BM_071001",
-      "en": "TODO_EN_071001",
-      "audio": "./assets/audio/071/071001.mp3"
+      "arabic": "إِنّا أَرسَلنا نوحًا إِلىٰ قَومِهِ أَن أَنذِر قَومَكَ مِن قَبلِ أَن يَأتِيَهُم عَذابٌ أَليمٌ",
+      "bm": "Kami telah menghantar Nuh kepada kaumnya: \"Kamu mestilah memberikan amaran kepada kaummu sebelum hukuman yang menyakitkan mengena mereka.\"",
+      "en": "We sent Noah to his people: \"You shall warn your people before a painful retribution afflicts them.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_071002",
-      "bm": "TODO_BM_071002",
-      "en": "TODO_EN_071002",
-      "audio": "./assets/audio/071/071002.mp3"
+      "arabic": "قَالَ يَاقَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+      "bm": "Dia berkata, \"Wahai kaumku, aku adalah pemberi amaran yang nyata bagi kamu.",
+      "en": "He said, \"O my people, I am a manifest warner to you.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_071003",
-      "bm": "TODO_BM_071003",
-      "en": "TODO_EN_071003",
-      "audio": "./assets/audio/071/071003.mp3"
+      "arabic": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+      "bm": "\"Untuk menyedarkan kamu yang kamu mestilah sembah Allah, menghormatiNya, dan ta'atilah aku.",
+      "en": "\"To alert you that you shall worship GOD, reverence Him, and obey me.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_071004",
-      "bm": "TODO_BM_071004",
-      "en": "TODO_EN_071004",
-      "audio": "./assets/audio/071/071004.mp3"
+      "arabic": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ لَوْ كُنْتُمْ تَعْلَمُونَ",
+      "bm": "\"Barulah Dia akan mengampuni dosa dosa kamu dan menangguhkan kamu hingga kemasa yang telah ditetapkan. Sudah pasti, ketetapan Allah tidak pernah ditangguhkan, apabila saja ianya dijangkakan tiba, jika kamu hanyalah mengetahuinya.",
+      "en": "\"He will then forgive you your sins and respite you for a predetermined period. Most assuredly, GOD's appointment can never be delayed, once it is due, if you only knew.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_071005",
-      "bm": "TODO_BM_071005",
-      "en": "TODO_EN_071005",
-      "audio": "./assets/audio/071/071005.mp3"
+      "arabic": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+      "bm": "Dia berkata, \"Tuhanku, aku telah mengundang kaumku malam dan siang.",
+      "en": "He said, \"My Lord, I have invited my people night and day.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_071006",
-      "bm": "TODO_BM_071006",
-      "en": "TODO_EN_071006",
-      "audio": "./assets/audio/071/071006.mp3"
+      "arabic": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+      "bm": "\"Tetapi pengundanganku hanyalah menambahkan kebencian mereka.",
+      "en": "\"But my invitation only increased their aversion.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_071007",
-      "bm": "TODO_BM_071007",
-      "en": "TODO_EN_071007",
-      "audio": "./assets/audio/071/071007.mp3"
+      "arabic": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+      "bm": "\"Setiap kali apabila saja aku mengundang mereka supaya mendapatkan pengampunan dariMu, mereka meletakkan jari jari mereka ketelinga telinga mereka, tutup diri diri mereka dengan pakaian pakaian mereka, berkeras dan berpaling dengan sombong.",
+      "en": "\"Whenever I invited them to be forgiven by You, they placed their fingers in their ears, covered themselves with their clothes, insisted, and turned arrogant.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_071008",
-      "bm": "TODO_BM_071008",
-      "en": "TODO_EN_071008",
-      "audio": "./assets/audio/071/071008.mp3"
+      "arabic": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+      "bm": "\"Kemudian aku mengundang mereka dikhalayak ramai.",
+      "en": "\"Then I invited them publicly.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_071009",
-      "bm": "TODO_BM_071009",
-      "en": "TODO_EN_071009",
-      "audio": "./assets/audio/071/071009.mp3"
+      "arabic": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+      "bm": "\"Lalu aku mengumumkan kepada mereka dengan sekuatnya, dan aku berbicara kepada mereka bersendirian.",
+      "en": "\"Then I proclaimed to them loudly, and I spoke to them privately.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_071010",
-      "bm": "TODO_BM_071010",
-      "en": "TODO_EN_071010",
-      "audio": "./assets/audio/071/071010.mp3"
+      "arabic": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+      "bm": "\"Aku berkata, 'Bermohonlah kepada Tuhan kamu untuk pengampunan; sesungguhnya, Dialah yang Maha Pengampun.",
+      "en": "\"I said, 'Implore your Lord for forgiveness; He is Forgiving.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_071011",
-      "bm": "TODO_BM_071011",
-      "en": "TODO_EN_071011",
-      "audio": "./assets/audio/071/071011.mp3"
+      "arabic": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا",
+      "bm": "\" 'Barulah Dia akan menghujani kamu dengan hujan yang banyak.",
+      "en": "\"'He will then shower you generously with rain.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_071012",
-      "bm": "TODO_BM_071012",
-      "en": "TODO_EN_071012",
-      "audio": "./assets/audio/071/071012.mp3"
+      "arabic": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+      "bm": "\" 'Dan memberikan kamu wang dan anak anak, dan taman taman, dan sungai sungai.' \"",
+      "en": "\"'And provide you with money and children, and orchards, and streams.'\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_071013",
-      "bm": "TODO_BM_071013",
-      "en": "TODO_EN_071013",
-      "audio": "./assets/audio/071/071013.mp3"
+      "arabic": "مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+      "bm": "Kenapakah tidak kamu berjuang untuk menghormati Allah?",
+      "en": "Why should you not strive to reverence GOD?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_071014",
-      "bm": "TODO_BM_071014",
-      "en": "TODO_EN_071014",
-      "audio": "./assets/audio/071/071014.mp3"
+      "arabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+      "bm": "Dia Sahajalah yang menciptakan kamu berperingkat peringkat.",
+      "en": "He is the One who created you in stages.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_071015",
-      "bm": "TODO_BM_071015",
-      "en": "TODO_EN_071015",
-      "audio": "./assets/audio/071/071015.mp3"
+      "arabic": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+      "bm": "Tidakkah kamu sedar yang Allah telah menciptakan tujuh semesta alam berlapis lapis.",
+      "en": "Do you not realize that GOD created seven universes in layers?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_071016",
-      "bm": "TODO_BM_071016",
-      "en": "TODO_EN_071016",
-      "audio": "./assets/audio/071/071016.mp3"
+      "arabic": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+      "bm": "Dia telah membentukkan bulan didalamnya untuk memberikan cahaya, dan meletakkan matahari untuk menjadi lampu.",
+      "en": "He designed the moon therein to be a light, and placed the sun to be a lamp.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_071017",
-      "bm": "TODO_BM_071017",
-      "en": "TODO_EN_071017",
-      "audio": "./assets/audio/071/071017.mp3"
+      "arabic": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+      "bm": "Dan Allah membiakkan kamu dibumi seperti tumbuh tumbuhan.",
+      "en": "And GOD germinated you from the earth like plants.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_071018",
-      "bm": "TODO_BM_071018",
-      "en": "TODO_EN_071018",
-      "audio": "./assets/audio/071/071018.mp3"
+      "arabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+      "bm": "Lalu Dia kembalikan kamu kedalamnya, dan tentu sekali Dia akan mengeluarkan kamu.",
+      "en": "Then He returns you into it, and He will surely bring you out.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_071019",
-      "bm": "TODO_BM_071019",
-      "en": "TODO_EN_071019",
-      "audio": "./assets/audio/071/071019.mp3"
+      "arabic": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+      "bm": "Allah menjadikan bumi supaya boleh didiami oleh kamu.",
+      "en": "GOD made the earth habitable for you.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_071020",
-      "bm": "TODO_BM_071020",
-      "en": "TODO_EN_071020",
-      "audio": "./assets/audio/071/071020.mp3"
+      "arabic": "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+      "bm": "Supaya kamu bolehlah membuat lorong lorong didalamnya.",
+      "en": "That you may build roads therein.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_071021",
-      "bm": "TODO_BM_071021",
-      "en": "TODO_EN_071021",
-      "audio": "./assets/audio/071/071021.mp3"
+      "arabic": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+      "bm": "Nuh berkata, \"Tuhanku, mereka mengingkariku, dan mengikuti orang orang yang lebih lagi korup setelah dirahmati dengan wang dan anak anak.",
+      "en": "Noah said, \"My Lord, they disobeyed me, and followed those who were even more corrupted when blessed with money and children.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_071022",
-      "bm": "TODO_BM_071022",
-      "en": "TODO_EN_071022",
-      "audio": "./assets/audio/071/071022.mp3"
+      "arabic": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+      "bm": "\"Mereka merancang dengan rancangan rancangan yang dahsyat.",
+      "en": "\"They schemed terrible schemes.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_071023",
-      "bm": "TODO_BM_071023",
-      "en": "TODO_EN_071023",
-      "audio": "./assets/audio/071/071023.mp3"
+      "arabic": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+      "bm": "\"Mereka berkata, 'Janganlah tinggalkan tuhan tuhan kamu. Janganlah tinggalkan Wadd, Suwaa', Yaghout, Ya'ooq, dan Nasr.'",
+      "en": "\"They said, 'Do not abandon your gods. Do not abandon Wadd, Suwaa', Yaghouth, Ya'ooq, and Nasr.'",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_071024",
-      "bm": "TODO_BM_071024",
-      "en": "TODO_EN_071024",
-      "audio": "./assets/audio/071/071024.mp3"
+      "arabic": "وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+      "bm": "\"Mereka menyesatkan banyak. Dari itu, biarkanlah orang orang yang zalim itu terus terjerumus dengan kerugian yang lebih dalam lagi.\"",
+      "en": "\"They misled many. Therefore, let the wicked plunge deeper into loss.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_071025",
-      "bm": "TODO_BM_071025",
-      "en": "TODO_EN_071025",
-      "audio": "./assets/audio/071/071025.mp3"
+      "arabic": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+      "bm": "Oleh kerana dosa dosa mereka, mereka telah ditenggelamkan dan ditempatkan keapi neraka. Mereka tidak akan mendapatkan penolong penolong untuk melindungi mereka dari Allah.",
+      "en": "Because of their sins they were drowned and assigned to the hellfire. They found no helpers to protect them from GOD.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_071026",
-      "bm": "TODO_BM_071026",
-      "en": "TODO_EN_071026",
-      "audio": "./assets/audio/071/071026.mp3"
+      "arabic": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+      "bm": "Nuh juga berkata, \"Tuhanku, janganlah tinggalkan seorang pun yang ingkar diatas bumi.",
+      "en": "Noah also said, \"My Lord, do not leave a single disbeliever on earth.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_071027",
-      "bm": "TODO_BM_071027",
-      "en": "TODO_EN_071027",
-      "audio": "./assets/audio/071/071027.mp3"
+      "arabic": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+      "bm": "\"Kerana jika kau membiarkan mereka, mereka itu hanyalah akan menyesatkan hamba hambamu yang akan melahirkan tidak lain hanyalah pengingkar pengingkar yang zalim.",
+      "en": "\"For if you let them, they will only mislead your servants and give birth to nothing but wicked disbelievers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_071028",
-      "bm": "TODO_BM_071028",
-      "en": "TODO_EN_071028",
-      "audio": "./assets/audio/071/071028.mp3"
+      "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+      "bm": "\"Tuhanku, ampunilah aku dan ibu bapaku, dan sesiapa yang masuk kerumahku sebagai orang orang yang percaya, dan semua lelaki lelaki dan perempuan perempuan yang percaya. Tetapi janganlah berikan orang orang yang ingkar apa apa melainkan penghapusan.\"",
+      "en": "\"My Lord, forgive me and my parents, and anyone who enters my home as a believer, and all the believing men and women. But do not give the disbelievers anything but annihilation.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/071028.mp3"
     }
   ]
 }

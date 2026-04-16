@@ -1,7 +1,7 @@
 {
   "surahNumber": 105,
   "name": {
-    "ar": "الفيل",
+    "ar": "سورة الـفيل",
     "bm": "Gajah",
     "en": "The Elephant"
   },
@@ -10,44 +10,44 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/105/105000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/105000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_105001",
-      "bm": "TODO_BM_105001",
-      "en": "TODO_EN_105001",
-      "audio": "./assets/audio/105/105001.mp3"
+      "arabic": "أَلَم تَرَ كَيفَ فَعَلَ رَبُّكَ بِأَصحابِ الفيلِ",
+      "bm": "Sudahkah kamu perhatikan apa yang Tuhan kamu lakukan kepada pasukan pasukan bergajah?",
+      "en": "Have you noted what your Lord did to the people of the elephant?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/105001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_105002",
-      "bm": "TODO_BM_105002",
-      "en": "TODO_EN_105002",
-      "audio": "./assets/audio/105/105002.mp3"
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "bm": "Tidakkah Dia menyebabkan rancangan mereka berkesudahan sebaliknya?",
+      "en": "Did He not cause their schemes to backfire?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/105002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_105003",
-      "bm": "TODO_BM_105003",
-      "en": "TODO_EN_105003",
-      "audio": "./assets/audio/105/105003.mp3"
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "bm": "Dia menghantarkan keatas mereka kumpulan kumpulan dari burung burung.",
+      "en": "He sent upon them swarms of birds.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/105003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_105004",
-      "bm": "TODO_BM_105004",
-      "en": "TODO_EN_105004",
-      "audio": "./assets/audio/105/105004.mp3"
+      "arabic": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+      "bm": "Yang menghujani mereka dengan batu batu keras.",
+      "en": "That showered them with hard stones.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/105004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_105005",
-      "bm": "TODO_BM_105005",
-      "en": "TODO_EN_105005",
-      "audio": "./assets/audio/105/105005.mp3"
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+      "bm": "Dia menjadikan mereka sebagai rumput rumput kering yang telah dikunyah.",
+      "en": "He made them like chewed up hay.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/105005.mp3"
     }
   ]
 }

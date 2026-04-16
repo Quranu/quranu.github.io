@@ -1,28 +1,33 @@
-SURAH_NUMBER: 108
-NAME_AR: الكوثر
-NAME_BM: Nikmat Berlimpah
-NAME_EN: Abundance
+﻿SURAH_NUMBER: 108
+NAME_AR: سورة الـكوثر
+NAME_BM: Kemewahan
+NAME_EN: Bounty
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/108/108000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/108000.mp3
 
 # Ayah 1
-AR: TODO_AR_108001
-BM: TODO_BM_108001
-EN: TODO_EN_108001
-AUDIO: ./assets/audio/108/108001.mp3
+AR: إِنّا أَعطَيناكَ الكَوثَرَ
+BM: Kami telah merahmatimu dengan kemewahan yang banyak.
+EN: We have blessed you with many a bounty.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/108001.mp3
 
 # Ayah 2
-AR: TODO_AR_108002
-BM: TODO_BM_108002
-EN: TODO_EN_108002
-AUDIO: ./assets/audio/108/108002.mp3
+AR: فَصَلِّ لِرَبِّكَ وَانْحَرْ
+BM: Dari itu, kau mestilah menyembah kepada Tuhan kamu (Salat), dan berikanlah derma.
+EN: Therefore, you shall pray to your Lord (Salat), and give to charity.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/108002.mp3
 
 # Ayah 3
-AR: TODO_AR_108003
-BM: TODO_BM_108003
-EN: TODO_EN_108003
-AUDIO: ./assets/audio/108/108003.mp3
+AR: إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+BM: Penentangmu itu akan menjadi orang orang yang rugi.
+EN: Your opponent will be the loser.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/108003.mp3
+
+
+
+
+

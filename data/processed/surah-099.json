@@ -1,74 +1,74 @@
 {
   "surahNumber": 99,
   "name": {
-    "ar": "الزلزلة",
-    "bm": "Goncangan",
-    "en": "The Earthquake"
+    "ar": "سورة الـزلزلة",
+    "bm": "Gempa",
+    "en": "The Quake"
   },
   "totalAyahs": 8,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/099/099000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_099001",
-      "bm": "TODO_BM_099001",
-      "en": "TODO_EN_099001",
-      "audio": "./assets/audio/099/099001.mp3"
+      "arabic": "إِذا زُلزِلَتِ الأَرضُ زِلزالَها",
+      "bm": "Apabila bumi menggempa dengan dahsyatnya.",
+      "en": "When the earth is severely quaked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_099002",
-      "bm": "TODO_BM_099002",
-      "en": "TODO_EN_099002",
-      "audio": "./assets/audio/099/099002.mp3"
+      "arabic": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "bm": "Dan bumi mengeluarkan kandungan kandungannya.",
+      "en": "And the earth ejects its loads.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_099003",
-      "bm": "TODO_BM_099003",
-      "en": "TODO_EN_099003",
-      "audio": "./assets/audio/099/099003.mp3"
+      "arabic": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+      "bm": "Manusia akan kehairanan: \"Apa yang sudah terjadi?\"",
+      "en": "The human will wonder: \"What is happening?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_099004",
-      "bm": "TODO_BM_099004",
-      "en": "TODO_EN_099004",
-      "audio": "./assets/audio/099/099004.mp3"
+      "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "bm": "Pada hari itu, ianya akan memberitahukan berita beritanya.",
+      "en": "On that day, it will tell its news.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_099005",
-      "bm": "TODO_BM_099005",
-      "en": "TODO_EN_099005",
-      "audio": "./assets/audio/099/099005.mp3"
+      "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "bm": "Yang Tuhan kamu telah memerintahkannya.",
+      "en": "That your Lord has commanded it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_099006",
-      "bm": "TODO_BM_099006",
-      "en": "TODO_EN_099006",
-      "audio": "./assets/audio/099/099006.mp3"
+      "arabic": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+      "bm": "Pada hari itu, manusia akan mendatangi dari setiap arah, untuk ditunjukkan kerja kerja mereka.",
+      "en": "On that day, the people will issue from every direction, to be shown their works.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_099007",
-      "bm": "TODO_BM_099007",
-      "en": "TODO_EN_099007",
-      "audio": "./assets/audio/099/099007.mp3"
+      "arabic": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "bm": "Sesiapa saja melakukan walau seberat atom kebaikan akan diperlihatkan.",
+      "en": "Whoever does an atom's weight of good will see it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_099008",
-      "bm": "TODO_BM_099008",
-      "en": "TODO_EN_099008",
-      "audio": "./assets/audio/099/099008.mp3"
+      "arabic": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "bm": "Dan juga sesiapa saja yang melakukan seberat atom kejahatan akan diperlihatkannya.",
+      "en": "And whoever does an atom's weight of evil will see it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/099008.mp3"
     }
   ]
 }

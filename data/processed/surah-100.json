@@ -1,95 +1,95 @@
 {
   "surahNumber": 100,
   "name": {
-    "ar": "العاديات",
-    "bm": "Kuda Perang Yang Berlari",
-    "en": "The Courser"
+    "ar": "سورة الـعاديات",
+    "bm": "Berlari Kencang",
+    "en": "The Gallopers"
   },
   "totalAyahs": 11,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/100/100000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_100001",
-      "bm": "TODO_BM_100001",
-      "en": "TODO_EN_100001",
-      "audio": "./assets/audio/100/100001.mp3"
+      "arabic": "وَالعادِياتِ ضَبحًا",
+      "bm": "Demi yang berlari kencang.",
+      "en": "By the fast gallopers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_100002",
-      "bm": "TODO_BM_100002",
-      "en": "TODO_EN_100002",
-      "audio": "./assets/audio/100/100002.mp3"
+      "arabic": "فَالْمُورِيَاتِ قَدْحًا",
+      "bm": "Menyalakan percikan yang berapi.",
+      "en": "Igniting sparks.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_100003",
-      "bm": "TODO_BM_100003",
-      "en": "TODO_EN_100003",
-      "audio": "./assets/audio/100/100003.mp3"
+      "arabic": "فَالْمُغِيرَاتِ صُبْحًا",
+      "bm": "Yang menyerang (musuh) pada waktu pagi.",
+      "en": "Invading (the enemy) by morning.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_100004",
-      "bm": "TODO_BM_100004",
-      "en": "TODO_EN_100004",
-      "audio": "./assets/audio/100/100004.mp3"
+      "arabic": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "bm": "Yang menyerang dengan kegerunan didalamnya.",
+      "en": "Striking terror therein.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_100005",
-      "bm": "TODO_BM_100005",
-      "en": "TODO_EN_100005",
-      "audio": "./assets/audio/100/100005.mp3"
+      "arabic": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "bm": "Menyusuk kedalam hati diwilayah mereka.",
+      "en": "Penetrating to the heart of their territory.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_100006",
-      "bm": "TODO_BM_100006",
-      "en": "TODO_EN_100006",
-      "audio": "./assets/audio/100/100006.mp3"
+      "arabic": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "bm": "Manusia itu tidak tahu bersyukur terhadap Tuhannya.",
+      "en": "The human being is unappreciative of his Lord.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_100007",
-      "bm": "TODO_BM_100007",
-      "en": "TODO_EN_100007",
-      "audio": "./assets/audio/100/100007.mp3"
+      "arabic": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "bm": "Dia telah bersaksikan tentang fakta ini.",
+      "en": "He bears witness to this fact.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_100008",
-      "bm": "TODO_BM_100008",
-      "en": "TODO_EN_100008",
-      "audio": "./assets/audio/100/100008.mp3"
+      "arabic": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "bm": "Dia menyintai kebendaan dengan berlebih lebihan.",
+      "en": "He loves material things excessively.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_100009",
-      "bm": "TODO_BM_100009",
-      "en": "TODO_EN_100009",
-      "audio": "./assets/audio/100/100009.mp3"
+      "arabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "bm": "Tidakkah dia sedar yang harinya akan datang apabila kubur kubur akan terbuka?",
+      "en": "Does he not realize that the day will come when the graves are opened?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_100010",
-      "bm": "TODO_BM_100010",
-      "en": "TODO_EN_100010",
-      "audio": "./assets/audio/100/100010.mp3"
+      "arabic": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "bm": "Dan semua rahsia rahsia  akan dibawa keluar.",
+      "en": "And all secrets are brought out.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_100011",
-      "bm": "TODO_BM_100011",
-      "en": "TODO_EN_100011",
-      "audio": "./assets/audio/100/100011.mp3"
+      "arabic": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ",
+      "bm": "Mereka akan mendapat tahu, pada hari itu, yang Tuhan mereka Amat Perihatin terhadap mereka.",
+      "en": "They will find out, on that day, that their Lord has been fully Cognizant of them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/100011.mp3"
     }
   ]
 }

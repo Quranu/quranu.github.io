@@ -1,178 +1,183 @@
-SURAH_NUMBER: 71
-NAME_AR: نوح
+﻿SURAH_NUMBER: 71
+NAME_AR: سورة نوح
 NAME_BM: Nuh
 NAME_EN: Noah
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/071/071000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071000.mp3
 
 # Ayah 1
-AR: TODO_AR_071001
-BM: TODO_BM_071001
-EN: TODO_EN_071001
-AUDIO: ./assets/audio/071/071001.mp3
+AR: إِنّا أَرسَلنا نوحًا إِلىٰ قَومِهِ أَن أَنذِر قَومَكَ مِن قَبلِ أَن يَأتِيَهُم عَذابٌ أَليمٌ
+BM: Kami telah menghantar Nuh kepada kaumnya: "Kamu mestilah memberikan amaran kepada kaummu sebelum hukuman yang menyakitkan mengena mereka."
+EN: We sent Noah to his people: "You shall warn your people before a painful retribution afflicts them."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071001.mp3
 
 # Ayah 2
-AR: TODO_AR_071002
-BM: TODO_BM_071002
-EN: TODO_EN_071002
-AUDIO: ./assets/audio/071/071002.mp3
+AR: قَالَ يَاقَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ
+BM: Dia berkata, "Wahai kaumku, aku adalah pemberi amaran yang nyata bagi kamu.
+EN: He said, "O my people, I am a manifest warner to you.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071002.mp3
 
 # Ayah 3
-AR: TODO_AR_071003
-BM: TODO_BM_071003
-EN: TODO_EN_071003
-AUDIO: ./assets/audio/071/071003.mp3
+AR: أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ
+BM: "Untuk menyedarkan kamu yang kamu mestilah sembah Allah, menghormatiNya, dan ta'atilah aku.
+EN: "To alert you that you shall worship GOD, reverence Him, and obey me.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071003.mp3
 
 # Ayah 4
-AR: TODO_AR_071004
-BM: TODO_BM_071004
-EN: TODO_EN_071004
-AUDIO: ./assets/audio/071/071004.mp3
+AR: يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ لَوْ كُنْتُمْ تَعْلَمُونَ
+BM: "Barulah Dia akan mengampuni dosa dosa kamu dan menangguhkan kamu hingga kemasa yang telah ditetapkan. Sudah pasti, ketetapan Allah tidak pernah ditangguhkan, apabila saja ianya dijangkakan tiba, jika kamu hanyalah mengetahuinya.
+EN: "He will then forgive you your sins and respite you for a predetermined period. Most assuredly, GOD's appointment can never be delayed, once it is due, if you only knew."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071004.mp3
 
 # Ayah 5
-AR: TODO_AR_071005
-BM: TODO_BM_071005
-EN: TODO_EN_071005
-AUDIO: ./assets/audio/071/071005.mp3
+AR: قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا
+BM: Dia berkata, "Tuhanku, aku telah mengundang kaumku malam dan siang.
+EN: He said, "My Lord, I have invited my people night and day.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071005.mp3
 
 # Ayah 6
-AR: TODO_AR_071006
-BM: TODO_BM_071006
-EN: TODO_EN_071006
-AUDIO: ./assets/audio/071/071006.mp3
+AR: فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا
+BM: "Tetapi pengundanganku hanyalah menambahkan kebencian mereka.
+EN: "But my invitation only increased their aversion.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071006.mp3
 
 # Ayah 7
-AR: TODO_AR_071007
-BM: TODO_BM_071007
-EN: TODO_EN_071007
-AUDIO: ./assets/audio/071/071007.mp3
+AR: وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا
+BM: "Setiap kali apabila saja aku mengundang mereka supaya mendapatkan pengampunan dariMu, mereka meletakkan jari jari mereka ketelinga telinga mereka, tutup diri diri mereka dengan pakaian pakaian mereka, berkeras dan berpaling dengan sombong.
+EN: "Whenever I invited them to be forgiven by You, they placed their fingers in their ears, covered themselves with their clothes, insisted, and turned arrogant.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071007.mp3
 
 # Ayah 8
-AR: TODO_AR_071008
-BM: TODO_BM_071008
-EN: TODO_EN_071008
-AUDIO: ./assets/audio/071/071008.mp3
+AR: ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا
+BM: "Kemudian aku mengundang mereka dikhalayak ramai.
+EN: "Then I invited them publicly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071008.mp3
 
 # Ayah 9
-AR: TODO_AR_071009
-BM: TODO_BM_071009
-EN: TODO_EN_071009
-AUDIO: ./assets/audio/071/071009.mp3
+AR: ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا
+BM: "Lalu aku mengumumkan kepada mereka dengan sekuatnya, dan aku berbicara kepada mereka bersendirian.
+EN: "Then I proclaimed to them loudly, and I spoke to them privately.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071009.mp3
 
 # Ayah 10
-AR: TODO_AR_071010
-BM: TODO_BM_071010
-EN: TODO_EN_071010
-AUDIO: ./assets/audio/071/071010.mp3
+AR: فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا
+BM: "Aku berkata, 'Bermohonlah kepada Tuhan kamu untuk pengampunan; sesungguhnya, Dialah yang Maha Pengampun.
+EN: "I said, 'Implore your Lord for forgiveness; He is Forgiving.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071010.mp3
 
 # Ayah 11
-AR: TODO_AR_071011
-BM: TODO_BM_071011
-EN: TODO_EN_071011
-AUDIO: ./assets/audio/071/071011.mp3
+AR: يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا
+BM: " 'Barulah Dia akan menghujani kamu dengan hujan yang banyak.
+EN: "'He will then shower you generously with rain.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071011.mp3
 
 # Ayah 12
-AR: TODO_AR_071012
-BM: TODO_BM_071012
-EN: TODO_EN_071012
-AUDIO: ./assets/audio/071/071012.mp3
+AR: وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا
+BM: " 'Dan memberikan kamu wang dan anak anak, dan taman taman, dan sungai sungai.' "
+EN: "'And provide you with money and children, and orchards, and streams.'"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071012.mp3
 
 # Ayah 13
-AR: TODO_AR_071013
-BM: TODO_BM_071013
-EN: TODO_EN_071013
-AUDIO: ./assets/audio/071/071013.mp3
+AR: مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
+BM: Kenapakah tidak kamu berjuang untuk menghormati Allah?
+EN: Why should you not strive to reverence GOD?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071013.mp3
 
 # Ayah 14
-AR: TODO_AR_071014
-BM: TODO_BM_071014
-EN: TODO_EN_071014
-AUDIO: ./assets/audio/071/071014.mp3
+AR: وَقَدْ خَلَقَكُمْ أَطْوَارًا
+BM: Dia Sahajalah yang menciptakan kamu berperingkat peringkat.
+EN: He is the One who created you in stages.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071014.mp3
 
 # Ayah 15
-AR: TODO_AR_071015
-BM: TODO_BM_071015
-EN: TODO_EN_071015
-AUDIO: ./assets/audio/071/071015.mp3
+AR: أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا
+BM: Tidakkah kamu sedar yang Allah telah menciptakan tujuh semesta alam berlapis lapis.
+EN: Do you not realize that GOD created seven universes in layers?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071015.mp3
 
 # Ayah 16
-AR: TODO_AR_071016
-BM: TODO_BM_071016
-EN: TODO_EN_071016
-AUDIO: ./assets/audio/071/071016.mp3
+AR: وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
+BM: Dia telah membentukkan bulan didalamnya untuk memberikan cahaya, dan meletakkan matahari untuk menjadi lampu.
+EN: He designed the moon therein to be a light, and placed the sun to be a lamp.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071016.mp3
 
 # Ayah 17
-AR: TODO_AR_071017
-BM: TODO_BM_071017
-EN: TODO_EN_071017
-AUDIO: ./assets/audio/071/071017.mp3
+AR: وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا
+BM: Dan Allah membiakkan kamu dibumi seperti tumbuh tumbuhan.
+EN: And GOD germinated you from the earth like plants.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071017.mp3
 
 # Ayah 18
-AR: TODO_AR_071018
-BM: TODO_BM_071018
-EN: TODO_EN_071018
-AUDIO: ./assets/audio/071/071018.mp3
+AR: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+BM: Lalu Dia kembalikan kamu kedalamnya, dan tentu sekali Dia akan mengeluarkan kamu.
+EN: Then He returns you into it, and He will surely bring you out.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071018.mp3
 
 # Ayah 19
-AR: TODO_AR_071019
-BM: TODO_BM_071019
-EN: TODO_EN_071019
-AUDIO: ./assets/audio/071/071019.mp3
+AR: وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا
+BM: Allah menjadikan bumi supaya boleh didiami oleh kamu.
+EN: GOD made the earth habitable for you.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071019.mp3
 
 # Ayah 20
-AR: TODO_AR_071020
-BM: TODO_BM_071020
-EN: TODO_EN_071020
-AUDIO: ./assets/audio/071/071020.mp3
+AR: لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا
+BM: Supaya kamu bolehlah membuat lorong lorong didalamnya.
+EN: That you may build roads therein.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071020.mp3
 
 # Ayah 21
-AR: TODO_AR_071021
-BM: TODO_BM_071021
-EN: TODO_EN_071021
-AUDIO: ./assets/audio/071/071021.mp3
+AR: قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا
+BM: Nuh berkata, "Tuhanku, mereka mengingkariku, dan mengikuti orang orang yang lebih lagi korup setelah dirahmati dengan wang dan anak anak.
+EN: Noah said, "My Lord, they disobeyed me, and followed those who were even more corrupted when blessed with money and children.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071021.mp3
 
 # Ayah 22
-AR: TODO_AR_071022
-BM: TODO_BM_071022
-EN: TODO_EN_071022
-AUDIO: ./assets/audio/071/071022.mp3
+AR: وَمَكَرُوا مَكْرًا كُبَّارًا
+BM: "Mereka merancang dengan rancangan rancangan yang dahsyat.
+EN: "They schemed terrible schemes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071022.mp3
 
 # Ayah 23
-AR: TODO_AR_071023
-BM: TODO_BM_071023
-EN: TODO_EN_071023
-AUDIO: ./assets/audio/071/071023.mp3
+AR: وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
+BM: "Mereka berkata, 'Janganlah tinggalkan tuhan tuhan kamu. Janganlah tinggalkan Wadd, Suwaa', Yaghout, Ya'ooq, dan Nasr.'
+EN: "They said, 'Do not abandon your gods. Do not abandon Wadd, Suwaa', Yaghouth, Ya'ooq, and Nasr.'
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071023.mp3
 
 # Ayah 24
-AR: TODO_AR_071024
-BM: TODO_BM_071024
-EN: TODO_EN_071024
-AUDIO: ./assets/audio/071/071024.mp3
+AR: وَقَدْ أَضَلُّوا كَثِيرًا وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا
+BM: "Mereka menyesatkan banyak. Dari itu, biarkanlah orang orang yang zalim itu terus terjerumus dengan kerugian yang lebih dalam lagi."
+EN: "They misled many. Therefore, let the wicked plunge deeper into loss."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071024.mp3
 
 # Ayah 25
-AR: TODO_AR_071025
-BM: TODO_BM_071025
-EN: TODO_EN_071025
-AUDIO: ./assets/audio/071/071025.mp3
+AR: مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا
+BM: Oleh kerana dosa dosa mereka, mereka telah ditenggelamkan dan ditempatkan keapi neraka. Mereka tidak akan mendapatkan penolong penolong untuk melindungi mereka dari Allah.
+EN: Because of their sins they were drowned and assigned to the hellfire. They found no helpers to protect them from GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071025.mp3
 
 # Ayah 26
-AR: TODO_AR_071026
-BM: TODO_BM_071026
-EN: TODO_EN_071026
-AUDIO: ./assets/audio/071/071026.mp3
+AR: وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا
+BM: Nuh juga berkata, "Tuhanku, janganlah tinggalkan seorang pun yang ingkar diatas bumi.
+EN: Noah also said, "My Lord, do not leave a single disbeliever on earth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071026.mp3
 
 # Ayah 27
-AR: TODO_AR_071027
-BM: TODO_BM_071027
-EN: TODO_EN_071027
-AUDIO: ./assets/audio/071/071027.mp3
+AR: إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا
+BM: "Kerana jika kau membiarkan mereka, mereka itu hanyalah akan menyesatkan hamba hambamu yang akan melahirkan tidak lain hanyalah pengingkar pengingkar yang zalim.
+EN: "For if you let them, they will only mislead your servants and give birth to nothing but wicked disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071027.mp3
 
 # Ayah 28
-AR: TODO_AR_071028
-BM: TODO_BM_071028
-EN: TODO_EN_071028
-AUDIO: ./assets/audio/071/071028.mp3
+AR: رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا
+BM: "Tuhanku, ampunilah aku dan ibu bapaku, dan sesiapa yang masuk kerumahku sebagai orang orang yang percaya, dan semua lelaki lelaki dan perempuan perempuan yang percaya. Tetapi janganlah berikan orang orang yang ingkar apa apa melainkan penghapusan."
+EN: "My Lord, forgive me and my parents, and anyone who enters my home as a believer, and all the believing men and women. But do not give the disbelievers anything but annihilation."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/071028.mp3
+
+
+
+
+

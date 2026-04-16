@@ -1,58 +1,63 @@
-SURAH_NUMBER: 95
-NAME_AR: التين
+﻿SURAH_NUMBER: 95
+NAME_AR: سورة الـتين
 NAME_BM: Buah Tin
 NAME_EN: The Fig
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/095/095000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095000.mp3
 
 # Ayah 1
-AR: TODO_AR_095001
-BM: TODO_BM_095001
-EN: TODO_EN_095001
-AUDIO: ./assets/audio/095/095001.mp3
+AR: وَالتّينِ وَالزَّيتونِ
+BM: Demi buah tin dan buah zaitun.
+EN: By the fig and the olive.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095001.mp3
 
 # Ayah 2
-AR: TODO_AR_095002
-BM: TODO_BM_095002
-EN: TODO_EN_095002
-AUDIO: ./assets/audio/095/095002.mp3
+AR: وَطُورِ سِينِينَ
+BM: Gunung Sinai.
+EN: Mount Sinai.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095002.mp3
 
 # Ayah 3
-AR: TODO_AR_095003
-BM: TODO_BM_095003
-EN: TODO_EN_095003
-AUDIO: ./assets/audio/095/095003.mp3
+AR: وَهَٰذَا الْبَلَدِ الْأَمِينِ
+BM: Dan bandar (Mekkah) yang mulia ini.
+EN: And this honored town (Mecca).*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095003.mp3
 
 # Ayah 4
-AR: TODO_AR_095004
-BM: TODO_BM_095004
-EN: TODO_EN_095004
-AUDIO: ./assets/audio/095/095004.mp3
+AR: لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ
+BM: Kami menciptakan manusia dari reka bentuk yang terbaik.
+EN: We created man in the best design.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095004.mp3
 
 # Ayah 5
-AR: TODO_AR_095005
-BM: TODO_BM_095005
-EN: TODO_EN_095005
-AUDIO: ./assets/audio/095/095005.mp3
+AR: ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
+BM: Lalu menukarkannya kepada yang paling rendah dari yang rendah.
+EN: Then turned him into the lowliest of the lowly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095005.mp3
 
 # Ayah 6
-AR: TODO_AR_095006
-BM: TODO_BM_095006
-EN: TODO_EN_095006
-AUDIO: ./assets/audio/095/095006.mp3
+AR: إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ
+BM: Melainkan orang orang yang percaya dan yang menjalani kehidupan yang benar; mereka akan mendapat anugerah yang telah dikhaskan.
+EN: Except those who believe and lead a righteous life; they receive a reward that is well deserved.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095006.mp3
 
 # Ayah 7
-AR: TODO_AR_095007
-BM: TODO_BM_095007
-EN: TODO_EN_095007
-AUDIO: ./assets/audio/095/095007.mp3
+AR: فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ
+BM: Kenapa kamu masih juga mengingkari keimanan?
+EN: Why do you still reject the faith?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095007.mp3
 
 # Ayah 8
-AR: TODO_AR_095008
-BM: TODO_BM_095008
-EN: TODO_EN_095008
-AUDIO: ./assets/audio/095/095008.mp3
+AR: أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ
+BM: Bukankah Allah sahaja yang Maha Bijaksana; dari segala gala yang bijaksana?
+EN: Is GOD not the Most Wise, of all the wise ones?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/095008.mp3
+
+
+
+
+

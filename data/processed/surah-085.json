@@ -1,172 +1,172 @@
 {
   "surahNumber": 85,
   "name": {
-    "ar": "البروج",
-    "bm": "Gugusan Bintang",
-    "en": "The Mansions of the Stars"
+    "ar": "سورة البروج",
+    "bm": "Bimasakti Bimasakti",
+    "en": "The Galaxies"
   },
   "totalAyahs": 22,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/085/085000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_085001",
-      "bm": "TODO_BM_085001",
-      "en": "TODO_EN_085001",
-      "audio": "./assets/audio/085/085001.mp3"
+      "arabic": "وَالسَّماءِ ذاتِ البُروجِ",
+      "bm": "Langit serta bimasakti bimasaktinya.",
+      "en": "The sky and its galaxies.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_085002",
-      "bm": "TODO_BM_085002",
-      "en": "TODO_EN_085002",
-      "audio": "./assets/audio/085/085002.mp3"
+      "arabic": "وَالْيَوْمِ الْمَوْعُودِ",
+      "bm": "Hari yang dijanjikan.",
+      "en": "The promised day.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_085003",
-      "bm": "TODO_BM_085003",
-      "en": "TODO_EN_085003",
-      "audio": "./assets/audio/085/085003.mp3"
+      "arabic": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "bm": "Saksi dan yang menjadi saksi.",
+      "en": "The witness and the witnessed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_085004",
-      "bm": "TODO_BM_085004",
-      "en": "TODO_EN_085004",
-      "audio": "./assets/audio/085/085004.mp3"
+      "arabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+      "bm": "Malang sungguh bagi penduduk penduduk dilembah yang mendalam.",
+      "en": "Woe to the people of the canyon.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_085005",
-      "bm": "TODO_BM_085005",
-      "en": "TODO_EN_085005",
-      "audio": "./assets/audio/085/085005.mp3"
+      "arabic": "النَّارِ ذَاتِ الْوَقُودِ",
+      "bm": "Mereka menyalakan api yang membakar.",
+      "en": "They ignited a blazing fire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_085006",
-      "bm": "TODO_BM_085006",
-      "en": "TODO_EN_085006",
-      "audio": "./assets/audio/085/085006.mp3"
+      "arabic": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "bm": "Lalu duduk mengelilinginya.",
+      "en": "Then sat around it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_085007",
-      "bm": "TODO_BM_085007",
-      "en": "TODO_EN_085007",
-      "audio": "./assets/audio/085/085007.mp3"
+      "arabic": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+      "bm": "Untuk menyaksikan orang orang percaya yang dibakar.",
+      "en": "To watch the burning of the believers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_085008",
-      "bm": "TODO_BM_085008",
-      "en": "TODO_EN_085008",
-      "audio": "./assets/audio/085/085008.mp3"
+      "arabic": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+      "bm": "Mereka membenci mereka itu dengan tidak ada apa alasan melainkan kerana mempercayakan Allah, yang Maha Kuat lagi Maha Terpuji.",
+      "en": "They hated them for no other reason than believing in GOD, the Almighty, the Praiseworthy.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_085009",
-      "bm": "TODO_BM_085009",
-      "en": "TODO_EN_085009",
-      "audio": "./assets/audio/085/085009.mp3"
+      "arabic": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+      "bm": "KepunyaanNya kerajaan bagi sekelian cekrawala dan bumi. Dan Allah menyaksikan segala sesuatu.",
+      "en": "To Him belongs the kingship of the heavens and the earth. And GOD witnesses all things.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_085010",
-      "bm": "TODO_BM_085010",
-      "en": "TODO_EN_085010",
-      "audio": "./assets/audio/085/085010.mp3"
+      "arabic": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+      "bm": "Sudah tentu, orang orang yang menyiksa orang orang percaya lelaki dan perempuan, lalu gagal untuk bertaubat, telah menerima siksaan Gehenna; mereka telah dikenakan hukuman bakaran.",
+      "en": "Surely, those who persecute the believing men and women, then fail to repent, have incurred the retribution of Gehenna; they have incurred the retribution of burning.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_085011",
-      "bm": "TODO_BM_085011",
-      "en": "TODO_EN_085011",
-      "audio": "./assets/audio/085/085011.mp3"
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+      "bm": "Sudah tentu, orang orang yang percaya dan menjalani kehidupan yang benar, sepatutnyalah mendapatkan taman taman dengan air sungai sungainya yang mengalir. Ini adalah kemenangan yang terbesar.",
+      "en": "Surely, those who believed and led a righteous life, have deserved gardens with flowing streams. This is the greatest triumph.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_085012",
-      "bm": "TODO_BM_085012",
-      "en": "TODO_EN_085012",
-      "audio": "./assets/audio/085/085012.mp3"
+      "arabic": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "bm": "Sesungguhnya, pembalasan dari Allah amatlah dahsyat sekali.",
+      "en": "Indeed, your Lord's blow is severe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_085013",
-      "bm": "TODO_BM_085013",
-      "en": "TODO_EN_085013",
-      "audio": "./assets/audio/085/085013.mp3"
+      "arabic": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "bm": "Dia Sahajalah yang meinisiasikan dan mengulanginya.",
+      "en": "He is the One who initiates and repeats.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_085014",
-      "bm": "TODO_BM_085014",
-      "en": "TODO_EN_085014",
-      "audio": "./assets/audio/085/085014.mp3"
+      "arabic": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+      "bm": "Dan Dia adalah yang Maha Pengampun lagi Maha Mengasihani.",
+      "en": "And He is the Forgiving, Most Kind.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_085015",
-      "bm": "TODO_BM_085015",
-      "en": "TODO_EN_085015",
-      "audio": "./assets/audio/085/085015.mp3"
+      "arabic": "ذُو الْعَرْشِ الْمَجِيدُ",
+      "bm": "Pemilik bagi tahta yang cemerlang.",
+      "en": "Possessor of the glorious throne.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_085016",
-      "bm": "TODO_BM_085016",
-      "en": "TODO_EN_085016",
-      "audio": "./assets/audio/085/085016.mp3"
+      "arabic": "فَعَّالٌ لِمَا يُرِيدُ",
+      "bm": "Pembuat bagi apa saja yang Dia kehendaki.",
+      "en": "Doer of whatever He wills.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_085017",
-      "bm": "TODO_BM_085017",
-      "en": "TODO_EN_085017",
-      "audio": "./assets/audio/085/085017.mp3"
+      "arabic": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+      "bm": "Telahkah kamu memperhatikan sejarah bagi askar askar?",
+      "en": "Did you note the history of the troops?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_085018",
-      "bm": "TODO_BM_085018",
-      "en": "TODO_EN_085018",
-      "audio": "./assets/audio/085/085018.mp3"
+      "arabic": "فِرْعَوْنَ وَثَمُودَ",
+      "bm": "Fir'aun dan Thamud?",
+      "en": "Pharaoh and Thamûd?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_085019",
-      "bm": "TODO_BM_085019",
-      "en": "TODO_EN_085019",
-      "audio": "./assets/audio/085/085019.mp3"
+      "arabic": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+      "bm": "Orang orang yang ingkar selalu menafikan.",
+      "en": "Those who disbelieve are plagued with denial.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_085020",
-      "bm": "TODO_BM_085020",
-      "en": "TODO_EN_085020",
-      "audio": "./assets/audio/085/085020.mp3"
+      "arabic": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+      "bm": "Allah amat sedar akan mereka.",
+      "en": "GOD is fully aware of them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_085021",
-      "bm": "TODO_BM_085021",
-      "en": "TODO_EN_085021",
-      "audio": "./assets/audio/085/085021.mp3"
+      "arabic": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+      "bm": "Sesungguhnya, ianya adalah Quran yang gemilang.",
+      "en": "Indeed, it is a glorious Quran.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_085022",
-      "bm": "TODO_BM_085022",
-      "en": "TODO_EN_085022",
-      "audio": "./assets/audio/085/085022.mp3"
+      "arabic": "فِي لَوْحٍ مَحْفُوظٍ",
+      "bm": "Tersimpan rapi didalam sebuah tablet yang ulung.",
+      "en": "In a preserved master tablet.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/085022.mp3"
     }
   ]
 }

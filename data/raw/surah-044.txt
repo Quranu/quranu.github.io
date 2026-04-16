@@ -1,364 +1,381 @@
-SURAH_NUMBER: 44
-NAME_AR: الدخان
+﻿SURAH_NUMBER: 44
+NAME_AR: سورة الدخان
 NAME_BM: Asap
-NAME_EN: The Smoke
+NAME_EN: Smoke
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/044/044000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044000.mp3
 
 # Ayah 1
-AR: TODO_AR_044001
-BM: TODO_BM_044001
-EN: TODO_EN_044001
-AUDIO: ./assets/audio/044/044001.mp3
+AR: حم
+BM: H. M. (Ha. Mim.)
+EN: H. M.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044001.mp3
 
 # Ayah 2
-AR: TODO_AR_044002
-BM: TODO_BM_044002
-EN: TODO_EN_044002
-AUDIO: ./assets/audio/044/044002.mp3
+AR: وَالْكِتَابِ الْمُبِينِ
+BM: Dan kitab ini yang memberikan kesedaran.
+EN: And this enlightening scripture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044002.mp3
 
 # Ayah 3
-AR: TODO_AR_044003
-BM: TODO_BM_044003
-EN: TODO_EN_044003
-AUDIO: ./assets/audio/044/044003.mp3
+AR: إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةٍ مُبَارَكَةٍ إِنَّا كُنَّا مُنْذِرِينَ
+BM: Kami telah turunkannya dimalam yang telah dirahmati, kerana kami mesti memberikan amaran.
+EN: We have sent it down in a blessed night, for we are to warn.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044003.mp3
 
 # Ayah 4
-AR: TODO_AR_044004
-BM: TODO_BM_044004
-EN: TODO_EN_044004
-AUDIO: ./assets/audio/044/044004.mp3
+AR: فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ
+BM: Didalamnya, (kitab), setiap perkara bagi kebijaksanaan (hikmah) telah diterangkan.
+EN: In it (the scripture), every matter of wisdom is clarified.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044004.mp3
 
 # Ayah 5
-AR: TODO_AR_044005
-BM: TODO_BM_044005
-EN: TODO_EN_044005
-AUDIO: ./assets/audio/044/044005.mp3
+AR: أَمْرًا مِنْ عِنْدِنَا إِنَّا كُنَّا مُرْسِلِينَ
+BM: Ianya adalah satu ketetapkan perintah dari kami yang kami pasti menghantarkan para rasul.
+EN: It is a predetermined command from us that we send messengers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044005.mp3
 
 # Ayah 6
-AR: TODO_AR_044006
-BM: TODO_BM_044006
-EN: TODO_EN_044006
-AUDIO: ./assets/audio/044/044006.mp3
+AR: رَحْمَةً مِنْ رَبِّكَ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+BM: Ini adalah belas kasih dari Tuhanmu. Sesungguhnya, Dia sahajalah yang Maha Mendengar lagi Maha Mengetahui.
+EN: This is a mercy from your Lord. He is the Hearer, the Omniscient.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044006.mp3
 
 # Ayah 7
-AR: TODO_AR_044007
-BM: TODO_BM_044007
-EN: TODO_EN_044007
-AUDIO: ./assets/audio/044/044007.mp3
+AR: رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِنْ كُنْتُمْ مُوقِنِينَ
+BM: Tuhan bagi sekelian cekrawala dan bumi, dan segala galanya diantara kedua duanya. Hanyalah jika kamu dapat menyakinkan!
+EN: Lord of the heavens and the earth, and everything between them. If only you could be certain!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044007.mp3
 
 # Ayah 8
-AR: TODO_AR_044008
-BM: TODO_BM_044008
-EN: TODO_EN_044008
-AUDIO: ./assets/audio/044/044008.mp3
+AR: لَا إِلَٰهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ
+BM: Tidak ada tuhan yang lain disampingNya. Dia sahajalah yang menguasai kehidupan dan kematian; Tuhan kamu dan Tuhan bagi keturunan keturunan kamu.
+EN: There is no other god beside Him. He controls life and death; your Lord and the Lord of your ancestors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044008.mp3
 
 # Ayah 9
-AR: TODO_AR_044009
-BM: TODO_BM_044009
-EN: TODO_EN_044009
-AUDIO: ./assets/audio/044/044009.mp3
+AR: بَلْ هُمْ فِي شَكٍّ يَلْعَبُونَ
+BM: Sesungguhnya, mereka sedang meragui, dan tidak memperdulikan.
+EN: Indeed, they are doubtful, heedless.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044009.mp3
 
 # Ayah 10
-AR: TODO_AR_044010
-BM: TODO_BM_044010
-EN: TODO_EN_044010
-AUDIO: ./assets/audio/044/044010.mp3
+AR: فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ
+BM: Dari itu, lihatlah pada hari apabila langit membawa suatu asap yang nyata.
+EN: Therefore, watch for the day when the sky brings a profound smoke.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044010.mp3
+SUBTITLE_BM: Asap: Ramalan Yang Terutama
+SUBTITLE_EN: The Smoke: A Major Prophecy*
 
 # Ayah 11
-AR: TODO_AR_044011
-BM: TODO_BM_044011
-EN: TODO_EN_044011
-AUDIO: ./assets/audio/044/044011.mp3
+AR: يَغْشَى النَّاسَ هَٰذَا عَذَابٌ أَلِيمٌ
+BM: Ianya akan menyelubungi manusia; ini adalah hukuman yang menyakitkan.
+EN: It will envelop the people; this is a painful retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044011.mp3
 
 # Ayah 12
-AR: TODO_AR_044012
-BM: TODO_BM_044012
-EN: TODO_EN_044012
-AUDIO: ./assets/audio/044/044012.mp3
+AR: رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ إِنَّا مُؤْمِنُونَ
+BM: "Tuhan kami, hilangkanlah hukuman ini untuk kami; kami adalah orang orang yang percaya."
+EN: "Our Lord, relieve this retribution for us; we are believers."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044012.mp3
 
 # Ayah 13
-AR: TODO_AR_044013
-BM: TODO_BM_044013
-EN: TODO_EN_044013
-AUDIO: ./assets/audio/044/044013.mp3
+AR: أَنَّىٰ لَهُمُ الذِّكْرَىٰ وَقَدْ جَاءَهُمْ رَسُولٌ مُبِينٌ
+BM: Sekarang ini sudah terlambat, mereka baru saja sedar! Rasul yang membawa kesedaran telah datang kepada mereka.
+EN: Now that it is too late, they remember! An enlightening messenger had come to them.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044013.mp3
+SUBTITLE_BM: Rasul Allah Yang Di-Janjikan
+SUBTITLE_EN: God's Messenger of the Covenant*
 
 # Ayah 14
-AR: TODO_AR_044014
-BM: TODO_BM_044014
-EN: TODO_EN_044014
-AUDIO: ./assets/audio/044/044014.mp3
+AR: ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوا مُعَلَّمٌ مَجْنُونٌ
+BM: Tetapi mereka berpaling darinya, dengan mengatakan, "Terpelajar, tetapi gila!"
+EN: But they turned away from him, saying, "Well educated, but crazy!"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044014.mp3
 
 # Ayah 15
-AR: TODO_AR_044015
-BM: TODO_BM_044015
-EN: TODO_EN_044015
-AUDIO: ./assets/audio/044/044015.mp3
+AR: إِنَّا كَاشِفُو الْعَذَابِ قَلِيلًا إِنَّكُمْ عَائِدُونَ
+BM: Kami akan meredakan hukuman buat seketika; sekejap lagi tentunya kamu akan berbalik semula.
+EN: We will relieve the retribution for awhile; you will soon revert.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044015.mp3
 
 # Ayah 16
-AR: TODO_AR_044016
-BM: TODO_BM_044016
-EN: TODO_EN_044016
-AUDIO: ./assets/audio/044/044016.mp3
+AR: يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَىٰ إِنَّا مُنْتَقِمُونَ
+BM: Dihari yang kami akan memukul dengan pukulan yang besar, kami akan menuntut bela.
+EN: The day we strike the big stroke, we will avenge.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044016.mp3
 
 # Ayah 17
-AR: TODO_AR_044017
-BM: TODO_BM_044017
-EN: TODO_EN_044017
-AUDIO: ./assets/audio/044/044017.mp3
+AR: وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاءَهُمْ رَسُولٌ كَرِيمٌ
+BM: Kami telah mencuba sebelum mereka orang orang dari Fir'aun; seorang rasul yang mulia datang kepada mereka.
+EN: We have tested before them the people of Pharaoh; an honorable messenger went to them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044017.mp3
 
 # Ayah 18
-AR: TODO_AR_044018
-BM: TODO_BM_044018
-EN: TODO_EN_044018
-AUDIO: ./assets/audio/044/044018.mp3
+AR: أَنْ أَدُّوا إِلَيَّ عِبَادَ اللَّهِ إِنِّي لَكُمْ رَسُولٌ أَمِينٌ
+BM: Mengumumkan: "Dengarkanlah aku, hamba hamba Allah. Aku adalah rasul yang jujur kepada kamu."
+EN: Proclaiming: "Listen to me, servants of GOD. I am an honest messenger to you."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044018.mp3
 
 # Ayah 19
-AR: TODO_AR_044019
-BM: TODO_BM_044019
-EN: TODO_EN_044019
-AUDIO: ./assets/audio/044/044019.mp3
+AR: وَأَنْ لَا تَعْلُوا عَلَى اللَّهِ إِنِّي آتِيكُمْ بِسُلْطَانٍ مُبِينٍ
+BM: Dan, "Jangan berketerlaluan terhadap Allah. Aku membawa kepada kamu bukti bukti yang kuat.
+EN: And, "Do not transgress against GOD. I bring to you powerful proofs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044019.mp3
 
 # Ayah 20
-AR: TODO_AR_044020
-BM: TODO_BM_044020
-EN: TODO_EN_044020
-AUDIO: ./assets/audio/044/044020.mp3
+AR: وَإِنِّي عُذْتُ بِرَبِّي وَرَبِّكُمْ أَنْ تَرْجُمُونِ
+BM: "Aku mencari perlindungan kepada Tuhanku dan Tuhan kamu, jika kamu menentangku.
+EN: "I seek refuge in my Lord and your Lord, if you oppose me.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044020.mp3
 
 # Ayah 21
-AR: TODO_AR_044021
-BM: TODO_BM_044021
-EN: TODO_EN_044021
-AUDIO: ./assets/audio/044/044021.mp3
+AR: وَإِنْ لَمْ تُؤْمِنُوا لِي فَاعْتَزِلُونِ
+BM: "Jika kamu tidak ingin untuk mempercayakan, maka tinggalkanlah aku bersendirian."
+EN: "If you do not wish to believe, then simply leave me alone."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044021.mp3
 
 # Ayah 22
-AR: TODO_AR_044022
-BM: TODO_BM_044022
-EN: TODO_EN_044022
-AUDIO: ./assets/audio/044/044022.mp3
+AR: فَدَعَا رَبَّهُ أَنَّ هَٰؤُلَاءِ قَوْمٌ مُجْرِمُونَ
+BM: Kemudiannya, dia bermohon kepada Tuhannya: "Ini adalah orang orang yang zalim."
+EN: Subsequently, he implored his Lord: "These are wicked people."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044022.mp3
 
 # Ayah 23
-AR: TODO_AR_044023
-BM: TODO_BM_044023
-EN: TODO_EN_044023
-AUDIO: ./assets/audio/044/044023.mp3
+AR: فَأَسْرِ بِعِبَادِي لَيْلًا إِنَّكُمْ مُتَّبَعُونَ
+BM: (Allah bersabda,) "Berjalanlah dengan hamba hambaKu diwaktu malam; kamu akan dikejar.
+EN: (God said,) "Travel with My servants during the night; you will be pursued.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044023.mp3
 
 # Ayah 24
-AR: TODO_AR_044024
-BM: TODO_BM_044024
-EN: TODO_EN_044024
-AUDIO: ./assets/audio/044/044024.mp3
+AR: وَاتْرُكِ الْبَحْرَ رَهْوًا إِنَّهُمْ جُنْدٌ مُغْرَقُونَ
+BM: "Menyeberangi lautan dengan segera; bala tentera mereka akan ditenggelamkan."
+EN: "Cross the sea quickly; their troops will be drowned."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044024.mp3
 
 # Ayah 25
-AR: TODO_AR_044025
-BM: TODO_BM_044025
-EN: TODO_EN_044025
-AUDIO: ./assets/audio/044/044025.mp3
+AR: كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ
+BM: Lantas, mereka meninggalkan kebelakang banyak taman taman dan pancuran pancuran air.
+EN: Thus, they left behind many gardens and springs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044025.mp3
 
 # Ayah 26
-AR: TODO_AR_044026
-BM: TODO_BM_044026
-EN: TODO_EN_044026
-AUDIO: ./assets/audio/044/044026.mp3
+AR: وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ
+BM: Tumbuh tumbuhan dan kehidupan yang mewah.
+EN: Crops and a luxurious life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044026.mp3
 
 # Ayah 27
-AR: TODO_AR_044027
-BM: TODO_BM_044027
-EN: TODO_EN_044027
-AUDIO: ./assets/audio/044/044027.mp3
+AR: وَنَعْمَةٍ كَانُوا فِيهَا فَاكِهِينَ
+BM: Rahmat rahmat yang mereka menikmatinya.
+EN: Blessings that they enjoyed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044027.mp3
 
 # Ayah 28
-AR: TODO_AR_044028
-BM: TODO_BM_044028
-EN: TODO_EN_044028
-AUDIO: ./assets/audio/044/044028.mp3
+AR: كَذَٰلِكَ وَأَوْرَثْنَاهَا قَوْمًا آخَرِينَ
+BM: Semuanya ini kami menyebabkan diwarisi oleh orang orang lain.
+EN: All these we caused to be inherited by other people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044028.mp3
 
 # Ayah 29
-AR: TODO_AR_044029
-BM: TODO_BM_044029
-EN: TODO_EN_044029
-AUDIO: ./assets/audio/044/044029.mp3
+AR: فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالْأَرْضُ وَمَا كَانُوا مُنْظَرِينَ
+BM: Tidak akan cekrawala, dan tidak juga bumi menangisi untuk mereka, dan mereka tidak dapat penangguhan.
+EN: Neither the heaven, nor the earth wept over them, and they were not respited.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044029.mp3
 
 # Ayah 30
-AR: TODO_AR_044030
-BM: TODO_BM_044030
-EN: TODO_EN_044030
-AUDIO: ./assets/audio/044/044030.mp3
+AR: وَلَقَدْ نَجَّيْنَا بَنِي إِسْرَائِيلَ مِنَ الْعَذَابِ الْمُهِينِ
+BM: Sementara itu, kami selamatkan Bani Israil dari penderitaan yang menghinakan.
+EN: Meanwhile, we saved the Children of Israel from the humiliating persecution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044030.mp3
 
 # Ayah 31
-AR: TODO_AR_044031
-BM: TODO_BM_044031
-EN: TODO_EN_044031
-AUDIO: ./assets/audio/044/044031.mp3
+AR: مِنْ فِرْعَوْنَ إِنَّهُ كَانَ عَالِيًا مِنَ الْمُسْرِفِينَ
+BM: Dari Fir'aun; dia seorang yang zalim.
+EN: From Pharaoh; he was a tyrant.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044031.mp3
 
 # Ayah 32
-AR: TODO_AR_044032
-BM: TODO_BM_044032
-EN: TODO_EN_044032
-AUDIO: ./assets/audio/044/044032.mp3
+AR: وَلَقَدِ اخْتَرْنَاهُمْ عَلَىٰ عِلْمٍ عَلَى الْعَالَمِينَ
+BM: Dengan pengetahuan kami, kami telah memilih mereka dari kalangan semua manusia, yang mengetahui.
+EN: We have chosen them from among all the people, knowingly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044032.mp3
 
 # Ayah 33
-AR: TODO_AR_044033
-BM: TODO_BM_044033
-EN: TODO_EN_044033
-AUDIO: ./assets/audio/044/044033.mp3
+AR: وَآتَيْنَاهُمْ مِنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُبِينٌ
+BM: Kami telah tunjukkan kepada mereka banyak bukti bukti, mengandungi satu percubaan yang besar.
+EN: We showed them so many proofs, which constituted a great test.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044033.mp3
 
 # Ayah 34
-AR: TODO_AR_044034
-BM: TODO_BM_044034
-EN: TODO_EN_044034
-AUDIO: ./assets/audio/044/044034.mp3
+AR: إِنَّ هَٰؤُلَاءِ لَيَقُولُونَ
+BM: Generasi generasi sekarang berkata,
+EN: The present generations say,
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044034.mp3
+SUBTITLE_BM: Akibat Akibat Yang Sama Di-Jangkakan
+SUBTITLE_EN: Expect The Same Consequences
 
 # Ayah 35
-AR: TODO_AR_044035
-BM: TODO_BM_044035
-EN: TODO_EN_044035
-AUDIO: ./assets/audio/044/044035.mp3
+AR: إِنْ هِيَ إِلَّا مَوْتَتُنَا الْأُولَىٰ وَمَا نَحْنُ بِمُنْشَرِينَ
+BM: "Kami hanya mati dengan kematian yang pertama; kami tidak akan dibangkitkan semula!
+EN: "We only die the first death; we will never be resurrected!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044035.mp3
 
 # Ayah 36
-AR: TODO_AR_044036
-BM: TODO_BM_044036
-EN: TODO_EN_044036
-AUDIO: ./assets/audio/044/044036.mp3
+AR: فَأْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ
+BM: "Bawa kembali nenek moyang nenek moyang kami, jika sememangnya kau yang benar."
+EN: "Bring back our forefathers, if you are truthful."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044036.mp3
 
 # Ayah 37
-AR: TODO_AR_044037
-BM: TODO_BM_044037
-EN: TODO_EN_044037
-AUDIO: ./assets/audio/044/044037.mp3
+AR: أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَالَّذِينَ مِنْ قَبْلِهِمْ أَهْلَكْنَاهُمْ إِنَّهُمْ كَانُوا مُجْرِمِينَ
+BM: Adakah mereka itu lebih baik dari kaum Tuba' dan yang lain lain sebelum mereka? Kami telah menghapuskan mereka kerana jenayah jenaya mereka.
+EN: Are they better than the people of Tubba' and others before them? We annihilated them for their crimes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044037.mp3
 
 # Ayah 38
-AR: TODO_AR_044038
-BM: TODO_BM_044038
-EN: TODO_EN_044038
-AUDIO: ./assets/audio/044/044038.mp3
+AR: وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا لَاعِبِينَ
+BM: Kami tidak menciptakan sekelian cekrawala dan bumi, dan segala galanya diantara mereka itu, hanya untuk bersuka ria.
+EN: We did not create the heavens and the earth, and everything between them, just to play.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044038.mp3
 
 # Ayah 39
-AR: TODO_AR_044039
-BM: TODO_BM_044039
-EN: TODO_EN_044039
-AUDIO: ./assets/audio/044/044039.mp3
+AR: مَا خَلَقْنَاهُمَا إِلَّا بِالْحَقِّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+BM: Kami menciptakan mereka kerana tujuan yang tertentu, tetapi kebanyakan dari mereka itu tidak mengetahui.
+EN: We created them for a specific purpose, but most of them do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044039.mp3
 
 # Ayah 40
-AR: TODO_AR_044040
-BM: TODO_BM_044040
-EN: TODO_EN_044040
-AUDIO: ./assets/audio/044/044040.mp3
+AR: إِنَّ يَوْمَ الْفَصْلِ مِيقَاتُهُمْ أَجْمَعِينَ
+BM: Hari Ketentuan menunggukan mereka semua.
+EN: The Day of Decision awaits them all.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044040.mp3
 
 # Ayah 41
-AR: TODO_AR_044041
-BM: TODO_BM_044041
-EN: TODO_EN_044041
-AUDIO: ./assets/audio/044/044041.mp3
+AR: يَوْمَ لَا يُغْنِي مَوْلًى عَنْ مَوْلًى شَيْئًا وَلَا هُمْ يُنْصَرُونَ
+BM: Itulah harinya apabila tidak ada rakan dapat menolong rakannya dengan apa cara sekali pun; tidak ada sesiapa pun dapat ditolong.
+EN: That is the day when no friend can help his friend in any way; no one can be helped.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044041.mp3
 
 # Ayah 42
-AR: TODO_AR_044042
-BM: TODO_BM_044042
-EN: TODO_EN_044042
-AUDIO: ./assets/audio/044/044042.mp3
+AR: إِلَّا مَنْ رَحِمَ اللَّهُ إِنَّهُ هُوَ الْعَزِيزُ الرَّحِيمُ
+BM: Hanyalah orang orang yang mendapatkan belas kasih dari Allah. Sesungguhnya, Dia sahajalah yang Maha Kuat lagi Maha Penyayang.
+EN: Only those who attain mercy from GOD. He is the Almighty, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044042.mp3
 
 # Ayah 43
-AR: TODO_AR_044043
-BM: TODO_BM_044043
-EN: TODO_EN_044043
-AUDIO: ./assets/audio/044/044043.mp3
+AR: إِنَّ شَجَرَتَ الزَّقُّومِ
+BM: Sudah tentu, pokok yang sangat pahit -
+EN: Surely, the tree of bitterness--
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044043.mp3
+SUBTITLE_BM: Orang Orang Yang Ingkar
+SUBTITLE_EN: The Disbelievers
 
 # Ayah 44
-AR: TODO_AR_044044
-BM: TODO_BM_044044
-EN: TODO_EN_044044
-AUDIO: ./assets/audio/044/044044.mp3
+AR: طَعَامُ الْأَثِيمِ
+BM: Akan menjadi makanan bagi pendosa.
+EN: will provide the food for the sinful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044044.mp3
 
 # Ayah 45
-AR: TODO_AR_044045
-BM: TODO_BM_044045
-EN: TODO_EN_044045
-AUDIO: ./assets/audio/044/044045.mp3
+AR: كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ
+BM: Seperti batu bara panas, ianya akan mendidih didalam perut perut.
+EN: Like lye, it will boil in the stomachs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044045.mp3
 
 # Ayah 46
-AR: TODO_AR_044046
-BM: TODO_BM_044046
-EN: TODO_EN_044046
-AUDIO: ./assets/audio/044/044046.mp3
+AR: كَغَلْيِ الْحَمِيمِ
+BM: Seperti mendidihnya minuman dari neraka.
+EN: Like the boiling of hellish drinks.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044046.mp3
 
 # Ayah 47
-AR: TODO_AR_044047
-BM: TODO_BM_044047
-EN: TODO_EN_044047
-AUDIO: ./assets/audio/044/044047.mp3
+AR: خُذُوهُ فَاعْتِلُوهُ إِلَىٰ سَوَاءِ الْجَحِيمِ
+BM: Ambillah dia dan lemparkannya ketengah tengah Neraka.
+EN: Take him and throw him into the center of Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044047.mp3
 
 # Ayah 48
-AR: TODO_AR_044048
-BM: TODO_BM_044048
-EN: TODO_EN_044048
-AUDIO: ./assets/audio/044/044048.mp3
+AR: ثُمَّ صُبُّوا فَوْقَ رَأْسِهِ مِنْ عَذَابِ الْحَمِيمِ
+BM: Dan tuangkan dikepalanya siksaan dari api yang menjulang.
+EN: Then pour upon his head the retribution of the Inferno.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044048.mp3
 
 # Ayah 49
-AR: TODO_AR_044049
-BM: TODO_BM_044049
-EN: TODO_EN_044049
-AUDIO: ./assets/audio/044/044049.mp3
+AR: ذُقْ إِنَّكَ أَنْتَ الْعَزِيزُ الْكَرِيمُ
+BM: "Rasakan ini; kau telah menjadi sangat berkuasa, dan sangat mulia."
+EN: "Taste this; you were so powerful, so honorable."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044049.mp3
 
 # Ayah 50
-AR: TODO_AR_044050
-BM: TODO_BM_044050
-EN: TODO_EN_044050
-AUDIO: ./assets/audio/044/044050.mp3
+AR: إِنَّ هَٰذَا مَا كُنْتُمْ بِهِ تَمْتَرُونَ
+BM: Inilah apa yang kamu selalu meragukan.
+EN: This is what you used to doubt.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044050.mp3
 
 # Ayah 51
-AR: TODO_AR_044051
-BM: TODO_BM_044051
-EN: TODO_EN_044051
-AUDIO: ./assets/audio/044/044051.mp3
+AR: إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
+BM: Orang orang yang benar akan berada ditempat yang terjamin.
+EN: The righteous will be in a secure position.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044051.mp3
+SUBTITLE_BM: Orang Orang Yang Benar
+SUBTITLE_EN: The Righteous
 
 # Ayah 52
-AR: TODO_AR_044052
-BM: TODO_BM_044052
-EN: TODO_EN_044052
-AUDIO: ./assets/audio/044/044052.mp3
+AR: فِي جَنَّاتٍ وَعُيُونٍ
+BM: Menikmati taman taman dan pancuran pancuran air.
+EN: Enjoying gardens and springs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044052.mp3
 
 # Ayah 53
-AR: TODO_AR_044053
-BM: TODO_BM_044053
-EN: TODO_EN_044053
-AUDIO: ./assets/audio/044/044053.mp3
+AR: يَلْبَسُونَ مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ مُتَقَابِلِينَ
+BM: Memakai pakaian baldu dan satin; berdekatan dengan satu sama lain.
+EN: Wearing velvet and satin; close to each other.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044053.mp3
 
 # Ayah 54
-AR: TODO_AR_044054
-BM: TODO_BM_044054
-EN: TODO_EN_044054
-AUDIO: ./assets/audio/044/044054.mp3
+AR: كَذَٰلِكَ وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ
+BM: Kami memberikan mereka pasangan pasangan yang seronok.
+EN: We grant them wonderful spouses.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044054.mp3
 
 # Ayah 55
-AR: TODO_AR_044055
-BM: TODO_BM_044055
-EN: TODO_EN_044055
-AUDIO: ./assets/audio/044/044055.mp3
+AR: يَدْعُونَ فِيهَا بِكُلِّ فَاكِهَةٍ آمِنِينَ
+BM: Mereka menikmati didalamnya berbagai jenis buah buahan, didalam kesejahteraan yang sempurna.
+EN: They enjoy in it all kinds of fruits, in perfect peace.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044055.mp3
 
 # Ayah 56
-AR: TODO_AR_044056
-BM: TODO_BM_044056
-EN: TODO_EN_044056
-AUDIO: ./assets/audio/044/044056.mp3
+AR: لَا يَذُوقُونَ فِيهَا الْمَوْتَ إِلَّا الْمَوْتَةَ الْأُولَىٰ وَوَقَاهُمْ عَذَابَ الْجَحِيمِ
+BM: Mereka tidak merasakan mati didalamnya - selepas kematian yang pertama - dan Dia telah menyelamatkan mereka dari siksaan Neraka.
+EN: They do not taste death therein-- beyond the first death*--and He has spared them the retribution of Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044056.mp3
+SUBTITLE_BM: Orang Orang Yang Benar Sebenarnya Tidak Mati
+SUBTITLE_EN: The Righteous Do Not Really Die*
 
 # Ayah 57
-AR: TODO_AR_044057
-BM: TODO_BM_044057
-EN: TODO_EN_044057
-AUDIO: ./assets/audio/044/044057.mp3
+AR: فَضْلًا مِنْ رَبِّكَ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ
+BM: Demikian itulah rahmat dari Allah. Demikian itulah kemenangan yang besar.
+EN: Such is the blessing from your Lord. Such is the great triumph.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044057.mp3
 
 # Ayah 58
-AR: TODO_AR_044058
-BM: TODO_BM_044058
-EN: TODO_EN_044058
-AUDIO: ./assets/audio/044/044058.mp3
+AR: فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+BM: Lantas, kami telah menerangkannya kebahasa kau, supaya mereka dapat merenungkan
+EN: We have thus clarified it in your language, that they may take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044058.mp3
 
 # Ayah 59
-AR: TODO_AR_044059
-BM: TODO_BM_044059
-EN: TODO_EN_044059
-AUDIO: ./assets/audio/044/044059.mp3
+AR: فَارْتَقِبْ إِنَّهُمْ مُرْتَقِبُونَ
+BM: Dari itu, tunggulah; mereka juga akan menunggu.
+EN: Therefore, wait; they too will have to wait.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/044059.mp3
+
+
+
+
+

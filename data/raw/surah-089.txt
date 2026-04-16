@@ -1,190 +1,195 @@
-SURAH_NUMBER: 89
-NAME_AR: الفجر
-NAME_BM: Fajar
-NAME_EN: The Dawn
+﻿SURAH_NUMBER: 89
+NAME_AR: سورة الفجر
+NAME_BM: Subuh
+NAME_EN: Dawn
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/089/089000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089000.mp3
 
 # Ayah 1
-AR: TODO_AR_089001
-BM: TODO_BM_089001
-EN: TODO_EN_089001
-AUDIO: ./assets/audio/089/089001.mp3
+AR: وَالفَجرِ
+BM: Demi subuh.
+EN: By the dawn.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089001.mp3
 
 # Ayah 2
-AR: TODO_AR_089002
-BM: TODO_BM_089002
-EN: TODO_EN_089002
-AUDIO: ./assets/audio/089/089002.mp3
+AR: وَلَيَالٍ عَشْرٍ
+BM: Dan malam yang kesepuluh.
+EN: And the ten nights. *
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089002.mp3
 
 # Ayah 3
-AR: TODO_AR_089003
-BM: TODO_BM_089003
-EN: TODO_EN_089003
-AUDIO: ./assets/audio/089/089003.mp3
+AR: وَالشَّفْعِ وَالْوَتْرِ
+BM: Bagi yang genap dan yang ganjil.
+EN: By the even and the odd. *
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089003.mp3
 
 # Ayah 4
-AR: TODO_AR_089004
-BM: TODO_BM_089004
-EN: TODO_EN_089004
-AUDIO: ./assets/audio/089/089004.mp3
+AR: وَالَّيْلِ إِذَا يَسْرِ
+BM: Demi malam apabila ianya berlalu.
+EN: By the night as it passes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089004.mp3
 
 # Ayah 5
-AR: TODO_AR_089005
-BM: TODO_BM_089005
-EN: TODO_EN_089005
-AUDIO: ./assets/audio/089/089005.mp3
+AR: هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ
+BM: Sumpah yang nyata, bagi seseorang yang mempunyai kecerdasan.
+EN: A profound oath, for one who possesses intelligence.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089005.mp3
 
 # Ayah 6
-AR: TODO_AR_089006
-BM: TODO_BM_089006
-EN: TODO_EN_089006
-AUDIO: ./assets/audio/089/089006.mp3
+AR: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ
+BM: Tidakkah kamu perhatikan apa yang Tuhan kamu lakukan kepada 'Ad?
+EN: Have you noted what your Lord did to 'Ãd?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089006.mp3
 
 # Ayah 7
-AR: TODO_AR_089007
-BM: TODO_BM_089007
-EN: TODO_EN_089007
-AUDIO: ./assets/audio/089/089007.mp3
+AR: إِرَمَ ذَاتِ الْعِمَادِ
+BM: Erum; bandar yang mempunyai bangunan bangunan yang tinggi tinggi.
+EN: Erum; the town with tall buildings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089007.mp3
 
 # Ayah 8
-AR: TODO_AR_089008
-BM: TODO_BM_089008
-EN: TODO_EN_089008
-AUDIO: ./assets/audio/089/089008.mp3
+AR: الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ
+BM: Tidak ada yang serupa dengannya dimana mana.
+EN: There was nothing like it anywhere.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089008.mp3
 
 # Ayah 9
-AR: TODO_AR_089009
-BM: TODO_BM_089009
-EN: TODO_EN_089009
-AUDIO: ./assets/audio/089/089009.mp3
+AR: وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ
+BM: Begitu juga dengan Thamud, yang mengukir batu batu dilembah mereka.
+EN: Also Thamûd, who carved the rocks in their valley.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089009.mp3
 
 # Ayah 10
-AR: TODO_AR_089010
-BM: TODO_BM_089010
-EN: TODO_EN_089010
-AUDIO: ./assets/audio/089/089010.mp3
+AR: وَفِرْعَوْنَ ذِي الْأَوْتَادِ
+BM: Dan Fir'aun yang mempunyai kuasa.
+EN: And Pharaoh who possessed might.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089010.mp3
 
 # Ayah 11
-AR: TODO_AR_089011
-BM: TODO_BM_089011
-EN: TODO_EN_089011
-AUDIO: ./assets/audio/089/089011.mp3
+AR: الَّذِينَ طَغَوْا فِي الْبِلَادِ
+BM: Mereka semuanya melampaui batas dimuka bumi.
+EN: They all transgressed in the land.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089011.mp3
 
 # Ayah 12
-AR: TODO_AR_089012
-BM: TODO_BM_089012
-EN: TODO_EN_089012
-AUDIO: ./assets/audio/089/089012.mp3
+AR: فَأَكْثَرُوا فِيهَا الْفَسَادَ
+BM: Mereka merebakkan kejahatan dikeseluruhannya.
+EN: They spread evil throughout.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089012.mp3
 
 # Ayah 13
-AR: TODO_AR_089013
-BM: TODO_BM_089013
-EN: TODO_EN_089013
-AUDIO: ./assets/audio/089/089013.mp3
+AR: فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ
+BM: Akibatnya, Tuhan kamu menyirami mereka dengan pukulan yang mengazabkan.
+EN: Consequently, your Lord poured upon them a whipping retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089013.mp3
 
 # Ayah 14
-AR: TODO_AR_089014
-BM: TODO_BM_089014
-EN: TODO_EN_089014
-AUDIO: ./assets/audio/089/089014.mp3
+AR: إِنَّ رَبَّكَ لَبِالْمِرْصَادِ
+BM: Tuhanmu selalunya memerhatikan.
+EN: Your Lord is ever watchful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089014.mp3
 
 # Ayah 15
-AR: TODO_AR_089015
-BM: TODO_BM_089015
-EN: TODO_EN_089015
-AUDIO: ./assets/audio/089/089015.mp3
+AR: فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ
+BM: Apabila manusia dicuba oleh Tuhannya, melalui rahmat dan kegembiraan, dia berkata, "Tuhanku adalah amat murah terhadapku."
+EN: When the human being is tested by his Lord, through blessings and joy, he says, "My Lord is generous towards me."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089015.mp3
 
 # Ayah 16
-AR: TODO_AR_089016
-BM: TODO_BM_089016
-EN: TODO_EN_089016
-AUDIO: ./assets/audio/089/089016.mp3
+AR: وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ
+BM: Tetapi jika Dia mencubainya melalui kekurangan peruntukkan peruntukkan, dia berkata, "Tuhanku menghinakanku!"
+EN: But if He tests him through reduction in provisions, he says, "My Lord is humiliating me!"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089016.mp3
 
 # Ayah 17
-AR: TODO_AR_089017
-BM: TODO_BM_089017
-EN: TODO_EN_089017
-AUDIO: ./assets/audio/089/089017.mp3
+AR: كَلَّا بَلْ لَا تُكْرِمُونَ الْيَتِيمَ
+BM: Salah! Ianya adalah kamu yang membawanya kepada diri diri kamu sendiri dengan tidak mempedulikan anak yatim.
+EN: Wrong! It is you who brought it on yourselves by not regarding the orphan.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089017.mp3
 
 # Ayah 18
-AR: TODO_AR_089018
-BM: TODO_BM_089018
-EN: TODO_EN_089018
-AUDIO: ./assets/audio/089/089018.mp3
+AR: وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ
+BM: Dan tidak menganjurkan derma terhadap orang orang miskin.
+EN: And not advocating charity towards the poor.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089018.mp3
 
 # Ayah 19
-AR: TODO_AR_089019
-BM: TODO_BM_089019
-EN: TODO_EN_089019
-AUDIO: ./assets/audio/089/089019.mp3
+AR: وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا
+BM: Dan memakan harta yang diwariskan kepada anak anak yatim yang tidak berupaya.
+EN: And consuming the inheritance of helpless orphans.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089019.mp3
 
 # Ayah 20
-AR: TODO_AR_089020
-BM: TODO_BM_089020
-EN: TODO_EN_089020
-AUDIO: ./assets/audio/089/089020.mp3
+AR: وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا
+BM: Dan mencintai wang dengan keterlaluan.
+EN: And loving the money too much.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089020.mp3
 
 # Ayah 21
-AR: TODO_AR_089021
-BM: TODO_BM_089021
-EN: TODO_EN_089021
-AUDIO: ./assets/audio/089/089021.mp3
+AR: كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا
+BM: Sesungguhnya, apabila bumi menjadi hancur dengan kehancuran yang sebenar.
+EN: Indeed, when the earth is crushed, utterly crushed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089021.mp3
 
 # Ayah 22
-AR: TODO_AR_089022
-BM: TODO_BM_089022
-EN: TODO_EN_089022
-AUDIO: ./assets/audio/089/089022.mp3
+AR: وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا
+BM: Dan Tuhan kamu datang, bersama sama dengan para malaikat dalam barisan demi barisan.
+EN: And your Lord comes, together with the angels in row after row.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089022.mp3
 
 # Ayah 23
-AR: TODO_AR_089023
-BM: TODO_BM_089023
-EN: TODO_EN_089023
-AUDIO: ./assets/audio/089/089023.mp3
+AR: وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ
+BM: Pada hari itu, Gehenna akan dibawa kehadapan. Pada hari itu, manusia akan teringat - tetapi apalah gunanya peringatan ? ianya akan menjadi terlambat.
+EN: On that day, Gehenna will be brought forth. On that day, the human being will remember--but what a remembrance--it will be too late.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089023.mp3
 
 # Ayah 24
-AR: TODO_AR_089024
-BM: TODO_BM_089024
-EN: TODO_EN_089024
-AUDIO: ./assets/audio/089/089024.mp3
+AR: يَقُولُ يَالَيْتَنِي قَدَّمْتُ لِحَيَاتِي
+BM: Dia akan berkata, "Oh, Jika dapat aku sediakan untuk kehidupanku (yang kekal ini)."
+EN: He will say, "Oh, I wish I prepared for my (eternal) life."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089024.mp3
 
 # Ayah 25
-AR: TODO_AR_089025
-BM: TODO_BM_089025
-EN: TODO_EN_089025
-AUDIO: ./assets/audio/089/089025.mp3
+AR: فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ
+BM: Pada hari itu, tidak ada hukuman yang lebih buruk dari hukumanNya.
+EN: On that day, no retribution could be worse than His retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089025.mp3
 
 # Ayah 26
-AR: TODO_AR_089026
-BM: TODO_BM_089026
-EN: TODO_EN_089026
-AUDIO: ./assets/audio/089/089026.mp3
+AR: وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ
+BM: Dan tidak ada pengurungan yang lebih berkesan dari pengurunganNya.
+EN: And no confinement is as effective as His confinement.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089026.mp3
 
 # Ayah 27
-AR: TODO_AR_089027
-BM: TODO_BM_089027
-EN: TODO_EN_089027
-AUDIO: ./assets/audio/089/089027.mp3
+AR: يَاأَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ
+BM: Bagi kau, wahai roh yang berpuas hati.
+EN: As for you, O content soul.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089027.mp3
 
 # Ayah 28
-AR: TODO_AR_089028
-BM: TODO_BM_089028
-EN: TODO_EN_089028
-AUDIO: ./assets/audio/089/089028.mp3
+AR: ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً
+BM: Kembalilah kepada Tuhan kamu, redha dan diredhai.
+EN: Return to your Lord, pleased and pleasing.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089028.mp3
 
 # Ayah 29
-AR: TODO_AR_089029
-BM: TODO_BM_089029
-EN: TODO_EN_089029
-AUDIO: ./assets/audio/089/089029.mp3
+AR: فَادْخُلِي فِي عِبَادِي
+BM: Masuklah kedalam hamba hambaKu.
+EN: Welcome into My servants.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089029.mp3
 
 # Ayah 30
-AR: TODO_AR_089030
-BM: TODO_BM_089030
-EN: TODO_EN_089030
-AUDIO: ./assets/audio/089/089030.mp3
+AR: وَادْخُلِي جَنَّتِي
+BM: Masuklah kedalam SyurgaKu.
+EN: Welcome into My Paradise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/089030.mp3
+
+
+
+
+

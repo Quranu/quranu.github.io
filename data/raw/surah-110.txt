@@ -1,28 +1,35 @@
-SURAH_NUMBER: 110
-NAME_AR: النصر
-NAME_BM: Pertolongan
-NAME_EN: Divine Support
+﻿SURAH_NUMBER: 110
+NAME_AR: سورة الـنصر
+NAME_BM: Kemenangan
+NAME_EN: Triumph
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/110/110000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/110000.mp3
+SUBTITLE_BM: [Sura Terakhir Diturunkan]*
+SUBTITLE_EN: [Last Sura Revealed]*
 
 # Ayah 1
-AR: TODO_AR_110001
-BM: TODO_BM_110001
-EN: TODO_EN_110001
-AUDIO: ./assets/audio/110/110001.mp3
+AR: إِذا جاءَ نَصرُ اللَّهِ وَالفَتحُ
+BM: Apabila kemenangan datang dari Allah, dan kejayaan.
+EN: When triumph comes from GOD, and victory.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/110001.mp3
 
 # Ayah 2
-AR: TODO_AR_110002
-BM: TODO_BM_110002
-EN: TODO_EN_110002
-AUDIO: ./assets/audio/110/110002.mp3
+AR: وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا
+BM: Kamu akan melihat manusia memeluk agama Allah dengan berkumpulan yang beramai ramai.
+EN: You will see the people embracing GOD's religion in throngs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/110002.mp3
 
 # Ayah 3
-AR: TODO_AR_110003
-BM: TODO_BM_110003
-EN: TODO_EN_110003
-AUDIO: ./assets/audio/110/110003.mp3
+AR: فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا
+BM: Kau mestilah mengagungkan dan memujikan Tuhanmu, dan bermohonlah kepadaNya untuk pengampunan. Sesungguhnya, Dialah yang Maha Penebus.
+EN: You shall glorify and praise your Lord, and implore Him for forgiveness. He is the Redeemer.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/110003.mp3
+
+
+
+
+

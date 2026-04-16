@@ -1,7 +1,7 @@
 {
   "surahNumber": 91,
   "name": {
-    "ar": "الشمس",
+    "ar": "سورة الـشـمـس",
     "bm": "Matahari",
     "en": "The Sun"
   },
@@ -10,114 +10,114 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/091/091000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_091001",
-      "bm": "TODO_BM_091001",
-      "en": "TODO_EN_091001",
-      "audio": "./assets/audio/091/091001.mp3"
+      "arabic": "وَالشَّمسِ وَضُحاها",
+      "bm": "Demi matahari apabila ianya menerang.",
+      "en": "By the sun and its brightness.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_091002",
-      "bm": "TODO_BM_091002",
-      "en": "TODO_EN_091002",
-      "audio": "./assets/audio/091/091002.mp3"
+      "arabic": "وَالْقَمَرِ إِذَا تَلَاهَا",
+      "bm": "Bulan yang mengikutinya.",
+      "en": "The moon that follows it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_091003",
-      "bm": "TODO_BM_091003",
-      "en": "TODO_EN_091003",
-      "audio": "./assets/audio/091/091003.mp3"
+      "arabic": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+      "bm": "Siang hari yang mendedahkan.",
+      "en": "The day that reveals.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_091004",
-      "bm": "TODO_BM_091004",
-      "en": "TODO_EN_091004",
-      "audio": "./assets/audio/091/091004.mp3"
+      "arabic": "وَالَّيْلِ إِذَا يَغْشَاهَا",
+      "bm": "Malam yang menutup.",
+      "en": "The night that covers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_091005",
-      "bm": "TODO_BM_091005",
-      "en": "TODO_EN_091005",
-      "audio": "./assets/audio/091/091005.mp3"
+      "arabic": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+      "bm": "Langit dan Dia yang membinakannya.",
+      "en": "The sky and Him who built it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_091006",
-      "bm": "TODO_BM_091006",
-      "en": "TODO_EN_091006",
-      "audio": "./assets/audio/091/091006.mp3"
+      "arabic": "وَالْأَرْضِ وَمَا طَحَاهَا",
+      "bm": "Bumi dan Dia yang mengekalkan.",
+      "en": "The earth and Him who sustains it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_091007",
-      "bm": "TODO_BM_091007",
-      "en": "TODO_EN_091007",
-      "audio": "./assets/audio/091/091007.mp3"
+      "arabic": "وَنَفْسٍ وَمَا سَوَّاهَا",
+      "bm": "Roh dan Dia yang menciptanya.",
+      "en": "The soul and Him who created it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_091008",
-      "bm": "TODO_BM_091008",
-      "en": "TODO_EN_091008",
-      "audio": "./assets/audio/091/091008.mp3"
+      "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+      "bm": "Lalu ditunjukinya apa yang jahat dan apa yang baik.",
+      "en": "Then showed it what is evil and what is good.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_091009",
-      "bm": "TODO_BM_091009",
-      "en": "TODO_EN_091009",
-      "audio": "./assets/audio/091/091009.mp3"
+      "arabic": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+      "bm": "Berjayalah sesiapa yang membersihkannya.",
+      "en": "Successful is one who redeems it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_091010",
-      "bm": "TODO_BM_091010",
-      "en": "TODO_EN_091010",
-      "audio": "./assets/audio/091/091010.mp3"
+      "arabic": "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+      "bm": "Gagallah sesiapa yang tidak mempedulikannya.",
+      "en": "Failing is one who neglects it.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_091011",
-      "bm": "TODO_BM_091011",
-      "en": "TODO_EN_091011",
-      "audio": "./assets/audio/091/091011.mp3"
+      "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+      "bm": "Thamud tidak percaya lalu menjadikan mereka melampaui batasan.",
+      "en": "Thamûd's disbelief caused them to transgress.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_091012",
-      "bm": "TODO_BM_091012",
-      "en": "TODO_EN_091012",
-      "audio": "./assets/audio/091/091012.mp3"
+      "arabic": "إِذِ انْبَعَثَ أَشْقَاهَا",
+      "bm": "Mereka mengikuti yang paling jahat dari kalangan mereka.",
+      "en": "They followed the worst among them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_091013",
-      "bm": "TODO_BM_091013",
-      "en": "TODO_EN_091013",
-      "audio": "./assets/audio/091/091013.mp3"
+      "arabic": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+      "bm": "Rasul Allah berkata kepada mereka, \"Ini adalah unta Allah; biarkanlah dia minum.\"",
+      "en": "GOD's messenger said to them, \"This is GOD's camel; let her drink.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_091014",
-      "bm": "TODO_BM_091014",
-      "en": "TODO_EN_091014",
-      "audio": "./assets/audio/091/091014.mp3"
+      "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+      "bm": "Mereka mengingkarinya dan menyembelihnya. Lalu Tuhan mereka membalas mereka kerana dosa dosa mereka dan menghapuskan mereka.",
+      "en": "They disbelieved him and slaughtered her. Their Lord then requited them for their sin and annihilated them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_091015",
-      "bm": "TODO_BM_091015",
-      "en": "TODO_EN_091015",
-      "audio": "./assets/audio/091/091015.mp3"
+      "arabic": "وَلَا يَخَافُ عُقْبَاهَا",
+      "bm": "Namun demikian, orang orang yang datang sesudah mereka masih tetap tidak mempedulikan.",
+      "en": "Yet, those who came after them remain heedless.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/091015.mp3"
     }
   ]
 }

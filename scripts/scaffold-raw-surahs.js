@@ -192,7 +192,7 @@ function buildBismillahBlock(suraCode) {
     `AR: ${bismillah.ar}`,
     `BM: ${bismillah.bm}`,
     `EN: ${bismillah.en}`,
-    `AUDIO: ./assets/audio/${suraCode}/${suraCode}000.mp3`,
+    `AUDIO: https://everyayah.com/data/Alafasy_64kbps/${suraCode}000.mp3`,
   ];
 }
 
@@ -205,7 +205,7 @@ function buildPlaceholderAyahBlock(suraCode, ayahNumber) {
     `AR: TODO_AR_${reference}`,
     `BM: TODO_BM_${reference}`,
     `EN: TODO_EN_${reference}`,
-    `AUDIO: ./assets/audio/${suraCode}/${reference}.mp3`,
+    `AUDIO: https://everyayah.com/data/Alafasy_64kbps/${reference}.mp3`,
   ];
 }
 

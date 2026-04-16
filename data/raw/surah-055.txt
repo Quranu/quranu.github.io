@@ -1,478 +1,483 @@
-SURAH_NUMBER: 55
-NAME_AR: الرحمن
-NAME_BM: Yang Maha Pemurah
-NAME_EN: The Most Compassionate
+﻿SURAH_NUMBER: 55
+NAME_AR: سورة الـرحـمـن
+NAME_BM: Yang Maha Pengasih
+NAME_EN: Most Gracious
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/055/055000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055000.mp3
 
 # Ayah 1
-AR: TODO_AR_055001
-BM: TODO_BM_055001
-EN: TODO_EN_055001
-AUDIO: ./assets/audio/055/055001.mp3
+AR: الرَّحمٰنُ
+BM: Yang Maha Pengasih.
+EN: The Most Gracious.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055001.mp3
 
 # Ayah 2
-AR: TODO_AR_055002
-BM: TODO_BM_055002
-EN: TODO_EN_055002
-AUDIO: ./assets/audio/055/055002.mp3
+AR: عَلَّمَ الْقُرْآنَ
+BM: Pengajar Quran.
+EN: Teacher of the Quran.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055002.mp3
 
 # Ayah 3
-AR: TODO_AR_055003
-BM: TODO_BM_055003
-EN: TODO_EN_055003
-AUDIO: ./assets/audio/055/055003.mp3
+AR: خَلَقَ الْإِنْسَانَ
+BM: Pencipta manusia.
+EN: Creator of the human beings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055003.mp3
 
 # Ayah 4
-AR: TODO_AR_055004
-BM: TODO_BM_055004
-EN: TODO_EN_055004
-AUDIO: ./assets/audio/055/055004.mp3
+AR: عَلَّمَهُ الْبَيَانَ
+BM: Dia yang mengajarkan mereka bagaimana untuk membezakan.
+EN: He taught them how to distinguish.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055004.mp3
 
 # Ayah 5
-AR: TODO_AR_055005
-BM: TODO_BM_055005
-EN: TODO_EN_055005
-AUDIO: ./assets/audio/055/055005.mp3
+AR: الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ
+BM: Matahari dan bulan telah dikira dengan cukup rapi.
+EN: The sun and the moon are perfectly calculated.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055005.mp3
 
 # Ayah 6
-AR: TODO_AR_055006
-BM: TODO_BM_055006
-EN: TODO_EN_055006
-AUDIO: ./assets/audio/055/055006.mp3
+AR: وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ
+BM: Bintang bintang dan pokok pokok bersujud.
+EN: The stars and the trees prostrate.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055006.mp3
 
 # Ayah 7
-AR: TODO_AR_055007
-BM: TODO_BM_055007
-EN: TODO_EN_055007
-AUDIO: ./assets/audio/055/055007.mp3
+AR: وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ
+BM: Dia yang membinakan langit dan memantapkan undang undang.
+EN: He constructed the sky and established the law.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055007.mp3
 
 # Ayah 8
-AR: TODO_AR_055008
-BM: TODO_BM_055008
-EN: TODO_EN_055008
-AUDIO: ./assets/audio/055/055008.mp3
+AR: أَلَّا تَطْغَوْا فِي الْمِيزَانِ
+BM: Janganlah sekali kali kamu melampaui undang undang.
+EN: You shall not transgress the law.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055008.mp3
 
 # Ayah 9
-AR: TODO_AR_055009
-BM: TODO_BM_055009
-EN: TODO_EN_055009
-AUDIO: ./assets/audio/055/055009.mp3
+AR: وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ
+BM: Kamu mestilah menetapkan keadilan; janganlah melanggar undang undang.
+EN: You shall establish justice; do not violate the law.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055009.mp3
 
 # Ayah 10
-AR: TODO_AR_055010
-BM: TODO_BM_055010
-EN: TODO_EN_055010
-AUDIO: ./assets/audio/055/055010.mp3
+AR: وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ
+BM: Dia yang menciptakan bumi untuk semua makhluk makhluk.
+EN: He created the earth for all creatures.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055010.mp3
 
 # Ayah 11
-AR: TODO_AR_055011
-BM: TODO_BM_055011
-EN: TODO_EN_055011
-AUDIO: ./assets/audio/055/055011.mp3
+AR: فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ
+BM: Didalamnya ada buah buahan, dan pokok pokok kurma yang buahnya bergantungan.
+EN: In it there are fruits, and date palms with their hanging fruit.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055011.mp3
 
 # Ayah 12
-AR: TODO_AR_055012
-BM: TODO_BM_055012
-EN: TODO_EN_055012
-AUDIO: ./assets/audio/055/055012.mp3
+AR: وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ
+BM: Juga biji bijian dan berbagai macam jenis rempah ratus.
+EN: Also grains and the spices.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055012.mp3
 
 # Ayah 13
-AR: TODO_AR_055013
-BM: TODO_BM_055013
-EN: TODO_EN_055013
-AUDIO: ./assets/audio/055/055013.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: (Wahai manusia dan para jin) yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: (O humans and jinns,) which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055013.mp3
 
 # Ayah 14
-AR: TODO_AR_055014
-BM: TODO_BM_055014
-EN: TODO_EN_055014
-AUDIO: ./assets/audio/055/055014.mp3
+AR: خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ
+BM: Dia menciptakan manusia dari tanah liat yang berzaman, seperti tukang tembikar.
+EN: He created the human from aged clay, like the potter's clay.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055014.mp3
 
 # Ayah 15
-AR: TODO_AR_055015
-BM: TODO_BM_055015
-EN: TODO_EN_055015
-AUDIO: ./assets/audio/055/055015.mp3
+AR: وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ
+BM: Dan menciptakan para jin dari api yang membara.
+EN: And created the jinns from blazing fire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055015.mp3
 
 # Ayah 16
-AR: TODO_AR_055016
-BM: TODO_BM_055016
-EN: TODO_EN_055016
-AUDIO: ./assets/audio/055/055016.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: (Wahai manusia dan para jin) yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: (O humans and jinns,) which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055016.mp3
 
 # Ayah 17
-AR: TODO_AR_055017
-BM: TODO_BM_055017
-EN: TODO_EN_055017
-AUDIO: ./assets/audio/055/055017.mp3
+AR: رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ
+BM: Tuhan bagi dua timur dan dua barat.
+EN: Lord of the two easts and the two wests.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055017.mp3
 
 # Ayah 18
-AR: TODO_AR_055018
-BM: TODO_BM_055018
-EN: TODO_EN_055018
-AUDIO: ./assets/audio/055/055018.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055018.mp3
 
 # Ayah 19
-AR: TODO_AR_055019
-BM: TODO_BM_055019
-EN: TODO_EN_055019
-AUDIO: ./assets/audio/055/055019.mp3
+AR: مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ
+BM: Dia yang memisahkan dua lautan dimana mereka bertemu.
+EN: He separates the two seas where they meet.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055019.mp3
 
 # Ayah 20
-AR: TODO_AR_055020
-BM: TODO_BM_055020
-EN: TODO_EN_055020
-AUDIO: ./assets/audio/055/055020.mp3
+AR: بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ
+BM: Penghalang telah diletakkan diantara mereka, untuk melindungi mereka dari melampaui batas.
+EN: A barrier is placed between them, to prevent them from transgressing.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055020.mp3
 
 # Ayah 21
-AR: TODO_AR_055021
-BM: TODO_BM_055021
-EN: TODO_EN_055021
-AUDIO: ./assets/audio/055/055021.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055021.mp3
 
 # Ayah 22
-AR: TODO_AR_055022
-BM: TODO_BM_055022
-EN: TODO_EN_055022
-AUDIO: ./assets/audio/055/055022.mp3
+AR: يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ
+BM: Dari kedua mereka kamu mendapatkan mutiara mutiara dan marjan.
+EN: Out of both of them you get pearls and coral.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055022.mp3
 
 # Ayah 23
-AR: TODO_AR_055023
-BM: TODO_BM_055023
-EN: TODO_EN_055023
-AUDIO: ./assets/audio/055/055023.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055023.mp3
 
 # Ayah 24
-AR: TODO_AR_055024
-BM: TODO_BM_055024
-EN: TODO_EN_055024
-AUDIO: ./assets/audio/055/055024.mp3
+AR: وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ
+BM: Dia berikan kamu kapal kapal yang belayar dilautan seperti bendera bendera.
+EN: He gave you ships that roam the sea like flags.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055024.mp3
 
 # Ayah 25
-AR: TODO_AR_055025
-BM: TODO_BM_055025
-EN: TODO_EN_055025
-AUDIO: ./assets/audio/055/055025.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055025.mp3
 
 # Ayah 26
-AR: TODO_AR_055026
-BM: TODO_BM_055026
-EN: TODO_EN_055026
-AUDIO: ./assets/audio/055/055026.mp3
+AR: كُلُّ مَنْ عَلَيْهَا فَانٍ
+BM: Kesemuanya yang ada dibumi akan habis musnah.
+EN: Everyone on earth perishes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055026.mp3
 
 # Ayah 27
-AR: TODO_AR_055027
-BM: TODO_BM_055027
-EN: TODO_EN_055027
-AUDIO: ./assets/audio/055/055027.mp3
+AR: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ
+BM: Hanyalah kehadiran Tuhan kamu yang akan kekal. Yang Maha Pemilik yang Maha Agung lagi Maha Mulia.
+EN: Only the presence of your Lord lasts. Possessor of Majesty and Honor.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055027.mp3
 
 # Ayah 28
-AR: TODO_AR_055028
-BM: TODO_BM_055028
-EN: TODO_EN_055028
-AUDIO: ./assets/audio/055/055028.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055028.mp3
 
 # Ayah 29
-AR: TODO_AR_055029
-BM: TODO_BM_055029
-EN: TODO_EN_055029
-AUDIO: ./assets/audio/055/055029.mp3
+AR: يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ
+BM: Memohon kepadaNya adalah semuanya disekelian cekrawala dan dibumi. Setiap hari Dia sahajalah yang berkuasa dengan sepenuhnya.
+EN: Imploring Him is everyone in the heavens and the earth. Every day He is in full control.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055029.mp3
 
 # Ayah 30
-AR: TODO_AR_055030
-BM: TODO_BM_055030
-EN: TODO_EN_055030
-AUDIO: ./assets/audio/055/055030.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055030.mp3
 
 # Ayah 31
-AR: TODO_AR_055031
-BM: TODO_BM_055031
-EN: TODO_EN_055031
-AUDIO: ./assets/audio/055/055031.mp3
+AR: سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ
+BM: Kami akan memanggil kamu untuk diperhitungkan, wahai manusia dan para jin.
+EN: We will call you to account, O humans and jinns.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055031.mp3
 
 # Ayah 32
-AR: TODO_AR_055032
-BM: TODO_BM_055032
-EN: TODO_EN_055032
-AUDIO: ./assets/audio/055/055032.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055032.mp3
 
 # Ayah 33
-AR: TODO_AR_055033
-BM: TODO_BM_055033
-EN: TODO_EN_055033
-AUDIO: ./assets/audio/055/055033.mp3
+AR: يَامَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ
+BM: Wahai para jin dan manusia, jika kamu boleh menembus luar batasan bagi sekelian cekrawala dan bumi, pergilah dan tembuslah. Kamu tidak akan dapat menembusnya dengan tidak mendapatkan autoriti.
+EN: O you jinns and humans, if you can penetrate the outer limits of the heavens and the earth, go ahead and penetrate. You cannot penetrate without authorization.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055033.mp3
 
 # Ayah 34
-AR: TODO_AR_055034
-BM: TODO_BM_055034
-EN: TODO_EN_055034
-AUDIO: ./assets/audio/055/055034.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055034.mp3
 
 # Ayah 35
-AR: TODO_AR_055035
-BM: TODO_BM_055035
-EN: TODO_EN_055035
-AUDIO: ./assets/audio/055/055035.mp3
+AR: يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ
+BM: Kamu akan diserang dengan pelancar pelancar dari api dan logam, dan kamu tidak akan menang.
+EN: You get bombarded with projectiles of fire and metal, and you cannot win.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055035.mp3
 
 # Ayah 36
-AR: TODO_AR_055036
-BM: TODO_BM_055036
-EN: TODO_EN_055036
-AUDIO: ./assets/audio/055/055036.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055036.mp3
 
 # Ayah 37
-AR: TODO_AR_055037
-BM: TODO_BM_055037
-EN: TODO_EN_055037
-AUDIO: ./assets/audio/055/055037.mp3
+AR: فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ
+BM: Apabila langit berkecai, dan menukarkan warna ros.
+EN: When the sky disintegrates, and turns rose colored like paint.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055037.mp3
 
 # Ayah 38
-AR: TODO_AR_055038
-BM: TODO_BM_055038
-EN: TODO_EN_055038
-AUDIO: ./assets/audio/055/055038.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055038.mp3
 
 # Ayah 39
-AR: TODO_AR_055039
-BM: TODO_BM_055039
-EN: TODO_EN_055039
-AUDIO: ./assets/audio/055/055039.mp3
+AR: فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ
+BM: Pada hari itu, tidak ada manusia mahupun seorang jin, akan ditanya tentang dosa dosanya.
+EN: On that day, no human, nor a jinn, will be asked about his sins.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055039.mp3
 
 # Ayah 40
-AR: TODO_AR_055040
-BM: TODO_BM_055040
-EN: TODO_EN_055040
-AUDIO: ./assets/audio/055/055040.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055040.mp3
 
 # Ayah 41
-AR: TODO_AR_055041
-BM: TODO_BM_055041
-EN: TODO_EN_055041
-AUDIO: ./assets/audio/055/055041.mp3
+AR: يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ
+BM: (Ini adalah kerana) pesalah akan dapat dikenali dari wajah wajah mereka; mereka akan diheret dari hujung rambut dan kaki kaki.
+EN: (This is because) the guilty will be recognized by their looks; they will be taken by the forelocks and the feet.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055041.mp3
 
 # Ayah 42
-AR: TODO_AR_055042
-BM: TODO_BM_055042
-EN: TODO_EN_055042
-AUDIO: ./assets/audio/055/055042.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaibanTuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055042.mp3
 
 # Ayah 43
-AR: TODO_AR_055043
-BM: TODO_BM_055043
-EN: TODO_EN_055043
-AUDIO: ./assets/audio/055/055043.mp3
+AR: هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ
+BM: Ini adalah Gehenna yang para pesalah telah nafikan.
+EN: This is Gehenna that the guilty used to deny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055043.mp3
 
 # Ayah 44
-AR: TODO_AR_055044
-BM: TODO_BM_055044
-EN: TODO_EN_055044
-AUDIO: ./assets/audio/055/055044.mp3
+AR: يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ
+BM: Mereka akan mengelilingi serta tidak akan dapat tertahan apinya yang menjulang.
+EN: They will circulate between it and an intolerable inferno.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055044.mp3
 
 # Ayah 45
-AR: TODO_AR_055045
-BM: TODO_BM_055045
-EN: TODO_EN_055045
-AUDIO: ./assets/audio/055/055045.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055045.mp3
 
 # Ayah 46
-AR: TODO_AR_055046
-BM: TODO_BM_055046
-EN: TODO_EN_055046
-AUDIO: ./assets/audio/055/055046.mp3
+AR: وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ
+BM: Bagi orang orang yang menghormati keagungan Tuhan mereka, dua taman taman (satu untuk para jin dan satu lagi untuk manusia).
+EN: For those who reverence the majesty of their Lord, two gardens (one for the jinns and one for the humans).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055046.mp3
 
 # Ayah 47
-AR: TODO_AR_055047
-BM: TODO_BM_055047
-EN: TODO_EN_055047
-AUDIO: ./assets/audio/055/055047.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055047.mp3
 
 # Ayah 48
-AR: TODO_AR_055048
-BM: TODO_BM_055048
-EN: TODO_EN_055048
-AUDIO: ./assets/audio/055/055048.mp3
+AR: ذَوَاتَا أَفْنَانٍ
+BM: Penuh dengan peruntukkan peruntukkan.
+EN: Full of provisions.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055048.mp3
 
 # Ayah 49
-AR: TODO_AR_055049
-BM: TODO_BM_055049
-EN: TODO_EN_055049
-AUDIO: ./assets/audio/055/055049.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055049.mp3
 
 # Ayah 50
-AR: TODO_AR_055050
-BM: TODO_BM_055050
-EN: TODO_EN_055050
-AUDIO: ./assets/audio/055/055050.mp3
+AR: فِيهِمَا عَيْنَانِ تَجْرِيَانِ
+BM: Dua pancuran pancuran berada didalam mereka, yang mengalir.
+EN: Two springs are in them, flowing.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055050.mp3
 
 # Ayah 51
-AR: TODO_AR_055051
-BM: TODO_BM_055051
-EN: TODO_EN_055051
-AUDIO: ./assets/audio/055/055051.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055051.mp3
 
 # Ayah 52
-AR: TODO_AR_055052
-BM: TODO_BM_055052
-EN: TODO_EN_055052
-AUDIO: ./assets/audio/055/055052.mp3
+AR: فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ
+BM: Dari tiap tiap buah didalam mereka, ada dua macam jenis.
+EN: Of every fruit in them, two kinds.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055052.mp3
 
 # Ayah 53
-AR: TODO_AR_055053
-BM: TODO_BM_055053
-EN: TODO_EN_055053
-AUDIO: ./assets/audio/055/055053.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055053.mp3
 
 # Ayah 54
-AR: TODO_AR_055054
-BM: TODO_BM_055054
-EN: TODO_EN_055054
-AUDIO: ./assets/audio/055/055054.mp3
+AR: مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَى الْجَنَّتَيْنِ دَانٍ
+BM: Sementara berehat diatas perabut perabut bersalut dengan satin, buah buahan yang boleh dicapai.
+EN: While relaxing on furnishings lined with satin, the fruits are within reach.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055054.mp3
 
 # Ayah 55
-AR: TODO_AR_055055
-BM: TODO_BM_055055
-EN: TODO_EN_055055
-AUDIO: ./assets/audio/055/055055.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055055.mp3
 
 # Ayah 56
-AR: TODO_AR_055056
-BM: TODO_BM_055056
-EN: TODO_EN_055056
-AUDIO: ./assets/audio/055/055056.mp3
+AR: فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ
+BM: Pasangan pasangan mereka yang cantik cantik belum pernah disentuh oleh sebarang manusia ataupun jin.
+EN: Their beautiful mates were never touched by any human or jinn.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055056.mp3
 
 # Ayah 57
-AR: TODO_AR_055057
-BM: TODO_BM_055057
-EN: TODO_EN_055057
-AUDIO: ./assets/audio/055/055057.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055057.mp3
 
 # Ayah 58
-AR: TODO_AR_055058
-BM: TODO_BM_055058
-EN: TODO_EN_055058
-AUDIO: ./assets/audio/055/055058.mp3
+AR: كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ
+BM: Mereka kelihatan sebagai batu permata dan marjan.
+EN: They look like gems and coral.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055058.mp3
 
 # Ayah 59
-AR: TODO_AR_055059
-BM: TODO_BM_055059
-EN: TODO_EN_055059
-AUDIO: ./assets/audio/055/055059.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055059.mp3
 
 # Ayah 60
-AR: TODO_AR_055060
-BM: TODO_BM_055060
-EN: TODO_EN_055060
-AUDIO: ./assets/audio/055/055060.mp3
+AR: هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ
+BM: Bukankah anugerah bagi kebaikan tidak lain melainkan kebaikan?
+EN: Is the reward of goodness anything but goodness?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055060.mp3
 
 # Ayah 61
-AR: TODO_AR_055061
-BM: TODO_BM_055061
-EN: TODO_EN_055061
-AUDIO: ./assets/audio/055/055061.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055061.mp3
 
 # Ayah 62
-AR: TODO_AR_055062
-BM: TODO_BM_055062
-EN: TODO_EN_055062
-AUDIO: ./assets/audio/055/055062.mp3
+AR: وَمِنْ دُونِهِمَا جَنَّتَانِ
+BM: Dibawah mereka adalah dua taman taman (satu untuk para jin dan yang satu lagi untuk manusia).
+EN: Below them are two gardens (one for the jinns and one for the humans).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055062.mp3
 
 # Ayah 63
-AR: TODO_AR_055063
-BM: TODO_BM_055063
-EN: TODO_EN_055063
-AUDIO: ./assets/audio/055/055063.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055063.mp3
 
 # Ayah 64
-AR: TODO_AR_055064
-BM: TODO_BM_055064
-EN: TODO_EN_055064
-AUDIO: ./assets/audio/055/055064.mp3
+AR: مُدْهَامَّتَانِ
+BM: Sebelah menyebelah.
+EN: Side by side.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055064.mp3
 
 # Ayah 65
-AR: TODO_AR_055065
-BM: TODO_BM_055065
-EN: TODO_EN_055065
-AUDIO: ./assets/audio/055/055065.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055065.mp3
 
 # Ayah 66
-AR: TODO_AR_055066
-BM: TODO_BM_055066
-EN: TODO_EN_055066
-AUDIO: ./assets/audio/055/055066.mp3
+AR: فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
+BM: Didalam mereka, perigi perigi yang dipam.
+EN: In them, wells to be pumped.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055066.mp3
 
 # Ayah 67
-AR: TODO_AR_055067
-BM: TODO_BM_055067
-EN: TODO_EN_055067
-AUDIO: ./assets/audio/055/055067.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055067.mp3
 
 # Ayah 68
-AR: TODO_AR_055068
-BM: TODO_BM_055068
-EN: TODO_EN_055068
-AUDIO: ./assets/audio/055/055068.mp3
+AR: فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
+BM: Didalam mereka adalah buah buahan, pokok pokok kurma, dan delima.
+EN: In them are fruits, date palms, and pomegranate.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055068.mp3
 
 # Ayah 69
-AR: TODO_AR_055069
-BM: TODO_BM_055069
-EN: TODO_EN_055069
-AUDIO: ./assets/audio/055/055069.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055069.mp3
 
 # Ayah 70
-AR: TODO_AR_055070
-BM: TODO_BM_055070
-EN: TODO_EN_055070
-AUDIO: ./assets/audio/055/055070.mp3
+AR: فِيهِنَّ خَيْرَاتٌ حِسَانٌ
+BM: Didalam mereka ada pasangan pasangan yang cantik cantik.
+EN: In them are beautiful mates.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055070.mp3
 
 # Ayah 71
-AR: TODO_AR_055071
-BM: TODO_BM_055071
-EN: TODO_EN_055071
-AUDIO: ./assets/audio/055/055071.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055071.mp3
 
 # Ayah 72
-AR: TODO_AR_055072
-BM: TODO_BM_055072
-EN: TODO_EN_055072
-AUDIO: ./assets/audio/055/055072.mp3
+AR: حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ
+BM: Tertutup dikemah kemah.
+EN: Confined in the tents.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055072.mp3
 
 # Ayah 73
-AR: TODO_AR_055073
-BM: TODO_BM_055073
-EN: TODO_EN_055073
-AUDIO: ./assets/audio/055/055073.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055073.mp3
 
 # Ayah 74
-AR: TODO_AR_055074
-BM: TODO_BM_055074
-EN: TODO_EN_055074
-AUDIO: ./assets/audio/055/055074.mp3
+AR: لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ
+BM: Tidak ada seorang manusia pun pernah menyentuh mereka, tidak juga seorang jin.
+EN: No human ever touched them, nor a jinn.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055074.mp3
 
 # Ayah 75
-AR: TODO_AR_055075
-BM: TODO_BM_055075
-EN: TODO_EN_055075
-AUDIO: ./assets/audio/055/055075.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055075.mp3
 
 # Ayah 76
-AR: TODO_AR_055076
-BM: TODO_BM_055076
-EN: TODO_EN_055076
-AUDIO: ./assets/audio/055/055076.mp3
+AR: مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ
+BM: Mereka berehat dipermaidani permaidani hijau, dikelilingi dengan suasana yang indah.
+EN: They relax on green carpets, in beautiful surroundings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055076.mp3
 
 # Ayah 77
-AR: TODO_AR_055077
-BM: TODO_BM_055077
-EN: TODO_EN_055077
-AUDIO: ./assets/audio/055/055077.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+BM: Yang mana satukah keajaiban Tuhan yang kamu boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055077.mp3
 
 # Ayah 78
-AR: TODO_AR_055078
-BM: TODO_BM_055078
-EN: TODO_EN_055078
-AUDIO: ./assets/audio/055/055078.mp3
+AR: تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ
+BM: Yang Maha Tinggi adalah nama bagi Tuhan kamu, yang Maha Pemilik, Maha Agung lagi yang Maha Mulia.
+EN: Most exalted is the name of your Lord, Possessor of Majesty and Honor.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/055078.mp3
+
+
+
+
+

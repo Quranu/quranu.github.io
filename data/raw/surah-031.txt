@@ -1,214 +1,237 @@
-SURAH_NUMBER: 31
-NAME_AR: لقمان
+﻿SURAH_NUMBER: 31
+NAME_AR: سورة لقمان
 NAME_BM: Luqman
 NAME_EN: Luqman
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/031/031000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031000.mp3
 
 # Ayah 1
-AR: TODO_AR_031001
-BM: TODO_BM_031001
-EN: TODO_EN_031001
-AUDIO: ./assets/audio/031/031001.mp3
+AR: الم
+BM: A. L. M. (Alif. Lam. Mim)
+EN: A. L. M.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031001.mp3
 
 # Ayah 2
-AR: TODO_AR_031002
-BM: TODO_BM_031002
-EN: TODO_EN_031002
-AUDIO: ./assets/audio/031/031002.mp3
+AR: تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ
+BM: (Huruf huruf) ini membentukkan bukti bukti bagi buku yang mempunyai hikmah (Kebijaksanaan).
+EN: These (letters) constitute proofs of this book of wisdom.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031002.mp3
 
 # Ayah 3
-AR: TODO_AR_031003
-BM: TODO_BM_031003
-EN: TODO_EN_031003
-AUDIO: ./assets/audio/031/031003.mp3
+AR: هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ
+BM: Petunjuk dan belas kasih untuk orang orang yang benar.
+EN: A beacon and a mercy for the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031003.mp3
 
 # Ayah 4
-AR: TODO_AR_031004
-BM: TODO_BM_031004
-EN: TODO_EN_031004
-AUDIO: ./assets/audio/031/031004.mp3
+AR: الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ
+BM: Yang Mengerjakan Sembahyang (Salat), dan memberikan derma yang diwajibkan (Zakat), dan berkenaan Akhirat, mereka benar benar yakin.
+EN: Who observe the Contact Prayers (Salat), give the obligatory charity (Zakat), and as regards the Hereafter, they are absolutely certain.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031004.mp3
 
 # Ayah 5
-AR: TODO_AR_031005
-BM: TODO_BM_031005
-EN: TODO_EN_031005
-AUDIO: ./assets/audio/031/031005.mp3
+AR: أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
+BM: Mereka mengikuti petunjuk dari Tuhan mereka, dan mereka adalah pemenang pemenang.
+EN: They are following the guidance from their Lord, and they are the winners.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031005.mp3
 
 # Ayah 6
-AR: TODO_AR_031006
-BM: TODO_BM_031006
-EN: TODO_EN_031006
-AUDIO: ./assets/audio/031/031006.mp3
+AR: وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ
+BM: Diantara manusia, ada yang memegang Hadis yang tidak berasas, lantaran itu menyesatkan yang lainnya dari jalan Allah dengan tidak berilmu pengetahuan, dan mengambil mudah saja. Mereka ini akan menerima hukuman yang menghinakan.
+EN: Among the people, there are those who uphold baseless Hadith, and thus divert others from the path of GOD without knowledge, and take it in vain. These have incurred a shameful retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031006.mp3
 
 # Ayah 7
-AR: TODO_AR_031007
-BM: TODO_BM_031007
-EN: TODO_EN_031007
-AUDIO: ./assets/audio/031/031007.mp3
+AR: وَإِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَنْ لَمْ يَسْمَعْهَا كَأَنَّ فِي أُذُنَيْهِ وَقْرًا فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ
+BM: Dan apabila revelasi revelasi kami dibacakan kepada salah seorang dari mereka, dianya berpaling dengan kesombongan seolah olah dia tidak pernah mendengarkannya, seolah olah telinga telinga mereka adalah tuli. Janjikanlah dia dengan hukuman yang menyakitkan.
+EN: And when our revelations are recited to the one of them, he turns away in arrogance as if he never heard them, as if his ears are deaf. Promise him a painful retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031007.mp3
 
 # Ayah 8
-AR: TODO_AR_031008
-BM: TODO_BM_031008
-EN: TODO_EN_031008
-AUDIO: ./assets/audio/031/031008.mp3
+AR: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ النَّعِيمِ
+BM: Tentu sekali, orang orang yang percaya dan menjalani kehidupan yang benar telah berhak untuk mendapatkan taman taman yang indah.
+EN: Surely, those who believe and lead a righteous life have deserved the gardens of bliss.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031008.mp3
 
 # Ayah 9
-AR: TODO_AR_031009
-BM: TODO_BM_031009
-EN: TODO_EN_031009
-AUDIO: ./assets/audio/031/031009.mp3
+AR: خَالِدِينَ فِيهَا وَعْدَ اللَّهِ حَقًّا وَهُوَ الْعَزِيزُ الْحَكِيمُ
+BM: Mereka akan tinggal didalamnya untuk selama lamanya. Ini adalah janji yang benar dari Allah. Sesungguhnya, Dialah yang Maha Kuat lagi Maha Bijaksana.
+EN: Eternally they abide therein. This is the truthful promise of GOD. He is the Almighty, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031009.mp3
 
 # Ayah 10
-AR: TODO_AR_031010
-BM: TODO_BM_031010
-EN: TODO_EN_031010
-AUDIO: ./assets/audio/031/031010.mp3
+AR: خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ
+BM: Dia menciptakan sekelian cekrawala dengan tidak bertiang yang mana kamu dapat melihatnya. Dia memantapkan diatas bumi penstabil penstabil (gunung gunung) supaya ianya tidak runtuh bersama sama kamu, dan Dia merebakkan diatasnya berbagai macam makhluk makhluk. Kami turunkan dari langit air untuk menumbuhkan berbagai macam tumbuh tumbuhan yang cantik cantik.
+EN: He created the heavens without pillars that you can see. He established on earth stabilizers (mountains) lest it tumbles with you, and He spread on it all kinds of creatures. We send down from the sky water to grow all kinds of beautiful plants.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031010.mp3
 
 # Ayah 11
-AR: TODO_AR_031011
-BM: TODO_BM_031011
-EN: TODO_EN_031011
-AUDIO: ./assets/audio/031/031011.mp3
+AR: هَٰذَا خَلْقُ اللَّهِ فَأَرُونِي مَاذَا خَلَقَ الَّذِينَ مِنْ دُونِهِ بَلِ الظَّالِمُونَ فِي ضَلَالٍ مُبِينٍ
+BM: Demikian itulah ciptaan dari Allah; tunjukkan kepadaku apa yang pujaan pujaan yang kamu ada adakan disampingNya itu telah menciptakan. Sesungguhnya, orang orang yang melampaui batas itulah yang telah tersesat jauh.
+EN: Such is the creation of GOD; show me what the idols you set up beside Him have created. Indeed, the transgressors are far astray.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031011.mp3
 
 # Ayah 12
-AR: TODO_AR_031012
-BM: TODO_BM_031012
-EN: TODO_EN_031012
-AUDIO: ./assets/audio/031/031012.mp3
+AR: وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ وَمَنْ يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ حَمِيدٌ
+BM: Kami telah memberikan Luqman kebijaksaan: "Kamu mestilah bersyukur kepada Allah." Sesiapa saja yang bersyukur hanyalah bersyukur untuk kebaikan dirinya sendiri. Bagi orang orang yang berpaling dari mensyukurinya, Allah tidak memerlukannya, Maha Terpuji.
+EN: We have endowed Luqmãn with wisdom: "You shall be appreciative of GOD." Whoever is appreciative is appreciative for his own good. As for those who turn unappreciative, GOD is in no need, Praiseworthy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031012.mp3
+SUBTITLE_BM: Kebijaksaan Luqman
+SUBTITLE_EN: Luqmãn's Wisdom
 
 # Ayah 13
-AR: TODO_AR_031013
-BM: TODO_BM_031013
-EN: TODO_EN_031013
-AUDIO: ./assets/audio/031/031013.mp3
+AR: وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَابُنَيَّ لَا تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ
+BM: Ingatlah apabila Luqman berkata kepada anak lelakinya, untuk mengajarnya, "Wahai anak lelakiku, janganlah mengadakan sebarang pujaan pujaan disamping Allah; sesungguhnya menyekutukan (Allah) adalah ketidak adilan yang terbesar."
+EN: Recall that Luqmãn said to his son, as he enlightened him, "O my son, do not set up any idols beside GOD; idolatry is a gross injustice."*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031013.mp3
 
 # Ayah 14
-AR: TODO_AR_031014
-BM: TODO_BM_031014
-EN: TODO_EN_031014
-AUDIO: ./assets/audio/031/031014.mp3
+AR: وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ
+BM: Kami perintahkan  manusia supaya memuliakan ibu bapa ibu bapanya. Ibunya mengandungkan dia, dan kandungan itu menjadi berat dan bertambah berat. Ianya mengambil dua tahun (dalam jagaan rapi) sehinggalah bercerai susu. Kamu mestilah bersyukur kepadaKu, dan ibu bapa ibu bapa kamu. KepadaKu sahajalah destini yang terakhir.
+EN: We enjoined the human being to honor his parents. His mother bore him, and the load got heavier and heavier. It takes two years (of intensive care) until weaning. You shall be appreciative of Me, and of your parents. To Me is the ultimate destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031014.mp3
+SUBTITLE_BM: Rukun Yang Kedua
+SUBTITLE_EN: The Second Commandment
 
 # Ayah 15
-AR: TODO_AR_031015
-BM: TODO_BM_031015
-EN: TODO_EN_031015
-AUDIO: ./assets/audio/031/031015.mp3
+AR: وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
+BM: Jika mereka cuba memaksakan kau supaya mengadakan sebarang pujaan pujaan disampingKu, janganlah menta'ati mereka. Tetapi berterusanlah melayan mereka dengan sebaik baiknya didunia ini. Kamu mestilah mengikuti jalan orang orang yang telah menyerahkan diri diri mereka kepadaKu.Akhirnya, kamu semua akan kembali kepadaKu, lalu akan Aku beritahukan kepada kamu segala apa yang telah kamu lakukan.
+EN: If they try to force you to set up any idols beside Me, do not obey them. But continue to treat them amicably in this world. You shall follow only the path of those who have submitted to Me. Ultimately, you all return to Me, then I will inform you of everything you have done.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031015.mp3
 
 # Ayah 16
-AR: TODO_AR_031016
-BM: TODO_BM_031016
-EN: TODO_EN_031016
-AUDIO: ./assets/audio/031/031016.mp3
+AR: يَابُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ
+BM: "Wahai anakku, ketahuilah walaupun suatu perkara yang sekecil biji sawi, jauh didalam batu, biar pun ianya disekelian cekrawala ataupun dibumi, Allah akan mengeluarkannya. Sesungguhnya Allah sahajalah yang Maha Mulia lagi Maha Perhatin.
+EN: "O my son, know that even something as tiny as a mustard seed, deep inside a rock, be it in the heavens or the earth, GOD will bring it. GOD is Sublime, Cognizant.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031016.mp3
+SUBTITLE_BM: Nasihat Dari Luqman
+SUBTITLE_EN: Luqmãn's Advice
 
 # Ayah 17
-AR: TODO_AR_031017
-BM: TODO_BM_031017
-EN: TODO_EN_031017
-AUDIO: ./assets/audio/031/031017.mp3
+AR: يَابُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
+BM: "Wahai anak lelakiku, kamu mestilah Mengerjakan Sembahyang (Salat). Kamu mestilah menganjurkan kebaikan dan melarang kejahatan, dan sentiasalah bersabar dalam menghadapi kesukaran. Ini semua adalah sikap yang termulia.
+EN: "O my son, you shall observe the Contact Prayers (Salat). You shall advocate righteousness and forbid evil, and remain steadfast in the face of adversity. These are the most honorable traits.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031017.mp3
 
 # Ayah 18
-AR: TODO_AR_031018
-BM: TODO_BM_031018
-EN: TODO_EN_031018
-AUDIO: ./assets/audio/031/031018.mp3
+AR: وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+BM: "Janganlah kamu berkelakuan sombong terhadap manusia, dan janganlah juga kamu menjelajah dimuka bumi dengan bermegah megah. Sesungguhnya Allah tidak suka orang orang sombong yang menunjuk nunjuk.
+EN: "You shall not treat the people with arrogance, nor shall you roam the earth proudly. GOD does not like the arrogant showoffs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031018.mp3
 
 # Ayah 19
-AR: TODO_AR_031019
-BM: TODO_BM_031019
-EN: TODO_EN_031019
-AUDIO: ./assets/audio/031/031019.mp3
+AR: وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِنْ صَوْتِكَ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ
+BM: "Berjalanlah dengan merendahkan diri dan rendahkan suaramu - seburuk buruk suara adalah suara keldai."
+EN: "Walk humbly and lower your voice--the ugliest voice is the donkey's voice."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031019.mp3
 
 # Ayah 20
-AR: TODO_AR_031020
-BM: TODO_BM_031020
-EN: TODO_EN_031020
-AUDIO: ./assets/audio/031/031020.mp3
+AR: أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ
+BM: Tidakkah kamu lihat yang Allah telah komitkan untuk kamu servis dari segala apa yang disekelian cekrawala dan bumi, dan telah mencucuri kamu dengan rahmat dariNya -  terang terangan dan yang tersembunyi? Namun, ada dari manusia yang bertengkar berkenaan Allah tanpa berilmu pengetahuan, dengan tidak dapat bimbingan, dan dengan tidak mendapatkan penerangan dari kitab.
+EN: Do you not see that GOD has committed in your service everything in the heavens and the earth, and has showered you with His blessings-- obvious and hidden? Yet, some people argue about GOD without knowledge, without guidance, and without the enlightening scripture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031020.mp3
 
 # Ayah 21
-AR: TODO_AR_031021
-BM: TODO_BM_031021
-EN: TODO_EN_031021
-AUDIO: ./assets/audio/031/031021.mp3
+AR: وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ الشَّيْطَانُ يَدْعُوهُمْ إِلَىٰ عَذَابِ السَّعِيرِ
+BM: Apabila mereka dikatakan, "Ikutilah revelasi revelasi dari Allah ini," mereka berkata, "Tidak, kami hanyalah mengikuti apa yang kami dapati dilakukan oleh ibu bapa ibu bapa kami." Bagaimana kalau syaitan yang mengarahkan mereka kepada siksaan Neraka?
+EN: When they are told, "Follow these revelations of GOD," they say, "No, we follow only what we found our parents doing." What if the devil is leading them to the agony of Hell?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031021.mp3
+SUBTITLE_BM: Mengikut Ibu Bapa Ibu Bapa Dengan Membuta Tuli: Tragidi Yang Biasa
+SUBTITLE_EN: Following the Parents Blindly: A Common Tragedy
 
 # Ayah 22
-AR: TODO_AR_031022
-BM: TODO_BM_031022
-EN: TODO_EN_031022
-AUDIO: ./assets/audio/031/031022.mp3
+AR: وَمَنْ يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ وَإِلَى اللَّهِ عَاقِبَةُ الْأُمُورِ
+BM: Orang orang yang menyerahkan diri diri mereka dengan sepenuhnya kepada Allah, sementara menjalani kehidupan yang benar, telah berpegang kepada ikatan yang paling kuat. Kerana Allah yang menguasai dengan sepenuhnya akan segala suatu.
+EN: Those who submit completely to GOD, while leading a righteous life, have gotten hold of the strongest bond. For GOD is in full control of all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031022.mp3
+SUBTITLE_BM: Ikatan Yang Terkuat
+SUBTITLE_EN: The Strongest Bond
 
 # Ayah 23
-AR: TODO_AR_031023
-BM: TODO_BM_031023
-EN: TODO_EN_031023
-AUDIO: ./assets/audio/031/031023.mp3
+AR: وَمَنْ كَفَرَ فَلَا يَحْزُنْكَ كُفْرُهُ إِلَيْنَا مَرْجِعُهُمْ فَنُنَبِّئُهُمْ بِمَا عَمِلُوا إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ
+BM: Bagi orang orang yang ingkar, janganlah bersedih dengan keingkaran mereka. Kepada kami sahajalah tempat kembali mereka yang terakhir, lalu akan kami beritahukan mereka segala apa yang telah mereka lakukan. Sesungguhnya, Allah amat sedar segala apa yang terpendam jauh didalam fikiran mereka.
+EN: As for those who disbelieve, do not be saddened by their disbelief. To us is their ultimate return, then we will inform them of everything they had done. GOD is fully aware of the innermost thoughts.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031023.mp3
 
 # Ayah 24
-AR: TODO_AR_031024
-BM: TODO_BM_031024
-EN: TODO_EN_031024
-AUDIO: ./assets/audio/031/031024.mp3
+AR: نُمَتِّعُهُمْ قَلِيلًا ثُمَّ نَضْطَرُّهُمْ إِلَىٰ عَذَابٍ غَلِيظٍ
+BM: Kami biarkan mereka bergembira untuk sementara waktu, lalu komitkan mereka kepada siksaan yang dahsyat.
+EN: We let them enjoy temporarily, then commit them to severe retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031024.mp3
 
 # Ayah 25
-AR: TODO_AR_031025
-BM: TODO_BM_031025
-EN: TODO_EN_031025
-AUDIO: ./assets/audio/031/031025.mp3
+AR: وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+BM: Jika kamu tanyakan mereka, "Siapakah yang menciptakan sekelian cekrawala dan bumi," mereka akan berkata, "Allah." Katakanlah, "Segala kepujian bagi Allah." Namun, kebanyakan dari mereka itu tidak mengetahuinya.
+EN: If you ask them, "Who created the heavens and the earth," they will say, "GOD." Say, "Praise be to GOD." Yet, most of them do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031025.mp3
+SUBTITLE_BM: Mereka Percaya Kepada Allah
+SUBTITLE_EN: They Believe in God
 
 # Ayah 26
-AR: TODO_AR_031026
-BM: TODO_BM_031026
-EN: TODO_EN_031026
-AUDIO: ./assets/audio/031/031026.mp3
+AR: لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ إِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ
+BM: Kepunyaan Allah segala galanya disekelian cekrawala dan bumi. Sesungguhnya, Allah Sahajalah yang Maha Kaya lagi Maha Terpuji.
+EN: To GOD belongs everything in the heavens and the earth. GOD is the Most Rich, Most Praiseworthy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031026.mp3
 
 # Ayah 27
-AR: TODO_AR_031027
-BM: TODO_BM_031027
-EN: TODO_EN_031027
-AUDIO: ./assets/audio/031/031027.mp3
+AR: وَلَوْ أَنَّمَا فِي الْأَرْضِ مِنْ شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَا نَفِدَتْ كَلِمَاتُ اللَّهِ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ
+BM: Jika kesemuanya pokok pokok dibumi dijadikan pena, dan lautan bertukar menjadi tinta, dan ditambahkan dengan tujuh lagi lautan, perkataan perkataan Allah tidak akan kehabisan. Sesungguhnya, Allah sahajalah yang Maha kuat lagi Maha Bijaksana.
+EN: If all the trees on earth were made into pens, and the ocean supplied the ink, augmented by seven more oceans, the words of GOD would not run out. GOD is Almighty, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031027.mp3
+SUBTITLE_BM: Inilah Segala Perkataan Perkataan Yang Kita Perlukan
+SUBTITLE_EN: These Are All the Words We Need
 
 # Ayah 28
-AR: TODO_AR_031028
-BM: TODO_BM_031028
-EN: TODO_EN_031028
-AUDIO: ./assets/audio/031/031028.mp3
+AR: مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ
+BM: Ciptaan dan kebangkitan bagi kesemuanya kamu adalah sama sepertinya seorang. Sesungguhnya, Allah sahajalah yang Maha Mendengar lagi Maha Melihat.
+EN: The creation and resurrection of all of you is the same as that of one person. GOD is Hearer, Seer.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031028.mp3
 
 # Ayah 29
-AR: TODO_AR_031029
-BM: TODO_BM_031029
-EN: TODO_EN_031029
-AUDIO: ./assets/audio/031/031029.mp3
+AR: أَلَمْ تَرَ أَنَّ اللَّهَ يُولِجُ الَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي الَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي إِلَىٰ أَجَلٍ مُسَمًّى وَأَنَّ اللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ
+BM: Tidakkah kamu sedar yang Allah memasukkan malam kepada siang hari dan memasukkan siang hari kepada malam, dan Dia telah komitkan matahari dan bulan untuk menjalankan servisnya untuk kamu, masing masing berjalan diorbitnya sendiri sampai masa yang telah ditetapkan, dan Allah amat perihatin atas segala apa yang kamu lakukan?
+EN: Do you not realize that GOD merges the night into the day and merges the day into the night, and that He has committed the sun and the moon in your service, each running in its orbit for a specific life span, and that GOD is fully Cognizant of everything you do?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031029.mp3
+SUBTITLE_BM: Allah Sahajalah Wajar Di-Sembah.
+SUBTITLE_EN: God ALONE Worthy of Worship
 
 # Ayah 30
-AR: TODO_AR_031030
-BM: TODO_BM_031030
-EN: TODO_EN_031030
-AUDIO: ./assets/audio/031/031030.mp3
+AR: ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِنْ دُونِهِ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
+BM: Ini membuktikan yang Allah adalah benar, sementara sebarang pujaan pujaan yang mereka ada adakan disampingNya itu adalah kepalsuan, dan sesungguhnya, Allah sahajalah yang Maha Tinggi lagi Maha Besar.
+EN: This proves that GOD is the truth, while any idol they set up beside Him is falsehood, and that GOD is the Most High, Most Great.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031030.mp3
 
 # Ayah 31
-AR: TODO_AR_031031
-BM: TODO_BM_031031
-EN: TODO_EN_031031
-AUDIO: ./assets/audio/031/031031.mp3
+AR: أَلَمْ تَرَ أَنَّ الْفُلْكَ تَجْرِي فِي الْبَحْرِ بِنِعْمَتِ اللَّهِ لِيُرِيَكُمْ مِنْ آيَاتِهِ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِكُلِّ صَبَّارٍ شَكُورٍ
+BM: Tidakkah kamu lihat yang kapal kapal belayar diatas laut, membawa peruntukkan peruntukkan dari Allah, untuk menunjukkan kepada kamu beberapa bukti buktiNya? Sesungguhnya, ini semua sepatutnya dijadikan bukti yang cukup bagi sesiapa saja yang sabar dan yang tahu bersyukur.
+EN: Do you not see that the ships roam the sea, carrying GOD's provisions, to show you some of His proofs? Indeed, these should be sufficient proofs for everyone who is steadfast, appreciative.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031031.mp3
 
 # Ayah 32
-AR: TODO_AR_031032
-BM: TODO_BM_031032
-EN: TODO_EN_031032
-AUDIO: ./assets/audio/031/031032.mp3
+AR: وَإِذَا غَشِيَهُمْ مَوْجٌ كَالظُّلَلِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ فَمِنْهُمْ مُقْتَصِدٌ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ
+BM: Apabila ombak ombak yang kencang mengelilingi mereka, mereka bermohon kepada Allah, dengan mengabdikan doa' doa' mereka dengan penuh keikhlasan kepadaNya sahaja. Tetapi sejurus saja Dia menyelamatkan mereka kepantai, ada diantara mereka berpaling. Tidak ada sesiapa yang berpaling dari revelasi revelasi kami melainkan orang orang yang khianat, dan yang tidak tahu bersyukur.
+EN: When violent waves surround them, they implore GOD, sincerely devoting their prayers to Him alone. But as soon as He saves them to the shore, some of them revert. None discards our revelations except those who are betrayers, unappreciative.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031032.mp3
 
 # Ayah 33
-AR: TODO_AR_031033
-BM: TODO_BM_031033
-EN: TODO_EN_031033
-AUDIO: ./assets/audio/031/031033.mp3
+AR: يَاأَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ وَاخْشَوْا يَوْمًا لَا يَجْزِي وَالِدٌ عَنْ وَلَدِهِ وَلَا مَوْلُودٌ هُوَ جَازٍ عَنْ وَالِدِهِ شَيْئًا إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُمْ بِاللَّهِ الْغَرُورُ
+BM: Wahai manusia, kamu mestilah menghormati Tuhan kamu, dan takutlah akan harinya apabila bapa tidak akan dapat menolong anaknya sendiri, dan tidak juga sianak dapat menolong bapanya.Tentu sekali, perjanjian Allah itu adalah benar. Dari itu, janganlah dilalaikan oleh kehidupan ini; dan janganlah dilalaikan dari Allah hanya kerana illusi.
+EN: O people, you shall reverence your Lord, and fear a day when a father cannot help his own child, nor a child can help his father. Certainly, GOD's promise is truth. Therefore, do not be distracted by this life; do not be distracted from GOD by mere illusions.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031033.mp3
 
 # Ayah 34
-AR: TODO_AR_031034
-BM: TODO_BM_031034
-EN: TODO_EN_031034
-AUDIO: ./assets/audio/031/031034.mp3
+AR: إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ وَيُنَزِّلُ الْغَيْثَ وَيَعْلَمُ مَا فِي الْأَرْحَامِ وَمَا تَدْرِي نَفْسٌ مَاذَا تَكْسِبُ غَدًا وَمَا تَدْرِي نَفْسٌ بِأَيِّ أَرْضٍ تَمُوتُ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+BM: Disisi Allah ada segala ilmu pengetahuan berkenaan Waktu (akhirnya dunia). Dia sahajalah yang menurunkan hujan, dan Dia sahajalah yang mengetahui kandungan kandungan didalam rahim. Tidak ada satu roh pun yang akan ketahui apa yang akan berlaku keatasnya pada keesok hari, dan tidak ada sesiapa pun yang mengetahui bumi manakah yang dia (lelaki) dan dia (perempuan) akan mati. Sesungguhnya, Allah sahajalah yang Maha Mengetahui lagi Maha Perihatin.
+EN: With GOD is the knowledge regarding the Hour (end of the world).* He is the One who sends down the rain, and He knows the contents of the womb. No soul knows what will happen to it tomorrow, and no one knows in which land he or she will die. GOD is Omniscient, Cognizant.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/031034.mp3
+SUBTITLE_BM: Perkara Perkara Yang Boleh Jadi Kita Tahu Ataupun Boleh Jadi Tidak
+SUBTITLE_EN: Things We May and May Not Know*
+
+
+
+
+

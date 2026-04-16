@@ -1,262 +1,267 @@
-SURAH_NUMBER: 80
-NAME_AR: عبس
-NAME_BM: Dia Bermuka Masam
+﻿SURAH_NUMBER: 80
+NAME_AR: سورة عبس
+NAME_BM: Berkerut Dahi
 NAME_EN: He Frowned
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/080/080000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080000.mp3
 
 # Ayah 1
-AR: TODO_AR_080001
-BM: TODO_BM_080001
-EN: TODO_EN_080001
-AUDIO: ./assets/audio/080/080001.mp3
+AR: عَبَسَ وَتَوَلّىٰ
+BM: Dia (Muhammad) mengerutkan dahinya dan berpaling.
+EN: He (Muhammad) frowned and turned away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080001.mp3
 
 # Ayah 2
-AR: TODO_AR_080002
-BM: TODO_BM_080002
-EN: TODO_EN_080002
-AUDIO: ./assets/audio/080/080002.mp3
+AR: أَنْ جَاءَهُ الْأَعْمَىٰ
+BM: Apabila seorang lelaki buta datang kepadanya.
+EN: When the blind man came to him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080002.mp3
 
 # Ayah 3
-AR: TODO_AR_080003
-BM: TODO_BM_080003
-EN: TODO_EN_080003
-AUDIO: ./assets/audio/080/080003.mp3
+AR: وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ
+BM: Bagaimanakah kamu tahu? Mungkin dia dapat menyucikan dirinya sendiri.
+EN: How do you know? He may purify himself.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080003.mp3
 
 # Ayah 4
-AR: TODO_AR_080004
-BM: TODO_BM_080004
-EN: TODO_EN_080004
-AUDIO: ./assets/audio/080/080004.mp3
+AR: أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ
+BM: Ataupun mungkin dia dapat merenungkan, dan memanfaatkan dari mesej itu.
+EN: Or he may take heed, and benefit from the message.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080004.mp3
 
 # Ayah 5
-AR: TODO_AR_080005
-BM: TODO_BM_080005
-EN: TODO_EN_080005
-AUDIO: ./assets/audio/080/080005.mp3
+AR: أَمَّا مَنِ اسْتَغْنَىٰ
+BM: Bagi seorang lelaki yang kaya.
+EN: As for the rich man.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080005.mp3
 
 # Ayah 6
-AR: TODO_AR_080006
-BM: TODO_BM_080006
-EN: TODO_EN_080006
-AUDIO: ./assets/audio/080/080006.mp3
+AR: فَأَنْتَ لَهُ تَصَدَّىٰ
+BM: Kau memberikannya perhatianmu.
+EN: You gave him your attention.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080006.mp3
 
 # Ayah 7
-AR: TODO_AR_080007
-BM: TODO_BM_080007
-EN: TODO_EN_080007
-AUDIO: ./assets/audio/080/080007.mp3
+AR: وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+BM: Walaupun kau tidak dapat memastikan keselamatannya.
+EN: Even though you could not guarantee his salvation.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080007.mp3
 
 # Ayah 8
-AR: TODO_AR_080008
-BM: TODO_BM_080008
-EN: TODO_EN_080008
-AUDIO: ./assets/audio/080/080008.mp3
+AR: وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ
+BM: Seorang yang datang kepadamu dengan penuh minat.
+EN: The one who came to you eagerly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080008.mp3
 
 # Ayah 9
-AR: TODO_AR_080009
-BM: TODO_BM_080009
-EN: TODO_EN_080009
-AUDIO: ./assets/audio/080/080009.mp3
+AR: وَهُوَ يَخْشَىٰ
+BM: Dan bersunguh sungguh menghormatkan.
+EN: And is really reverent.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080009.mp3
 
 # Ayah 10
-AR: TODO_AR_080010
-BM: TODO_BM_080010
-EN: TODO_EN_080010
-AUDIO: ./assets/audio/080/080010.mp3
+AR: فَأَنْتَ عَنْهُ تَلَهَّىٰ
+BM: Kau tidak memperdulikannya.
+EN: You ignored him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080010.mp3
 
 # Ayah 11
-AR: TODO_AR_080011
-BM: TODO_BM_080011
-EN: TODO_EN_080011
-AUDIO: ./assets/audio/080/080011.mp3
+AR: كَلَّا إِنَّهَا تَذْكِرَةٌ
+BM: Sesungguhnya, ini adalah satu Peringatan.
+EN: Indeed, this is a reminder.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080011.mp3
 
 # Ayah 12
-AR: TODO_AR_080012
-BM: TODO_BM_080012
-EN: TODO_EN_080012
-AUDIO: ./assets/audio/080/080012.mp3
+AR: فَمَنْ شَاءَ ذَكَرَهُ
+BM: Sesiapa saja kehendaki bolehlah mengambil pelajaran.
+EN: Whoever wills shall take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080012.mp3
 
 # Ayah 13
-AR: TODO_AR_080013
-BM: TODO_BM_080013
-EN: TODO_EN_080013
-AUDIO: ./assets/audio/080/080013.mp3
+AR: فِي صُحُفٍ مُكَرَّمَةٍ
+BM: Didalam kitab kitab yang mulia.
+EN: In honorable scriptures.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080013.mp3
 
 # Ayah 14
-AR: TODO_AR_080014
-BM: TODO_BM_080014
-EN: TODO_EN_080014
-AUDIO: ./assets/audio/080/080014.mp3
+AR: مَرْفُوعَةٍ مُطَهَّرَةٍ
+BM: Tinggi dan suci.
+EN: Exalted and pure.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080014.mp3
 
 # Ayah 15
-AR: TODO_AR_080015
-BM: TODO_BM_080015
-EN: TODO_EN_080015
-AUDIO: ./assets/audio/080/080015.mp3
+AR: بِأَيْدِي سَفَرَةٍ
+BM: (Tertulis) oleh tangan tangan para rasul.
+EN: (Written) by the hands of messengers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080015.mp3
 
 # Ayah 16
-AR: TODO_AR_080016
-BM: TODO_BM_080016
-EN: TODO_EN_080016
-AUDIO: ./assets/audio/080/080016.mp3
+AR: كِرَامٍ بَرَرَةٍ
+BM: Yang amat mulia dan orang orang yang salih.
+EN: Who are honorable and righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080016.mp3
 
 # Ayah 17
-AR: TODO_AR_080017
-BM: TODO_BM_080017
-EN: TODO_EN_080017
-AUDIO: ./assets/audio/080/080017.mp3
+AR: قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ
+BM: Malang sungguh bagi manusia ; dia amatlah tidak bersyukur!
+EN: Woe to the human being; he is so unappreciative!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080017.mp3
 
 # Ayah 18
-AR: TODO_AR_080018
-BM: TODO_BM_080018
-EN: TODO_EN_080018
-AUDIO: ./assets/audio/080/080018.mp3
+AR: مِنْ أَيِّ شَيْءٍ خَلَقَهُ
+BM: Dari apakah Dia menciptakannya?
+EN: What did He create him from?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080018.mp3
 
 # Ayah 19
-AR: TODO_AR_080019
-BM: TODO_BM_080019
-EN: TODO_EN_080019
-AUDIO: ./assets/audio/080/080019.mp3
+AR: مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ
+BM: Dari setitik yang halus, Dia menciptakannya dan membentuknya.
+EN: From a tiny drop, He creates him and designs him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080019.mp3
 
 # Ayah 20
-AR: TODO_AR_080020
-BM: TODO_BM_080020
-EN: TODO_EN_080020
-AUDIO: ./assets/audio/080/080020.mp3
+AR: ثُمَّ السَّبِيلَ يَسَّرَهُ
+BM: Lalu Dia menunjukkan jalan untuknya.
+EN: Then He points out the path for him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080020.mp3
 
 # Ayah 21
-AR: TODO_AR_080021
-BM: TODO_BM_080021
-EN: TODO_EN_080021
-AUDIO: ./assets/audio/080/080021.mp3
+AR: ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ
+BM: Lalu Dia mematikannya, dan dimasukkan kedalam kubur.
+EN: Then He puts him to death, and into the grave.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080021.mp3
 
 # Ayah 22
-AR: TODO_AR_080022
-BM: TODO_BM_080022
-EN: TODO_EN_080022
-AUDIO: ./assets/audio/080/080022.mp3
+AR: ثُمَّ إِذَا شَاءَ أَنْشَرَهُ
+BM: Apabila Dia kehendaki, Dia membangkitkannya.
+EN: When He wills, He resurrects him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080022.mp3
 
 # Ayah 23
-AR: TODO_AR_080023
-BM: TODO_BM_080023
-EN: TODO_EN_080023
-AUDIO: ./assets/audio/080/080023.mp3
+AR: كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ
+BM: Dia mestilah mendukung perintah perintahNya.
+EN: He shall uphold His commandments.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080023.mp3
 
 # Ayah 24
-AR: TODO_AR_080024
-BM: TODO_BM_080024
-EN: TODO_EN_080024
-AUDIO: ./assets/audio/080/080024.mp3
+AR: فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ
+BM: Biarkanlah manusia membuat pertimbangan tentang makanannya!
+EN: Let the human consider his food!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080024.mp3
 
 # Ayah 25
-AR: TODO_AR_080025
-BM: TODO_BM_080025
-EN: TODO_EN_080025
-AUDIO: ./assets/audio/080/080025.mp3
+AR: أَنَّا صَبَبْنَا الْمَاءَ صَبًّا
+BM: Kami menyiramkan air dengan secukupnya.
+EN: We pour the water generously.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080025.mp3
 
 # Ayah 26
-AR: TODO_AR_080026
-BM: TODO_BM_080026
-EN: TODO_EN_080026
-AUDIO: ./assets/audio/080/080026.mp3
+AR: ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا
+BM: Lalu kami merekahkan tanah terbuka.
+EN: Then we split the soil open.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080026.mp3
 
 # Ayah 27
-AR: TODO_AR_080027
-BM: TODO_BM_080027
-EN: TODO_EN_080027
-AUDIO: ./assets/audio/080/080027.mp3
+AR: فَأَنْبَتْنَا فِيهَا حَبًّا
+BM: Kami tumbuhkan didalamnya biji bijian.
+EN: We grow in it grains.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080027.mp3
 
 # Ayah 28
-AR: TODO_AR_080028
-BM: TODO_BM_080028
-EN: TODO_EN_080028
-AUDIO: ./assets/audio/080/080028.mp3
+AR: وَعِنَبًا وَقَضْبًا
+BM: Anggur anggur dan padang rumput ternak.
+EN: Grapes and pasture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080028.mp3
 
 # Ayah 29
-AR: TODO_AR_080029
-BM: TODO_BM_080029
-EN: TODO_EN_080029
-AUDIO: ./assets/audio/080/080029.mp3
+AR: وَزَيْتُونًا وَنَخْلًا
+BM: Pokok pokok zaitun dan pokok pokok palma.
+EN: Olives and palms.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080029.mp3
 
 # Ayah 30
-AR: TODO_AR_080030
-BM: TODO_BM_080030
-EN: TODO_EN_080030
-AUDIO: ./assets/audio/080/080030.mp3
+AR: وَحَدَائِقَ غُلْبًا
+BM: Kebun kebun yang berbagai macam.
+EN: A variety of orchards.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080030.mp3
 
 # Ayah 31
-AR: TODO_AR_080031
-BM: TODO_BM_080031
-EN: TODO_EN_080031
-AUDIO: ./assets/audio/080/080031.mp3
+AR: وَفَاكِهَةً وَأَبًّا
+BM: Buah buahan dan sayur sayuran.
+EN: Fruits and vegetables.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080031.mp3
 
 # Ayah 32
-AR: TODO_AR_080032
-BM: TODO_BM_080032
-EN: TODO_EN_080032
-AUDIO: ./assets/audio/080/080032.mp3
+AR: مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ
+BM: Untuk memberikan bantuan kehidupan kepada kamu dan binatang binatang kamu.
+EN: To provide life support for you and your animals.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080032.mp3
 
 # Ayah 33
-AR: TODO_AR_080033
-BM: TODO_BM_080033
-EN: TODO_EN_080033
-AUDIO: ./assets/audio/080/080033.mp3
+AR: فَإِذَا جَاءَتِ الصَّاخَّةُ
+BM: Lalu, apabila tiupan berlaku.
+EN: Then, when the blow comes to pass.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080033.mp3
 
 # Ayah 34
-AR: TODO_AR_080034
-BM: TODO_BM_080034
-EN: TODO_EN_080034
-AUDIO: ./assets/audio/080/080034.mp3
+AR: يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ
+BM: Itulah harinya apabila seorang melarikan diri dari saudara lelakinya.
+EN: That is the day when one flees from his brother.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080034.mp3
 
 # Ayah 35
-AR: TODO_AR_080035
-BM: TODO_BM_080035
-EN: TODO_EN_080035
-AUDIO: ./assets/audio/080/080035.mp3
+AR: وَأُمِّهِ وَأَبِيهِ
+BM: Dari ibu dan bapanya.
+EN: From his mother and father.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080035.mp3
 
 # Ayah 36
-AR: TODO_AR_080036
-BM: TODO_BM_080036
-EN: TODO_EN_080036
-AUDIO: ./assets/audio/080/080036.mp3
+AR: وَصَاحِبَتِهِ وَبَنِيهِ
+BM: Dari pasangannya dan anak anaknya.
+EN: From his spouse and children.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080036.mp3
 
 # Ayah 37
-AR: TODO_AR_080037
-BM: TODO_BM_080037
-EN: TODO_EN_080037
-AUDIO: ./assets/audio/080/080037.mp3
+AR: لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+BM: Tiap tiap dari mereka, pada hari itu, bimbangkan tentang destininya sendiri.
+EN: Each one of them, on that day, worries about his own destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080037.mp3
 
 # Ayah 38
-AR: TODO_AR_080038
-BM: TODO_BM_080038
-EN: TODO_EN_080038
-AUDIO: ./assets/audio/080/080038.mp3
+AR: وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ
+BM: Ada wajah wajah pada hari itu akan bergembira.
+EN: Some faces on that day will be happy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080038.mp3
 
 # Ayah 39
-AR: TODO_AR_080039
-BM: TODO_BM_080039
-EN: TODO_EN_080039
-AUDIO: ./assets/audio/080/080039.mp3
+AR: ضَاحِكَةٌ مُسْتَبْشِرَةٌ
+BM: Ketawa dan kegirangan.
+EN: Laughing and joyful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080039.mp3
 
 # Ayah 40
-AR: TODO_AR_080040
-BM: TODO_BM_080040
-EN: TODO_EN_080040
-AUDIO: ./assets/audio/080/080040.mp3
+AR: وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ
+BM: Wajah wajah yang lainnya, pada hari itu, akan ditutupi dengan derita.
+EN: Other faces, on that day, will be covered with misery.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080040.mp3
 
 # Ayah 41
-AR: TODO_AR_080041
-BM: TODO_BM_080041
-EN: TODO_EN_080041
-AUDIO: ./assets/audio/080/080041.mp3
+AR: تَرْهَقُهَا قَتَرَةٌ
+BM: Diselubungi dengan penyesalan.
+EN: Overwhelmed by remorse.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080041.mp3
 
 # Ayah 42
-AR: TODO_AR_080042
-BM: TODO_BM_080042
-EN: TODO_EN_080042
-AUDIO: ./assets/audio/080/080042.mp3
+AR: أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ
+BM: Mereka inilah pengingkar pengingkar yang zalim.
+EN: These are the wicked disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/080042.mp3
+
+
+
+
+

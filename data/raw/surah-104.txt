@@ -1,64 +1,69 @@
-SURAH_NUMBER: 104
-NAME_AR: الهمزة
+﻿SURAH_NUMBER: 104
+NAME_AR: سورة الـهمزة
 NAME_BM: Pengumpat
-NAME_EN: The Traducer
+NAME_EN: The Backbiter
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/104/104000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104000.mp3
 
 # Ayah 1
-AR: TODO_AR_104001
-BM: TODO_BM_104001
-EN: TODO_EN_104001
-AUDIO: ./assets/audio/104/104001.mp3
+AR: وَيلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ
+BM: Malang sungguh setiap pengumpat, pemitnah.
+EN: Woe to every backbiter, slanderer.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104001.mp3
 
 # Ayah 2
-AR: TODO_AR_104002
-BM: TODO_BM_104002
-EN: TODO_EN_104002
-AUDIO: ./assets/audio/104/104002.mp3
+AR: الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ
+BM: Dia menyorokkan wangnya dan mengiranya.
+EN: He hoards money and counts it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104002.mp3
 
 # Ayah 3
-AR: TODO_AR_104003
-BM: TODO_BM_104003
-EN: TODO_EN_104003
-AUDIO: ./assets/audio/104/104003.mp3
+AR: يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ
+BM: Seolah olah wangnya akan membuatnya hidup selama lamanya.
+EN: As if his money will make him immortal.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104003.mp3
 
 # Ayah 4
-AR: TODO_AR_104004
-BM: TODO_BM_104004
-EN: TODO_EN_104004
-AUDIO: ./assets/audio/104/104004.mp3
+AR: كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِ
+BM: Tidak sekali; dia akan dicampakkan kedalam Pemusnah.
+EN: Never; he will be thrown into the Devastator.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104004.mp3
 
 # Ayah 5
-AR: TODO_AR_104005
-BM: TODO_BM_104005
-EN: TODO_EN_104005
-AUDIO: ./assets/audio/104/104005.mp3
+AR: وَمَا أَدْرَٮکَ مَا الْحُطَمَةُ
+BM: Tahukah kamu apakah Pemusnah itu?
+EN: Do you know what the Devastator is?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104005.mp3
 
 # Ayah 6
-AR: TODO_AR_104006
-BM: TODO_BM_104006
-EN: TODO_EN_104006
-AUDIO: ./assets/audio/104/104006.mp3
+AR: نَارُ اللَّهِ الْمُوقَدَةُ
+BM: Nyalaan api Neraka dari Allah.
+EN: GOD's blazing Hellfire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104006.mp3
 
 # Ayah 7
-AR: TODO_AR_104007
-BM: TODO_BM_104007
-EN: TODO_EN_104007
-AUDIO: ./assets/audio/104/104007.mp3
+AR: الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ
+BM: Ianya membakarkan mereka dari dalam dan luar.
+EN: It burns them inside out.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104007.mp3
 
 # Ayah 8
-AR: TODO_AR_104008
-BM: TODO_BM_104008
-EN: TODO_EN_104008
-AUDIO: ./assets/audio/104/104008.mp3
+AR: إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ
+BM: Mereka akan dikurungkan didalamnya.
+EN: They will be confined therein.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104008.mp3
 
 # Ayah 9
-AR: TODO_AR_104009
-BM: TODO_BM_104009
-EN: TODO_EN_104009
-AUDIO: ./assets/audio/104/104009.mp3
+AR: فِي عَمَدٍ مُمَدَّدَةٍ
+BM: Didalam tiang tiang lurus yang diperpanjangkan.
+EN: In extended columns.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/104009.mp3
+
+
+
+
+

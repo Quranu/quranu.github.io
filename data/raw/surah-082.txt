@@ -1,124 +1,131 @@
-SURAH_NUMBER: 82
-NAME_AR: الإنفطار
-NAME_BM: Terbelah
-NAME_EN: The Cleaving
+﻿SURAH_NUMBER: 82
+NAME_AR: سورة الانفطار
+NAME_BM: Menghancurkan
+NAME_EN: The Shattering
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/082/082000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082000.mp3
 
 # Ayah 1
-AR: TODO_AR_082001
-BM: TODO_BM_082001
-EN: TODO_EN_082001
-AUDIO: ./assets/audio/082/082001.mp3
+AR: إِذَا السَّماءُ انفَطَرَت
+BM: Apabila cekrawala menjadi hancur.
+EN: When the heaven is shattered.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082001.mp3
 
 # Ayah 2
-AR: TODO_AR_082002
-BM: TODO_BM_082002
-EN: TODO_EN_082002
-AUDIO: ./assets/audio/082/082002.mp3
+AR: وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ
+BM: Planet planet bertaburan.
+EN: The planets are scattered.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082002.mp3
 
 # Ayah 3
-AR: TODO_AR_082003
-BM: TODO_BM_082003
-EN: TODO_EN_082003
-AUDIO: ./assets/audio/082/082003.mp3
+AR: وَإِذَا الْبِحَارُ فُجِّرَتْ
+BM: Lautan lautan meletup.
+EN: The oceans are exploded.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082003.mp3
 
 # Ayah 4
-AR: TODO_AR_082004
-BM: TODO_BM_082004
-EN: TODO_EN_082004
-AUDIO: ./assets/audio/082/082004.mp3
+AR: وَإِذَا الْقُبُورُ بُعْثِرَتْ
+BM: Kubur kubur terbuka.
+EN: The graves are opened.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082004.mp3
 
 # Ayah 5
-AR: TODO_AR_082005
-BM: TODO_BM_082005
-EN: TODO_EN_082005
-AUDIO: ./assets/audio/082/082005.mp3
+AR: عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ
+BM: Tiap tiap roh akan mengetahui apa yang membuatnya maju, dan apa membuatnya mundur.
+EN: Every soul will find out what caused it to advance, and what caused it to regress.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082005.mp3
 
 # Ayah 6
-AR: TODO_AR_082006
-BM: TODO_BM_082006
-EN: TODO_EN_082006
-AUDIO: ./assets/audio/082/082006.mp3
+AR: يَاأَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ
+BM: Wahai kau manusia, apakah yang membuatkan kamu berpaling dari Tuhan kamu, yang Maha Mulia?
+EN: O you human being, what diverted you from your Lord, Most Honorable?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082006.mp3
+SUBTITLE_BM: Renungkan Ciptaan Allah
+SUBTITLE_EN: Reflect on God's Creations
 
 # Ayah 7
-AR: TODO_AR_082007
-BM: TODO_BM_082007
-EN: TODO_EN_082007
-AUDIO: ./assets/audio/082/082007.mp3
+AR: الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ
+BM: Yang Esa yang menciptakan kamu, membentukkan kamu, dan menyempurnakan kamu.
+EN: The One who created you, designed you, and perfected you.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082007.mp3
 
 # Ayah 8
-AR: TODO_AR_082008
-BM: TODO_BM_082008
-EN: TODO_EN_082008
-AUDIO: ./assets/audio/082/082008.mp3
+AR: فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ
+BM: Dalam apa saja reka bentuk yang Dia pilih, sesungguhnya, Dialah yang membinakannya.
+EN: In whatever design He chose, He constructed it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082008.mp3
 
 # Ayah 9
-AR: TODO_AR_082009
-BM: TODO_BM_082009
-EN: TODO_EN_082009
-AUDIO: ./assets/audio/082/082009.mp3
+AR: كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ
+BM: Sesungguhnya, kamu tidak percayakan agama.
+EN: Indeed, you disbelieve in the religion.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082009.mp3
 
 # Ayah 10
-AR: TODO_AR_082010
-BM: TODO_BM_082010
-EN: TODO_EN_082010
-AUDIO: ./assets/audio/082/082010.mp3
+AR: وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ
+BM: Fakta yang tidak disedari ialah adanya penjaga penjaga (yang gaib) disekeliling kamu.
+EN: Oblivious to the fact that there are (invisible) keepers around you.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082010.mp3
 
 # Ayah 11
-AR: TODO_AR_082011
-BM: TODO_BM_082011
-EN: TODO_EN_082011
-AUDIO: ./assets/audio/082/082011.mp3
+AR: كِرَامًا كَاتِبِينَ
+BM: Mereka adalah para perakam yang jujur.
+EN: They are honest recorders.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082011.mp3
 
 # Ayah 12
-AR: TODO_AR_082012
-BM: TODO_BM_082012
-EN: TODO_EN_082012
-AUDIO: ./assets/audio/082/082012.mp3
+AR: يَعْلَمُونَ مَا تَفْعَلُونَ
+BM: Mereka merekodkan segala apa yang kamu lakukan.
+EN: They record everything you do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082012.mp3
 
 # Ayah 13
-AR: TODO_AR_082013
-BM: TODO_BM_082013
-EN: TODO_EN_082013
-AUDIO: ./assets/audio/082/082013.mp3
+AR: إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ
+BM: Sudah tentu, orang orang yang salih sepatutnya mendapatkan kebahagiaan.
+EN: Surely, the pious have deserved bliss.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082013.mp3
 
 # Ayah 14
-AR: TODO_AR_082014
-BM: TODO_BM_082014
-EN: TODO_EN_082014
-AUDIO: ./assets/audio/082/082014.mp3
+AR: وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ
+BM: Sementara yang zalim berhak keNeraka.
+EN: While the wicked have deserved Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082014.mp3
 
 # Ayah 15
-AR: TODO_AR_082015
-BM: TODO_BM_082015
-EN: TODO_EN_082015
-AUDIO: ./assets/audio/082/082015.mp3
+AR: يَصْلَوْنَهَا يَوْمَ الدِّينِ
+BM: Akan menerimanya pada Hari Pengadilan.
+EN: Will incur it on the Day of Judgment.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082015.mp3
 
 # Ayah 16
-AR: TODO_AR_082016
-BM: TODO_BM_082016
-EN: TODO_EN_082016
-AUDIO: ./assets/audio/082/082016.mp3
+AR: وَمَا هُمْ عَنْهَا بِغَائِبِينَ
+BM: Mereka tidak akan dapat meninggalkannya.
+EN: They never leave it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082016.mp3
 
 # Ayah 17
-AR: TODO_AR_082017
-BM: TODO_BM_082017
-EN: TODO_EN_082017
-AUDIO: ./assets/audio/082/082017.mp3
+AR: وَمَا أَدْرَٮکَ مَا يَوْمُ الدِّينِ
+BM: Menggerunkan adalah Hari Pengadilan.
+EN: Awesome is the Day of Judgment.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082017.mp3
 
 # Ayah 18
-AR: TODO_AR_082018
-BM: TODO_BM_082018
-EN: TODO_EN_082018
-AUDIO: ./assets/audio/082/082018.mp3
+AR: ثُمَّ مَا أَدْرَٮکَ مَا يَوْمُ الدِّينِ
+BM: Betapalah hari itu; Hari Pengadilan.
+EN: What a day; the Day of Judgment!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082018.mp3
 
 # Ayah 19
-AR: TODO_AR_082019
-BM: TODO_BM_082019
-EN: TODO_EN_082019
-AUDIO: ./assets/audio/082/082019.mp3
+AR: يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ
+BM: Itulah harinya apabila tidak ada roh yang dapat menolong roh yang lain, dan segala keputusan keputusan pada hari itu, adalah kepunyaan Allah.
+EN: That is the day when no soul can help another soul, and all decisions, on that day, will belong to GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/082019.mp3
+
+
+
+
+

@@ -1,310 +1,315 @@
-SURAH_NUMBER: 77
-NAME_AR: المرسلات
-NAME_BM: Yang Diutus
-NAME_EN: Those Sent Forth
+﻿SURAH_NUMBER: 77
+NAME_AR: سورة الـمرسلات
+NAME_BM: Penghantaran
+NAME_EN: Dispatched
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/077/077000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077000.mp3
 
 # Ayah 1
-AR: TODO_AR_077001
-BM: TODO_BM_077001
-EN: TODO_EN_077001
-AUDIO: ./assets/audio/077/077001.mp3
+AR: وَالمُرسَلاتِ عُرفًا
+BM: (Para malaikat) dihantarkan dengan berturut turut.
+EN: (Angels) dispatched in succession.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077001.mp3
 
 # Ayah 2
-AR: TODO_AR_077002
-BM: TODO_BM_077002
-EN: TODO_EN_077002
-AUDIO: ./assets/audio/077/077002.mp3
+AR: فَالْعَاصِفَاتِ عَصْفًا
+BM: Untuk membawakan angin.
+EN: To drive the wind.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077002.mp3
 
 # Ayah 3
-AR: TODO_AR_077003
-BM: TODO_BM_077003
-EN: TODO_EN_077003
-AUDIO: ./assets/audio/077/077003.mp3
+AR: وَالنَّاشِرَاتِ نَشْرًا
+BM: Mengumpulkan awan awan.
+EN: Stir up clouds.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077003.mp3
 
 # Ayah 4
-AR: TODO_AR_077004
-BM: TODO_BM_077004
-EN: TODO_EN_077004
-AUDIO: ./assets/audio/077/077004.mp3
+AR: فَالْفَارِقَاتِ فَرْقًا
+BM: Membahagikan peruntukkan peruntukkan.
+EN: Distribute the provisions.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077004.mp3
 
 # Ayah 5
-AR: TODO_AR_077005
-BM: TODO_BM_077005
-EN: TODO_EN_077005
-AUDIO: ./assets/audio/077/077005.mp3
+AR: فَالْمُلْقِيَاتِ ذِكْرًا
+BM: Menyampaikan mesej mesej.
+EN: Deliver messages.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077005.mp3
 
 # Ayah 6
-AR: TODO_AR_077006
-BM: TODO_BM_077006
-EN: TODO_EN_077006
-AUDIO: ./assets/audio/077/077006.mp3
+AR: عُذْرًا أَوْ نُذْرًا
+BM: Berita berita baik, begitu juga dengan amaran.
+EN: Good news, as well as warnings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077006.mp3
 
 # Ayah 7
-AR: TODO_AR_077007
-BM: TODO_BM_077007
-EN: TODO_EN_077007
-AUDIO: ./assets/audio/077/077007.mp3
+AR: إِنَّمَا تُوعَدُونَ لَوَاقِعٌ
+BM: Apa yang dijanjikan pasti akan berlaku.
+EN: What is promised will come to pass.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077007.mp3
 
 # Ayah 8
-AR: TODO_AR_077008
-BM: TODO_BM_077008
-EN: TODO_EN_077008
-AUDIO: ./assets/audio/077/077008.mp3
+AR: فَإِذَا النُّجُومُ طُمِسَتْ
+BM: Lantas, apabila bintang bintang telah dilenyapkan.
+EN: Thus, when the stars are put out.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077008.mp3
 
 # Ayah 9
-AR: TODO_AR_077009
-BM: TODO_BM_077009
-EN: TODO_EN_077009
-AUDIO: ./assets/audio/077/077009.mp3
+AR: وَإِذَا السَّمَاءُ فُرِجَتْ
+BM: Langit akan dibuka luas.
+EN: The sky is opened up.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077009.mp3
 
 # Ayah 10
-AR: TODO_AR_077010
-BM: TODO_BM_077010
-EN: TODO_EN_077010
-AUDIO: ./assets/audio/077/077010.mp3
+AR: وَإِذَا الْجِبَالُ نُسِفَتْ
+BM: Gunung gunung telah meletup.
+EN: The mountains are blown up.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077010.mp3
 
 # Ayah 11
-AR: TODO_AR_077011
-BM: TODO_BM_077011
-EN: TODO_EN_077011
-AUDIO: ./assets/audio/077/077011.mp3
+AR: وَإِذَا الرُّسُلُ أُقِّتَتْ
+BM: Para rasul akan dihimpunkan.
+EN: The messengers are summoned.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077011.mp3
 
 # Ayah 12
-AR: TODO_AR_077012
-BM: TODO_BM_077012
-EN: TODO_EN_077012
-AUDIO: ./assets/audio/077/077012.mp3
+AR: لِأَيِّ يَوْمٍ أُجِّلَتْ
+BM: Itulah hari yang dijanjikan.
+EN: That is the appointed day.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077012.mp3
 
 # Ayah 13
-AR: TODO_AR_077013
-BM: TODO_BM_077013
-EN: TODO_EN_077013
-AUDIO: ./assets/audio/077/077013.mp3
+AR: لِيَوْمِ الْفَصْلِ
+BM: Hari Penentuan.
+EN: The Day of Decision.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077013.mp3
 
 # Ayah 14
-AR: TODO_AR_077014
-BM: TODO_BM_077014
-EN: TODO_EN_077014
-AUDIO: ./assets/audio/077/077014.mp3
+AR: وَمَا أَدْرَٮکَ مَا يَوْمُ الْفَصْلِ
+BM: Apakah Hari Penentuan itu!
+EN: What a Day of Decision!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077014.mp3
 
 # Ayah 15
-AR: TODO_AR_077015
-BM: TODO_BM_077015
-EN: TODO_EN_077015
-AUDIO: ./assets/audio/077/077015.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077015.mp3
 
 # Ayah 16
-AR: TODO_AR_077016
-BM: TODO_BM_077016
-EN: TODO_EN_077016
-AUDIO: ./assets/audio/077/077016.mp3
+AR: أَلَمْ نُهْلِكِ الْأَوَّلِينَ
+BM: Bukankah kami telah menghapuskan generasi generasi yang terdahulu?
+EN: Did we not annihilate the earlier generations?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077016.mp3
 
 # Ayah 17
-AR: TODO_AR_077017
-BM: TODO_BM_077017
-EN: TODO_EN_077017
-AUDIO: ./assets/audio/077/077017.mp3
+AR: ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ
+BM: Lalu kami menjadikan yang lain mengikuti mereka?
+EN: Then we made others follow them?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077017.mp3
 
 # Ayah 18
-AR: TODO_AR_077018
-BM: TODO_BM_077018
-EN: TODO_EN_077018
-AUDIO: ./assets/audio/077/077018.mp3
+AR: كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ
+BM: Inilah apa yang kami lakukan kepada penjenayah penjenayah.
+EN: This is what we do to the criminals.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077018.mp3
 
 # Ayah 19
-AR: TODO_AR_077019
-BM: TODO_BM_077019
-EN: TODO_EN_077019
-AUDIO: ./assets/audio/077/077019.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077019.mp3
 
 # Ayah 20
-AR: TODO_AR_077020
-BM: TODO_BM_077020
-EN: TODO_EN_077020
-AUDIO: ./assets/audio/077/077020.mp3
+AR: أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ
+BM: Tidakkah kami yang menciptakan kamu dari cecair yang hina?
+EN: Did we not create you from a lowly liquid?*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077020.mp3
 
 # Ayah 21
-AR: TODO_AR_077021
-BM: TODO_BM_077021
-EN: TODO_EN_077021
-AUDIO: ./assets/audio/077/077021.mp3
+AR: فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ
+BM: Lalu kami menempatkan ianya didalam tempat simpan yang dikawal rapi.
+EN: Then we placed it in a well-protected repository.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077021.mp3
 
 # Ayah 22
-AR: TODO_AR_077022
-BM: TODO_BM_077022
-EN: TODO_EN_077022
-AUDIO: ./assets/audio/077/077022.mp3
+AR: إِلَىٰ قَدَرٍ مَعْلُومٍ
+BM: Untuk masa yang telah ditetapkan.
+EN: For a specific period.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077022.mp3
 
 # Ayah 23
-AR: TODO_AR_077023
-BM: TODO_BM_077023
-EN: TODO_EN_077023
-AUDIO: ./assets/audio/077/077023.mp3
+AR: فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ
+BM: Kami mengukurnya dengan tepat. Kamilah pereka pereka bentuk yang terbaik.
+EN: We measured it precisely.* We are the best designers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077023.mp3
 
 # Ayah 24
-AR: TODO_AR_077024
-BM: TODO_BM_077024
-EN: TODO_EN_077024
-AUDIO: ./assets/audio/077/077024.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077024.mp3
 
 # Ayah 25
-AR: TODO_AR_077025
-BM: TODO_BM_077025
-EN: TODO_EN_077025
-AUDIO: ./assets/audio/077/077025.mp3
+AR: أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا
+BM: Tidakkah kami yang menjadikan bumi sabagai tempat tinggal?
+EN: Did we not make the earth an abode?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077025.mp3
 
 # Ayah 26
-AR: TODO_AR_077026
-BM: TODO_BM_077026
-EN: TODO_EN_077026
-AUDIO: ./assets/audio/077/077026.mp3
+AR: أَحْيَاءً وَأَمْوَاتًا
+BM: Untuk yang hidup dan yang mati?
+EN: For the living and the dead?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077026.mp3
 
 # Ayah 27
-AR: TODO_AR_077027
-BM: TODO_BM_077027
-EN: TODO_EN_077027
-AUDIO: ./assets/audio/077/077027.mp3
+AR: وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا
+BM: Kami meletakkan diatasnya gunung gunung yang tinggi, dan mengadakan untuk kamu air bersih untuk diminum.
+EN: We placed on it high mountains, and provided you with fresh water to drink.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077027.mp3
 
 # Ayah 28
-AR: TODO_AR_077028
-BM: TODO_BM_077028
-EN: TODO_EN_077028
-AUDIO: ./assets/audio/077/077028.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077028.mp3
 
 # Ayah 29
-AR: TODO_AR_077029
-BM: TODO_BM_077029
-EN: TODO_EN_077029
-AUDIO: ./assets/audio/077/077029.mp3
+AR: انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ
+BM: Pergilah kepada apa yang pernah kamu ingkarkan itu.
+EN: Go to what you used to disbelieve in.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077029.mp3
 
 # Ayah 30
-AR: TODO_AR_077030
-BM: TODO_BM_077030
-EN: TODO_EN_077030
-AUDIO: ./assets/audio/077/077030.mp3
+AR: انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ
+BM: Pergilah kepada tempat teduh yang mempunyai tiga keadaan yang berlainan.
+EN: Go to a shade of three different densities.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077030.mp3
 
 # Ayah 31
-AR: TODO_AR_077031
-BM: TODO_BM_077031
-EN: TODO_EN_077031
-AUDIO: ./assets/audio/077/077031.mp3
+AR: لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ
+BM: Namun, ianya tidak memberikan kesejukan, dan tidak juga melindungi dari kehangatan.
+EN: Yet, it provides neither coolness, nor protection from the heat.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077031.mp3
 
 # Ayah 32
-AR: TODO_AR_077032
-BM: TODO_BM_077032
-EN: TODO_EN_077032
-AUDIO: ./assets/audio/077/077032.mp3
+AR: إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ
+BM: Ianya mengeluarkan percikan api sebesar rumah rumah besar.
+EN: It throws sparks as big as mansions.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077032.mp3
 
 # Ayah 33
-AR: TODO_AR_077033
-BM: TODO_BM_077033
-EN: TODO_EN_077033
-AUDIO: ./assets/audio/077/077033.mp3
+AR: كَأَنَّهُ جِمَالَتٌ صُفْرٌ
+BM: Yang kuning seumpama warnanya unta unta.
+EN: As yellow as the color of camels.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077033.mp3
 
 # Ayah 34
-AR: TODO_AR_077034
-BM: TODO_BM_077034
-EN: TODO_EN_077034
-AUDIO: ./assets/audio/077/077034.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077034.mp3
 
 # Ayah 35
-AR: TODO_AR_077035
-BM: TODO_BM_077035
-EN: TODO_EN_077035
-AUDIO: ./assets/audio/077/077035.mp3
+AR: هَٰذَا يَوْمُ لَا يَنْطِقُونَ
+BM: Itulah harinya yang mereka tidak boleh berkata kata.
+EN: That is the day they do not speak.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077035.mp3
 
 # Ayah 36
-AR: TODO_AR_077036
-BM: TODO_BM_077036
-EN: TODO_EN_077036
-AUDIO: ./assets/audio/077/077036.mp3
+AR: وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+BM: Dan tidak juga mereka diberikan keizinan untuk meminta maaf.
+EN: Nor are they given permission to apologize.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077036.mp3
 
 # Ayah 37
-AR: TODO_AR_077037
-BM: TODO_BM_077037
-EN: TODO_EN_077037
-AUDIO: ./assets/audio/077/077037.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077037.mp3
 
 # Ayah 38
-AR: TODO_AR_077038
-BM: TODO_BM_077038
-EN: TODO_EN_077038
-AUDIO: ./assets/audio/077/077038.mp3
+AR: هَٰذَا يَوْمُ الْفَصْلِ جَمَعْنَاكُمْ وَالْأَوَّلِينَ
+BM: Ini adalah Hari Penentuan. Kami telah menghimpunkan kamu dan generasi generasi yang terdahulu.
+EN: This is the Day of Decision. We have summoned you and the previous generations.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077038.mp3
 
 # Ayah 39
-AR: TODO_AR_077039
-BM: TODO_BM_077039
-EN: TODO_EN_077039
-AUDIO: ./assets/audio/077/077039.mp3
+AR: فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
+BM: Jika kamu mempunyai sebarang rancangan, teruskanlah dan rancangkanlah.
+EN: If you have any schemes, go ahead and scheme.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077039.mp3
 
 # Ayah 40
-AR: TODO_AR_077040
-BM: TODO_BM_077040
-EN: TODO_EN_077040
-AUDIO: ./assets/audio/077/077040.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077040.mp3
 
 # Ayah 41
-AR: TODO_AR_077041
-BM: TODO_BM_077041
-EN: TODO_EN_077041
-AUDIO: ./assets/audio/077/077041.mp3
+AR: إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ
+BM: Orang orang yang benar akan menikmati teduhan dan pancuran pancuran.
+EN: The righteous will enjoy shade and springs.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077041.mp3
 
 # Ayah 42
-AR: TODO_AR_077042
-BM: TODO_BM_077042
-EN: TODO_EN_077042
-AUDIO: ./assets/audio/077/077042.mp3
+AR: وَفَوَاكِهَ مِمَّا يَشْتَهُونَ
+BM: Dan buah buahan yang mereka inginkan.
+EN: And fruits that they desire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077042.mp3
 
 # Ayah 43
-AR: TODO_AR_077043
-BM: TODO_BM_077043
-EN: TODO_EN_077043
-AUDIO: ./assets/audio/077/077043.mp3
+AR: كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ
+BM: Makan dan minumlah dengan gembiranya sebagai balasan dari kerja kerja kamu.
+EN: Eat and drink happily in return for your works.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077043.mp3
 
 # Ayah 44
-AR: TODO_AR_077044
-BM: TODO_BM_077044
-EN: TODO_EN_077044
-AUDIO: ./assets/audio/077/077044.mp3
+AR: إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ
+BM: Lantas, kami menganugerahkan orang orang yang mulia.
+EN: We thus reward the virtuous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077044.mp3
 
 # Ayah 45
-AR: TODO_AR_077045
-BM: TODO_BM_077045
-EN: TODO_EN_077045
-AUDIO: ./assets/audio/077/077045.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077045.mp3
 
 # Ayah 46
-AR: TODO_AR_077046
-BM: TODO_BM_077046
-EN: TODO_EN_077046
-AUDIO: ./assets/audio/077/077046.mp3
+AR: كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ
+BM: Makan dan minumlah buat sementara waktu; kamu adalah pesalah.
+EN: Eat and enjoy temporarily; you are guilty.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077046.mp3
 
 # Ayah 47
-AR: TODO_AR_077047
-BM: TODO_BM_077047
-EN: TODO_EN_077047
-AUDIO: ./assets/audio/077/077047.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077047.mp3
 
 # Ayah 48
-AR: TODO_AR_077048
-BM: TODO_BM_077048
-EN: TODO_EN_077048
-AUDIO: ./assets/audio/077/077048.mp3
+AR: وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ
+BM: Apabila mereka telah dikatakan, "Ruku'lah," mereka tidak mahu ruku'.
+EN: When they are told, "Bow down," they do not bow down.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077048.mp3
 
 # Ayah 49
-AR: TODO_AR_077049
-BM: TODO_BM_077049
-EN: TODO_EN_077049
-AUDIO: ./assets/audio/077/077049.mp3
+AR: وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ
+BM: Malang sungguh bagi pengingkar pengingkar pada hari itu.
+EN: Woe on that day to the rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077049.mp3
 
 # Ayah 50
-AR: TODO_AR_077050
-BM: TODO_BM_077050
-EN: TODO_EN_077050
-AUDIO: ./assets/audio/077/077050.mp3
+AR: فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ
+BM: Hadis yang mana selain ini, yang mereka mendukungnya?
+EN: Which Hadith, other than this, do they uphold?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/077050.mp3
+
+
+
+
+

@@ -84,7 +84,7 @@ Rules:
 - Optional fields: `AUDIO`, `SUBTITLE_BM`, `SUBTITLE_EN`, `FOOTNOTE_BM`, `FOOTNOTE_EN`
 - If `SUBTITLE_BM` is present, `SUBTITLE_EN` must also be present.
 - If `FOOTNOTE_BM` is present, `FOOTNOTE_EN` must also be present.
-- Audio can be a local path such as `assets/audio/001001.mp3` or a full URL.
+- Audio should use a remote `https` URL such as `https://everyayah.com/data/Alafasy_64kbps/001001.mp3`.
 - Subtitle and footnote fields are only included in JSON when present.
 
 Example with optional metadata:
@@ -172,7 +172,7 @@ Opening `index.html` directly with `file://` is not recommended because the app 
 
 1. Create a new raw file in `data/raw/`, for example `surah-002.txt`.
 2. Follow the same metadata and block-based ayah format.
-3. If you are using local MP3 files, place them in `assets/audio/`.
+3. Set each `AUDIO:` line to a remote `https` MP3 URL.
 4. Run:
 
 ```bash

@@ -1,228 +1,228 @@
 {
   "surahNumber": 89,
   "name": {
-    "ar": "الفجر",
-    "bm": "Fajar",
-    "en": "The Dawn"
+    "ar": "سورة الفجر",
+    "bm": "Subuh",
+    "en": "Dawn"
   },
   "totalAyahs": 30,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/089/089000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_089001",
-      "bm": "TODO_BM_089001",
-      "en": "TODO_EN_089001",
-      "audio": "./assets/audio/089/089001.mp3"
+      "arabic": "وَالفَجرِ",
+      "bm": "Demi subuh.",
+      "en": "By the dawn.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_089002",
-      "bm": "TODO_BM_089002",
-      "en": "TODO_EN_089002",
-      "audio": "./assets/audio/089/089002.mp3"
+      "arabic": "وَلَيَالٍ عَشْرٍ",
+      "bm": "Dan malam yang kesepuluh.",
+      "en": "And the ten nights. *",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_089003",
-      "bm": "TODO_BM_089003",
-      "en": "TODO_EN_089003",
-      "audio": "./assets/audio/089/089003.mp3"
+      "arabic": "وَالشَّفْعِ وَالْوَتْرِ",
+      "bm": "Bagi yang genap dan yang ganjil.",
+      "en": "By the even and the odd. *",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_089004",
-      "bm": "TODO_BM_089004",
-      "en": "TODO_EN_089004",
-      "audio": "./assets/audio/089/089004.mp3"
+      "arabic": "وَالَّيْلِ إِذَا يَسْرِ",
+      "bm": "Demi malam apabila ianya berlalu.",
+      "en": "By the night as it passes.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_089005",
-      "bm": "TODO_BM_089005",
-      "en": "TODO_EN_089005",
-      "audio": "./assets/audio/089/089005.mp3"
+      "arabic": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ",
+      "bm": "Sumpah yang nyata, bagi seseorang yang mempunyai kecerdasan.",
+      "en": "A profound oath, for one who possesses intelligence.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_089006",
-      "bm": "TODO_BM_089006",
-      "en": "TODO_EN_089006",
-      "audio": "./assets/audio/089/089006.mp3"
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "bm": "Tidakkah kamu perhatikan apa yang Tuhan kamu lakukan kepada 'Ad?",
+      "en": "Have you noted what your Lord did to 'Ãd?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_089007",
-      "bm": "TODO_BM_089007",
-      "en": "TODO_EN_089007",
-      "audio": "./assets/audio/089/089007.mp3"
+      "arabic": "إِرَمَ ذَاتِ الْعِمَادِ",
+      "bm": "Erum; bandar yang mempunyai bangunan bangunan yang tinggi tinggi.",
+      "en": "Erum; the town with tall buildings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_089008",
-      "bm": "TODO_BM_089008",
-      "en": "TODO_EN_089008",
-      "audio": "./assets/audio/089/089008.mp3"
+      "arabic": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+      "bm": "Tidak ada yang serupa dengannya dimana mana.",
+      "en": "There was nothing like it anywhere.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_089009",
-      "bm": "TODO_BM_089009",
-      "en": "TODO_EN_089009",
-      "audio": "./assets/audio/089/089009.mp3"
+      "arabic": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+      "bm": "Begitu juga dengan Thamud, yang mengukir batu batu dilembah mereka.",
+      "en": "Also Thamûd, who carved the rocks in their valley.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_089010",
-      "bm": "TODO_BM_089010",
-      "en": "TODO_EN_089010",
-      "audio": "./assets/audio/089/089010.mp3"
+      "arabic": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+      "bm": "Dan Fir'aun yang mempunyai kuasa.",
+      "en": "And Pharaoh who possessed might.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_089011",
-      "bm": "TODO_BM_089011",
-      "en": "TODO_EN_089011",
-      "audio": "./assets/audio/089/089011.mp3"
+      "arabic": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+      "bm": "Mereka semuanya melampaui batas dimuka bumi.",
+      "en": "They all transgressed in the land.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_089012",
-      "bm": "TODO_BM_089012",
-      "en": "TODO_EN_089012",
-      "audio": "./assets/audio/089/089012.mp3"
+      "arabic": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+      "bm": "Mereka merebakkan kejahatan dikeseluruhannya.",
+      "en": "They spread evil throughout.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_089013",
-      "bm": "TODO_BM_089013",
-      "en": "TODO_EN_089013",
-      "audio": "./assets/audio/089/089013.mp3"
+      "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "bm": "Akibatnya, Tuhan kamu menyirami mereka dengan pukulan yang mengazabkan.",
+      "en": "Consequently, your Lord poured upon them a whipping retribution.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_089014",
-      "bm": "TODO_BM_089014",
-      "en": "TODO_EN_089014",
-      "audio": "./assets/audio/089/089014.mp3"
+      "arabic": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+      "bm": "Tuhanmu selalunya memerhatikan.",
+      "en": "Your Lord is ever watchful.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_089015",
-      "bm": "TODO_BM_089015",
-      "en": "TODO_EN_089015",
-      "audio": "./assets/audio/089/089015.mp3"
+      "arabic": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+      "bm": "Apabila manusia dicuba oleh Tuhannya, melalui rahmat dan kegembiraan, dia berkata, \"Tuhanku adalah amat murah terhadapku.\"",
+      "en": "When the human being is tested by his Lord, through blessings and joy, he says, \"My Lord is generous towards me.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_089016",
-      "bm": "TODO_BM_089016",
-      "en": "TODO_EN_089016",
-      "audio": "./assets/audio/089/089016.mp3"
+      "arabic": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+      "bm": "Tetapi jika Dia mencubainya melalui kekurangan peruntukkan peruntukkan, dia berkata, \"Tuhanku menghinakanku!\"",
+      "en": "But if He tests him through reduction in provisions, he says, \"My Lord is humiliating me!\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_089017",
-      "bm": "TODO_BM_089017",
-      "en": "TODO_EN_089017",
-      "audio": "./assets/audio/089/089017.mp3"
+      "arabic": "كَلَّا بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+      "bm": "Salah! Ianya adalah kamu yang membawanya kepada diri diri kamu sendiri dengan tidak mempedulikan anak yatim.",
+      "en": "Wrong! It is you who brought it on yourselves by not regarding the orphan.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_089018",
-      "bm": "TODO_BM_089018",
-      "en": "TODO_EN_089018",
-      "audio": "./assets/audio/089/089018.mp3"
+      "arabic": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "bm": "Dan tidak menganjurkan derma terhadap orang orang miskin.",
+      "en": "And not advocating charity towards the poor.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_089019",
-      "bm": "TODO_BM_089019",
-      "en": "TODO_EN_089019",
-      "audio": "./assets/audio/089/089019.mp3"
+      "arabic": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا",
+      "bm": "Dan memakan harta yang diwariskan kepada anak anak yatim yang tidak berupaya.",
+      "en": "And consuming the inheritance of helpless orphans.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_089020",
-      "bm": "TODO_BM_089020",
-      "en": "TODO_EN_089020",
-      "audio": "./assets/audio/089/089020.mp3"
+      "arabic": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+      "bm": "Dan mencintai wang dengan keterlaluan.",
+      "en": "And loving the money too much.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_089021",
-      "bm": "TODO_BM_089021",
-      "en": "TODO_EN_089021",
-      "audio": "./assets/audio/089/089021.mp3"
+      "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+      "bm": "Sesungguhnya, apabila bumi menjadi hancur dengan kehancuran yang sebenar.",
+      "en": "Indeed, when the earth is crushed, utterly crushed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_089022",
-      "bm": "TODO_BM_089022",
-      "en": "TODO_EN_089022",
-      "audio": "./assets/audio/089/089022.mp3"
+      "arabic": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+      "bm": "Dan Tuhan kamu datang, bersama sama dengan para malaikat dalam barisan demi barisan.",
+      "en": "And your Lord comes, together with the angels in row after row.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_089023",
-      "bm": "TODO_BM_089023",
-      "en": "TODO_EN_089023",
-      "audio": "./assets/audio/089/089023.mp3"
+      "arabic": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+      "bm": "Pada hari itu, Gehenna akan dibawa kehadapan. Pada hari itu, manusia akan teringat - tetapi apalah gunanya peringatan ? ianya akan menjadi terlambat.",
+      "en": "On that day, Gehenna will be brought forth. On that day, the human being will remember--but what a remembrance--it will be too late.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_089024",
-      "bm": "TODO_BM_089024",
-      "en": "TODO_EN_089024",
-      "audio": "./assets/audio/089/089024.mp3"
+      "arabic": "يَقُولُ يَالَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+      "bm": "Dia akan berkata, \"Oh, Jika dapat aku sediakan untuk kehidupanku (yang kekal ini).\"",
+      "en": "He will say, \"Oh, I wish I prepared for my (eternal) life.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_089025",
-      "bm": "TODO_BM_089025",
-      "en": "TODO_EN_089025",
-      "audio": "./assets/audio/089/089025.mp3"
+      "arabic": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+      "bm": "Pada hari itu, tidak ada hukuman yang lebih buruk dari hukumanNya.",
+      "en": "On that day, no retribution could be worse than His retribution.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_089026",
-      "bm": "TODO_BM_089026",
-      "en": "TODO_EN_089026",
-      "audio": "./assets/audio/089/089026.mp3"
+      "arabic": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+      "bm": "Dan tidak ada pengurungan yang lebih berkesan dari pengurunganNya.",
+      "en": "And no confinement is as effective as His confinement.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_089027",
-      "bm": "TODO_BM_089027",
-      "en": "TODO_EN_089027",
-      "audio": "./assets/audio/089/089027.mp3"
+      "arabic": "يَاأَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+      "bm": "Bagi kau, wahai roh yang berpuas hati.",
+      "en": "As for you, O content soul.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_089028",
-      "bm": "TODO_BM_089028",
-      "en": "TODO_EN_089028",
-      "audio": "./assets/audio/089/089028.mp3"
+      "arabic": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
+      "bm": "Kembalilah kepada Tuhan kamu, redha dan diredhai.",
+      "en": "Return to your Lord, pleased and pleasing.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089028.mp3"
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_089029",
-      "bm": "TODO_BM_089029",
-      "en": "TODO_EN_089029",
-      "audio": "./assets/audio/089/089029.mp3"
+      "arabic": "فَادْخُلِي فِي عِبَادِي",
+      "bm": "Masuklah kedalam hamba hambaKu.",
+      "en": "Welcome into My servants.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089029.mp3"
     },
     {
       "number": 30,
-      "arabic": "TODO_AR_089030",
-      "bm": "TODO_BM_089030",
-      "en": "TODO_EN_089030",
-      "audio": "./assets/audio/089/089030.mp3"
+      "arabic": "وَادْخُلِي جَنَّتِي",
+      "bm": "Masuklah kedalam SyurgaKu.",
+      "en": "Welcome into My Paradise.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089030.mp3"
     }
   ]
 }

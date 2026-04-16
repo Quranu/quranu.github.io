@@ -1,39 +1,43 @@
 {
   "surahNumber": 110,
   "name": {
-    "ar": "النصر",
-    "bm": "Pertolongan",
-    "en": "Divine Support"
+    "ar": "سورة الـنصر",
+    "bm": "Kemenangan",
+    "en": "Triumph"
   },
   "totalAyahs": 3,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/110/110000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/110000.mp3",
+      "subtitle": {
+        "bm": "[Sura Terakhir Diturunkan]*",
+        "en": "[Last Sura Revealed]*"
+      }
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_110001",
-      "bm": "TODO_BM_110001",
-      "en": "TODO_EN_110001",
-      "audio": "./assets/audio/110/110001.mp3"
+      "arabic": "إِذا جاءَ نَصرُ اللَّهِ وَالفَتحُ",
+      "bm": "Apabila kemenangan datang dari Allah, dan kejayaan.",
+      "en": "When triumph comes from GOD, and victory.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/110001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_110002",
-      "bm": "TODO_BM_110002",
-      "en": "TODO_EN_110002",
-      "audio": "./assets/audio/110/110002.mp3"
+      "arabic": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "bm": "Kamu akan melihat manusia memeluk agama Allah dengan berkumpulan yang beramai ramai.",
+      "en": "You will see the people embracing GOD's religion in throngs.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/110002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_110003",
-      "bm": "TODO_BM_110003",
-      "en": "TODO_EN_110003",
-      "audio": "./assets/audio/110/110003.mp3"
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
+      "bm": "Kau mestilah mengagungkan dan memujikan Tuhanmu, dan bermohonlah kepadaNya untuk pengampunan. Sesungguhnya, Dialah yang Maha Penebus.",
+      "en": "You shall glorify and praise your Lord, and implore Him for forgiveness. He is the Redeemer.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/110003.mp3"
     }
   ]
 }

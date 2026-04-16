@@ -1,564 +1,564 @@
 {
   "surahNumber": 55,
   "name": {
-    "ar": "الرحمن",
-    "bm": "Yang Maha Pemurah",
-    "en": "The Most Compassionate"
+    "ar": "سورة الـرحـمـن",
+    "bm": "Yang Maha Pengasih",
+    "en": "Most Gracious"
   },
   "totalAyahs": 78,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/055/055000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_055001",
-      "bm": "TODO_BM_055001",
-      "en": "TODO_EN_055001",
-      "audio": "./assets/audio/055/055001.mp3"
+      "arabic": "الرَّحمٰنُ",
+      "bm": "Yang Maha Pengasih.",
+      "en": "The Most Gracious.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_055002",
-      "bm": "TODO_BM_055002",
-      "en": "TODO_EN_055002",
-      "audio": "./assets/audio/055/055002.mp3"
+      "arabic": "عَلَّمَ الْقُرْآنَ",
+      "bm": "Pengajar Quran.",
+      "en": "Teacher of the Quran.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_055003",
-      "bm": "TODO_BM_055003",
-      "en": "TODO_EN_055003",
-      "audio": "./assets/audio/055/055003.mp3"
+      "arabic": "خَلَقَ الْإِنْسَانَ",
+      "bm": "Pencipta manusia.",
+      "en": "Creator of the human beings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_055004",
-      "bm": "TODO_BM_055004",
-      "en": "TODO_EN_055004",
-      "audio": "./assets/audio/055/055004.mp3"
+      "arabic": "عَلَّمَهُ الْبَيَانَ",
+      "bm": "Dia yang mengajarkan mereka bagaimana untuk membezakan.",
+      "en": "He taught them how to distinguish.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_055005",
-      "bm": "TODO_BM_055005",
-      "en": "TODO_EN_055005",
-      "audio": "./assets/audio/055/055005.mp3"
+      "arabic": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+      "bm": "Matahari dan bulan telah dikira dengan cukup rapi.",
+      "en": "The sun and the moon are perfectly calculated.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_055006",
-      "bm": "TODO_BM_055006",
-      "en": "TODO_EN_055006",
-      "audio": "./assets/audio/055/055006.mp3"
+      "arabic": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+      "bm": "Bintang bintang dan pokok pokok bersujud.",
+      "en": "The stars and the trees prostrate.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_055007",
-      "bm": "TODO_BM_055007",
-      "en": "TODO_EN_055007",
-      "audio": "./assets/audio/055/055007.mp3"
+      "arabic": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+      "bm": "Dia yang membinakan langit dan memantapkan undang undang.",
+      "en": "He constructed the sky and established the law.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_055008",
-      "bm": "TODO_BM_055008",
-      "en": "TODO_EN_055008",
-      "audio": "./assets/audio/055/055008.mp3"
+      "arabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+      "bm": "Janganlah sekali kali kamu melampaui undang undang.",
+      "en": "You shall not transgress the law.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_055009",
-      "bm": "TODO_BM_055009",
-      "en": "TODO_EN_055009",
-      "audio": "./assets/audio/055/055009.mp3"
+      "arabic": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+      "bm": "Kamu mestilah menetapkan keadilan; janganlah melanggar undang undang.",
+      "en": "You shall establish justice; do not violate the law.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_055010",
-      "bm": "TODO_BM_055010",
-      "en": "TODO_EN_055010",
-      "audio": "./assets/audio/055/055010.mp3"
+      "arabic": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "bm": "Dia yang menciptakan bumi untuk semua makhluk makhluk.",
+      "en": "He created the earth for all creatures.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_055011",
-      "bm": "TODO_BM_055011",
-      "en": "TODO_EN_055011",
-      "audio": "./assets/audio/055/055011.mp3"
+      "arabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+      "bm": "Didalamnya ada buah buahan, dan pokok pokok kurma yang buahnya bergantungan.",
+      "en": "In it there are fruits, and date palms with their hanging fruit.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_055012",
-      "bm": "TODO_BM_055012",
-      "en": "TODO_EN_055012",
-      "audio": "./assets/audio/055/055012.mp3"
+      "arabic": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+      "bm": "Juga biji bijian dan berbagai macam jenis rempah ratus.",
+      "en": "Also grains and the spices.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_055013",
-      "bm": "TODO_BM_055013",
-      "en": "TODO_EN_055013",
-      "audio": "./assets/audio/055/055013.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "(Wahai manusia dan para jin) yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "(O humans and jinns,) which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_055014",
-      "bm": "TODO_BM_055014",
-      "en": "TODO_EN_055014",
-      "audio": "./assets/audio/055/055014.mp3"
+      "arabic": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+      "bm": "Dia menciptakan manusia dari tanah liat yang berzaman, seperti tukang tembikar.",
+      "en": "He created the human from aged clay, like the potter's clay.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_055015",
-      "bm": "TODO_BM_055015",
-      "en": "TODO_EN_055015",
-      "audio": "./assets/audio/055/055015.mp3"
+      "arabic": "وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
+      "bm": "Dan menciptakan para jin dari api yang membara.",
+      "en": "And created the jinns from blazing fire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_055016",
-      "bm": "TODO_BM_055016",
-      "en": "TODO_EN_055016",
-      "audio": "./assets/audio/055/055016.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "(Wahai manusia dan para jin) yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "(O humans and jinns,) which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_055017",
-      "bm": "TODO_BM_055017",
-      "en": "TODO_EN_055017",
-      "audio": "./assets/audio/055/055017.mp3"
+      "arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+      "bm": "Tuhan bagi dua timur dan dua barat.",
+      "en": "Lord of the two easts and the two wests.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_055018",
-      "bm": "TODO_BM_055018",
-      "en": "TODO_EN_055018",
-      "audio": "./assets/audio/055/055018.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_055019",
-      "bm": "TODO_BM_055019",
-      "en": "TODO_EN_055019",
-      "audio": "./assets/audio/055/055019.mp3"
+      "arabic": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "bm": "Dia yang memisahkan dua lautan dimana mereka bertemu.",
+      "en": "He separates the two seas where they meet.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_055020",
-      "bm": "TODO_BM_055020",
-      "en": "TODO_EN_055020",
-      "audio": "./assets/audio/055/055020.mp3"
+      "arabic": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ",
+      "bm": "Penghalang telah diletakkan diantara mereka, untuk melindungi mereka dari melampaui batas.",
+      "en": "A barrier is placed between them, to prevent them from transgressing.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_055021",
-      "bm": "TODO_BM_055021",
-      "en": "TODO_EN_055021",
-      "audio": "./assets/audio/055/055021.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_055022",
-      "bm": "TODO_BM_055022",
-      "en": "TODO_EN_055022",
-      "audio": "./assets/audio/055/055022.mp3"
+      "arabic": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+      "bm": "Dari kedua mereka kamu mendapatkan mutiara mutiara dan marjan.",
+      "en": "Out of both of them you get pearls and coral.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_055023",
-      "bm": "TODO_BM_055023",
-      "en": "TODO_EN_055023",
-      "audio": "./assets/audio/055/055023.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_055024",
-      "bm": "TODO_BM_055024",
-      "en": "TODO_EN_055024",
-      "audio": "./assets/audio/055/055024.mp3"
+      "arabic": "وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+      "bm": "Dia berikan kamu kapal kapal yang belayar dilautan seperti bendera bendera.",
+      "en": "He gave you ships that roam the sea like flags.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_055025",
-      "bm": "TODO_BM_055025",
-      "en": "TODO_EN_055025",
-      "audio": "./assets/audio/055/055025.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_055026",
-      "bm": "TODO_BM_055026",
-      "en": "TODO_EN_055026",
-      "audio": "./assets/audio/055/055026.mp3"
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "bm": "Kesemuanya yang ada dibumi akan habis musnah.",
+      "en": "Everyone on earth perishes.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_055027",
-      "bm": "TODO_BM_055027",
-      "en": "TODO_EN_055027",
-      "audio": "./assets/audio/055/055027.mp3"
+      "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "bm": "Hanyalah kehadiran Tuhan kamu yang akan kekal. Yang Maha Pemilik yang Maha Agung lagi Maha Mulia.",
+      "en": "Only the presence of your Lord lasts. Possessor of Majesty and Honor.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_055028",
-      "bm": "TODO_BM_055028",
-      "en": "TODO_EN_055028",
-      "audio": "./assets/audio/055/055028.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055028.mp3"
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_055029",
-      "bm": "TODO_BM_055029",
-      "en": "TODO_EN_055029",
-      "audio": "./assets/audio/055/055029.mp3"
+      "arabic": "يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+      "bm": "Memohon kepadaNya adalah semuanya disekelian cekrawala dan dibumi. Setiap hari Dia sahajalah yang berkuasa dengan sepenuhnya.",
+      "en": "Imploring Him is everyone in the heavens and the earth. Every day He is in full control.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055029.mp3"
     },
     {
       "number": 30,
-      "arabic": "TODO_AR_055030",
-      "bm": "TODO_BM_055030",
-      "en": "TODO_EN_055030",
-      "audio": "./assets/audio/055/055030.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055030.mp3"
     },
     {
       "number": 31,
-      "arabic": "TODO_AR_055031",
-      "bm": "TODO_BM_055031",
-      "en": "TODO_EN_055031",
-      "audio": "./assets/audio/055/055031.mp3"
+      "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+      "bm": "Kami akan memanggil kamu untuk diperhitungkan, wahai manusia dan para jin.",
+      "en": "We will call you to account, O humans and jinns.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055031.mp3"
     },
     {
       "number": 32,
-      "arabic": "TODO_AR_055032",
-      "bm": "TODO_BM_055032",
-      "en": "TODO_EN_055032",
-      "audio": "./assets/audio/055/055032.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055032.mp3"
     },
     {
       "number": 33,
-      "arabic": "TODO_AR_055033",
-      "bm": "TODO_BM_055033",
-      "en": "TODO_EN_055033",
-      "audio": "./assets/audio/055/055033.mp3"
+      "arabic": "يَامَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ",
+      "bm": "Wahai para jin dan manusia, jika kamu boleh menembus luar batasan bagi sekelian cekrawala dan bumi, pergilah dan tembuslah. Kamu tidak akan dapat menembusnya dengan tidak mendapatkan autoriti.",
+      "en": "O you jinns and humans, if you can penetrate the outer limits of the heavens and the earth, go ahead and penetrate. You cannot penetrate without authorization.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055033.mp3"
     },
     {
       "number": 34,
-      "arabic": "TODO_AR_055034",
-      "bm": "TODO_BM_055034",
-      "en": "TODO_EN_055034",
-      "audio": "./assets/audio/055/055034.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055034.mp3"
     },
     {
       "number": 35,
-      "arabic": "TODO_AR_055035",
-      "bm": "TODO_BM_055035",
-      "en": "TODO_EN_055035",
-      "audio": "./assets/audio/055/055035.mp3"
+      "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
+      "bm": "Kamu akan diserang dengan pelancar pelancar dari api dan logam, dan kamu tidak akan menang.",
+      "en": "You get bombarded with projectiles of fire and metal, and you cannot win.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055035.mp3"
     },
     {
       "number": 36,
-      "arabic": "TODO_AR_055036",
-      "bm": "TODO_BM_055036",
-      "en": "TODO_EN_055036",
-      "audio": "./assets/audio/055/055036.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055036.mp3"
     },
     {
       "number": 37,
-      "arabic": "TODO_AR_055037",
-      "bm": "TODO_BM_055037",
-      "en": "TODO_EN_055037",
-      "audio": "./assets/audio/055/055037.mp3"
+      "arabic": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "bm": "Apabila langit berkecai, dan menukarkan warna ros.",
+      "en": "When the sky disintegrates, and turns rose colored like paint.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055037.mp3"
     },
     {
       "number": 38,
-      "arabic": "TODO_AR_055038",
-      "bm": "TODO_BM_055038",
-      "en": "TODO_EN_055038",
-      "audio": "./assets/audio/055/055038.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055038.mp3"
     },
     {
       "number": 39,
-      "arabic": "TODO_AR_055039",
-      "bm": "TODO_BM_055039",
-      "en": "TODO_EN_055039",
-      "audio": "./assets/audio/055/055039.mp3"
+      "arabic": "فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ",
+      "bm": "Pada hari itu, tidak ada manusia mahupun seorang jin, akan ditanya tentang dosa dosanya.",
+      "en": "On that day, no human, nor a jinn, will be asked about his sins.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055039.mp3"
     },
     {
       "number": 40,
-      "arabic": "TODO_AR_055040",
-      "bm": "TODO_BM_055040",
-      "en": "TODO_EN_055040",
-      "audio": "./assets/audio/055/055040.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055040.mp3"
     },
     {
       "number": 41,
-      "arabic": "TODO_AR_055041",
-      "bm": "TODO_BM_055041",
-      "en": "TODO_EN_055041",
-      "audio": "./assets/audio/055/055041.mp3"
+      "arabic": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+      "bm": "(Ini adalah kerana) pesalah akan dapat dikenali dari wajah wajah mereka; mereka akan diheret dari hujung rambut dan kaki kaki.",
+      "en": "(This is because) the guilty will be recognized by their looks; they will be taken by the forelocks and the feet.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055041.mp3"
     },
     {
       "number": 42,
-      "arabic": "TODO_AR_055042",
-      "bm": "TODO_BM_055042",
-      "en": "TODO_EN_055042",
-      "audio": "./assets/audio/055/055042.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaibanTuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055042.mp3"
     },
     {
       "number": 43,
-      "arabic": "TODO_AR_055043",
-      "bm": "TODO_BM_055043",
-      "en": "TODO_EN_055043",
-      "audio": "./assets/audio/055/055043.mp3"
+      "arabic": "هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+      "bm": "Ini adalah Gehenna yang para pesalah telah nafikan.",
+      "en": "This is Gehenna that the guilty used to deny.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055043.mp3"
     },
     {
       "number": 44,
-      "arabic": "TODO_AR_055044",
-      "bm": "TODO_BM_055044",
-      "en": "TODO_EN_055044",
-      "audio": "./assets/audio/055/055044.mp3"
+      "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+      "bm": "Mereka akan mengelilingi serta tidak akan dapat tertahan apinya yang menjulang.",
+      "en": "They will circulate between it and an intolerable inferno.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055044.mp3"
     },
     {
       "number": 45,
-      "arabic": "TODO_AR_055045",
-      "bm": "TODO_BM_055045",
-      "en": "TODO_EN_055045",
-      "audio": "./assets/audio/055/055045.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055045.mp3"
     },
     {
       "number": 46,
-      "arabic": "TODO_AR_055046",
-      "bm": "TODO_BM_055046",
-      "en": "TODO_EN_055046",
-      "audio": "./assets/audio/055/055046.mp3"
+      "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+      "bm": "Bagi orang orang yang menghormati keagungan Tuhan mereka, dua taman taman (satu untuk para jin dan satu lagi untuk manusia).",
+      "en": "For those who reverence the majesty of their Lord, two gardens (one for the jinns and one for the humans).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055046.mp3"
     },
     {
       "number": 47,
-      "arabic": "TODO_AR_055047",
-      "bm": "TODO_BM_055047",
-      "en": "TODO_EN_055047",
-      "audio": "./assets/audio/055/055047.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055047.mp3"
     },
     {
       "number": 48,
-      "arabic": "TODO_AR_055048",
-      "bm": "TODO_BM_055048",
-      "en": "TODO_EN_055048",
-      "audio": "./assets/audio/055/055048.mp3"
+      "arabic": "ذَوَاتَا أَفْنَانٍ",
+      "bm": "Penuh dengan peruntukkan peruntukkan.",
+      "en": "Full of provisions.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055048.mp3"
     },
     {
       "number": 49,
-      "arabic": "TODO_AR_055049",
-      "bm": "TODO_BM_055049",
-      "en": "TODO_EN_055049",
-      "audio": "./assets/audio/055/055049.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055049.mp3"
     },
     {
       "number": 50,
-      "arabic": "TODO_AR_055050",
-      "bm": "TODO_BM_055050",
-      "en": "TODO_EN_055050",
-      "audio": "./assets/audio/055/055050.mp3"
+      "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "bm": "Dua pancuran pancuran berada didalam mereka, yang mengalir.",
+      "en": "Two springs are in them, flowing.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055050.mp3"
     },
     {
       "number": 51,
-      "arabic": "TODO_AR_055051",
-      "bm": "TODO_BM_055051",
-      "en": "TODO_EN_055051",
-      "audio": "./assets/audio/055/055051.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055051.mp3"
     },
     {
       "number": 52,
-      "arabic": "TODO_AR_055052",
-      "bm": "TODO_BM_055052",
-      "en": "TODO_EN_055052",
-      "audio": "./assets/audio/055/055052.mp3"
+      "arabic": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+      "bm": "Dari tiap tiap buah didalam mereka, ada dua macam jenis.",
+      "en": "Of every fruit in them, two kinds.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055052.mp3"
     },
     {
       "number": 53,
-      "arabic": "TODO_AR_055053",
-      "bm": "TODO_BM_055053",
-      "en": "TODO_EN_055053",
-      "audio": "./assets/audio/055/055053.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055053.mp3"
     },
     {
       "number": 54,
-      "arabic": "TODO_AR_055054",
-      "bm": "TODO_BM_055054",
-      "en": "TODO_EN_055054",
-      "audio": "./assets/audio/055/055054.mp3"
+      "arabic": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+      "bm": "Sementara berehat diatas perabut perabut bersalut dengan satin, buah buahan yang boleh dicapai.",
+      "en": "While relaxing on furnishings lined with satin, the fruits are within reach.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055054.mp3"
     },
     {
       "number": 55,
-      "arabic": "TODO_AR_055055",
-      "bm": "TODO_BM_055055",
-      "en": "TODO_EN_055055",
-      "audio": "./assets/audio/055/055055.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055055.mp3"
     },
     {
       "number": 56,
-      "arabic": "TODO_AR_055056",
-      "bm": "TODO_BM_055056",
-      "en": "TODO_EN_055056",
-      "audio": "./assets/audio/055/055056.mp3"
+      "arabic": "فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "bm": "Pasangan pasangan mereka yang cantik cantik belum pernah disentuh oleh sebarang manusia ataupun jin.",
+      "en": "Their beautiful mates were never touched by any human or jinn.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055056.mp3"
     },
     {
       "number": 57,
-      "arabic": "TODO_AR_055057",
-      "bm": "TODO_BM_055057",
-      "en": "TODO_EN_055057",
-      "audio": "./assets/audio/055/055057.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055057.mp3"
     },
     {
       "number": 58,
-      "arabic": "TODO_AR_055058",
-      "bm": "TODO_BM_055058",
-      "en": "TODO_EN_055058",
-      "audio": "./assets/audio/055/055058.mp3"
+      "arabic": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+      "bm": "Mereka kelihatan sebagai batu permata dan marjan.",
+      "en": "They look like gems and coral.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055058.mp3"
     },
     {
       "number": 59,
-      "arabic": "TODO_AR_055059",
-      "bm": "TODO_BM_055059",
-      "en": "TODO_EN_055059",
-      "audio": "./assets/audio/055/055059.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055059.mp3"
     },
     {
       "number": 60,
-      "arabic": "TODO_AR_055060",
-      "bm": "TODO_BM_055060",
-      "en": "TODO_EN_055060",
-      "audio": "./assets/audio/055/055060.mp3"
+      "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+      "bm": "Bukankah anugerah bagi kebaikan tidak lain melainkan kebaikan?",
+      "en": "Is the reward of goodness anything but goodness?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055060.mp3"
     },
     {
       "number": 61,
-      "arabic": "TODO_AR_055061",
-      "bm": "TODO_BM_055061",
-      "en": "TODO_EN_055061",
-      "audio": "./assets/audio/055/055061.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055061.mp3"
     },
     {
       "number": 62,
-      "arabic": "TODO_AR_055062",
-      "bm": "TODO_BM_055062",
-      "en": "TODO_EN_055062",
-      "audio": "./assets/audio/055/055062.mp3"
+      "arabic": "وَمِنْ دُونِهِمَا جَنَّتَانِ",
+      "bm": "Dibawah mereka adalah dua taman taman (satu untuk para jin dan yang satu lagi untuk manusia).",
+      "en": "Below them are two gardens (one for the jinns and one for the humans).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055062.mp3"
     },
     {
       "number": 63,
-      "arabic": "TODO_AR_055063",
-      "bm": "TODO_BM_055063",
-      "en": "TODO_EN_055063",
-      "audio": "./assets/audio/055/055063.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055063.mp3"
     },
     {
       "number": 64,
-      "arabic": "TODO_AR_055064",
-      "bm": "TODO_BM_055064",
-      "en": "TODO_EN_055064",
-      "audio": "./assets/audio/055/055064.mp3"
+      "arabic": "مُدْهَامَّتَانِ",
+      "bm": "Sebelah menyebelah.",
+      "en": "Side by side.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055064.mp3"
     },
     {
       "number": 65,
-      "arabic": "TODO_AR_055065",
-      "bm": "TODO_BM_055065",
-      "en": "TODO_EN_055065",
-      "audio": "./assets/audio/055/055065.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055065.mp3"
     },
     {
       "number": 66,
-      "arabic": "TODO_AR_055066",
-      "bm": "TODO_BM_055066",
-      "en": "TODO_EN_055066",
-      "audio": "./assets/audio/055/055066.mp3"
+      "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "bm": "Didalam mereka, perigi perigi yang dipam.",
+      "en": "In them, wells to be pumped.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055066.mp3"
     },
     {
       "number": 67,
-      "arabic": "TODO_AR_055067",
-      "bm": "TODO_BM_055067",
-      "en": "TODO_EN_055067",
-      "audio": "./assets/audio/055/055067.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055067.mp3"
     },
     {
       "number": 68,
-      "arabic": "TODO_AR_055068",
-      "bm": "TODO_BM_055068",
-      "en": "TODO_EN_055068",
-      "audio": "./assets/audio/055/055068.mp3"
+      "arabic": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "bm": "Didalam mereka adalah buah buahan, pokok pokok kurma, dan delima.",
+      "en": "In them are fruits, date palms, and pomegranate.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055068.mp3"
     },
     {
       "number": 69,
-      "arabic": "TODO_AR_055069",
-      "bm": "TODO_BM_055069",
-      "en": "TODO_EN_055069",
-      "audio": "./assets/audio/055/055069.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055069.mp3"
     },
     {
       "number": 70,
-      "arabic": "TODO_AR_055070",
-      "bm": "TODO_BM_055070",
-      "en": "TODO_EN_055070",
-      "audio": "./assets/audio/055/055070.mp3"
+      "arabic": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+      "bm": "Didalam mereka ada pasangan pasangan yang cantik cantik.",
+      "en": "In them are beautiful mates.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055070.mp3"
     },
     {
       "number": 71,
-      "arabic": "TODO_AR_055071",
-      "bm": "TODO_BM_055071",
-      "en": "TODO_EN_055071",
-      "audio": "./assets/audio/055/055071.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055071.mp3"
     },
     {
       "number": 72,
-      "arabic": "TODO_AR_055072",
-      "bm": "TODO_BM_055072",
-      "en": "TODO_EN_055072",
-      "audio": "./assets/audio/055/055072.mp3"
+      "arabic": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ",
+      "bm": "Tertutup dikemah kemah.",
+      "en": "Confined in the tents.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055072.mp3"
     },
     {
       "number": 73,
-      "arabic": "TODO_AR_055073",
-      "bm": "TODO_BM_055073",
-      "en": "TODO_EN_055073",
-      "audio": "./assets/audio/055/055073.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055073.mp3"
     },
     {
       "number": 74,
-      "arabic": "TODO_AR_055074",
-      "bm": "TODO_BM_055074",
-      "en": "TODO_EN_055074",
-      "audio": "./assets/audio/055/055074.mp3"
+      "arabic": "لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "bm": "Tidak ada seorang manusia pun pernah menyentuh mereka, tidak juga seorang jin.",
+      "en": "No human ever touched them, nor a jinn.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055074.mp3"
     },
     {
       "number": 75,
-      "arabic": "TODO_AR_055075",
-      "bm": "TODO_BM_055075",
-      "en": "TODO_EN_055075",
-      "audio": "./assets/audio/055/055075.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan kamu yang boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055075.mp3"
     },
     {
       "number": 76,
-      "arabic": "TODO_AR_055076",
-      "bm": "TODO_BM_055076",
-      "en": "TODO_EN_055076",
-      "audio": "./assets/audio/055/055076.mp3"
+      "arabic": "مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
+      "bm": "Mereka berehat dipermaidani permaidani hijau, dikelilingi dengan suasana yang indah.",
+      "en": "They relax on green carpets, in beautiful surroundings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055076.mp3"
     },
     {
       "number": 77,
-      "arabic": "TODO_AR_055077",
-      "bm": "TODO_BM_055077",
-      "en": "TODO_EN_055077",
-      "audio": "./assets/audio/055/055077.mp3"
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "bm": "Yang mana satukah keajaiban Tuhan yang kamu boleh kamu nafikan?",
+      "en": "Which of your Lord's marvels can you deny?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055077.mp3"
     },
     {
       "number": 78,
-      "arabic": "TODO_AR_055078",
-      "bm": "TODO_BM_055078",
-      "en": "TODO_EN_055078",
-      "audio": "./assets/audio/055/055078.mp3"
+      "arabic": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+      "bm": "Yang Maha Tinggi adalah nama bagi Tuhan kamu, yang Maha Pemilik, Maha Agung lagi yang Maha Mulia.",
+      "en": "Most exalted is the name of your Lord, Possessor of Majesty and Honor.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055078.mp3"
     }
   ]
 }

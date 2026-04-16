@@ -1,136 +1,141 @@
-SURAH_NUMBER: 92
-NAME_AR: الليل
+﻿SURAH_NUMBER: 92
+NAME_AR: سورة الـيـل
 NAME_BM: Malam
 NAME_EN: The Night
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/092/092000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092000.mp3
 
 # Ayah 1
-AR: TODO_AR_092001
-BM: TODO_BM_092001
-EN: TODO_EN_092001
-AUDIO: ./assets/audio/092/092001.mp3
+AR: وَالَّيلِ إِذا يَغشىٰ
+BM: Demi malam apabila ianya menutup.
+EN: By the night as it covers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092001.mp3
 
 # Ayah 2
-AR: TODO_AR_092002
-BM: TODO_BM_092002
-EN: TODO_EN_092002
-AUDIO: ./assets/audio/092/092002.mp3
+AR: وَالنَّهَارِ إِذَا تَجَلَّىٰ
+BM: Demi siang apabila ianya mendedahkan.
+EN: The day as it reveals.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092002.mp3
 
 # Ayah 3
-AR: TODO_AR_092003
-BM: TODO_BM_092003
-EN: TODO_EN_092003
-AUDIO: ./assets/audio/092/092003.mp3
+AR: وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ
+BM: Dan Dia yang menciptakan lelaki dan perempuan.
+EN: And Him who created the male and the female.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092003.mp3
 
 # Ayah 4
-AR: TODO_AR_092004
-BM: TODO_BM_092004
-EN: TODO_EN_092004
-AUDIO: ./assets/audio/092/092004.mp3
+AR: إِنَّ سَعْيَكُمْ لَشَتَّىٰ
+BM: Pekerjaan pekerjaan kamu yang bermacam macam cara.
+EN: Your works are of various kinds.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092004.mp3
 
 # Ayah 5
-AR: TODO_AR_092005
-BM: TODO_BM_092005
-EN: TODO_EN_092005
-AUDIO: ./assets/audio/092/092005.mp3
+AR: فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ
+BM: Baginya yang memberi derma dan sentiasa menjaga ketakwahan.
+EN: As for him who gives to charity and maintains righteousness.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092005.mp3
 
 # Ayah 6
-AR: TODO_AR_092006
-BM: TODO_BM_092006
-EN: TODO_EN_092006
-AUDIO: ./assets/audio/092/092006.mp3
+AR: وَصَدَّقَ بِالْحُسْنَىٰ
+BM: Dan mendukung kitab.
+EN: And upholds the scripture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092006.mp3
 
 # Ayah 7
-AR: TODO_AR_092007
-BM: TODO_BM_092007
-EN: TODO_EN_092007
-AUDIO: ./assets/audio/092/092007.mp3
+AR: فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ
+BM: Kami akan mengarahkannya kepada kebahagian.
+EN: We will direct him towards happiness.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092007.mp3
 
 # Ayah 8
-AR: TODO_AR_092008
-BM: TODO_BM_092008
-EN: TODO_EN_092008
-AUDIO: ./assets/audio/092/092008.mp3
+AR: وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ
+BM: Tetapi dia yang kikir, sedangkan dianya kaya.
+EN: But he who is stingy, though he is rich.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092008.mp3
 
 # Ayah 9
-AR: TODO_AR_092009
-BM: TODO_BM_092009
-EN: TODO_EN_092009
-AUDIO: ./assets/audio/092/092009.mp3
+AR: وَكَذَّبَ بِالْحُسْنَىٰ
+BM: Dan tidak mempercayakan kitab.
+EN: And disbelieves in the scripture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092009.mp3
 
 # Ayah 10
-AR: TODO_AR_092010
-BM: TODO_BM_092010
-EN: TODO_EN_092010
-AUDIO: ./assets/audio/092/092010.mp3
+AR: فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ
+BM: Kami akan mengarahkannya kepada kesengsaraan.
+EN: We will direct him towards misery.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092010.mp3
 
 # Ayah 11
-AR: TODO_AR_092011
-BM: TODO_BM_092011
-EN: TODO_EN_092011
-AUDIO: ./assets/audio/092/092011.mp3
+AR: وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ
+BM: Wanganya tidak akan dapat menolongnya apabila dia jatuh.
+EN: His money cannot help him when he falls.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092011.mp3
 
 # Ayah 12
-AR: TODO_AR_092012
-BM: TODO_BM_092012
-EN: TODO_EN_092012
-AUDIO: ./assets/audio/092/092012.mp3
+AR: إِنَّ عَلَيْنَا لَلْهُدَىٰ
+BM: Kami yang memberikan petunjuk.
+EN: We provide the guidance.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092012.mp3
 
 # Ayah 13
-AR: TODO_AR_092013
-BM: TODO_BM_092013
-EN: TODO_EN_092013
-AUDIO: ./assets/audio/092/092013.mp3
+AR: وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ
+BM: Kami yang menguasai Akhirat, dan juga kehidupan ini.
+EN: We control the Hereafter, as well as this life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092013.mp3
 
 # Ayah 14
-AR: TODO_AR_092014
-BM: TODO_BM_092014
-EN: TODO_EN_092014
-AUDIO: ./assets/audio/092/092014.mp3
+AR: فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ
+BM: Aku telah memberikan kamu amaran tentang api Neraka yang bernyala nyala.
+EN: I have warned you about the blazing Hellfire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092014.mp3
 
 # Ayah 15
-AR: TODO_AR_092015
-BM: TODO_BM_092015
-EN: TODO_EN_092015
-AUDIO: ./assets/audio/092/092015.mp3
+AR: لَا يَصْلَاهَا إِلَّا الْأَشْقَى
+BM: Tidak ada siapa yang terbakar didalamnya melainkan orang orang yang zalim.
+EN: None burns therein except the wicked.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092015.mp3
 
 # Ayah 16
-AR: TODO_AR_092016
-BM: TODO_BM_092016
-EN: TODO_EN_092016
-AUDIO: ./assets/audio/092/092016.mp3
+AR: الَّذِي كَذَّبَ وَتَوَلَّىٰ
+BM: Yang mengingkarkan dan berpaling.
+EN: Who disbelieves and turns away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092016.mp3
 
 # Ayah 17
-AR: TODO_AR_092017
-BM: TODO_BM_092017
-EN: TODO_EN_092017
-AUDIO: ./assets/audio/092/092017.mp3
+AR: وَسَيُجَنَّبُهَا الْأَتْقَى
+BM: Yang menghindarinya adalah orang orang yang benar.
+EN: Avoiding it will be the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092017.mp3
 
 # Ayah 18
-AR: TODO_AR_092018
-BM: TODO_BM_092018
-EN: TODO_EN_092018
-AUDIO: ./assets/audio/092/092018.mp3
+AR: الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ
+BM: Yang memberikan derma dari wangnya.
+EN: Who gives from his money to charity.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092018.mp3
 
 # Ayah 19
-AR: TODO_AR_092019
-BM: TODO_BM_092019
-EN: TODO_EN_092019
-AUDIO: ./assets/audio/092/092019.mp3
+AR: وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ
+BM: Tidak mengharapkan apa apa balasan.
+EN: Seeking nothing in return.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092019.mp3
 
 # Ayah 20
-AR: TODO_AR_092020
-BM: TODO_BM_092020
-EN: TODO_EN_092020
-AUDIO: ./assets/audio/092/092020.mp3
+AR: إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ
+BM: Hanya mencari keredhaan Tuhannya, yang Maha Tinggi.
+EN: Seeking only his Lord, the Most High.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092020.mp3
 
 # Ayah 21
-AR: TODO_AR_092021
-BM: TODO_BM_092021
-EN: TODO_EN_092021
-AUDIO: ./assets/audio/092/092021.mp3
+AR: وَلَسَوْفَ يَرْضَىٰ
+BM: Dia tentu sekali akan mendapat keselamatan.
+EN: He will certainly attain salvation.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/092021.mp3
+
+
+
+
+

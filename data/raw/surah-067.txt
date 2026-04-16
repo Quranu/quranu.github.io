@@ -1,190 +1,197 @@
-SURAH_NUMBER: 67
-NAME_AR: الملك
-NAME_BM: Kerajaan
-NAME_EN: The Sovereignty
+﻿SURAH_NUMBER: 67
+NAME_AR: سورة الـملك
+NAME_BM: Yang Menguasai Kerajaan Kerajaan
+NAME_EN: Kingship
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/067/067000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067000.mp3
 
 # Ayah 1
-AR: TODO_AR_067001
-BM: TODO_BM_067001
-EN: TODO_EN_067001
-AUDIO: ./assets/audio/067/067001.mp3
+AR: تَبارَكَ الَّذي بِيَدِهِ المُلكُ وَهُوَ عَلىٰ كُلِّ شَيءٍ قَديرٌ
+BM: Yang Maha Tinggi Sahajalah yang mana ditangan tanganNya bagi semua kerajaan, dan Dialah yang Maha Berkuasa.
+EN: Most exalted is the One in whose hands is all kingship, and He is Omnipotent.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067001.mp3
 
 # Ayah 2
-AR: TODO_AR_067002
-BM: TODO_BM_067002
-EN: TODO_EN_067002
-AUDIO: ./assets/audio/067/067002.mp3
+AR: الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ الْعَزِيزُ الْغَفُورُ
+BM: Yang Maha Esa yang menciptakan kematian dan kehidupan dengan bertujuan untuk membezakan orang orang diantara kamu siapakah yang berlaku lebih baik. Sesungguhnya, Dialah yang Maha Kuat lagi Maha Pengampun.
+EN: The One who created death and life for the purpose of distinguishing those among you who would do better.* He is the Almighty, the Forgiving.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067002.mp3
+SUBTITLE_BM: Tujuan Kehidupan Kita
+SUBTITLE_EN: The Purpose of Our Life*
 
 # Ayah 3
-AR: TODO_AR_067003
-BM: TODO_BM_067003
-EN: TODO_EN_067003
-AUDIO: ./assets/audio/067/067003.mp3
+AR: الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِنْ تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِنْ فُطُورٍ
+BM: Dia yang menciptakan tujuh semesta alam dengan berlapis lapis. Kamu tidak akan melihat sebarang kekurangan dalam penciptaan yang Maha Pengasih. Teruskanlah tengok; adakah kamu melihat sebarang kecacatan?
+EN: He created seven universes in layers. You do not see any imperfection in the creation by the Most Gracious. Keep looking; do you see any flaw?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067003.mp3
 
 # Ayah 4
-AR: TODO_AR_067004
-BM: TODO_BM_067004
-EN: TODO_EN_067004
-AUDIO: ./assets/audio/067/067004.mp3
+AR: ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ
+BM: Lihatlah dan lihatlah lagi; mata mata kamu akan berbalik dengan kehairanan dan dikuasai.
+EN: Look again and again; your eyes will come back stumped and conquered.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067004.mp3
 
 # Ayah 5
-AR: TODO_AR_067005
-BM: TODO_BM_067005
-EN: TODO_EN_067005
-AUDIO: ./assets/audio/067/067005.mp3
+AR: وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاطِينِ وَأَعْتَدْنَا لَهُمْ عَذَابَ السَّعِيرِ
+BM: Kami menghiasi cekrawala yang paling bawah dengan lampu lampu,dan melindungi dipinggir pinggirnya dengan pelancar pelancar untuk menentang syaitan syaitan; kami sediakan untuk mereka itu siksaan didalam Neraka.
+EN: We adorned the lowest universe with lamps, and guarded its borders with projectiles against the devils; we prepared for them a retribution in Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067005.mp3
 
 # Ayah 6
-AR: TODO_AR_067006
-BM: TODO_BM_067006
-EN: TODO_EN_067006
-AUDIO: ./assets/audio/067/067006.mp3
+AR: وَلِلَّذِينَ كَفَرُوا بِرَبِّهِمْ عَذَابُ جَهَنَّمَ وَبِئْسَ الْمَصِيرُ
+BM: Bagi orang orang yang ingkar kepada Tuhan mereka, hukumannya adalah Gehenna. Betapa azabnya destini.
+EN: For those who disbelieved in their Lord, the retribution of Gehenna. What a miserable destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067006.mp3
 
 # Ayah 7
-AR: TODO_AR_067007
-BM: TODO_BM_067007
-EN: TODO_EN_067007
-AUDIO: ./assets/audio/067/067007.mp3
+AR: إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ
+BM: Apabila mereka dicampakkan didalamnya, mereka mendengarkan kemarakan apabila ianya mebahangkan asap asap yang panas.
+EN: When they get thrown therein, they hear its furor as it fumes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067007.mp3
 
 # Ayah 8
-AR: TODO_AR_067008
-BM: TODO_BM_067008
-EN: TODO_EN_067008
-AUDIO: ./assets/audio/067/067008.mp3
+AR: تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ كُلَّمَا أُلْقِيَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ نَذِيرٌ
+BM: Ianya hampir hampir meletup dari keberangan. Apabila saja sesebuah kumpulan dicampakkan kedalamnya, penjaga penjaganya akan menanyakan mereka, "Tidakkah kamu menerima seorang pemberi amaran?"
+EN: It almost explodes from rage. Whenever a group is thrown therein, its guards would ask them, "Did you not receive a warner?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067008.mp3
 
 # Ayah 9
-AR: TODO_AR_067009
-BM: TODO_BM_067009
-EN: TODO_EN_067009
-AUDIO: ./assets/audio/067/067009.mp3
+AR: قَالُوا بَلَىٰ قَدْ جَاءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ اللَّهُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ كَبِيرٍ
+BM: Mereka akan menjawab, "Ya!, tentu sekali; seorang pemberi amaran telah datang kepada kami, Tetapi kami tidak percaya dan berkata, 'Allah tidak turunkan apa apa. Kamulah yang telah tersesat yang amat sangat.'"
+EN: They would answer, "Yes indeed; a warner did come to us, but we disbelieved and said, 'GOD did not reveal anything. You are totally astray.'"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067009.mp3
 
 # Ayah 10
-AR: TODO_AR_067010
-BM: TODO_BM_067010
-EN: TODO_EN_067010
-AUDIO: ./assets/audio/067/067010.mp3
+AR: وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+BM: Mereka juga berkata, "Jika kami ada mendengarkan ataupun memahaminya, kami tidak akan berada diantara penghuni penghuni Neraka ini!"
+EN: They also say, "If we heard or understood, we would not be among the dwellers of Hell!"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067010.mp3
 
 # Ayah 11
-AR: TODO_AR_067011
-BM: TODO_BM_067011
-EN: TODO_EN_067011
-AUDIO: ./assets/audio/067/067011.mp3
+AR: فَاعْتَرَفُوا بِذَنْبِهِمْ فَسُحْقًا لِأَصْحَابِ السَّعِيرِ
+BM: Lantas, mereka telah melafazkan dosa dosa mereka. Malang sungguh bagi penghuni penghuni Neraka.
+EN: Thus, they confessed their sins. Woe to the dwellers of Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067011.mp3
 
 # Ayah 12
-AR: TODO_AR_067012
-BM: TODO_BM_067012
-EN: TODO_EN_067012
-AUDIO: ./assets/audio/067/067012.mp3
+AR: إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ
+BM: Bagi orang orang yang menghormati Tuhan mereka, apabila berseorangan didalam keadaan bersendirian, mereka telah mendapatkan pengampunan dan ganjaran yang besar.
+EN: As for those who reverence their Lord, when alone in their privacy, they have attained forgiveness and a great recompense.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067012.mp3
 
 # Ayah 13
-AR: TODO_AR_067013
-BM: TODO_BM_067013
-EN: TODO_EN_067013
-AUDIO: ./assets/audio/067/067013.mp3
+AR: وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+BM: Sama ada kamu merahsiakan percakapan percakapan kamu, ataupun mengumumkannya, Dia amat sedar akan tersemat jauhnya fikiran fikiran.
+EN: Whether you keep your utterances secret, or declare them, He is fully aware of the innermost thoughts.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067013.mp3
 
 # Ayah 14
-AR: TODO_AR_067014
-BM: TODO_BM_067014
-EN: TODO_EN_067014
-AUDIO: ./assets/audio/067/067014.mp3
+AR: أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ
+BM: Bukankah Dia mengetahui apa yang Dia ciptakan? Sesungguhnya, Dialah yang Maha Menyedari lagi Maha Perihatin.
+EN: Should He not know what He created? He is the Sublime, Most Cognizant.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067014.mp3
 
 # Ayah 15
-AR: TODO_AR_067015
-BM: TODO_BM_067015
-EN: TODO_EN_067015
-AUDIO: ./assets/audio/067/067015.mp3
+AR: هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِهِ وَإِلَيْهِ النُّشُورُ
+BM: Dia Sahajalah yang meletakkan bumi untuk menjalankan servisnya kepada kamu. Jelajahilah kepenjuru penjurunya, dan makan dari peruntukkan peruntukkanNya. KepadaNya sahajalah penghimpunan yang terakhir.
+EN: He is the One who put the Earth at your service. Roam its corners, and eat from His provisions. To Him is the final summoning.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067015.mp3
 
 # Ayah 16
-AR: TODO_AR_067016
-BM: TODO_BM_067016
-EN: TODO_EN_067016
-AUDIO: ./assets/audio/067/067016.mp3
+AR: أَأَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يَخْسِفَ بِكُمُ الْأَرْضَ فَإِذَا هِيَ تَمُورُ
+BM: Sudahkah kamu menjamin bahwasanya yang Esa dicekrawala tidak akan menyerang bumi dan menyebabkannya terguling?
+EN: Have you guaranteed that the One in heaven will not strike the earth and cause it to tumble?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067016.mp3
 
 # Ayah 17
-AR: TODO_AR_067017
-BM: TODO_BM_067017
-EN: TODO_EN_067017
-AUDIO: ./assets/audio/067/067017.mp3
+AR: أَمْ أَمِنْتُمْ مَنْ فِي السَّمَاءِ أَنْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ
+BM: Sudahkah kamu menjamin bahwasanya yang Esa dicekrawala tidak akan menghantarkan ribut taufan keatas kamu? Maka dapatkah kamu mahu bersyukur dan menghargai amaranKu?
+EN: Have you guaranteed that the One in heaven will not send upon you a violent storm? Will you then appreciate the value of My warning?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067017.mp3
 
 # Ayah 18
-AR: TODO_AR_067018
-BM: TODO_BM_067018
-EN: TODO_EN_067018
-AUDIO: ./assets/audio/067/067018.mp3
+AR: وَلَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+BM: Yang lain sebelum mereka telah mengingkarkannya; betapa dahsyatnya balasanKu!
+EN: Others before them have disbelieved; how terrible was My requital!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067018.mp3
 
 # Ayah 19
-AR: TODO_AR_067019
-BM: TODO_BM_067019
-EN: TODO_EN_067019
-AUDIO: ./assets/audio/067/067019.mp3
+AR: أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا الرَّحْمَٰنُ إِنَّهُ بِكُلِّ شَيْءٍ بَصِيرٌ
+BM: Tidakkah mereka melihat yang burung burung diatas mereka berbaris dalam barisan barisan dengan menyebarkan sayap sayap mereka? Yang Maha Pengasih sahajalah yang memegangkan mereka diatas angin. Sesungguhnya, Dialah yang Maha Melihat akan segala sesuatu.
+EN: Have they not seen the birds above them lined up in columns and spreading their wings? The Most Gracious is the One who holds them in the air. He is Seer of all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067019.mp3
 
 # Ayah 20
-AR: TODO_AR_067020
-BM: TODO_BM_067020
-EN: TODO_EN_067020
-AUDIO: ./assets/audio/067/067020.mp3
+AR: أَمَّنْ هَٰذَا الَّذِي هُوَ جُنْدٌ لَكُمْ يَنْصُرُكُمْ مِنْ دُونِ الرَّحْمَٰنِ إِنِ الْكَافِرُونَ إِلَّا فِي غُرُورٍ
+BM: Askar askar yang manakah boleh menolong kamu menentang yang Maha Pengasih? Sesungguhnya, orang orang yang ingkar telah ditipu.
+EN: Where are those soldiers who can help you against the Most Gracious? Indeed, the disbelievers are deceived.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067020.mp3
 
 # Ayah 21
-AR: TODO_AR_067021
-BM: TODO_BM_067021
-EN: TODO_EN_067021
-AUDIO: ./assets/audio/067/067021.mp3
+AR: أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ بَلْ لَجُّوا فِي عُتُوٍّ وَنُفُورٍ
+BM: Siapakah yang akan dapat mengadakan untuk kamu, jika Dia menahan peruntukkan peruntukkanNya? Sesungguhnya, mereka telah terjerumus jauh didalam keterlaluan dan kebencian.
+EN: Who is there to provide for you, if He withholds His provisions? Indeed, they have plunged deep into transgression and aversion.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067021.mp3
 
 # Ayah 22
-AR: TODO_AR_067022
-BM: TODO_BM_067022
-EN: TODO_EN_067022
-AUDIO: ./assets/audio/067/067022.mp3
+AR: أَفَمَنْ يَمْشِي مُكِبًّا عَلَىٰ وَجْهِهِ أَهْدَىٰ أَمَّنْ يَمْشِي سَوِيًّا عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+BM: Adakah seorang yang berjalan dengan wajah yang muram lebih baik bimbingannya, ataupun seorang yang berjalan lurus kejalan yang benar?
+EN: Is one who walks while slumped over on his face better guided, or one who walks straight on the right path?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067022.mp3
 
 # Ayah 23
-AR: TODO_AR_067023
-BM: TODO_BM_067023
-EN: TODO_EN_067023
-AUDIO: ./assets/audio/067/067023.mp3
+AR: قُلْ هُوَ الَّذِي أَنْشَأَكُمْ وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَا تَشْكُرُونَ
+BM: Katakanlah, "Dia Sahajalah yang meinisiasikan kamu, dan memberikan kamu pendengaran, mata mata, dan akal akal. Jarang sekali dapat kamu bersyukur."
+EN: Say, "He is the One who initiated you, and granted you the hearing, the eyes, and the brains. Rarely are you appreciative."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067023.mp3
 
 # Ayah 24
-AR: TODO_AR_067024
-BM: TODO_BM_067024
-EN: TODO_EN_067024
-AUDIO: ./assets/audio/067/067024.mp3
+AR: قُلْ هُوَ الَّذِي ذَرَأَكُمْ فِي الْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+BM: Katakanlah, "Dia sahajalah yang meletakkan kamu dibumi, dan kepadaNya kamu akan dihimpunkan.
+EN: Say, "He is the One who placed you on earth, and before Him you will be summoned."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067024.mp3
 
 # Ayah 25
-AR: TODO_AR_067025
-BM: TODO_BM_067025
-EN: TODO_EN_067025
-AUDIO: ./assets/audio/067/067025.mp3
+AR: وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ
+BM: Mereka mencabar: "Bilakah ramalan itu akan berlaku, jika sememangnya kamu yang benar?"
+EN: They challenge: "When will that prophecy come to pass, if you are truthful?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067025.mp3
 
 # Ayah 26
-AR: TODO_AR_067026
-BM: TODO_BM_067026
-EN: TODO_EN_067026
-AUDIO: ./assets/audio/067/067026.mp3
+AR: قُلْ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ
+BM: Katakanlah, "Ilmu pengetahuan yang sedemikian itu adalah dengan Allah; aku tidak lebih dari seorang pemberi amaran yang nyata."
+EN: Say, "Such knowledge is with GOD; I am no more than a manifest warner."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067026.mp3
 
 # Ayah 27
-AR: TODO_AR_067027
-BM: TODO_BM_067027
-EN: TODO_EN_067027
-AUDIO: ./assets/audio/067/067027.mp3
+AR: فَلَمَّا رَأَوْهُ زُلْفَةً سِيئَتْ وُجُوهُ الَّذِينَ كَفَرُوا وَقِيلَ هَٰذَا الَّذِي كُنْتُمْ بِهِ تَدَّعُونَ
+BM: Apabila mereka melihat ianya berlaku, wajah wajah orang orang yang ingkar itu akan bertukar menjadi menderita, dan ianya akan diumumkan: "Ini adalah apa yang pernah kamu mengejek ejekkan."
+EN: When they see it happening, the faces of those who disbelieved will turn miserable, and it will be proclaimed: "This is what you used to mock."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067027.mp3
 
 # Ayah 28
-AR: TODO_AR_067028
-BM: TODO_BM_067028
-EN: TODO_EN_067028
-AUDIO: ./assets/audio/067/067028.mp3
+AR: قُلْ أَرَأَيْتُمْ إِنْ أَهْلَكَنِيَ اللَّهُ وَمَنْ مَعِيَ أَوْ رَحِمَنَا فَمَنْ يُجِيرُ الْكَافِرِينَ مِنْ عَذَابٍ أَلِيمٍ
+BM: Katakanlah, "Sama ada Allah berkeputusan untuk menghapuskan aku dan orang orang yang bersama samaku, ataupun mencucuri kami dengan belas kasihNya, siapakah yang boleh melindungi orang orang yang ingkar dari hukuman yang menyakitkan?"
+EN: Say, "Whether GOD decides to annihilate me and those with me, or to shower us with His mercy, who is there to protect the disbelievers from a painful retribution?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067028.mp3
 
 # Ayah 29
-AR: TODO_AR_067029
-BM: TODO_BM_067029
-EN: TODO_EN_067029
-AUDIO: ./assets/audio/067/067029.mp3
+AR: قُلْ هُوَ الرَّحْمَٰنُ آمَنَّا بِهِ وَعَلَيْهِ تَوَكَّلْنَا فَسَتَعْلَمُونَ مَنْ هُوَ فِي ضَلَالٍ مُبِينٍ
+BM: Katakanlahlah, "Dia adalah yang Maha Pengasih; kami percaya kepadaNya, dan kami yakin kepadaNya. Kamu tentu sekali akan mendapat tahu siapakah yang betul betul tersesat jauh."
+EN: Say, "He is the Most Gracious; we believe in Him, and we trust in Him. You will surely find out who is really far astray."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067029.mp3
 
 # Ayah 30
-AR: TODO_AR_067030
-BM: TODO_BM_067030
-EN: TODO_EN_067030
-AUDIO: ./assets/audio/067/067030.mp3
+AR: قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَنْ يَأْتِيكُمْ بِمَاءٍ مَعِينٍ
+BM: Katakan, "Apakah akan jadi jika air kamu menjadi surut, siapakah yang akan mengadakan untuk kamu air yang bersih?"
+EN: Say, "What if your water sinks away, who will provide you with pure water?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/067030.mp3
+
+
+
+
+

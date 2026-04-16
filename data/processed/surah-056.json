@@ -1,8 +1,8 @@
 {
   "surahNumber": 56,
   "name": {
-    "ar": "الواقعة",
-    "bm": "Yang Tak Terelakkan",
+    "ar": "سورة الواقعـة",
+    "bm": "Yang Tidak Boleh Di-Elakkan Lagi",
     "en": "The Inevitable"
   },
   "totalAyahs": 96,
@@ -10,681 +10,697 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/056/056000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_056001",
-      "bm": "TODO_BM_056001",
-      "en": "TODO_EN_056001",
-      "audio": "./assets/audio/056/056001.mp3"
+      "arabic": "إِذا وَقَعَتِ الواقِعَةُ",
+      "bm": "Apabila hari yang tidak boleh dielakkan akan berlaku.",
+      "en": "When the inevitable comes to pass.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_056002",
-      "bm": "TODO_BM_056002",
-      "en": "TODO_EN_056002",
-      "audio": "./assets/audio/056/056002.mp3"
+      "arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "bm": "Tidak ada suatu pun yang dapat menahannya dari berlaku.",
+      "en": "Nothing can stop it from happening.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_056003",
-      "bm": "TODO_BM_056003",
-      "en": "TODO_EN_056003",
-      "audio": "./assets/audio/056/056003.mp3"
+      "arabic": "خَافِضَةٌ رَافِعَةٌ",
+      "bm": "Ianya akan merendahkan sebahagian, dan yang lainnya dinaikkan.",
+      "en": "It will lower some, and raise others.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_056004",
-      "bm": "TODO_BM_056004",
-      "en": "TODO_EN_056004",
-      "audio": "./assets/audio/056/056004.mp3"
+      "arabic": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+      "bm": "Bumi akan bergoncang.",
+      "en": "The earth will be shaken up.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_056005",
-      "bm": "TODO_BM_056005",
-      "en": "TODO_EN_056005",
-      "audio": "./assets/audio/056/056005.mp3"
+      "arabic": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+      "bm": "Gunung gunung akan dihapuskan.",
+      "en": "The mountains will be wiped out.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_056006",
-      "bm": "TODO_BM_056006",
-      "en": "TODO_EN_056006",
-      "audio": "./assets/audio/056/056006.mp3"
+      "arabic": "فَكَانَتْ هَبَاءً مُنْبَثًّا",
+      "bm": "Seolah olah mereka itu tidak pernah ada.",
+      "en": "As if they never existed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_056007",
-      "bm": "TODO_BM_056007",
-      "en": "TODO_EN_056007",
-      "audio": "./assets/audio/056/056007.mp3"
+      "arabic": "وَكُنْتُمْ أَزْوَاجًا ثَلَاثَةً",
+      "bm": "Kamu akan berkumpulan menjadi kepada tiga bahagian.",
+      "en": "You will be stratified into three kinds.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_056008",
-      "bm": "TODO_BM_056008",
-      "en": "TODO_EN_056008",
-      "audio": "./assets/audio/056/056008.mp3"
+      "arabic": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+      "bm": "Orang orang yang berhak mendapat kebahgiaan akan berada didalam kebahgiaan.",
+      "en": "Those who deserved bliss will be in bliss.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_056009",
-      "bm": "TODO_BM_056009",
-      "en": "TODO_EN_056009",
-      "audio": "./assets/audio/056/056009.mp3"
+      "arabic": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+      "bm": "Orang orang yang berhak menerima penderitaan akan mengalami penderitaan.",
+      "en": "Those who deserved misery will be in misery.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_056010",
-      "bm": "TODO_BM_056010",
-      "en": "TODO_EN_056010",
-      "audio": "./assets/audio/056/056010.mp3"
+      "arabic": "وَالسَّابِقُونَ السَّابِقُونَ",
+      "bm": "Kemudian ada pula elit dari yang elit.",
+      "en": "Then there is the elite of the elite.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_056011",
-      "bm": "TODO_BM_056011",
-      "en": "TODO_EN_056011",
-      "audio": "./assets/audio/056/056011.mp3"
+      "arabic": "أُولَٰئِكَ الْمُقَرَّبُونَ",
+      "bm": "Mereka adalah orang orang yang akan terdekat (kepada Allah).",
+      "en": "They are those who will be closest (to God).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_056012",
-      "bm": "TODO_BM_056012",
-      "en": "TODO_EN_056012",
-      "audio": "./assets/audio/056/056012.mp3"
+      "arabic": "فِي جَنَّاتِ النَّعِيمِ",
+      "bm": "Didalam taman taman yang bahgia.",
+      "en": "In the gardens of bliss.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_056013",
-      "bm": "TODO_BM_056013",
-      "en": "TODO_EN_056013",
-      "audio": "./assets/audio/056/056013.mp3"
+      "arabic": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+      "bm": "Kebanyakan daripada generasi generasi yang pertama.",
+      "en": "Many from the first generations.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_056014",
-      "bm": "TODO_BM_056014",
-      "en": "TODO_EN_056014",
-      "audio": "./assets/audio/056/056014.mp3"
+      "arabic": "وَقَلِيلٌ مِنَ الْآخِرِينَ",
+      "bm": "Sedikit saja daripada generasi generasi yang terkemudian.",
+      "en": "Few from the later generations.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_056015",
-      "bm": "TODO_BM_056015",
-      "en": "TODO_EN_056015",
-      "audio": "./assets/audio/056/056015.mp3"
+      "arabic": "عَلَىٰ سُرُرٍ مَوْضُونَةٍ",
+      "bm": "Diatas kelengkapan kelengkapan yang mewah.",
+      "en": "On luxurious furnishings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_056016",
-      "bm": "TODO_BM_056016",
-      "en": "TODO_EN_056016",
-      "audio": "./assets/audio/056/056016.mp3"
+      "arabic": "مُتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+      "bm": "Menikmati segala galanya, mereka akan menjadi jiran.",
+      "en": "Enjoying everything, they will be neighbors.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_056017",
-      "bm": "TODO_BM_056017",
-      "en": "TODO_EN_056017",
-      "audio": "./assets/audio/056/056017.mp3"
+      "arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَ",
+      "bm": "Yang melayan mereka adalah pembantu pembantu yang berkekalan.",
+      "en": "Serving them will be immortal servants.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_056018",
-      "bm": "TODO_BM_056018",
-      "en": "TODO_EN_056018",
-      "audio": "./assets/audio/056/056018.mp3"
+      "arabic": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِنْ مَعِينٍ",
+      "bm": "Dengan cangkir cangkir, kendi kendi dan minuman minuman asli.",
+      "en": "With cups, pitchers and pure drinks.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_056019",
-      "bm": "TODO_BM_056019",
-      "en": "TODO_EN_056019",
-      "audio": "./assets/audio/056/056019.mp3"
+      "arabic": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَ",
+      "bm": "Mereka tidak akan kehabisan, dan tidak juga mereka akan merasa jemu.",
+      "en": "They never run out, nor do they get bored.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_056020",
-      "bm": "TODO_BM_056020",
-      "en": "TODO_EN_056020",
-      "audio": "./assets/audio/056/056020.mp3"
+      "arabic": "وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَ",
+      "bm": "Buah buahan yang mereka pilih.",
+      "en": "Fruits of their choice.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_056021",
-      "bm": "TODO_BM_056021",
-      "en": "TODO_EN_056021",
-      "audio": "./assets/audio/056/056021.mp3"
+      "arabic": "وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَ",
+      "bm": "Daging burung burung yang mereka inginkan.",
+      "en": "Meat of birds that they desire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_056022",
-      "bm": "TODO_BM_056022",
-      "en": "TODO_EN_056022",
-      "audio": "./assets/audio/056/056022.mp3"
+      "arabic": "وَحُورٌ عِينٌ",
+      "bm": "Pasangan pasangan yang cantik cantik.",
+      "en": "Beautiful mates.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_056023",
-      "bm": "TODO_BM_056023",
-      "en": "TODO_EN_056023",
-      "audio": "./assets/audio/056/056023.mp3"
+      "arabic": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+      "bm": "Seperti mutiara mutiara yang terlindung.",
+      "en": "Like protected pearls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_056024",
-      "bm": "TODO_BM_056024",
-      "en": "TODO_EN_056024",
-      "audio": "./assets/audio/056/056024.mp3"
+      "arabic": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+      "bm": "Anugerah bagi kerja kerja mereka.",
+      "en": "Rewards for their works.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_056025",
-      "bm": "TODO_BM_056025",
-      "en": "TODO_EN_056025",
-      "audio": "./assets/audio/056/056025.mp3"
+      "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "bm": "Mereka tidak akan pernah mendengar sebarang kata kata yang tidak bermakna didalamnya, dan tidak juga perkataan perkataan yang berdosa.",
+      "en": "They never hear any nonsense therein, nor sinful utterances.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_056026",
-      "bm": "TODO_BM_056026",
-      "en": "TODO_EN_056026",
-      "audio": "./assets/audio/056/056026.mp3"
+      "arabic": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+      "bm": "Hanyalah perkataan; \"Sejahtera, sejahtera.\"",
+      "en": "Only the utterance: \"Peace, peace.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_056027",
-      "bm": "TODO_BM_056027",
-      "en": "TODO_EN_056027",
-      "audio": "./assets/audio/056/056027.mp3"
+      "arabic": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ",
+      "bm": "Orang orang yang disebelah kanan, akan berada disebelah kanan.",
+      "en": "Those of the right side, will be on the right side.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056027.mp3",
+      "subtitle": {
+        "bm": "Syurga Yang Dibawah",
+        "en": "The Lower Heaven"
+      }
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_056028",
-      "bm": "TODO_BM_056028",
-      "en": "TODO_EN_056028",
-      "audio": "./assets/audio/056/056028.mp3"
+      "arabic": "فِي سِدْرٍ مَخْضُودٍ",
+      "bm": "Didalam kebun kebun yang subur.",
+      "en": "In lush orchards.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056028.mp3"
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_056029",
-      "bm": "TODO_BM_056029",
-      "en": "TODO_EN_056029",
-      "audio": "./assets/audio/056/056029.mp3"
+      "arabic": "وَطَلْحٍ مَنْضُودٍ",
+      "bm": "Buah buahan yang harum.",
+      "en": "Fragrant fruits.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056029.mp3"
     },
     {
       "number": 30,
-      "arabic": "TODO_AR_056030",
-      "bm": "TODO_BM_056030",
-      "en": "TODO_EN_056030",
-      "audio": "./assets/audio/056/056030.mp3"
+      "arabic": "وَظِلٍّ مَمْدُودٍ",
+      "bm": "Tempat teduh yang luas.",
+      "en": "Extended shade.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056030.mp3"
     },
     {
       "number": 31,
-      "arabic": "TODO_AR_056031",
-      "bm": "TODO_BM_056031",
-      "en": "TODO_EN_056031",
-      "audio": "./assets/audio/056/056031.mp3"
+      "arabic": "وَمَاءٍ مَسْكُوبٍ",
+      "bm": "Air yang banyak.",
+      "en": "Abundant water.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056031.mp3"
     },
     {
       "number": 32,
-      "arabic": "TODO_AR_056032",
-      "bm": "TODO_BM_056032",
-      "en": "TODO_EN_056032",
-      "audio": "./assets/audio/056/056032.mp3"
+      "arabic": "وَفَاكِهَةٍ كَثِيرَةٍ",
+      "bm": "Banyak buah buahan.",
+      "en": "Many fruits.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056032.mp3"
     },
     {
       "number": 33,
-      "arabic": "TODO_AR_056033",
-      "bm": "TODO_BM_056033",
-      "en": "TODO_EN_056033",
-      "audio": "./assets/audio/056/056033.mp3"
+      "arabic": "لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+      "bm": "Tidak pernah habis, dan tidak diharamkan.",
+      "en": "Never ending; never forbidden.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056033.mp3"
     },
     {
       "number": 34,
-      "arabic": "TODO_AR_056034",
-      "bm": "TODO_BM_056034",
-      "en": "TODO_EN_056034",
-      "audio": "./assets/audio/056/056034.mp3"
+      "arabic": "وَفُرُشٍ مَرْفُوعَةٍ",
+      "bm": "Perhiasan perhiasan yang mewah.",
+      "en": "Luxurious furnishings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056034.mp3"
     },
     {
       "number": 35,
-      "arabic": "TODO_AR_056035",
-      "bm": "TODO_BM_056035",
-      "en": "TODO_EN_056035",
-      "audio": "./assets/audio/056/056035.mp3"
+      "arabic": "إِنَّا أَنْشَأْنَاهُنَّ إِنْشَاءً",
+      "bm": "Kami menciptakan untuk mereka pasangan pasangan.",
+      "en": "We create for them mates.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056035.mp3"
     },
     {
       "number": 36,
-      "arabic": "TODO_AR_056036",
-      "bm": "TODO_BM_056036",
-      "en": "TODO_EN_056036",
-      "audio": "./assets/audio/056/056036.mp3"
+      "arabic": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+      "bm": "Belum pernah disentuh.",
+      "en": "Never previously touched.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056036.mp3"
     },
     {
       "number": 37,
-      "arabic": "TODO_AR_056037",
-      "bm": "TODO_BM_056037",
-      "en": "TODO_EN_056037",
-      "audio": "./assets/audio/056/056037.mp3"
+      "arabic": "عُرُبًا أَتْرَابًا",
+      "bm": "Pasangan yang secucuk.",
+      "en": "Perfectly matched.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056037.mp3"
     },
     {
       "number": 38,
-      "arabic": "TODO_AR_056038",
-      "bm": "TODO_BM_056038",
-      "en": "TODO_EN_056038",
-      "audio": "./assets/audio/056/056038.mp3"
+      "arabic": "لِأَصْحَابِ الْيَمِينِ",
+      "bm": "Bagi orang orang yang disebelah kanan.",
+      "en": "For those on the right side.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056038.mp3"
     },
     {
       "number": 39,
-      "arabic": "TODO_AR_056039",
-      "bm": "TODO_BM_056039",
-      "en": "TODO_EN_056039",
-      "audio": "./assets/audio/056/056039.mp3"
+      "arabic": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
+      "bm": "Kebanyakannya daripada generasi generasi yang dahulu.",
+      "en": "Many from the early generations.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056039.mp3"
     },
     {
       "number": 40,
-      "arabic": "TODO_AR_056040",
-      "bm": "TODO_BM_056040",
-      "en": "TODO_EN_056040",
-      "audio": "./assets/audio/056/056040.mp3"
+      "arabic": "وَثُلَّةٌ مِنَ الْآخِرِينَ",
+      "bm": "Kebanyakan juga dari generasi generasi yang kemudian.",
+      "en": "Many from the later generations.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056040.mp3"
     },
     {
       "number": 41,
-      "arabic": "TODO_AR_056041",
-      "bm": "TODO_BM_056041",
-      "en": "TODO_EN_056041",
-      "audio": "./assets/audio/056/056041.mp3"
+      "arabic": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+      "bm": "Orang orang yang disebelah kiri, akan berada disebelah kiri.",
+      "en": "Those of the left, will be on the left.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056041.mp3",
+      "subtitle": {
+        "bm": "Neraka",
+        "en": "Hell"
+      }
     },
     {
       "number": 42,
-      "arabic": "TODO_AR_056042",
-      "bm": "TODO_BM_056042",
-      "en": "TODO_EN_056042",
-      "audio": "./assets/audio/056/056042.mp3"
+      "arabic": "فِي سَمُومٍ وَحَمِيمٍ",
+      "bm": "Didalam penderitaan dan kepanasan yang membara.",
+      "en": "In misery and inferno.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056042.mp3"
     },
     {
       "number": 43,
-      "arabic": "TODO_AR_056043",
-      "bm": "TODO_BM_056043",
-      "en": "TODO_EN_056043",
-      "audio": "./assets/audio/056/056043.mp3"
+      "arabic": "وَظِلٍّ مِنْ يَحْمُومٍ",
+      "bm": "Malahan tempat teduh mereka juga adalah panas.",
+      "en": "Even their shade is hot.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056043.mp3"
     },
     {
       "number": 44,
-      "arabic": "TODO_AR_056044",
-      "bm": "TODO_BM_056044",
-      "en": "TODO_EN_056044",
-      "audio": "./assets/audio/056/056044.mp3"
+      "arabic": "لَا بَارِدٍ وَلَا كَرِيمٍ",
+      "bm": "Tidak pernah sejuk, dan tidak ada torelansi.",
+      "en": "Never cool, never tolerable.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056044.mp3"
     },
     {
       "number": 45,
-      "arabic": "TODO_AR_056045",
-      "bm": "TODO_BM_056045",
-      "en": "TODO_EN_056045",
-      "audio": "./assets/audio/056/056045.mp3"
+      "arabic": "إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "bm": "Mereka dahulunya kaya.",
+      "en": "They used to be rich.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056045.mp3"
     },
     {
       "number": 46,
-      "arabic": "TODO_AR_056046",
-      "bm": "TODO_BM_056046",
-      "en": "TODO_EN_056046",
-      "audio": "./assets/audio/056/056046.mp3"
+      "arabic": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظِيمِ",
+      "bm": "Mereka berkeras dengan melakukan kekufuran yang besar.",
+      "en": "They insisted on the great blasphemy.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056046.mp3"
     },
     {
       "number": 47,
-      "arabic": "TODO_AR_056047",
-      "bm": "TODO_BM_056047",
-      "en": "TODO_EN_056047",
-      "audio": "./assets/audio/056/056047.mp3"
+      "arabic": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+      "bm": "Mereka berkata, \"Sesudah kami mati dan menjadi debu dan tulang tulang, kami akan dibangkitkan semula?",
+      "en": "They said, \"After we die and turn to dust and bones, we get resurrected?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056047.mp3"
     },
     {
       "number": 48,
-      "arabic": "TODO_AR_056048",
-      "bm": "TODO_BM_056048",
-      "en": "TODO_EN_056048",
-      "audio": "./assets/audio/056/056048.mp3"
+      "arabic": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+      "bm": "Adakah ini termasuk nenek moyang nenek moyang kami?\"",
+      "en": "\"Does this include our forefathers?\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056048.mp3"
     },
     {
       "number": 49,
-      "arabic": "TODO_AR_056049",
-      "bm": "TODO_BM_056049",
-      "en": "TODO_EN_056049",
-      "audio": "./assets/audio/056/056049.mp3"
+      "arabic": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+      "bm": "Katakanlah, \"Dari generasi generasi yang terdahulu dan juga generasi generasi yang kemudiannya.",
+      "en": "Say, \"The early generations and the later generations.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056049.mp3"
     },
     {
       "number": 50,
-      "arabic": "TODO_AR_056050",
-      "bm": "TODO_BM_056050",
-      "en": "TODO_EN_056050",
-      "audio": "./assets/audio/056/056050.mp3"
+      "arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَعْلُومٍ",
+      "bm": "\"Akan dihimpunkan untuk perjumpaan dihari yang telah ditetapkan.",
+      "en": "\"Will be summoned to a meeting on a predetermined day.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056050.mp3"
     },
     {
       "number": 51,
-      "arabic": "TODO_AR_056051",
-      "bm": "TODO_BM_056051",
-      "en": "TODO_EN_056051",
-      "audio": "./assets/audio/056/056051.mp3"
+      "arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+      "bm": "\"Lalu kamu, wahai pengingkar pengingkar yang sesat.",
+      "en": "\"Then you, O disbelieving strayers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056051.mp3"
     },
     {
       "number": 52,
-      "arabic": "TODO_AR_056052",
-      "bm": "TODO_BM_056052",
-      "en": "TODO_EN_056052",
-      "audio": "./assets/audio/056/056052.mp3"
+      "arabic": "لَآكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍ",
+      "bm": "\"Akan memakan dari pokok pokok yang paling pahit.",
+      "en": "\"Will eat from the trees of bitterness.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056052.mp3"
     },
     {
       "number": 53,
-      "arabic": "TODO_AR_056053",
-      "bm": "TODO_BM_056053",
-      "en": "TODO_EN_056053",
-      "audio": "./assets/audio/056/056053.mp3"
+      "arabic": "فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+      "bm": "\"Yang memenuhi perut perut kamu dengannya.",
+      "en": "\"Filling your bellies therefrom.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056053.mp3"
     },
     {
       "number": 54,
-      "arabic": "TODO_AR_056054",
-      "bm": "TODO_BM_056054",
-      "en": "TODO_EN_056054",
-      "audio": "./assets/audio/056/056054.mp3"
+      "arabic": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+      "bm": "\"Dan meminum diatasnya adalah minuman minuman dari neraka.",
+      "en": "\"Then drinking on top of it hellish drinks.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056054.mp3"
     },
     {
       "number": 55,
-      "arabic": "TODO_AR_056055",
-      "bm": "TODO_BM_056055",
-      "en": "TODO_EN_056055",
-      "audio": "./assets/audio/056/056055.mp3"
+      "arabic": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+      "bm": "\"Dan ditambahkan pula minuman dari pasir.\"",
+      "en": "\"Then adding drinks of sand.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056055.mp3"
     },
     {
       "number": 56,
-      "arabic": "TODO_AR_056056",
-      "bm": "TODO_BM_056056",
-      "en": "TODO_EN_056056",
-      "audio": "./assets/audio/056/056056.mp3"
+      "arabic": "هَٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+      "bm": "Demikian itulah bahagian mereka pada Hari Pengadilan kelak.",
+      "en": "Such is their share on the Day of Judgment.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056056.mp3"
     },
     {
       "number": 57,
-      "arabic": "TODO_AR_056057",
-      "bm": "TODO_BM_056057",
-      "en": "TODO_EN_056057",
-      "audio": "./assets/audio/056/056057.mp3"
+      "arabic": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "bm": "Kami telah menciptakan kamu, jika hanya kamu dapat mempercayai!",
+      "en": "We have created you, if you could only believe!",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056057.mp3",
+      "subtitle": {
+        "bm": "Renungan",
+        "en": "Reflections"
+      }
     },
     {
       "number": 58,
-      "arabic": "TODO_AR_056058",
-      "bm": "TODO_BM_056058",
-      "en": "TODO_EN_056058",
-      "audio": "./assets/audio/056/056058.mp3"
+      "arabic": "أَفَرَأَيْتُمْ مَا تُمْنُونَ",
+      "bm": "Tidakkah kamu perhatikan air mani yang kamu keluarkan?",
+      "en": "Have you noted the semen that you produce?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056058.mp3"
     },
     {
       "number": 59,
-      "arabic": "TODO_AR_056059",
-      "bm": "TODO_BM_056059",
-      "en": "TODO_EN_056059",
-      "audio": "./assets/audio/056/056059.mp3"
+      "arabic": "أَأَنْتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+      "bm": "Adakah kamu yang menciptanya, ataupun kami yang menciptakan?",
+      "en": "Did you create it, or did we?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056059.mp3"
     },
     {
       "number": 60,
-      "arabic": "TODO_AR_056060",
-      "bm": "TODO_BM_056060",
-      "en": "TODO_EN_056060",
-      "audio": "./assets/audio/056/056060.mp3"
+      "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "bm": "Kami telah mengadakan kematian yang telah ditetapkan untuk kamu. Tidak ada apa yang dapat menghalang kami-",
+      "en": "We have predetermined death for you. Nothing can stop us--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056060.mp3"
     },
     {
       "number": 61,
-      "arabic": "TODO_AR_056061",
-      "bm": "TODO_BM_056061",
-      "en": "TODO_EN_056061",
-      "audio": "./assets/audio/056/056061.mp3"
+      "arabic": "عَلَىٰ أَنْ نُبَدِّلَ أَمْثَالَكُمْ وَنُنْشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+      "bm": "dari menggantikan generasi generasi yang baru ketempat kamu, dan memantapkan apa yang tidak kamu ketahui.",
+      "en": "from substituting new generations in your place, and establishing what you do not know.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056061.mp3"
     },
     {
       "number": 62,
-      "arabic": "TODO_AR_056062",
-      "bm": "TODO_BM_056062",
-      "en": "TODO_EN_056062",
-      "audio": "./assets/audio/056/056062.mp3"
+      "arabic": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "bm": "Kamu telah ketahui tentang ciptaan yang pertama. Tidakkah kamu ingat?",
+      "en": "You know about the first creation. Do you not remember?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056062.mp3"
     },
     {
       "number": 63,
-      "arabic": "TODO_AR_056063",
-      "bm": "TODO_BM_056063",
-      "en": "TODO_EN_056063",
-      "audio": "./assets/audio/056/056063.mp3"
+      "arabic": "أَفَرَأَيْتُمْ مَا تَحْرُثُونَ",
+      "bm": "Tidakkah kamu perhatikan tanam tanaman yang kamu hasilkan?",
+      "en": "Have you noted the crops you reap?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056063.mp3"
     },
     {
       "number": 64,
-      "arabic": "TODO_AR_056064",
-      "bm": "TODO_BM_056064",
-      "en": "TODO_EN_056064",
-      "audio": "./assets/audio/056/056064.mp3"
+      "arabic": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+      "bm": "Adakah kamu yang menumbuhkan mereka, ataupun kami yang menumbuhkan?",
+      "en": "Did you grow them, or did we?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056064.mp3"
     },
     {
       "number": 65,
-      "arabic": "TODO_AR_056065",
-      "bm": "TODO_BM_056065",
-      "en": "TODO_EN_056065",
-      "audio": "./assets/audio/056/056065.mp3"
+      "arabic": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "bm": "Jika kami kehendaki, kami boleh menukarkannya menjadi tumbuhan yang kering. Lalu kamu akan rasa menyesal:",
+      "en": "If we will, we can turn it into hay. Then you will lament:",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056065.mp3"
     },
     {
       "number": 66,
-      "arabic": "TODO_AR_056066",
-      "bm": "TODO_BM_056066",
-      "en": "TODO_EN_056066",
-      "audio": "./assets/audio/056/056066.mp3"
+      "arabic": "إِنَّا لَمُغْرَمُونَ",
+      "bm": "\"Kami kalah.",
+      "en": "\"We lost.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056066.mp3"
     },
     {
       "number": 67,
-      "arabic": "TODO_AR_056067",
-      "bm": "TODO_BM_056067",
-      "en": "TODO_EN_056067",
-      "audio": "./assets/audio/056/056067.mp3"
+      "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "bm": "\"Kami telah kehilangan.\"",
+      "en": "\"We are deprived.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056067.mp3"
     },
     {
       "number": 68,
-      "arabic": "TODO_AR_056068",
-      "bm": "TODO_BM_056068",
-      "en": "TODO_EN_056068",
-      "audio": "./assets/audio/056/056068.mp3"
+      "arabic": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+      "bm": "Tidakkah kamu perhatikan air yang kamu minum?",
+      "en": "Have you noted the water you drink?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056068.mp3"
     },
     {
       "number": 69,
-      "arabic": "TODO_AR_056069",
-      "bm": "TODO_BM_056069",
-      "en": "TODO_EN_056069",
-      "audio": "./assets/audio/056/056069.mp3"
+      "arabic": "أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ",
+      "bm": "Adakah kamu yang menurunkannya dari awan awan, ataupun kami (yang menurunkan)?",
+      "en": "Did you send it down from the clouds, or did we?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056069.mp3"
     },
     {
       "number": 70,
-      "arabic": "TODO_AR_056070",
-      "bm": "TODO_BM_056070",
-      "en": "TODO_EN_056070",
-      "audio": "./assets/audio/056/056070.mp3"
+      "arabic": "لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "bm": "Jika kami kehendaki, kami boleh menjadikannya masin. Kamu sepatutnya berterima kasih.",
+      "en": "If we will, we can make it salty. You should be thankful.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056070.mp3"
     },
     {
       "number": 71,
-      "arabic": "TODO_AR_056071",
-      "bm": "TODO_BM_056071",
-      "en": "TODO_EN_056071",
-      "audio": "./assets/audio/056/056071.mp3"
+      "arabic": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+      "bm": "Tidakkah kamu perhatikan api yang kamu nyalakan?",
+      "en": "Have you noted the fire you ignite?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056071.mp3"
     },
     {
       "number": 72,
-      "arabic": "TODO_AR_056072",
-      "bm": "TODO_BM_056072",
-      "en": "TODO_EN_056072",
-      "audio": "./assets/audio/056/056072.mp3"
+      "arabic": "أَأَنْتُمْ أَنْشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنْشِئُونَ",
+      "bm": "Adakah kamu yang meinisiasikan pokoknya , ataupun kami?",
+      "en": "Did you initiate its tree, or did we?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056072.mp3"
     },
     {
       "number": 73,
-      "arabic": "TODO_AR_056073",
-      "bm": "TODO_BM_056073",
-      "en": "TODO_EN_056073",
-      "audio": "./assets/audio/056/056073.mp3"
+      "arabic": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْوِينَ",
+      "bm": "Kami menjadikannya sebagai peringatan, dan sebagai perkakas yang berguna untuk pengguna pengguna.",
+      "en": "We rendered it a reminder, and a useful tool for the users.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056073.mp3"
     },
     {
       "number": 74,
-      "arabic": "TODO_AR_056074",
-      "bm": "TODO_BM_056074",
-      "en": "TODO_EN_056074",
-      "audio": "./assets/audio/056/056074.mp3"
+      "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "bm": "Kamu mestilah mengagungkan nama Tuhan kamu, yang Maha Besar.",
+      "en": "You shall glorify the name of your Lord, the Great.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056074.mp3"
     },
     {
       "number": 75,
-      "arabic": "TODO_AR_056075",
-      "bm": "TODO_BM_056075",
-      "en": "TODO_EN_056075",
-      "audio": "./assets/audio/056/056075.mp3"
+      "arabic": "فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+      "bm": "Aku bersumpah dengan kedudukan bintang bintang.",
+      "en": "I swear by the positions of the stars.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056075.mp3",
+      "subtitle": {
+        "bm": "Hanya Yang Jujur Saja Yang Dapat Memahami Quran",
+        "en": "Only the Sincere Can Understand the Quran"
+      }
     },
     {
       "number": 76,
-      "arabic": "TODO_AR_056076",
-      "bm": "TODO_BM_056076",
-      "en": "TODO_EN_056076",
-      "audio": "./assets/audio/056/056076.mp3"
+      "arabic": "وَإِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظِيمٌ",
+      "bm": "Ini adalah sebuah sumpah, jika hanya kamu ketahui, yang sangat mengerunkan.",
+      "en": "This is an oath, if you only knew, that is awesome.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056076.mp3"
     },
     {
       "number": 77,
-      "arabic": "TODO_AR_056077",
-      "bm": "TODO_BM_056077",
-      "en": "TODO_EN_056077",
-      "audio": "./assets/audio/056/056077.mp3"
+      "arabic": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+      "bm": "Ini adalah sebuah Quran yang mulia.",
+      "en": "This is an honorable Quran.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056077.mp3"
     },
     {
       "number": 78,
-      "arabic": "TODO_AR_056078",
-      "bm": "TODO_BM_056078",
-      "en": "TODO_EN_056078",
-      "audio": "./assets/audio/056/056078.mp3"
+      "arabic": "فِي كِتَابٍ مَكْنُونٍ",
+      "bm": "Didalam sebuah buku yang terpelihara.",
+      "en": "In a protected book.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056078.mp3"
     },
     {
       "number": 79,
-      "arabic": "TODO_AR_056079",
-      "bm": "TODO_BM_056079",
-      "en": "TODO_EN_056079",
-      "audio": "./assets/audio/056/056079.mp3"
+      "arabic": "لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+      "bm": "Tidak ada sesiapa yang boleh memegangnya melainkan yang jujur.",
+      "en": "None can grasp it except the sincere.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056079.mp3"
     },
     {
       "number": 80,
-      "arabic": "TODO_AR_056080",
-      "bm": "TODO_BM_056080",
-      "en": "TODO_EN_056080",
-      "audio": "./assets/audio/056/056080.mp3"
+      "arabic": "تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ",
+      "bm": "Sebuah revelasi dari Tuhan semesta alam.",
+      "en": "A revelation from the Lord of the universe.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056080.mp3"
     },
     {
       "number": 81,
-      "arabic": "TODO_AR_056081",
-      "bm": "TODO_BM_056081",
-      "en": "TODO_EN_056081",
-      "audio": "./assets/audio/056/056081.mp3"
+      "arabic": "أَفَبِهَٰذَا الْحَدِيثِ أَنْتُمْ مُدْهِنُونَ",
+      "bm": "Adakah kamu mengabaikan pengesahan ini?",
+      "en": "Are you disregarding this narration?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056081.mp3"
     },
     {
       "number": 82,
-      "arabic": "TODO_AR_056082",
-      "bm": "TODO_BM_056082",
-      "en": "TODO_EN_056082",
-      "audio": "./assets/audio/056/056082.mp3"
+      "arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "bm": "Adakah kamu menjadikannya sebagai urusan kamu kerana tidak mengindahkan?",
+      "en": "Do you make it your business that you disbelieve?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056082.mp3"
     },
     {
       "number": 83,
-      "arabic": "TODO_AR_056083",
-      "bm": "TODO_BM_056083",
-      "en": "TODO_EN_056083",
-      "audio": "./assets/audio/056/056083.mp3"
+      "arabic": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+      "bm": "Apabila masanya tiba dan (nyawa kamu) sampai dikerongkong-",
+      "en": "When the time comes and it (your soul) reaches your throat--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056083.mp3"
     },
     {
       "number": 84,
-      "arabic": "TODO_AR_056084",
-      "bm": "TODO_BM_056084",
-      "en": "TODO_EN_056084",
-      "audio": "./assets/audio/056/056084.mp3"
+      "arabic": "وَأَنْتُمْ حِينَئِذٍ تَنْظُرُونَ",
+      "bm": "barulah kemudian kamu akan melihat disekeliling.",
+      "en": "you will then look around.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056084.mp3"
     },
     {
       "number": 85,
-      "arabic": "TODO_AR_056085",
-      "bm": "TODO_BM_056085",
-      "en": "TODO_EN_056085",
-      "audio": "./assets/audio/056/056085.mp3"
+      "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْكُمْ وَلَٰكِنْ لَا تُبْصِرُونَ",
+      "bm": "Kami lebih dekat kepadanya dari kamu sendiri, tetapi kamu tidak melihat.",
+      "en": "We are closer to it than you are, but you do not see.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056085.mp3"
     },
     {
       "number": 86,
-      "arabic": "TODO_AR_056086",
-      "bm": "TODO_BM_056086",
-      "en": "TODO_EN_056086",
-      "audio": "./assets/audio/056/056086.mp3"
+      "arabic": "فَلَوْلَا إِنْ كُنْتُمْ غَيْرَ مَدِينِينَ",
+      "bm": "Jika ianya adalah benar yang kamu tidak ada berhutang sebarang perkiraan-",
+      "en": "If it is true that you do not owe any accounting--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056086.mp3"
     },
     {
       "number": 87,
-      "arabic": "TODO_AR_056087",
-      "bm": "TODO_BM_056087",
-      "en": "TODO_EN_056087",
-      "audio": "./assets/audio/056/056087.mp3"
+      "arabic": "تَرْجِعُونَهَا إِنْ كُنْتُمْ صَادِقِينَ",
+      "bm": "kenapakah tidak kamu menyelamatkan (roh kamu), jika sememangnya kamulah yang benar?",
+      "en": "why do you not restore (your soul), if you are truthful?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056087.mp3"
     },
     {
       "number": 88,
-      "arabic": "TODO_AR_056088",
-      "bm": "TODO_BM_056088",
-      "en": "TODO_EN_056088",
-      "audio": "./assets/audio/056/056088.mp3"
+      "arabic": "فَأَمَّا إِنْ كَانَ مِنَ الْمُقَرَّبِينَ",
+      "bm": "Jika dia adalah diantara mereka yang terdekat kepadaKu -",
+      "en": "If he is one of those close to Me--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056088.mp3"
     },
     {
       "number": 89,
-      "arabic": "TODO_AR_056089",
-      "bm": "TODO_BM_056089",
-      "en": "TODO_EN_056089",
-      "audio": "./assets/audio/056/056089.mp3"
+      "arabic": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "bm": "maka kegirangan, dengan bunga bunga, dan taman taman yang indah.",
+      "en": "then joy, flowers, and gardens of bliss.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056089.mp3"
     },
     {
       "number": 90,
-      "arabic": "TODO_AR_056090",
-      "bm": "TODO_BM_056090",
-      "en": "TODO_EN_056090",
-      "audio": "./assets/audio/056/056090.mp3"
+      "arabic": "وَأَمَّا إِنْ كَانَ مِنْ أَصْحَابِ الْيَمِينِ",
+      "bm": "Dan sekiranya dia dari salah seorang yang disebelah kanan -",
+      "en": "And if he is one of the right--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056090.mp3"
     },
     {
       "number": 91,
-      "arabic": "TODO_AR_056091",
-      "bm": "TODO_BM_056091",
-      "en": "TODO_EN_056091",
-      "audio": "./assets/audio/056/056091.mp3"
+      "arabic": "فَسَلَامٌ لَكَ مِنْ أَصْحَابِ الْيَمِينِ",
+      "bm": "Keamanan adalah bagi orang orang yang disebelah kanan.",
+      "en": "peace is the lot of those on the right.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056091.mp3"
     },
     {
       "number": 92,
-      "arabic": "TODO_AR_056092",
-      "bm": "TODO_BM_056092",
-      "en": "TODO_EN_056092",
-      "audio": "./assets/audio/056/056092.mp3"
+      "arabic": "وَأَمَّا إِنْ كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+      "bm": "Tetapi jika dianya adalah salah seorang dari yang ingkar dan seorang yang sesat-",
+      "en": "But if he is one of the disbelievers, the strayers--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056092.mp3"
     },
     {
       "number": 93,
-      "arabic": "TODO_AR_056093",
-      "bm": "TODO_BM_056093",
-      "en": "TODO_EN_056093",
-      "audio": "./assets/audio/056/056093.mp3"
+      "arabic": "فَنُزُلٌ مِنْ حَمِيمٍ",
+      "bm": "maka tempat kediamannya dari nyalaan api-",
+      "en": "then an abode of inferno--",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056093.mp3"
     },
     {
       "number": 94,
-      "arabic": "TODO_AR_056094",
-      "bm": "TODO_BM_056094",
-      "en": "TODO_EN_056094",
-      "audio": "./assets/audio/056/056094.mp3"
+      "arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+      "bm": "dan bakaran didalam Neraka.",
+      "en": "and burning in Hell.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056094.mp3"
     },
     {
       "number": 95,
-      "arabic": "TODO_AR_056095",
-      "bm": "TODO_BM_056095",
-      "en": "TODO_EN_056095",
-      "audio": "./assets/audio/056/056095.mp3"
+      "arabic": "إِنَّ هَٰذَا لَهُوَ حَقُّ الْيَقِينِ",
+      "bm": "Ini adalah sebenarnya satu kebenaran.",
+      "en": "This is the absolute truth.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056095.mp3"
     },
     {
       "number": 96,
-      "arabic": "TODO_AR_056096",
-      "bm": "TODO_BM_056096",
-      "en": "TODO_EN_056096",
-      "audio": "./assets/audio/056/056096.mp3"
+      "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+      "bm": "Kamu mestilah mengagungkan nama Tuhan kamu, yang Maha Besar.",
+      "en": "You shall glorify the name of your Lord, the Great.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056096.mp3"
     }
   ]
 }

@@ -1,382 +1,393 @@
-SURAH_NUMBER: 53
-NAME_AR: النجم
-NAME_BM: Bintang
-NAME_EN: The Star
+﻿SURAH_NUMBER: 53
+NAME_AR: سورة الـنجـم
+NAME_BM: Bintang Bintang
+NAME_EN: The Stars
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/053/053000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053000.mp3
 
 # Ayah 1
-AR: TODO_AR_053001
-BM: TODO_BM_053001
-EN: TODO_EN_053001
-AUDIO: ./assets/audio/053/053001.mp3
+AR: وَالنَّجمِ إِذا هَوىٰ
+BM: Sedang bintang bintang menghilang.
+EN: As the stars fell away.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053001.mp3
 
 # Ayah 2
-AR: TODO_AR_053002
-BM: TODO_BM_053002
-EN: TODO_EN_053002
-AUDIO: ./assets/audio/053/053002.mp3
+AR: مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ
+BM: Kawanmu (Mohammad) tidaklah sesat, dan tidak juga dia ditipu.
+EN: Your friend (Muhammad) was not astray, nor was he deceived.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053002.mp3
 
 # Ayah 3
-AR: TODO_AR_053003
-BM: TODO_BM_053003
-EN: TODO_EN_053003
-AUDIO: ./assets/audio/053/053003.mp3
+AR: وَمَا يَنْطِقُ عَنِ الْهَوَىٰ
+BM: Tidak juga dia berkata dengan mengikuti keinginannya sendiri.
+EN: Nor was he speaking out of a personal desire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053003.mp3
 
 # Ayah 4
-AR: TODO_AR_053004
-BM: TODO_BM_053004
-EN: TODO_EN_053004
-AUDIO: ./assets/audio/053/053004.mp3
+AR: إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ
+BM: Ianya adalah inspirasi yang suci.
+EN: It was divine inspiration.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053004.mp3
 
 # Ayah 5
-AR: TODO_AR_053005
-BM: TODO_BM_053005
-EN: TODO_EN_053005
-AUDIO: ./assets/audio/053/053005.mp3
+AR: عَلَّمَهُ شَدِيدُ الْقُوَىٰ
+BM: Diajarkan oleh yang Maha Berkuasa.
+EN: Dictated by the Most Powerful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053005.mp3
 
 # Ayah 6
-AR: TODO_AR_053006
-BM: TODO_BM_053006
-EN: TODO_EN_053006
-AUDIO: ./assets/audio/053/053006.mp3
+AR: ذُو مِرَّةٍ فَاسْتَوَىٰ
+BM: Empunya sekelian autoriti. Dari ketinggianNya yang tertinggi sekali.
+EN: Possessor of all authority. From His highest height.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053006.mp3
 
 # Ayah 7
-AR: TODO_AR_053007
-BM: TODO_BM_053007
-EN: TODO_EN_053007
-AUDIO: ./assets/audio/053/053007.mp3
+AR: وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ
+BM: Diufuk yang tertinggi.
+EN: At the highest horizon.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053007.mp3
 
 # Ayah 8
-AR: TODO_AR_053008
-BM: TODO_BM_053008
-EN: TODO_EN_053008
-AUDIO: ./assets/audio/053/053008.mp3
+AR: ثُمَّ دَنَا فَتَدَلَّىٰ
+BM: Dia datang mendekat dengan bergerak turun kebawah.
+EN: He drew nearer by moving down.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053008.mp3
 
 # Ayah 9
-AR: TODO_AR_053009
-BM: TODO_BM_053009
-EN: TODO_EN_053009
-AUDIO: ./assets/audio/053/053009.mp3
+AR: فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ
+BM: Sehingga Dia mendatang sedekat mungkin.
+EN: Until He became as close as possible.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053009.mp3
 
 # Ayah 10
-AR: TODO_AR_053010
-BM: TODO_BM_053010
-EN: TODO_EN_053010
-AUDIO: ./assets/audio/053/053010.mp3
+AR: فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ
+BM: Lalu Dia menurunkan kepada hambaNya apa yang patut diturunkan.
+EN: He then revealed to His servant what was to be revealed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053010.mp3
 
 # Ayah 11
-AR: TODO_AR_053011
-BM: TODO_BM_053011
-EN: TODO_EN_053011
-AUDIO: ./assets/audio/053/053011.mp3
+AR: مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ
+BM: Minda tidak mengada adakan apa yang telah dilihatnya.
+EN: The mind never made up what it saw.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053011.mp3
 
 # Ayah 12
-AR: TODO_AR_053012
-BM: TODO_BM_053012
-EN: TODO_EN_053012
-AUDIO: ./assets/audio/053/053012.mp3
+AR: أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ
+BM: Adakah kamu meragukan apa yang dia telah dilihatkan?
+EN: Are you doubting what he saw?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053012.mp3
 
 # Ayah 13
-AR: TODO_AR_053013
-BM: TODO_BM_053013
-EN: TODO_EN_053013
-AUDIO: ./assets/audio/053/053013.mp3
+AR: وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ
+BM: Dia telah melihat disuatu turunan yang lain.
+EN: He saw him in another descent.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053013.mp3
 
 # Ayah 14
-AR: TODO_AR_053014
-BM: TODO_BM_053014
-EN: TODO_EN_053014
-AUDIO: ./assets/audio/053/053014.mp3
+AR: عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ
+BM: Dipenghujungan kesudahan.
+EN: At the ultimate point.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053014.mp3
 
 # Ayah 15
-AR: TODO_AR_053015
-BM: TODO_BM_053015
-EN: TODO_EN_053015
-AUDIO: ./assets/audio/053/053015.mp3
+AR: عِنْدَهَا جَنَّةُ الْمَأْوَىٰ
+BM: Dimana lokasi Syurga yang abadi ditempatkan.
+EN: Where the eternal Paradise is located.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053015.mp3
 
 # Ayah 16
-AR: TODO_AR_053016
-BM: TODO_BM_053016
-EN: TODO_EN_053016
-AUDIO: ./assets/audio/053/053016.mp3
+AR: إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ
+BM: Keseluruhan tempat menakjubkan.
+EN: The whole place was overwhelmed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053016.mp3
 
 # Ayah 17
-AR: TODO_AR_053017
-BM: TODO_BM_053017
-EN: TODO_EN_053017
-AUDIO: ./assets/audio/053/053017.mp3
+AR: مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ
+BM: Mata mata tidak berpaling, dan tidak juga menjadi buta.
+EN: The eyes did not waver, nor go blind.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053017.mp3
 
 # Ayah 18
-AR: TODO_AR_053018
-BM: TODO_BM_053018
-EN: TODO_EN_053018
-AUDIO: ./assets/audio/053/053018.mp3
+AR: لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ
+BM: Dia telah melihat tanda tanda yang besar dari Tuhannya.
+EN: He saw great signs of his Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053018.mp3
 
 # Ayah 19
-AR: TODO_AR_053019
-BM: TODO_BM_053019
-EN: TODO_EN_053019
-AUDIO: ./assets/audio/053/053019.mp3
+AR: أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ
+BM: Bandingkan ini dengan pujaan pujaan perempuan Allat dan Al-'Uzzah.
+EN: Compare this with the female idols Allaat and Al-'Uzzah.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053019.mp3
+SUBTITLE_BM: Pujaan Pujaan Yang Lemah
+SUBTITLE_EN: The Flimsy Idols
 
 # Ayah 20
-AR: TODO_AR_053020
-BM: TODO_BM_053020
-EN: TODO_EN_053020
-AUDIO: ./assets/audio/053/053020.mp3
+AR: وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ
+BM: Dan Manaat, yang ketiga.
+EN: And Manaat, the third one.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053020.mp3
 
 # Ayah 21
-AR: TODO_AR_053021
-BM: TODO_BM_053021
-EN: TODO_EN_053021
-AUDIO: ./assets/audio/053/053021.mp3
+AR: أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنْثَىٰ
+BM: Adakah kamu mempunyai anak anak lelaki, sementara Dia mempunyai ini sebagai anak anak perempuan?
+EN: Do you have sons, while He has these as daughters?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053021.mp3
 
 # Ayah 22
-AR: TODO_AR_053022
-BM: TODO_BM_053022
-EN: TODO_EN_053022
-AUDIO: ./assets/audio/053/053022.mp3
+AR: تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ
+BM: Betapakah buruknya pembahagian!
+EN: What a disgraceful distribution!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053022.mp3
 
 # Ayah 23
-AR: TODO_AR_053023
-BM: TODO_BM_053023
-EN: TODO_EN_053023
-AUDIO: ./assets/audio/053/053023.mp3
+AR: إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنْفُسُ وَلَقَدْ جَاءَهُمْ مِنْ رَبِّهِمُ الْهُدَىٰ
+BM: Ini semua tidak lain hanyalah nama nama yang kamu ada adakan, kamu dan keturunan keturunan kamu. Allah tidak pernah mengautoriskan kekufuran yang sedemikian. Mereka hanya mengikuti terkaan saja, dan nafsu sendiri, apabila petunjuk yang benar telah datang kepada mereka didalam ini dari Tuhan mereka.
+EN: These are but names that you made up, you and your forefathers. GOD never authorized such a blasphemy. They follow conjecture, and personal desire, when the true guidance has come to them herein from their Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053023.mp3
 
 # Ayah 24
-AR: TODO_AR_053024
-BM: TODO_BM_053024
-EN: TODO_EN_053024
-AUDIO: ./assets/audio/053/053024.mp3
+AR: أَمْ لِلْإِنْسَانِ مَا تَمَنَّىٰ
+BM: Apakah sebenarnya yang manusia menginginkan?
+EN: What is it that the human being desires?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053024.mp3
 
 # Ayah 25
-AR: TODO_AR_053025
-BM: TODO_BM_053025
-EN: TODO_EN_053025
-AUDIO: ./assets/audio/053/053025.mp3
+AR: فَلِلَّهِ الْآخِرَةُ وَالْأُولَىٰ
+BM: Kepunyaan Allah keduanya iaitu Akhirat dan dunia ini.
+EN: To GOD belongs both the Hereafter, and this world.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053025.mp3
 
 # Ayah 26
-AR: TODO_AR_053026
-BM: TODO_BM_053026
-EN: TODO_EN_053026
-AUDIO: ./assets/audio/053/053026.mp3
+AR: وَكَمْ مِنْ مَلَكٍ فِي السَّمَاوَاتِ لَا تُغْنِي شَفَاعَتُهُمْ شَيْئًا إِلَّا مِنْ بَعْدِ أَنْ يَأْذَنَ اللَّهُ لِمَنْ يَشَاءُ وَيَرْضَىٰ
+BM: Sedangkan para malaikat disekelian cekrawala tidak juga mempunyai autoriti untuk memberikan jaminan. Mereka yang diizinkan oleh Allah hanyalah orang orang yang membuat amalan yang mengikuti dengan kehendakNya dan mendapat kebenaran dariNya.
+EN: Not even the angels in heaven possess authority to intercede. The only ones permitted by GOD are those who act in accordance with His will and His approval.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053026.mp3
 
 # Ayah 27
-AR: TODO_AR_053027
-BM: TODO_BM_053027
-EN: TODO_EN_053027
-AUDIO: ./assets/audio/053/053027.mp3
+AR: إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ لَيُسَمُّونَ الْمَلَائِكَةَ تَسْمِيَةَ الْأُنْثَىٰ
+BM: Orang orang yang mengingkari akan Akhirat telah memberikan nama nama kewanitaan kepada para malaikat.
+EN: Those who disbelieve in the Hereafter have given the angels feminine names.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053027.mp3
 
 # Ayah 28
-AR: TODO_AR_053028
-BM: TODO_BM_053028
-EN: TODO_EN_053028
-AUDIO: ./assets/audio/053/053028.mp3
+AR: وَمَا لَهُمْ بِهِ مِنْ عِلْمٍ إِنْ يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا
+BM: Mereka tidak mempunyai ilmu pengetahuan tentang ini; mereka hanyalah meneka saja. Tekaan tidak dapat menggantikan kebenaran.
+EN: They had no knowledge about this; they only conjectured. Conjecture is no substitute for the truth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053028.mp3
 
 # Ayah 29
-AR: TODO_AR_053029
-BM: TODO_BM_053029
-EN: TODO_EN_053029
-AUDIO: ./assets/audio/053/053029.mp3
+AR: فَأَعْرِضْ عَنْ مَنْ تَوَلَّىٰ عَنْ ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا الْحَيَاةَ الدُّنْيَا
+BM: Kamu mestilah jangan memperdulikan orang orang yang berpaling dari mesej kami, dan menjadi terlalu sibuk dengan kehidupan didunia ini.
+EN: You shall disregard those who turn away from our message, and become preoccupied with this worldly life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053029.mp3
+SUBTITLE_BM: Pilihlah Kawan Kawan Kamu Dengan Berhati Hati
+SUBTITLE_EN: Choose Your Friends Carefully
 
 # Ayah 30
-AR: TODO_AR_053030
-BM: TODO_BM_053030
-EN: TODO_EN_053030
-AUDIO: ./assets/audio/053/053030.mp3
+AR: ذَٰلِكَ مَبْلَغُهُمْ مِنَ الْعِلْمِ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيلِهِ وَهُوَ أَعْلَمُ بِمَنِ اهْتَدَىٰ
+BM: Ini adalah berkenaan  ilmu pengetahuan mereka. Tuhan kamu amat sedar akan orang orang yang tersesat jauh dari jalanNya, dan Dia amat sedar akan orang orang yang mendapat petunjuk.
+EN: This is the extent of their knowledge. Your Lord is fully aware of those who strayed away from His path, and He is fully aware of those who are guided.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053030.mp3
 
 # Ayah 31
-AR: TODO_AR_053031
-BM: TODO_BM_053031
-EN: TODO_EN_053031
-AUDIO: ./assets/audio/053/053031.mp3
+AR: وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ لِيَجْزِيَ الَّذِينَ أَسَاءُوا بِمَا عَمِلُوا وَيَجْزِيَ الَّذِينَ أَحْسَنُوا بِالْحُسْنَى
+BM: Kepunyaan Allah segala galanya disekelian cekrawala dan segala galanya dibumi. Dia akan membalas orang orang yang mengkomit kejahatan diatas kerja kerja mereka, dan akan menganugerahkan orang orang yang berbuat baik diatas kebaikan mereka.
+EN: To GOD belongs everything in the heavens and everything on earth. He will requite those who commit evil for their works, and will reward the righteous for their righteousness.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053031.mp3
 
 # Ayah 32
-AR: TODO_AR_053032
-BM: TODO_BM_053032
-EN: TODO_EN_053032
-AUDIO: ./assets/audio/053/053032.mp3
+AR: الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ إِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنْشَأَكُمْ مِنَ الْأَرْضِ وَإِذْ أَنْتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ فَلَا تُزَكُّوا أَنْفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ اتَّقَىٰ
+BM: Mereka menjauhi dosa dosa besar dan perbuatan yang keterlaluan, melainkan hanyalah kesalahan kesalahan yang kecil kecil. Pengampunan Tuhan kamu itu adalah begitu besar. Dia yang menyedari dengan sepenuhnya terhadap kamu dari mula Dia meinisiasikan kamu daripada bumi, dan dimasa kamu masih embrio embrio lagi didalam perut perut ibu ibu kamu. Dari itu, janganlah membanggakan diri diri kamu; sesungguhnya, Dia sahajalah yang amat sedar akan orang orang yang benar.
+EN: They avoid gross sins and transgressions, except for minor offenses. Your Lord's forgiveness is immense. He has been fully aware of you since He initiated you from the earth, and while you were embryos in your mothers' bellies. Therefore, do not exalt yourselves; He is fully aware of the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053032.mp3
 
 # Ayah 33
-AR: TODO_AR_053033
-BM: TODO_BM_053033
-EN: TODO_EN_053033
-AUDIO: ./assets/audio/053/053033.mp3
+AR: أَفَرَأَيْتَ الَّذِي تَوَلَّىٰ
+BM: Sudahkah kamu melihat seseorang  yang berpaling pergi?
+EN: Have you noted the one who turned away?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053033.mp3
 
 # Ayah 34
-AR: TODO_AR_053034
-BM: TODO_BM_053034
-EN: TODO_EN_053034
-AUDIO: ./assets/audio/053/053034.mp3
+AR: وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰ
+BM: Jarang sekali dia memberi derma, dan jika ada pun terlalu sedikit.
+EN: Rarely did he give to charity, and then very little.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053034.mp3
 
 # Ayah 35
-AR: TODO_AR_053035
-BM: TODO_BM_053035
-EN: TODO_EN_053035
-AUDIO: ./assets/audio/053/053035.mp3
+AR: أَعِنْدَهُ عِلْمُ الْغَيْبِ فَهُوَ يَرَىٰ
+BM: Adakah dia mempunyai ilmu pengetahuan tentang masa depan? Dapatkah dia melihatnya?
+EN: Did he possess knowledge of the future? Could he see it?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053035.mp3
 
 # Ayah 36
-AR: TODO_AR_053036
-BM: TODO_BM_053036
-EN: TODO_EN_053036
-AUDIO: ./assets/audio/053/053036.mp3
+AR: أَمْ لَمْ يُنَبَّأْ بِمَا فِي صُحُفِ مُوسَىٰ
+BM: Tidakkah dia diberitahukan tentang ajaran ajaran didalam kitab Musa?
+EN: Was he not informed of the teachings in the scripture of Moses?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053036.mp3
 
 # Ayah 37
-AR: TODO_AR_053037
-BM: TODO_BM_053037
-EN: TODO_EN_053037
-AUDIO: ./assets/audio/053/053037.mp3
+AR: وَإِبْرَاهِيمَ الَّذِي وَفَّىٰ
+BM: Dan Ibrahim yang telah memenuhi?
+EN: And Abraham who fulfilled?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053037.mp3
 
 # Ayah 38
-AR: TODO_AR_053038
-BM: TODO_BM_053038
-EN: TODO_EN_053038
-AUDIO: ./assets/audio/053/053038.mp3
+AR: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+BM: Tidak ada roh yang akan menanggung dosa dosa bagi roh yang lainnya.
+EN: No soul bears the sins of another soul.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053038.mp3
 
 # Ayah 39
-AR: TODO_AR_053039
-BM: TODO_BM_053039
-EN: TODO_EN_053039
-AUDIO: ./assets/audio/053/053039.mp3
+AR: وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَىٰ
+BM: Tiap tiap manusia akan bertanggungjawab diatas kerja kerjanya sendiri.
+EN: Every human being is responsible for his own works.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053039.mp3
 
 # Ayah 40
-AR: TODO_AR_053040
-BM: TODO_BM_053040
-EN: TODO_EN_053040
-AUDIO: ./assets/audio/053/053040.mp3
+AR: وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ
+BM: Dan tiap tiap kerja kerja mereka akan ditunjukkan.
+EN: And everyone's works will be shown.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053040.mp3
 
 # Ayah 41
-AR: TODO_AR_053041
-BM: TODO_BM_053041
-EN: TODO_EN_053041
-AUDIO: ./assets/audio/053/053041.mp3
+AR: ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ
+BM: Dan mereka akan dibayar dengan sepenuhnya diatas kerja kerja yang sedemikian.
+EN: Then they will be paid fully for such works.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053041.mp3
 
 # Ayah 42
-AR: TODO_AR_053042
-BM: TODO_BM_053042
-EN: TODO_EN_053042
-AUDIO: ./assets/audio/053/053042.mp3
+AR: وَأَنَّ إِلَىٰ رَبِّكَ الْمُنْتَهَىٰ
+BM: Kepada Tuhan kamu sahajalah destini yang terakhir.
+EN: To your Lord is the final destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053042.mp3
 
 # Ayah 43
-AR: TODO_AR_053043
-BM: TODO_BM_053043
-EN: TODO_EN_053043
-AUDIO: ./assets/audio/053/053043.mp3
+AR: وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ
+BM: Dia sahajalah yang membuatkan kamu ketawa dan menangis.
+EN: He is the One who makes you laugh or cry.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053043.mp3
 
 # Ayah 44
-AR: TODO_AR_053044
-BM: TODO_BM_053044
-EN: TODO_EN_053044
-AUDIO: ./assets/audio/053/053044.mp3
+AR: وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
+BM: Dia sahajalah yang menguasai mati dan hidup.
+EN: He is the One who controls death and life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053044.mp3
 
 # Ayah 45
-AR: TODO_AR_053045
-BM: TODO_BM_053045
-EN: TODO_EN_053045
-AUDIO: ./assets/audio/053/053045.mp3
+AR: وَأَنَّهُ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ
+BM: Dia Sahajalah yang menciptakan kedua dua jenis, lelaki dan perempuan-
+EN: He is the One who created the two kinds, male and female--
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053045.mp3
+SUBTITLE_BM: Suami Akan Menentukan Jantina Bayi
+SUBTITLE_EN: The Husband Determines The Baby's Gender
 
 # Ayah 46
-AR: TODO_AR_053046
-BM: TODO_BM_053046
-EN: TODO_EN_053046
-AUDIO: ./assets/audio/053/053046.mp3
+AR: مِنْ نُطْفَةٍ إِذَا تُمْنَىٰ
+BM: dari cecair air mani yang halus.
+EN: from a tiny drop of semen.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053046.mp3
 
 # Ayah 47
-AR: TODO_AR_053047
-BM: TODO_BM_053047
-EN: TODO_EN_053047
-AUDIO: ./assets/audio/053/053047.mp3
+AR: وَأَنَّ عَلَيْهِ النَّشْأَةَ الْأُخْرَىٰ
+BM: Dia akan menciptakan semula dengan berkesan.
+EN: He will effect the recreation.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053047.mp3
 
 # Ayah 48
-AR: TODO_AR_053048
-BM: TODO_BM_053048
-EN: TODO_EN_053048
-AUDIO: ./assets/audio/053/053048.mp3
+AR: وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ
+BM: Dia Sahajalah yang menjadikan kamu kaya ataupun miskin.
+EN: He is the One who makes you rich or poor.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053048.mp3
 
 # Ayah 49
-AR: TODO_AR_053049
-BM: TODO_BM_053049
-EN: TODO_EN_053049
-AUDIO: ./assets/audio/053/053049.mp3
+AR: وَأَنَّهُ هُوَ رَبُّ الشِّعْرَىٰ
+BM: Dia adalah Tuhan seluruh Bimasakti.
+EN: He is the Lord of the galaxies.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053049.mp3
 
 # Ayah 50
-AR: TODO_AR_053050
-BM: TODO_BM_053050
-EN: TODO_EN_053050
-AUDIO: ./assets/audio/053/053050.mp3
+AR: وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَىٰ
+BM: Dia Sahajalah yang telah menghapuskan masyarakat kuno 'Ad.
+EN: He is the One who annihilated ancient 'Ãd.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053050.mp3
 
 # Ayah 51
-AR: TODO_AR_053051
-BM: TODO_BM_053051
-EN: TODO_EN_053051
-AUDIO: ./assets/audio/053/053051.mp3
+AR: وَثَمُودَ فَمَا أَبْقَىٰ
+BM: Dan melenyapkan Thamud.
+EN: And wiped out Thamûd.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053051.mp3
 
 # Ayah 52
-AR: TODO_AR_053052
-BM: TODO_BM_053052
-EN: TODO_EN_053052
-AUDIO: ./assets/audio/053/053052.mp3
+AR: وَقَوْمَ نُوحٍ مِنْ قَبْلُ إِنَّهُمْ كَانُوا هُمْ أَظْلَمَ وَأَطْغَىٰ
+BM: Begitu juga dengan kaum Nuh sebelum itu; mereka adalah zalim lagi jahat.
+EN: Also the people of Noah before that; they were evil transgressors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053052.mp3
 
 # Ayah 53
-AR: TODO_AR_053053
-BM: TODO_BM_053053
-EN: TODO_EN_053053
-AUDIO: ./assets/audio/053/053053.mp3
+AR: وَالْمُؤْتَفِكَةَ أَهْوَىٰ
+BM: Komuniti komuniti zalim (dari Sodom dan Gommorah) yang paling hina.
+EN: The evil communities (of Sodom and Gomorrah) were the lowliest.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053053.mp3
 
 # Ayah 54
-AR: TODO_AR_053054
-BM: TODO_BM_053054
-EN: TODO_EN_053054
-AUDIO: ./assets/audio/053/053054.mp3
+AR: فَغَشَّاهَا مَا غَشَّىٰ
+BM: Akibatnya, mereka betul betul hilang.
+EN: Consequently, they utterly vanished.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053054.mp3
 
 # Ayah 55
-AR: TODO_AR_053055
-BM: TODO_BM_053055
-EN: TODO_EN_053055
-AUDIO: ./assets/audio/053/053055.mp3
+AR: فَبِأَيِّ آلَاءِ رَبِّكَ تَتَمَارَىٰ
+BM: Mana satukah kekaguman kekaguman Tuhan kamu yang boleh kamu nafikan?
+EN: Which of your Lord's marvels can you deny?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053055.mp3
 
 # Ayah 56
-AR: TODO_AR_053056
-BM: TODO_BM_053056
-EN: TODO_EN_053056
-AUDIO: ./assets/audio/053/053056.mp3
+AR: هَٰذَا نَذِيرٌ مِنَ النُّذُرِ الْأُولَىٰ
+BM: Ini adalah amaran serupa seperti yang terdahulu.
+EN: This is a warning like the older ones.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053056.mp3
 
 # Ayah 57
-AR: TODO_AR_053057
-BM: TODO_BM_053057
-EN: TODO_EN_053057
-AUDIO: ./assets/audio/053/053057.mp3
+AR: أَزِفَتِ الْآزِفَةُ
+BM: Yang tidak boleh dielakkan itu telah dipastikan.
+EN: The inevitable is imminent.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053057.mp3
 
 # Ayah 58
-AR: TODO_AR_053058
-BM: TODO_BM_053058
-EN: TODO_EN_053058
-AUDIO: ./assets/audio/053/053058.mp3
+AR: لَيْسَ لَهَا مِنْ دُونِ اللَّهِ كَاشِفَةٌ
+BM: Tidak ada disamping Allah dapat meringankannya.
+EN: None besides GOD can relieve it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053058.mp3
 
 # Ayah 59
-AR: TODO_AR_053059
-BM: TODO_BM_053059
-EN: TODO_EN_053059
-AUDIO: ./assets/audio/053/053059.mp3
+AR: أَفَمِنْ هَٰذَا الْحَدِيثِ تَعْجَبُونَ
+BM: Adakah kamu menyoalkan perkara ini?
+EN: Are you questioning this matter?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053059.mp3
 
 # Ayah 60
-AR: TODO_AR_053060
-BM: TODO_BM_053060
-EN: TODO_EN_053060
-AUDIO: ./assets/audio/053/053060.mp3
+AR: وَتَضْحَكُونَ وَلَا تَبْكُونَ
+BM: Adakah kamu sedang ketawa, apabila sepatutnya menangis?
+EN: Are you laughing, instead of crying?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053060.mp3
 
 # Ayah 61
-AR: TODO_AR_053061
-BM: TODO_BM_053061
-EN: TODO_EN_053061
-AUDIO: ./assets/audio/053/053061.mp3
+AR: وَأَنْتُمْ سَامِدُونَ
+BM: Adakah kamu masih tetap dengan cara kehidupan kamu?
+EN: Are you insisting on your ways?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053061.mp3
 
 # Ayah 62
-AR: TODO_AR_053062
-BM: TODO_BM_053062
-EN: TODO_EN_053062
-AUDIO: ./assets/audio/053/053062.mp3
+AR: فَاسْجُدُوا لِلَّهِ وَاعْبُدُوا
+BM: Kamu mestilah jatuh sujud kepada Allah, dan menyembah.
+EN: You shall fall prostrate before GOD, and worship.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/053062.mp3
+
+
+
+
+

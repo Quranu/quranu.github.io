@@ -1,137 +1,137 @@
 {
   "surahNumber": 86,
   "name": {
-    "ar": "الطارق",
-    "bm": "Yang Datang Malam",
-    "en": "The Nightcomer"
+    "ar": "سورة الـطارق",
+    "bm": "Bintang Yang Terang",
+    "en": "The Bright Star"
   },
   "totalAyahs": 17,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/086/086000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_086001",
-      "bm": "TODO_BM_086001",
-      "en": "TODO_EN_086001",
-      "audio": "./assets/audio/086/086001.mp3"
+      "arabic": "وَالسَّماءِ وَالطّارِقِ",
+      "bm": "Demi langit dan Al-Taareq.",
+      "en": "By the sky and Al-Taareq.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_086002",
-      "bm": "TODO_BM_086002",
-      "en": "TODO_EN_086002",
-      "audio": "./assets/audio/086/086002.mp3"
+      "arabic": "وَمَا أَدْرَٮکَ مَا الطَّارِقُ",
+      "bm": "Tahukah kamu apa itu Al-Taareq?",
+      "en": "Do you know what Al-Taareq is?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_086003",
-      "bm": "TODO_BM_086003",
-      "en": "TODO_EN_086003",
-      "audio": "./assets/audio/086/086003.mp3"
+      "arabic": "النَّجْمُ الثَّاقِبُ",
+      "bm": "Bintang yang terang.",
+      "en": "The bright star.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_086004",
-      "bm": "TODO_BM_086004",
-      "en": "TODO_EN_086004",
-      "audio": "./assets/audio/086/086004.mp3"
+      "arabic": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+      "bm": "Sudah pasti, tiap tiap orang telah dijaga rapi.",
+      "en": "Absolutely, everyone is well guarded.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_086005",
-      "bm": "TODO_BM_086005",
-      "en": "TODO_EN_086005",
-      "audio": "./assets/audio/086/086005.mp3"
+      "arabic": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+      "bm": "hendaklah manusia memperhatikan tentang penciptaannya.",
+      "en": "Let the human reflect on his creation.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_086006",
-      "bm": "TODO_BM_086006",
-      "en": "TODO_EN_086006",
-      "audio": "./assets/audio/086/086006.mp3"
+      "arabic": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+      "bm": "Dia telah diciptakan dari cecair yang terpancut.",
+      "en": "He was created from ejected liquid.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_086007",
-      "bm": "TODO_BM_086007",
-      "en": "TODO_EN_086007",
-      "audio": "./assets/audio/086/086007.mp3"
+      "arabic": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+      "bm": "Diantara tulang belakang dan visera.",
+      "en": "From between the spine and the viscera.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_086008",
-      "bm": "TODO_BM_086008",
-      "en": "TODO_EN_086008",
-      "audio": "./assets/audio/086/086008.mp3"
+      "arabic": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+      "bm": "Tentu sekali Dia berupaya untuk membangkitkannya.",
+      "en": "He is certainly able to resurrect him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_086009",
-      "bm": "TODO_BM_086009",
-      "en": "TODO_EN_086009",
-      "audio": "./assets/audio/086/086009.mp3"
+      "arabic": "يَوْمَ تُبْلَى السَّرَائِرُ",
+      "bm": "Dihari yang semua rahsia rahsia dapat diketahui.",
+      "en": "The day all secrets become known.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_086010",
-      "bm": "TODO_BM_086010",
-      "en": "TODO_EN_086010",
-      "audio": "./assets/audio/086/086010.mp3"
+      "arabic": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+      "bm": "Dia tidak akan mempunyai kuasa, ataupun seorang penolong.",
+      "en": "He will have no power, nor a helper.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_086011",
-      "bm": "TODO_BM_086011",
-      "en": "TODO_EN_086011",
-      "audio": "./assets/audio/086/086011.mp3"
+      "arabic": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+      "bm": "Dari langit yang memulangkan (air).",
+      "en": "By the sky that returns (the water).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_086012",
-      "bm": "TODO_BM_086012",
-      "en": "TODO_EN_086012",
-      "audio": "./assets/audio/086/086012.mp3"
+      "arabic": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+      "bm": "Demi bumi yang terbelah (untuk menumbuhkan tumbuh tumbuhan).",
+      "en": "By the earth that cracks (to grow plants).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_086013",
-      "bm": "TODO_BM_086013",
-      "en": "TODO_EN_086013",
-      "audio": "./assets/audio/086/086013.mp3"
+      "arabic": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+      "bm": "Ini adalah pengisahan yang serius.",
+      "en": "This is a serious narration.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_086014",
-      "bm": "TODO_BM_086014",
-      "en": "TODO_EN_086014",
-      "audio": "./assets/audio/086/086014.mp3"
+      "arabic": "وَمَا هُوَ بِالْهَزْلِ",
+      "bm": "Janganlah diambil ringan.",
+      "en": "Not to be taken lightly.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_086015",
-      "bm": "TODO_BM_086015",
-      "en": "TODO_EN_086015",
-      "audio": "./assets/audio/086/086015.mp3"
+      "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "bm": "Mereka berkomplot dan merancang.",
+      "en": "They plot and scheme.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_086016",
-      "bm": "TODO_BM_086016",
-      "en": "TODO_EN_086016",
-      "audio": "./assets/audio/086/086016.mp3"
+      "arabic": "وَأَكِيدُ كَيْدًا",
+      "bm": "Begitu juga dengan Aku.",
+      "en": "But so do I.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_086017",
-      "bm": "TODO_BM_086017",
-      "en": "TODO_EN_086017",
-      "audio": "./assets/audio/086/086017.mp3"
+      "arabic": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+      "bm": "Biarkanlah pengingkar pengingkar berihat buat seketika.",
+      "en": "Just respite the disbelievers a short respite.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/086017.mp3"
     }
   ]
 }

@@ -1,118 +1,139 @@
-SURAH_NUMBER: 49
-NAME_AR: الحجرات
-NAME_BM: Bilik-Bilik
-NAME_EN: The Rooms
+﻿SURAH_NUMBER: 49
+NAME_AR: سورة الحـجـرات
+NAME_BM: Dinding Dinding
+NAME_EN: The Walls
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/049/049000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049000.mp3
 
 # Ayah 1
-AR: TODO_AR_049001
-BM: TODO_BM_049001
-EN: TODO_EN_049001
-AUDIO: ./assets/audio/049/049001.mp3
+AR: ياأَيُّهَا الَّذينَ آمَنوا لا تُقَدِّموا بَينَ يَدَيِ اللَّهِ وَرَسولِهِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ سَميعٌ عَليمٌ
+BM: Wahai kamu yang percaya, janganlah meletakkan pendapat kamu melebihi Allah dan rasulNya. Kamu mestilah menghormati Allah. Sesungguhnya Allah sahajalah yang Maha Mendengar lagi Maha Mengetahui.
+EN: O you who believe, do not place your opinion above that of GOD and His messenger. You shall reverence GOD. GOD is Hearer, Omniscient.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049001.mp3
 
 # Ayah 2
-AR: TODO_AR_049002
-BM: TODO_BM_049002
-EN: TODO_EN_049002
-AUDIO: ./assets/audio/049/049002.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ
+BM: Wahai kamu yang percaya, janganlah meninggikan suara suara kamu melebihi suara nabi, dan janganlah kamu berteriak kepadanya sebagai mana kamu meneriak satu sama lain, supaya kerja kerja kamu tidak menjadi batal sedangkan kamu tidak sedar.
+EN: O you who believe, do not raise your voices above the voice of the prophet,* nor shall you shout at him as you shout at each other, lest your works become nullified while you do not perceive.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049002.mp3
 
 # Ayah 3
-AR: TODO_AR_049003
-BM: TODO_BM_049003
-EN: TODO_EN_049003
-AUDIO: ./assets/audio/049/049003.mp3
+AR: إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَٰئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
+BM: Sudah tentu, orang orang yang merendahkan suara suara mereka kepada rasul Allah adalah mereka itu orang orang yang hati hati mereka telah diaturkan oleh Allah untuk menjadi orang orang yang benar. Mereka berhak mendapat pengampunan dan ganjaran yang besar.
+EN: Surely, those who lower their voices at the messenger of GOD are the ones whose hearts are prepared by GOD to become righteous.* They have deserved forgiveness and a great recompense.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049003.mp3
 
 # Ayah 4
-AR: TODO_AR_049004
-BM: TODO_BM_049004
-EN: TODO_EN_049004
-AUDIO: ./assets/audio/049/049004.mp3
+AR: إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ
+BM: Bagi orang orang yang memanggilmu dari luar dinding dinding, kebanyakan mereka itu tidak mengerti.
+EN: As for those who call on you from outside the walls, most of them do not understand.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049004.mp3
 
 # Ayah 5
-AR: TODO_AR_049005
-BM: TODO_BM_049005
-EN: TODO_EN_049005
-AUDIO: ./assets/audio/049/049005.mp3
+AR: إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ
+BM: Kalaulah mereka itu sabar sehingga kau keluar dan mendatangi mereka, itu adalah lebih baik lagi bagi mereka. Sesungguhnya, Allah sahajalah yang Maha Pengampun lagi Maha Penyayang.
+EN: Had they been patient until you came out to them, it would have been better for them. GOD is Forgiver, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049005.mp3
 
 # Ayah 6
-AR: TODO_AR_049006
-BM: TODO_BM_049006
-EN: TODO_EN_049006
-AUDIO: ./assets/audio/049/049006.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
+BM: Wahai kamu yang percaya, jika orang jahat membawa sebarang berita berita kepada kamu, kamu mestilah siasat terlebih dahulu, supaya kamu tidak mengkomit ketidak adilan terhadap beberapa orang, kerana kejahilan, lalu merasa sedih dan menyesal diatas apa yang telah kamu lakukan.
+EN: O you who believe, if a wicked person brings any news to you, you shall first investigate, lest you commit injustice towards some people, out of ignorance, then become sorry and remorseful for what you have done.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049006.mp3
+SUBTITLE_BM: Siasat Dulu Khabar Khabar Angin Sebelum Mempercayai Mereka
+SUBTITLE_EN: Investigate Rumors Before Believing Them
 
 # Ayah 7
-AR: TODO_AR_049007
-BM: TODO_BM_049007
-EN: TODO_EN_049007
-AUDIO: ./assets/audio/049/049007.mp3
+AR: وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِنَ الْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ أُولَٰئِكَ هُمُ الرَّاشِدُونَ
+BM: Dan ketahuilah yang rasul Allah itu telah datang diantara kamu. Kalaulah dia mendengarkan kamu dalam banyak perkara perkara, kamu hanya akan membuat perkara itu menyusahkan diri kamu sendiri. Tetapi Allah telah sediakan kasih dan iman yang dihiaskan didalam hati hati kamu, dan Dia telah menjadikan kamu membencikan keingkaran, kezaliman, dan ketidak keta'atan. Inilah orang orang yang telah mendapat petunjuk.
+EN: And know that GOD's messenger has come in your midst. Had he listened to you in many things, you would have made things difficult for yourselves. But GOD made you love faith and adorned it in your hearts, and He made you abhor disbelief, wickedness, and disobedience. These are the guided ones.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049007.mp3
 
 # Ayah 8
-AR: TODO_AR_049008
-BM: TODO_BM_049008
-EN: TODO_EN_049008
-AUDIO: ./assets/audio/049/049008.mp3
+AR: فَضْلًا مِنَ اللَّهِ وَنِعْمَةً وَاللَّهُ عَلِيمٌ حَكِيمٌ
+BM: Demikian itulah kurnia dari Allah dan rahmatNya. Sesungguhnya, Allah sahajalah yang Maha Mengetahui lagi Maha Bijaksana.
+EN: Such is grace from GOD and His blessings. GOD is Omniscient, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049008.mp3
 
 # Ayah 9
-AR: TODO_AR_049009
-BM: TODO_BM_049009
-EN: TODO_EN_049009
-AUDIO: ./assets/audio/049/049009.mp3
+AR: وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ
+BM: Jika dua kumpulan orang orang yang percaya berkelahi dengan satu sama lain, kamu mestilah mendamaikan mereka. Jika satu kumpulan diantara keduanya itu cuba mengkasari yang lagi satu, kamu mestilah menentang kumpulan yang agresif sehinggakan mereka tunduk kepada perintah Allah. Setelah mereka menyerah, kamu mestilah mendamaikan kedua dua kumpulan itu dengan adil. Kamu mestilah memegang kepada keadilan; Sesungguhnya, Allah amat cinta kepada orang orang yang berlaku adil.
+EN: If two groups of believers fought with each other, you shall reconcile them. If one group aggresses against the other, you shall fight the aggressing group until they submit to GOD's command. Once they submit, you shall reconcile the two groups equitably. You shall maintain justice; GOD loves those who are just.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049009.mp3
+SUBTITLE_BM: Berdamai Dengan Orang Orang Yang Percaya
+SUBTITLE_EN: Reconcile The Believers
 
 # Ayah 10
-AR: TODO_AR_049010
-BM: TODO_BM_049010
-EN: TODO_EN_049010
-AUDIO: ./assets/audio/049/049010.mp3
+AR: إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
+BM: Orang orang yang percaya itu adalah sebuah anggota yang bersaudara; kamu mestilah menjaga kedamaian didalam keluarga kamu dan menghormati Allah, supaya kamu mendapatkan belas kasih.
+EN: The believers are members of one family; you shall keep the peace within your family and reverence GOD, that you may attain mercy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049010.mp3
+SUBTITLE_BM: Saudara Yang Sebenar
+SUBTITLE_EN: The Real Family
 
 # Ayah 11
-AR: TODO_AR_049011
-BM: TODO_BM_049011
-EN: TODO_EN_049011
-AUDIO: ./assets/audio/049/049011.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسَىٰ أَنْ يَكُنَّ خَيْرًا مِنْهُنَّ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا تَنَابَزُوا بِالْأَلْقَابِ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْإِيمَانِ وَمَنْ لَمْ يَتُبْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ
+BM: Wahai kamu yang percaya, tidak boleh ada manusia yang mencemuh manusia yang lainnya, kerana mungkin mereka itu lebih baik dari mereka. Tidak boleh ada wanita wanita yang mencemuh wanita wanita yang lain nya, kerana mungkin mereka itu lebih baik dari mereka. Dan janganlah juga kamu mencemuh satu sama lain, ataupun mempermain mainkan nama nama kamu. Sungguh jahat apabila mengulangi kembali kejahatan setelah mendapatkan iman. Sesiapa yang tidak mahu bertaubat selepas ini, orang orang inilah yang melampaui batas.
+EN: O you who believe, no people shall ridicule other people, for they may be better than they. Nor shall any women ridicule other women, for they may be better than they. Nor shall you mock one another, or make fun of your names. Evil indeed is the reversion to wickedness after attaining faith. Anyone who does not repent after this, these are the transgressors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049011.mp3
+SUBTITLE_BM: Orang Orang Yang Percaya Menjadi Contoh Tauladan
+SUBTITLE_EN: Believers Set the Example
 
 # Ayah 12
-AR: TODO_AR_049012
-BM: TODO_BM_049012
-EN: TODO_EN_049012
-AUDIO: ./assets/audio/049/049012.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ
+BM: Wahai kamu yang percaya, kamu mestilah menjauhi sebarang rasa syak, kerana walau sedikit pun rasa syak adalah berdosa. Janganlah kamu merisik satu sama lain, dan janganlah juga kamu mengumpat satu sama lain; ini adalah kekejian seperti juga kamu memakan daging saudara kamu yang sudah mati. Sudah tentu kamu sangat membencikan ini. Kamu mestilah mematuhi Allah. Sesungguhnya Allah sahajalah yang Maha Penyelamat lagi Maha Penyayang.
+EN: O you who believe, you shall avoid any suspicion, for even a little bit of suspicion is sinful. You shall not spy on one another, nor shall you backbite one another; this is as abominable as eating the flesh of your dead brother. You certainly abhor this. You shall observe GOD. GOD is Redeemer, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049012.mp3
+SUBTITLE_BM: Rasa Syak Adalah Berdosa
+SUBTITLE_EN: Suspicion Is Sinful
 
 # Ayah 13
-AR: TODO_AR_049013
-BM: TODO_BM_049013
-EN: TODO_EN_049013
-AUDIO: ./assets/audio/049/049013.mp3
+AR: يَاأَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+BM: Wahai manusia,  kami telah menciptakan kamu dari seorang lelaki dan perempuan yang sama dan memberikan kamu berlainan orang orang dan puak puak, supaya kamu dapat kenal satu sama lain, yang terbaik dikalangan kamu pada sisi Allah adalah yang paling bertakwah. Sesungguhnya, Allah sahajalah yang Maha Mengetahui lagi Maha Perihatin.
+EN: O people, we created you from the same male and female, and rendered you distinct peoples and tribes, that you may recognize one another. The best among you in the sight of GOD is the most righteous. GOD is Omniscient, Cognizant.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049013.mp3
+SUBTITLE_BM: Hanya Satu Kriteria Untuk Membezakan Di-Antara Manusia
+SUBTITLE_EN: The Only Criterion For Distinguishing Among The People
 
 # Ayah 14
-AR: TODO_AR_049014
-BM: TODO_BM_049014
-EN: TODO_EN_049014
-AUDIO: ./assets/audio/049/049014.mp3
+AR: قَالَتِ الْأَعْرَابُ آمَنَّا قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ وَإِنْ تُطِيعُوا اللَّهَ وَرَسُولَهُ لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئًا إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+BM: Orang orang Arab berkata, "Kami adalah Mu'min (orang orang yang percaya)." Katakanlah, "Kamu belum lagi percaya; apa yang mesti kamu katakan adalah, ' Kami adalah Muslim (orang orang yang menyerah sepenuhnya kepada Allah),' sehingga kepercayaan telah mantap dihati hati kamu." Jika kamu menta'ati Allah dan rasulNya, Dia tidak akan meletakkan sebarang kerja kerja kamu itu menjadi sia sia. Sesungguhnya, Allah sahajalah yang Maha Pengampun lagi Maha Penyayang.
+EN: The Arabs said, "We are Mu'mens (believers)." Say, "You have not believed; what you should say is, 'We are Muslims (submitters),' until belief is established in your hearts." If you obey GOD and His messenger, He will not put any of your works to waste. GOD is Forgiver, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049014.mp3
+SUBTITLE_BM: Di-Antara Muslim Dan Mu'min
+SUBTITLE_EN: Muslim vs Mu'men
 
 # Ayah 15
-AR: TODO_AR_049015
-BM: TODO_BM_049015
-EN: TODO_EN_049015
-AUDIO: ./assets/audio/049/049015.mp3
+AR: إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ أُولَٰئِكَ هُمُ الصَّادِقُونَ
+BM: Mu'min (orang orang yang percaya) adalah orang orang yang percaya kepada Allah dan rasulNya, dan mempunyai status yang tidak ada keraguan dalam apa saja, dan berjuang dengan wang mereka juga nyawa mereka kerana Allah. Inilah yang orang orang yang benar.
+EN: Mu'mens (believers) are those who believe in GOD and His messenger, then attain the status of having no doubt whatsoever, and strive with their money and their lives in the cause of GOD. These are the truthful ones.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049015.mp3
 
 # Ayah 16
-AR: TODO_AR_049016
-BM: TODO_BM_049016
-EN: TODO_EN_049016
-AUDIO: ./assets/audio/049/049016.mp3
+AR: قُلْ أَتُعَلِّمُونَ اللَّهَ بِدِينِكُمْ وَاللَّهُ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
+BM: Katakanlah, "Adakah kamu hendak memberitahukan Allah berkenaan agama kamu? Allah mengetahui segala galanya disekelian cekrawala dan dibumi. Sesungguhnya, Allah sahajalah yang Maha Mengetahui."
+EN: Say, "Are you informing GOD about your religion? GOD knows everything in the heavens and the earth. GOD is Omniscient."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049016.mp3
 
 # Ayah 17
-AR: TODO_AR_049017
-BM: TODO_BM_049017
-EN: TODO_EN_049017
-AUDIO: ./assets/audio/049/049017.mp3
+AR: يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا قُلْ لَا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ
+BM: Mereka itu berlagak seolah olah mereka itulah yang memberikan kamu pertolongan dengan memeluk kepada penyerahan diri kepada (Allah - Islam)! Katakanlah, "Kamu tidaklah memberikan aku sebarang pertolongan kerana memeluk kepada penyerahan diri (kepada Allah - Islam). Allah sahajalah yang memberikan kamu pertolongan yang besar dengan membimbing kamu kepada iman, jika kamu itu jujur."
+EN: They act as if they are doing you a favor by embracing Submission! Say, "You are not doing me any favors by embracing Submission. GOD is the One who is doing you a great favor by guiding you to the faith, if you are sincere."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049017.mp3
+SUBTITLE_BM: Siapakah Yang Memberikan Siapa Peluang ?
+SUBTITLE_EN: Who Is Doing Whom A Favor?
 
 # Ayah 18
-AR: TODO_AR_049018
-BM: TODO_BM_049018
-EN: TODO_EN_049018
-AUDIO: ./assets/audio/049/049018.mp3
+AR: إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ
+BM: Allah sahajalah yang ketahui segala rahsia disekelian cekrawala dan bumi; Sesungguhnya Allah yang Maha Melihat akan segala apa yang kamu lakukan.
+EN: GOD knows all the secrets in the heavens and the earth; GOD is Seer of everything you do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/049018.mp3
+
+
+
+
+

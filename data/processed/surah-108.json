@@ -1,39 +1,39 @@
 {
   "surahNumber": 108,
   "name": {
-    "ar": "الكوثر",
-    "bm": "Nikmat Berlimpah",
-    "en": "Abundance"
+    "ar": "سورة الـكوثر",
+    "bm": "Kemewahan",
+    "en": "Bounty"
   },
   "totalAyahs": 3,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/108/108000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/108000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_108001",
-      "bm": "TODO_BM_108001",
-      "en": "TODO_EN_108001",
-      "audio": "./assets/audio/108/108001.mp3"
+      "arabic": "إِنّا أَعطَيناكَ الكَوثَرَ",
+      "bm": "Kami telah merahmatimu dengan kemewahan yang banyak.",
+      "en": "We have blessed you with many a bounty.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/108001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_108002",
-      "bm": "TODO_BM_108002",
-      "en": "TODO_EN_108002",
-      "audio": "./assets/audio/108/108002.mp3"
+      "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "bm": "Dari itu, kau mestilah menyembah kepada Tuhan kamu (Salat), dan berikanlah derma.",
+      "en": "Therefore, you shall pray to your Lord (Salat), and give to charity.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/108002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_108003",
-      "bm": "TODO_BM_108003",
-      "en": "TODO_EN_108003",
-      "audio": "./assets/audio/108/108003.mp3"
+      "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "bm": "Penentangmu itu akan menjadi orang orang yang rugi.",
+      "en": "Your opponent will be the loser.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/108003.mp3"
     }
   ]
 }

@@ -1,34 +1,39 @@
-SURAH_NUMBER: 112
-NAME_AR: الإخلاص
-NAME_BM: Ikhlas
-NAME_EN: Sincerity
+﻿SURAH_NUMBER: 112
+NAME_AR: سورة الإخلاص
+NAME_BM: Dengan Segala Kebenaran
+NAME_EN: Absoluteness
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/112/112000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/112000.mp3
 
 # Ayah 1
-AR: TODO_AR_112001
-BM: TODO_BM_112001
-EN: TODO_EN_112001
-AUDIO: ./assets/audio/112/112001.mp3
+AR: قُل هُوَ اللَّهُ أَحَدٌ
+BM: Umumkanlah, "Dia yang Esa dan hanyalah Allah sahaja.
+EN: Proclaim, "He is the One and only GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/112001.mp3
 
 # Ayah 2
-AR: TODO_AR_112002
-BM: TODO_BM_112002
-EN: TODO_EN_112002
-AUDIO: ./assets/audio/112/112002.mp3
+AR: اللَّهُ الصَّمَدُ
+BM: "Allah yang sebenar benarnya.
+EN: "The Absolute GOD.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/112002.mp3
 
 # Ayah 3
-AR: TODO_AR_112003
-BM: TODO_BM_112003
-EN: TODO_EN_112003
-AUDIO: ./assets/audio/112/112003.mp3
+AR: لَمْ يَلِدْ وَلَمْ يُولَدْ
+BM: "Tidak pernah Dia mempunyai anak. Dan tidak juga Dia diperanakkan.
+EN: "Never did He beget. Nor was He begotten.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/112003.mp3
 
 # Ayah 4
-AR: TODO_AR_112004
-BM: TODO_BM_112004
-EN: TODO_EN_112004
-AUDIO: ./assets/audio/112/112004.mp3
+AR: وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ
+BM: "Tidak ada suatu apa pun yang serupaNya."
+EN: "None equals Him."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/112004.mp3
+
+
+
+
+

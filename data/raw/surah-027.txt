@@ -1,568 +1,603 @@
-SURAH_NUMBER: 27
-NAME_AR: النمل
+﻿SURAH_NUMBER: 27
+NAME_AR: سورة النمل
 NAME_BM: Semut
 NAME_EN: The Ant
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/027/027000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027000.mp3
 
 # Ayah 1
-AR: TODO_AR_027001
-BM: TODO_BM_027001
-EN: TODO_EN_027001
-AUDIO: ./assets/audio/027/027001.mp3
+AR: طس تِلكَ آياتُ القُرآنِ وَكِتابٍ مُبينٍ
+BM: T. S. (Tha. Sin. Huruf huruf) ini mengandungi bukti bukti bagi Quran ini; sebuah kitab yang jelas lagi nyata.
+EN: T. S.* These (letters) constitute proofs of the Quran; a profound scripture.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027001.mp3
 
 # Ayah 2
-AR: TODO_AR_027002
-BM: TODO_BM_027002
-EN: TODO_EN_027002
-AUDIO: ./assets/audio/027/027002.mp3
+AR: هُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
+BM: Petunjuk, berita berita baik, untuk orang orang yang percaya.
+EN: A beacon, and good news, for the believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027002.mp3
 
 # Ayah 3
-AR: TODO_AR_027003
-BM: TODO_BM_027003
-EN: TODO_EN_027003
-AUDIO: ./assets/audio/027/027003.mp3
+AR: الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ
+BM: Yang Mengerjakan Sembahyang (Salat), dan memberi derma yang diwajibkan (Zakat), dan mereka itu berkenaan Hari Akhirat, sangatlah yakin.
+EN: Who observe the Contact Prayers (Salat), give the obligatory charity (Zakat), and they are, with regard to the Hereafter, absolutely certain.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027003.mp3
 
 # Ayah 4
-AR: TODO_AR_027004
-BM: TODO_BM_027004
-EN: TODO_EN_027004
-AUDIO: ./assets/audio/027/027004.mp3
+AR: إِنَّ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ زَيَّنَّا لَهُمْ أَعْمَالَهُمْ فَهُمْ يَعْمَهُونَ
+BM: Orang orang yang tidak percayakan Hari Akhirat, kami hiaskan baik pekerjaan pekerjaan mereka itu dimata mata mereka. Lantas, mereka berterusan dengan kesilapan.
+EN: Those who do not believe in the Hereafter, we adorn their works in their eyes. Thus, they continue to blunder.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027004.mp3
 
 # Ayah 5
-AR: TODO_AR_027005
-BM: TODO_BM_027005
-EN: TODO_EN_027005
-AUDIO: ./assets/audio/027/027005.mp3
+AR: أُولَٰئِكَ الَّذِينَ لَهُمْ سُوءُ الْعَذَابِ وَهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ
+BM: Inilah orangnya yang akan menerima hukuman yang paling buruk sekali, diAkhirat kelak, mereka akan menjadi orang orang yang paling rugi.
+EN: It is these who incur the worst retribution, and in the Hereafter, they will be the worst losers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027005.mp3
 
 # Ayah 6
-AR: TODO_AR_027006
-BM: TODO_BM_027006
-EN: TODO_EN_027006
-AUDIO: ./assets/audio/027/027006.mp3
+AR: وَإِنَّكَ لَتُلَقَّى الْقُرْآنَ مِنْ لَدُنْ حَكِيمٍ عَلِيمٍ
+BM: Tentu sekali, kau telah terima Quran dari yang Maha Bijaksana lagi Maha Mengetahui.
+EN: Surely, you are receiving the Quran from a Most Wise, Omniscient.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027006.mp3
 
 # Ayah 7
-AR: TODO_AR_027007
-BM: TODO_BM_027007
-EN: TODO_EN_027007
-AUDIO: ./assets/audio/027/027007.mp3
+AR: إِذْ قَالَ مُوسَىٰ لِأَهْلِهِ إِنِّي آنَسْتُ نَارًا سَآتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ آتِيكُمْ بِشِهَابٍ قَبَسٍ لَعَلَّكُمْ تَصْطَلُونَ
+BM: Ingatlah semasa Musa berkata kepada keluarganya, "Aku melihat api; biar aku membawa berita berita dari sana, ataupun sepotong untuk memanaskanmu."
+EN: Recall that Moses said to his family, "I see a fire; let me bring you news therefrom, or a torch to warm you."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027007.mp3
+SUBTITLE_BM: Musa
+SUBTITLE_EN: Moses
 
 # Ayah 8
-AR: TODO_AR_027008
-BM: TODO_BM_027008
-EN: TODO_EN_027008
-AUDIO: ./assets/audio/027/027008.mp3
+AR: فَلَمَّا جَاءَهَا نُودِيَ أَنْ بُورِكَ مَنْ فِي النَّارِ وَمَنْ حَوْلَهَا وَسُبْحَانَ اللَّهِ رَبِّ الْعَالَمِينَ
+BM: Apabila dia datang kepadanya, dia telah dipanggil: "Rahmat bagiNya (yang bercakap dari) didalam api, dan segala yang ada disekelilingnya."Maha Suci bagi Allah, Tuhan semesta alam.
+EN: When he came to it, he was called: "Blessed is the One (who is speaking from) within the fire, and those around it." Glory be to GOD, Lord of the universe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027008.mp3
 
 # Ayah 9
-AR: TODO_AR_027009
-BM: TODO_BM_027009
-EN: TODO_EN_027009
-AUDIO: ./assets/audio/027/027009.mp3
+AR: يَامُوسَىٰ إِنَّهُ أَنَا اللَّهُ الْعَزِيزُ الْحَكِيمُ
+BM: "Wahai Musa, ini adalah Aku, Allah, yang Maha Berkuasa lagi Maha Bijaksana.
+EN: "O Moses, this is Me, GOD, the Almighty, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027009.mp3
 
 # Ayah 10
-AR: TODO_AR_027010
-BM: TODO_BM_027010
-EN: TODO_EN_027010
-AUDIO: ./assets/audio/027/027010.mp3
+AR: وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَىٰ لَا تَخَفْ إِنِّي لَا يَخَافُ لَدَيَّ الْمُرْسَلُونَ
+BM: "Lontarkan tongkatmu." Apabila dia melihat ianya bergerak seperti setan, dia pusing kebelakang lari. "Wahai Musa, janganlah takut. Para rasulKu tidak semestinya takut.
+EN: "Throw down your staff." When he saw it moving like a demon, he turned around and fled. "O Moses, do not be afraid. My messengers shall not fear.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027010.mp3
 
 # Ayah 11
-AR: TODO_AR_027011
-BM: TODO_BM_027011
-EN: TODO_EN_027011
-AUDIO: ./assets/audio/027/027011.mp3
+AR: إِلَّا مَنْ ظَلَمَ ثُمَّ بَدَّلَ حُسْنًا بَعْدَ سُوءٍ فَإِنِّي غَفُورٌ رَحِيمٌ
+BM: "Melainkan mereka yang komit keterlaluan, kemudian menggantikan dengan kebaikan selepas melakukan dosa; Sesungguhnya Akulah yang Maha Pengampun lagi Maha Penyayang.
+EN: "Except those who commit a transgression, then substitute righteousness after sinning; I am Forgiving, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027011.mp3
 
 # Ayah 12
-AR: TODO_AR_027012
-BM: TODO_BM_027012
-EN: TODO_EN_027012
-AUDIO: ./assets/audio/027/027012.mp3
+AR: وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ فِي تِسْعِ آيَاتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ
+BM: "Masukkanlah tanganmu kedalam kocekmu; ianya akan keluar keputih putihan, yang tidak ada kecacatan kulit. Ini adalah diantara sembilan mukjizat kepada Fir'aun dan orang orangnya, kerana mereka itu adalah orang orang yang zalim."
+EN: "Put your hand in your pocket; it will come out white, without a blemish. These are among nine miracles to Pharaoh and his people, for they are wicked people."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027012.mp3
 
 # Ayah 13
-AR: TODO_AR_027013
-BM: TODO_BM_027013
-EN: TODO_EN_027013
-AUDIO: ./assets/audio/027/027013.mp3
+AR: فَلَمَّا جَاءَتْهُمْ آيَاتُنَا مُبْصِرَةً قَالُوا هَٰذَا سِحْرٌ مُبِينٌ
+BM: Apabila mukjizat mukjizat kami telah ditunjukkan kepada mereka, terang dan nyata, mereka berkata, "Ini adalah magik yang jelas."
+EN: When our miracles were presented to them, clear and profound, they said, "This is obviously magic."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027013.mp3
 
 # Ayah 14
-AR: TODO_AR_027014
-BM: TODO_BM_027014
-EN: TODO_EN_027014
-AUDIO: ./assets/audio/027/027014.mp3
+AR: وَجَحَدُوا بِهَا وَاسْتَيْقَنَتْهَا أَنْفُسُهُمْ ظُلْمًا وَعُلُوًّا فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ
+BM: Mereka mengingkarinya dan betul betul yakin dengan kesalahan kesalahan mereka oleh kerana kesombongan mereka. Perhatikanlah akibatnya bagi orang orang yang berbuat jahat.
+EN: They rejected them and were utterly convinced of their wrong ways, due to their arrogance. Note the consequences for the evildoers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027014.mp3
 
 # Ayah 15
-AR: TODO_AR_027015
-BM: TODO_BM_027015
-EN: TODO_EN_027015
-AUDIO: ./assets/audio/027/027015.mp3
+AR: وَلَقَدْ آتَيْنَا دَاوُودَ وَسُلَيْمَانَ عِلْمًا وَقَالَا الْحَمْدُ لِلَّهِ الَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٍ مِنْ عِبَادِهِ الْمُؤْمِنِينَ
+BM: Kami kurniakan kepada Daud dan Sulayman dengan ilmu pengetahuan, dan mereka berkata, "Segala kepujian bagi Allah kerana merahmati kami lebih banyak dari sebanyak hamba hambaNya yang percaya."
+EN: We endowed David and Solomon with knowledge, and they said, "Praise GOD for blessing us more than many of His believing servants."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027015.mp3
+SUBTITLE_BM: Daud Dan Sulayman
+SUBTITLE_EN: David and Solomon
 
 # Ayah 16
-AR: TODO_AR_027016
-BM: TODO_BM_027016
-EN: TODO_EN_027016
-AUDIO: ./assets/audio/027/027016.mp3
+AR: وَوَرِثَ سُلَيْمَانُ دَاوُودَ وَقَالَ يَاأَيُّهَا النَّاسُ عُلِّمْنَا مَنْطِقَ الطَّيْرِ وَأُوتِينَا مِنْ كُلِّ شَيْءٍ إِنَّ هَٰذَا لَهُوَ الْفَضْلُ الْمُبِينُ
+BM: Sulayman adalah pewaris kepada Daud. Dia berkata, "Wahai manusia, kami telah dikurniakan dengan pemahaman bahasa burung burung, dan bermacam macam rupa kebendaan telah dikurniakan keatas kami. Ini sesungguhnya adalah rahmat yang sebenarnya."
+EN: Solomon was David's heir. He said, "O people, we have been endowed with understanding the language of the birds, and all kinds of things have been bestowed upon us. This is indeed a real blessing."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027016.mp3
 
 # Ayah 17
-AR: TODO_AR_027017
-BM: TODO_BM_027017
-EN: TODO_EN_027017
-AUDIO: ./assets/audio/027/027017.mp3
+AR: وَحُشِرَ لِسُلَيْمَانَ جُنُودُهُ مِنَ الْجِنِّ وَالْإِنْسِ وَالطَّيْرِ فَهُمْ يُوزَعُونَ
+BM: Yang bersiap sedia dalam menjalan servis untuk Sulayman adalah askar askarnya yang patuh dari para jin dan manusia, begitu juga dengan burung burung; kesemuanya untuk kegunaannya.
+EN: Mobilized in the service of Solomon were his obedient soldiers of jinns and humans, as well as the birds; all at his disposal.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027017.mp3
 
 # Ayah 18
-AR: TODO_AR_027018
-BM: TODO_BM_027018
-EN: TODO_EN_027018
-AUDIO: ./assets/audio/027/027018.mp3
+AR: حَتَّىٰ إِذَا أَتَوْا عَلَىٰ وَادِ النَّمْلِ قَالَتْ نَمْلَةٌ يَاأَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ
+BM: Apabila mereka menuju kelembah semut semut, salah satu dari semut berkata, "Wahai kamu semut semut, masuklah kerumah rumah kamu, supaya jangan sampai kamu diremukkan oleh Sulayman dan askar askarnya, kerana tidak menyedari."
+EN: When they approached the valley of the ants, one ant said, "O you ants, go into your homes, lest you get crushed by Solomon and his soldiers, without perceiving."*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027018.mp3
 
 # Ayah 19
-AR: TODO_AR_027019
-BM: TODO_BM_027019
-EN: TODO_EN_027019
-AUDIO: ./assets/audio/027/027019.mp3
+AR: فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ
+BM: Dia tersenyum dan ketawa dengan kenyataan ianya itu, dan berkata, "Tuhanku, tujukanlah aku untuk bersyukur dengan rahmat yang Engkau telah kurnia keatasku dan ibu bapaku, supaya dapat aku melakukan pekerjaan yang baik yang diredhai olehMu. Masukkanlah aku dari belas kasihMu bersama sama dengan hamba hambaMu yang salih."
+EN: He smiled and laughed at her statement,* and said, "My Lord, direct me to be appreciative of the blessings You have bestowed upon me and my parents, and to do the righteous works that please You. Admit me by Your mercy into the company of Your righteous servants."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027019.mp3
 
 # Ayah 20
-AR: TODO_AR_027020
-BM: TODO_BM_027020
-EN: TODO_EN_027020
-AUDIO: ./assets/audio/027/027020.mp3
+AR: وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ
+BM: Dia memeriksakan burung burung, dan mendapati: "Kenapa tidak aku nampak hud hud? Kenapa dia menghilang?
+EN: He inspected the birds, and noted: "Why do I not see the hoopoe? Why is he missing?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027020.mp3
 
 # Ayah 21
-AR: TODO_AR_027021
-BM: TODO_BM_027021
-EN: TODO_EN_027021
-AUDIO: ./assets/audio/027/027021.mp3
+AR: لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا أَوْ لَأَذْبَحَنَّهُ أَوْ لَيَأْتِيَنِّي بِسُلْطَانٍ مُبِينٍ
+BM: "Aku akan hukum dia dengan azab yang berat ataupun menyembelihnya, melainkan jika dia memberikan aku alasan yang baik."
+EN: "I will punish him severely or sacrifice him, unless he gives me a good excuse."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027021.mp3
 
 # Ayah 22
-AR: TODO_AR_027022
-BM: TODO_BM_027022
-EN: TODO_EN_027022
-AUDIO: ./assets/audio/027/027022.mp3
+AR: فَمَكَثَ غَيْرَ بَعِيدٍ فَقَالَ أَحَطْتُ بِمَا لَمْ تُحِطْ بِهِ وَجِئْتُكَ مِنْ سَبَإٍ بِنَبَإٍ يَقِينٍ
+BM: Dia tidak tunggu lama. (hud hud)  berkata, "Aku ada berita yang kau tidak ketahui. Aku telah membawa kepadamu dari Sheba, beberapa informasi yang mustahak.
+EN: He did not wait for long. (The hoopoe) said, "I have news that you do not have. I brought to you from Sheba, some important information.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027022.mp3
 
 # Ayah 23
-AR: TODO_AR_027023
-BM: TODO_BM_027023
-EN: TODO_EN_027023
-AUDIO: ./assets/audio/027/027023.mp3
+AR: إِنِّي وَجَدْتُ امْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِنْ كُلِّ شَيْءٍ وَلَهَا عَرْشٌ عَظِيمٌ
+BM: "Aku dapati seorang perempuan yang menguasai mereka, yang telah dirahmati dengan segala galanya, dan mempunyai istana yang amat mengkagumkan.
+EN: "I found a woman ruling them, who is blessed with everything, and possesses a tremendous palace.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027023.mp3
 
 # Ayah 24
-AR: TODO_AR_027024
-BM: TODO_BM_027024
-EN: TODO_EN_027024
-AUDIO: ./assets/audio/027/027024.mp3
+AR: وَجَدْتُهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِنْ دُونِ اللَّهِ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ فَهُمْ لَا يَهْتَدُونَ
+BM: "Aku dapati dia dan orang orangnya bersujud kepada matahari, bukannya Allah. Syaitan telah menghiasi baik dimata mata mereka diatas pekerjaan pekerjaan mereka, dan telah memalingkan mereka dari kebenaran; akibatnya, mereka adalah orang orang yang tidak mendapat bimbingan."
+EN: "I found her and her people prostrating before the sun, instead of GOD. The devil has adorned their works in their eyes, and has repulsed them from the path; consequently, they are not guided."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027024.mp3
 
 # Ayah 25
-AR: TODO_AR_027025
-BM: TODO_BM_027025
-EN: TODO_EN_027025
-AUDIO: ./assets/audio/027/027025.mp3
+AR: أَلَّا يَسْجُدُوا لِلَّهِ الَّذِي يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ
+BM: Mereka sepatutnya bersujud kepada Allah, yang Esa  yang menunjukkan segala yang gaib gaib disekelian cekrawala dan bumi, dan yang Esa yang tahu segala apa yang kamu sembunyikan dan segala gala yang kamu umumkan.
+EN: They should have been prostrating before GOD, the One who manifests all the mysteries in the heavens and the earth, and the One who knows everything you conceal and everything you declare.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027025.mp3
 
 # Ayah 26
-AR: TODO_AR_027026
-BM: TODO_BM_027026
-EN: TODO_EN_027026
-AUDIO: ./assets/audio/027/027026.mp3
+AR: اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الْعَرْشِ الْعَظِيمِ
+BM: Allah: tidak ada tuhan yang lain disampingNya; Tuhan yang menguasai kerajaan yang terbesar.
+EN: GOD: there is no other god beside Him; the Lord with the great dominion.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027026.mp3
 
 # Ayah 27
-AR: TODO_AR_027027
-BM: TODO_BM_027027
-EN: TODO_EN_027027
-AUDIO: ./assets/audio/027/027027.mp3
+AR: قَالَ سَنَنْظُرُ أَصَدَقْتَ أَمْ كُنْتَ مِنَ الْكَاذِبِينَ
+BM: (Sulayman) berkata, "Kami akan siasat sama ada kau berkata benar, ataupun jika kau berbohong.
+EN: (Solomon) said, "We will see if you told the truth, or if you are a liar.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027027.mp3
 
 # Ayah 28
-AR: TODO_AR_027028
-BM: TODO_BM_027028
-EN: TODO_EN_027028
-AUDIO: ./assets/audio/027/027028.mp3
+AR: اذْهَبْ بِكِتَابِي هَٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَانْظُرْ مَاذَا يَرْجِعُونَ
+BM: "Bawa surat dariku ini, berikannya kepada mereka, dan awasi cara mereka meresponskan."
+EN: "Take this letter from me, give it to them, then watch for their response."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027028.mp3
 
 # Ayah 29
-AR: TODO_AR_027029
-BM: TODO_BM_027029
-EN: TODO_EN_027029
-AUDIO: ./assets/audio/027/027029.mp3
+AR: قَالَتْ يَاأَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ كَرِيمٌ
+BM: Dia berkata, "Wahai penasihat penasihatku, aku telah terima surat yang mulia.
+EN: She said, "O my advisers, I have received an honorable letter.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027029.mp3
+SUBTITLE_BM: Kembali Kepada Sheba
+SUBTITLE_EN: Back in Sheba
 
 # Ayah 30
-AR: TODO_AR_027030
-BM: TODO_BM_027030
-EN: TODO_EN_027030
-AUDIO: ./assets/audio/027/027030.mp3
+AR: إِنَّهُ مِن سُلَيمانَ وَإِنَّهُ بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ
+BM: "Ianya dari Sulayman, dan ia bermula, 'Dengan Nama Allah, Yang Maha Pengasih lagi Maha Penyayang.'
+EN: "It is from Solomon, and it is, 'In the name of GOD, Most Gracious, Most Merciful.'*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027030.mp3
 
 # Ayah 31
-AR: TODO_AR_027031
-BM: TODO_BM_027031
-EN: TODO_EN_027031
-AUDIO: ./assets/audio/027/027031.mp3
+AR: أَلَّا تَعْلُوا عَلَيَّ وَأْتُونِي مُسْلِمِينَ
+BM: "Mengumumkan:'Janganlah sombong; datanglah kepadaku sebagai orang orang yang menyerahkan diri sepenuhnya (kepada Allah).' "
+EN: "Proclaiming: 'Do not be arrogant; come to me as submitters.'"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027031.mp3
 
 # Ayah 32
-AR: TODO_AR_027032
-BM: TODO_BM_027032
-EN: TODO_EN_027032
-AUDIO: ./assets/audio/027/027032.mp3
+AR: قَالَتْ يَاأَيُّهَا الْمَلَأُ أَفْتُونِي فِي أَمْرِي مَا كُنْتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ
+BM: Dia berkata, "Wahai penasihat penasihatku, nasihatilah aku dalam perkara ini. Aku tidak akan membuat sebarang keputusan sehingga kamu menasihatiku."
+EN: She said, "O my advisers, counsel me in this matter. I am not deciding anything until you advise me."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027032.mp3
 
 # Ayah 33
-AR: TODO_AR_027033
-BM: TODO_BM_027033
-EN: TODO_EN_027033
-AUDIO: ./assets/audio/027/027033.mp3
+AR: قَالُوا نَحْنُ أُولُو قُوَّةٍ وَأُولُو بَأْسٍ شَدِيدٍ وَالْأَمْرُ إِلَيْكِ فَانْظُرِي مَاذَا تَأْمُرِينَ
+BM: Mereka berkata, "Kita mempunyai kuasa, kita mempunyai kemahiran untuk berperang, dan perintah yang muktamad ada didalam tanganmu. Engkau putuskanlah apa yang hendak dilakukan."
+EN: They said, "We possess the power, we possess the fighting skills, and the ultimate command is in your hand. You decide what to do."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027033.mp3
 
 # Ayah 34
-AR: TODO_AR_027034
-BM: TODO_BM_027034
-EN: TODO_EN_027034
-AUDIO: ./assets/audio/027/027034.mp3
+AR: قَالَتْ إِنَّ الْمُلُوكَ إِذَا دَخَلُوا قَرْيَةً أَفْسَدُوهَا وَجَعَلُوا أَعِزَّةَ أَهْلِهَا أَذِلَّةً وَكَذَٰلِكَ يَفْعَلُونَ
+BM: Dia berkata, "Raja raja mengkorup setiap negeri yang mereka serang, dan menaklukinya supaya menghina orang orang yang dihormati. Inilah biasanya mereka melakukan.
+EN: She said, "The kings corrupt any land they invade, and subjugate its dignified people. This is what they usually do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027034.mp3
 
 # Ayah 35
-AR: TODO_AR_027035
-BM: TODO_BM_027035
-EN: TODO_EN_027035
-AUDIO: ./assets/audio/027/027035.mp3
+AR: وَإِنِّي مُرْسِلَةٌ إِلَيْهِمْ بِهَدِيَّةٍ فَنَاظِرَةٌ بِمَ يَرْجِعُ الْمُرْسَلُونَ
+BM: "Aku menghantarkan hadiah kepada mereka; biar kita lihat apa yang penyampai panyampai membawa kembali."
+EN: "I am sending a gift to them; let us see what the messengers come back with."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027035.mp3
 
 # Ayah 36
-AR: TODO_AR_027036
-BM: TODO_BM_027036
-EN: TODO_EN_027036
-AUDIO: ./assets/audio/027/027036.mp3
+AR: فَلَمَّا جَاءَ سُلَيْمَانَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَا آتَانِيَ اللَّهُ خَيْرٌ مِمَّا آتَاكُمْ بَلْ أَنْتُمْ بِهَدِيَّتِكُمْ تَفْرَحُونَ
+BM: Apabila hud hud kembali kepada Sulayman (dia sampaikan berita), dan dia merespons (kepada orang orang sheba): "Adakah kamu memberiku wang? Apa yang Allah berikan kepadaku jauh lebih baik lagi dari apa yang telah Dia berikan kepada kamu. Kamu sajalah yang gembira dengan hadiah hadiah sedemikian."
+EN: When the hoopoe returned to Solomon (he told him the news), and he responded (to Sheba's people): "Are you giving me money? What GOD has given me is far better than what He has given you. You are the ones to rejoice in such gifts."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027036.mp3
 
 # Ayah 37
-AR: TODO_AR_027037
-BM: TODO_BM_027037
-EN: TODO_EN_027037
-AUDIO: ./assets/audio/027/027037.mp3
+AR: ارْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُمْ بِجُنُودٍ لَا قِبَلَ لَهُمْ بِهَا وَلَنُخْرِجَنَّهُمْ مِنْهَا أَذِلَّةً وَهُمْ صَاغِرُونَ
+BM: (kepada hud hud, dia berkata,) "Kembali kepada mereka (dan beritahukan mereka) kami akan datang kepada mereka dengan bala tentera yang tidak terfikir oleh mereka. Kita akan tawan mereka, dengan kehinaan dan disingkirkan."
+EN: (To the hoopoe, he said,) "Go back to them (and let them know that) we will come to them with forces they cannot imagine. We will evict them, humiliated and debased."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027037.mp3
 
 # Ayah 38
-AR: TODO_AR_027038
-BM: TODO_BM_027038
-EN: TODO_EN_027038
-AUDIO: ./assets/audio/027/027038.mp3
+AR: قَالَ يَاأَيُّهَا الْمَلَأُ أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ أَنْ يَأْتُونِي مُسْلِمِينَ
+BM: Dia berkata, "Wahai pengetua pengetua, siapakah dari kamu yang boleh membawa istananya kepadaku, sebelum mereka datang kesini sebagai orang orang yang menyerahkan diri diri mereka sepenuhnya (kepada Allah)?"
+EN: He said, "O you elders, which of you can bring me her mansion, before they arrive here as submitters?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027038.mp3
+SUBTITLE_BM: Lebih Pantas Dari Sekilas Cahaya
+SUBTITLE_EN: Faster Than the Speed of Light
 
 # Ayah 39
-AR: TODO_AR_027039
-BM: TODO_BM_027039
-EN: TODO_EN_027039
-AUDIO: ./assets/audio/027/027039.mp3
+AR: قَالَ عِفْرِيتٌ مِنَ الْجِنِّ أَنَا آتِيكَ بِهِ قَبْلَ أَنْ تَقُومَ مِنْ مَقَامِكَ وَإِنِّي عَلَيْهِ لَقَوِيٌّ أَمِينٌ
+BM: Salah satu afrit dari kalangan jin berkata, "Aku akan membawanya kepadamu sebelum kamu sempat berdiri. Aku mempunyai kuasa yang cukup untuk melakukan ini."
+EN: One afrit from the jinns said, "I can bring it to you before you stand up. I am powerful enough to do this."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027039.mp3
 
 # Ayah 40
-AR: TODO_AR_027040
-BM: TODO_BM_027040
-EN: TODO_EN_027040
-AUDIO: ./assets/audio/027/027040.mp3
+AR: قَالَ الَّذِي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ أَنَا آتِيكَ بِهِ قَبْلَ أَنْ يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَآهُ مُسْتَقِرًّا عِنْدَهُ قَالَ هَٰذَا مِنْ فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ وَمَنْ شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَنْ كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ
+BM: Seorang yang mempunyai ilmu dari buku berkata, "Aku boleh membawanya kepadamu dalam sekelip matamu." Apabila saja dia melihat yang ianya sudah ada didepan dia, dia berkata, "Ini adalah rahmat dari Tuhanku, yang dengannya Dia mencubaku, untuk menunjukkan sama ada aku bersyukur ataupun tidak bersyukur. Sesiapa yang bersyukur kesyukurannya hanyalah untuk dirinya sendiri, dan jika siapa tidak tahu menyukurinya, maka Tuhanku tidak memerlukannya, yang Maha Mulia."
+EN: The one who possessed knowledge from the book said, "I can bring it to you in the blink of your eye." When he saw it settled in front of him, he said, "This is a blessing from my Lord, whereby He tests me, to show whether I am appreciative or unappreciative. Whoever is appreciative is appreciative for his own good, and if one turns unappreciative, then my Lord is in no need for him, Most Honorable."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027040.mp3
 
 # Ayah 41
-AR: TODO_AR_027041
-BM: TODO_BM_027041
-EN: TODO_EN_027041
-AUDIO: ./assets/audio/027/027041.mp3
+AR: قَالَ نَكِّرُوا لَهَا عَرْشَهَا نَنْظُرْ أَتَهْتَدِي أَمْ تَكُونُ مِنَ الَّذِينَ لَا يَهْتَدُونَ
+BM: Dia berkata, "Ubah suaikan semula istananya untuk dia. Mari kita lihat jika dia akan mendapat bimbingan."
+EN: He said, "Remodel her mansion for her. Let us see if she will be guided, or continue with the misguided."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027041.mp3
 
 # Ayah 42
-AR: TODO_AR_027042
-BM: TODO_BM_027042
-EN: TODO_EN_027042
-AUDIO: ./assets/audio/027/027042.mp3
+AR: فَلَمَّا جَاءَتْ قِيلَ أَهَٰكَذَا عَرْشُكِ قَالَتْ كَأَنَّهُ هُوَ وَأُوتِينَا الْعِلْمَ مِنْ قَبْلِهَا وَكُنَّا مُسْلِمِينَ
+BM: Apabila dia tiba, dia ditanyakan, "Adakah istanamu kelihatan seperti ini?" Dia berkata, "Nampaknya begitulah ianya."(Sulayman berkata,) "Kami telah ketahui lebih dahulu lagi apa yang dia hendak lakukan, dan kami telah menyerahkan diri diri kami (kepada Allah)."
+EN: When she arrived, she was asked, "Does your mansion look like this?" She said, "It seems that this is it." (Solomon said,) "We knew beforehand what she was going to do, and we were already submitters."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027042.mp3
 
 # Ayah 43
-AR: TODO_AR_027043
-BM: TODO_BM_027043
-EN: TODO_EN_027043
-AUDIO: ./assets/audio/027/027043.mp3
+AR: وَصَدَّهَا مَا كَانَتْ تَعْبُدُ مِنْ دُونِ اللَّهِ إِنَّهَا كَانَتْ مِنْ قَوْمٍ كَافِرِينَ
+BM: Dia telah dipalingkan untuk menyembah pujaan pujaan daripada Allah; dia dipihak orang orang yang ingkar.
+EN: She had been diverted by worshiping idols instead of GOD; she belonged to disbelieving people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027043.mp3
 
 # Ayah 44
-AR: TODO_AR_027044
-BM: TODO_BM_027044
-EN: TODO_EN_027044
-AUDIO: ./assets/audio/027/027044.mp3
+AR: قِيلَ لَهَا ادْخُلِي الصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَنْ سَاقَيْهَا قَالَ إِنَّهُ صَرْحٌ مُمَرَّدٌ مِنْ قَوَارِيرَ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ
+BM: Dia telah disuruhkan, "Masuklah kedalam istana." Apabila dia melihat dibahagian dalamnya, dia berfikir ianya kolam yang berair, dan dia (naikkan kainnya,) menampakkan kaki kakinya. Dia berkata, "Sekarang bahagian dalamnya sudah dilantaikan dengan kristal." Dia berkata, "Tuhanku, aku telah menzalimi rohku. Aku kini menyerahkan diriku bersama sama Sulayman kepada Allah, Tuhan semesta alam."
+EN: She was told, "Go inside the palace." When she saw its interior, she thought it was a pool of water, and she (pulled up her dress,) exposing her legs. He said, "This interior is now paved with crystal." She said, "My Lord, I have wronged my soul. I now submit with Solomon to GOD, Lord of the universe."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027044.mp3
 
 # Ayah 45
-AR: TODO_AR_027045
-BM: TODO_BM_027045
-EN: TODO_EN_027045
-AUDIO: ./assets/audio/027/027045.mp3
+AR: وَلَقَدْ أَرْسَلْنَا إِلَىٰ ثَمُودَ أَخَاهُمْ صَالِحًا أَنِ اعْبُدُوا اللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ
+BM: Kami telah menghantarkan kepada Thamud saudaranya Salleh, dengan berkata, "Kamu mestilah sembah Allah." Tetapi mereka menjadi kepada dua puak yang bersengketa.
+EN: We have sent to Thamûd their brother Sãleh, saying, "You shall worship GOD." But they turned into two feuding factions.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027045.mp3
+SUBTITLE_BM: Salleh
+SUBTITLE_EN: Sãleh
 
 # Ayah 46
-AR: TODO_AR_027046
-BM: TODO_BM_027046
-EN: TODO_EN_027046
-AUDIO: ./assets/audio/027/027046.mp3
+AR: قَالَ يَاقَوْمِ لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ لَوْلَا تَسْتَغْفِرُونَ اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ
+BM: Dia berkata, "Wahai kaumku, kenapa kamu bersegera untuk komit kejahatan dari melakukan kerja kerja yang baik? Jika hanya kamu bermohon kepada Allah untuk meminta pengampunan, kamu akan mendapat belas kasih."
+EN: He said, "O my people, why do you hasten to commit evil instead of good works? If only you implore GOD for forgiveness, you may attain mercy."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027046.mp3
 
 # Ayah 47
-AR: TODO_AR_027047
-BM: TODO_BM_027047
-EN: TODO_EN_027047
-AUDIO: ./assets/audio/027/027047.mp3
+AR: قَالُوا اطَّيَّرْنَا بِكَ وَبِمَنْ مَعَكَ قَالَ طَائِرُكُمْ عِنْدَ اللَّهِ بَلْ أَنْتُمْ قَوْمٌ تُفْتَنُونَ
+BM: Mereka berkata, "Kami menganggap kamu satu alamat yang buruk bagi kami, kamu dan orang orang yang mengikutimu." Dia berkata, "Petanda kamu telah dikuasai penuh oleh Allah. Sesungguhnya, kamu adalah orang orang yang telah menyimpang."
+EN: They said, "We consider you a bad omen for us, you and those who joined you." He said, "Your omen is fully controlled by GOD. Indeed, you are deviant people."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027047.mp3
 
 # Ayah 48
-AR: TODO_AR_027048
-BM: TODO_BM_027048
-EN: TODO_EN_027048
-AUDIO: ./assets/audio/027/027048.mp3
+AR: وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ
+BM: Disana ada sembilan penjahat penjahat yang zalim didalam bandar, yang tidak pernah melakukan sebarang kebaikan.
+EN: There were nine gangsters in the city who were wicked, and never did anything good.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027048.mp3
 
 # Ayah 49
-AR: TODO_AR_027049
-BM: TODO_BM_027049
-EN: TODO_EN_027049
-AUDIO: ./assets/audio/027/027049.mp3
+AR: قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ
+BM: Mereka berkata,  "Marilah kita bersumpah kepada Allah yang kita bunuh dia dan orang orangnya, dan memberitahukan kepada puaknya, 'Kami tidak tahu apa apa tentang kematian mereka. Kami adalah benar.""
+EN: They said, "Let us swear by GOD that we kill him and his people, then tell his tribe, 'We know nothing about their death. We are truthful.'"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027049.mp3
 
 # Ayah 50
-AR: TODO_AR_027050
-BM: TODO_BM_027050
-EN: TODO_EN_027050
-AUDIO: ./assets/audio/027/027050.mp3
+AR: وَمَكَرُوا مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+BM: Mereka berkomplot dan merancang, tetapi kami juga berkomplot dan merancang, sedangkan mereka tidak dapat menyedari
+EN: They plotted and schemed, but we also plotted and schemed, while they did not perceive.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027050.mp3
+SUBTITLE_BM: Allah Melindungi Orang Orang Yang Percaya
+SUBTITLE_EN: God Protects The Believers
 
 # Ayah 51
-AR: TODO_AR_027051
-BM: TODO_BM_027051
-EN: TODO_EN_027051
-AUDIO: ./assets/audio/027/027051.mp3
+AR: فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ
+BM: Perhatikanlah akibat dari pengkomplotan mereka; kami hapuskan mereka dan sekelian orang orang mereka.
+EN: Note the consequences of their plotting; we annihilated them and all their people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027051.mp3
 
 # Ayah 52
-AR: TODO_AR_027052
-BM: TODO_BM_027052
-EN: TODO_EN_027052
-AUDIO: ./assets/audio/027/027052.mp3
+AR: فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَعْلَمُونَ
+BM: Ini adalah rumah rumah mereka yang benar benar hancur, kerana keterlaluan mereka. Ini sepatutnya menjadi pengajaran bagi orang orang yang tahu.
+EN: Here are their homes utterly ruined, because of their transgression. This should be a lesson for people who know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027052.mp3
 
 # Ayah 53
-AR: TODO_AR_027053
-BM: TODO_BM_027053
-EN: TODO_EN_027053
-AUDIO: ./assets/audio/027/027053.mp3
+AR: وَأَنْجَيْنَا الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ
+BM: Kami selamatkan orang orang percaya yang menjalani kehidupan yang benar.
+EN: We save those who believe and lead a righteous life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027053.mp3
 
 # Ayah 54
-AR: TODO_AR_027054
-BM: TODO_BM_027054
-EN: TODO_EN_027054
-AUDIO: ./assets/audio/027/027054.mp3
+AR: وَلُوطًا إِذْ قَالَ لِقَوْمِهِ أَتَأْتُونَ الْفَاحِشَةَ وَأَنْتُمْ تُبْصِرُونَ
+BM: Lut berkata kepada kaumnya, "Bagaimana boleh kamu mengkomit perbuatan yang keji, dengan terang terangan, sementara kamu melihat?
+EN: Lot said to his people, "How could you commit such an abomination, publicly, while you see?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027054.mp3
+SUBTITLE_BM: Lut
+SUBTITLE_EN: Lot
 
 # Ayah 55
-AR: TODO_AR_027055
-BM: TODO_BM_027055
-EN: TODO_EN_027055
-AUDIO: ./assets/audio/027/027055.mp3
+AR: أَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ النِّسَاءِ بَلْ أَنْتُمْ قَوْمٌ تَجْهَلُونَ
+BM: "Kamu mempraktikkan seks dengan orang lelaki, penuh berahi, bukannya dengan orang perempuan. Sesungguhnya, kamu adalah orang orang yang jahil."
+EN: "You practice sex with the men, lustfully, instead of the women. Indeed, you are ignorant people."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027055.mp3
 
 # Ayah 56
-AR: TODO_AR_027056
-BM: TODO_BM_027056
-EN: TODO_EN_027056
-AUDIO: ./assets/audio/027/027056.mp3
+AR: فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا أَخْرِجُوا آلَ لُوطٍ مِنْ قَرْيَتِكُمْ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
+BM: Respons yang diberikan dari kaumnya adalah dengan mereka berkata, "Halaukan keluarga Lut dari bandar kamu; mereka adalah orang orang yang berkeinginan untuk menyucikan diri."
+EN: The only response from his people was their saying, "Banish Lot's family from your town; they are people who wish to be pure."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027056.mp3
 
 # Ayah 57
-AR: TODO_AR_027057
-BM: TODO_BM_027057
-EN: TODO_EN_027057
-AUDIO: ./assets/audio/027/027057.mp3
+AR: فَأَنْجَيْنَاهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ قَدَّرْنَاهَا مِنَ الْغَابِرِينَ
+BM: Akibatnya, kami selamatkan dia dan keluarganya, melainkan isterinya; kami masukkan dia diantara yang dikutuk.
+EN: Consequently, we saved him and his family, except his wife; we counted her among the doomed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027057.mp3
 
 # Ayah 58
-AR: TODO_AR_027058
-BM: TODO_BM_027058
-EN: TODO_EN_027058
-AUDIO: ./assets/audio/027/027058.mp3
+AR: وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا فَسَاءَ مَطَرُ الْمُنْذَرِينَ
+BM: Kami menghujani mereka dengan sesuatu yang dihujani. Ia adalah curahan yang mengazabkan keatas orang orang yang telah diberikan amaran.
+EN: We showered them with a certain shower. It was a miserable shower upon people who had been warned.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027058.mp3
 
 # Ayah 59
-AR: TODO_AR_027059
-BM: TODO_BM_027059
-EN: TODO_EN_027059
-AUDIO: ./assets/audio/027/027059.mp3
+AR: قُلِ الْحَمْدُ لِلَّهِ وَسَلَامٌ عَلَىٰ عِبَادِهِ الَّذِينَ اصْطَفَىٰ آللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ
+BM: Katakanlah, "Segala kepujian bagi Allah dan kesejahteraan bagi hamba hambaNya yang Dia telah pilih. Adakah Allah lebih baik, ataupun pujaan pujaan yang diada adakan oleh beberapa sesetengah orang?"
+EN: Say, "Praise be to GOD and peace be upon His servants whom He chose. Is GOD better, or the idols some people set up?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027059.mp3
+SUBTITLE_BM: Jangan Membuat Perbezaan Di-Antara Para Rasul
+SUBTITLE_EN: Make No Distinction Among God's Messengers
 
 # Ayah 60
-AR: TODO_AR_027060
-BM: TODO_BM_027060
-EN: TODO_EN_027060
-AUDIO: ./assets/audio/027/027060.mp3
+AR: أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا أَإِلَٰهٌ مَعَ اللَّهِ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
+BM: Siapakah yang Esa yang menciptakan sekelian cekrawala dan bumi? Siapakah yang Esa yang menurunkan untuk kamu dari langit air, dimana dengannya kami mengadakan taman taman penuh dengan keindahan- yang kamu tidak mungkin dapat membuatkan segala pokok pokoknya? Adakah tuhan yang lain bersama Allah? Sesungguhnya, mereka adalah orang orang yang telah dilencongkan.
+EN: Who is the One who created the heavens and the earth? Who is the One who sends down to you from the sky water, whereby we produce gardens full of beauty--you could not possibly manufacture its trees? Is it another god with GOD? Indeed, they are people who have deviated.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027060.mp3
+SUBTITLE_BM: Allah Sahajalah Patut Di-Sembah
+SUBTITLE_EN: God ALONE Worthy of Worship
 
 # Ayah 61
-AR: TODO_AR_027061
-BM: TODO_BM_027061
-EN: TODO_EN_027061
-AUDIO: ./assets/audio/027/027061.mp3
+AR: أَمَّنْ جَعَلَ الْأَرْضَ قَرَارًا وَجَعَلَ خِلَالَهَا أَنْهَارًا وَجَعَلَ لَهَا رَوَاسِيَ وَجَعَلَ بَيْنَ الْبَحْرَيْنِ حَاجِزًا أَإِلَٰهٌ مَعَ اللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+BM: Siapakah yang Esa yang menjadikan bumi ini tempat kediaman, yang menyebabkan sungai sungai mengalir melaluinya, dan meletakkan gunung gunung, dan menciptakan penghalang diantara dua jenis air? Adakah tuhan yang lain bersama Allah? Sesungguhnya, kebanyakan dari mereka tidak mengetahui.
+EN: Who is the One who made the earth habitable, caused rivers to run through it, placed on it mountains, and created a barrier between the two waters? Is it another god with GOD? Indeed, most of them do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027061.mp3
+SUBTITLE_BM: Isa, Maryam, Muhammad, Para Wali, dll. Tidak Pernah Menyertai
+SUBTITLE_EN: Jesus, Mary, Muhammad, the Saints, etc. Never Participated
 
 # Ayah 62
-AR: TODO_AR_027062
-BM: TODO_BM_027062
-EN: TODO_EN_027062
-AUDIO: ./assets/audio/027/027062.mp3
+AR: أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ أَإِلَٰهٌ مَعَ اللَّهِ قَلِيلًا مَا تَذَكَّرُونَ
+BM: Siapakah yang Esa yang menyelamatkan orang orang yang dalam kesempitan yang memanggil kepadaNya, yang meringankan kesusahan, dan menjadikan kamu pewaris pewaris dibumi? Adakah tuhan yang lain bersama Allah? Jarang sekali kamu hendak merenungkan.
+EN: Who is the One who rescues those who become desperate and call upon Him, relieves adversity, and makes you inheritors of the earth? Is it another god with GOD? Rarely do you take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027062.mp3
 
 # Ayah 63
-AR: TODO_AR_027063
-BM: TODO_BM_027063
-EN: TODO_EN_027063
-AUDIO: ./assets/audio/027/027063.mp3
+AR: أَمَّنْ يَهْدِيكُمْ فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ وَمَنْ يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ أَإِلَٰهٌ مَعَ اللَّهِ تَعَالَى اللَّهُ عَمَّا يُشْرِكُونَ
+BM: Siapakah yang Esa yang membimbing kamu didalam kegelapan didaratan dan lautan? Siapakah yang Esa yang menghantarkan angin dengan membawa berita yang baik, mengisharatkan belas kasihNya? Adakah tuhan lain yang bersama Allah? Maha Tertinggi adalah Allah, jauh keatas dari mempunyai sebarang rakan kongsi.
+EN: Who is the One who guides you in the darkness of land and sea? Who is the One who sends the winds with good news, signaling His mercy? Is it another god with GOD? Most exalted is GOD, above having any partner.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027063.mp3
 
 # Ayah 64
-AR: TODO_AR_027064
-BM: TODO_BM_027064
-EN: TODO_EN_027064
-AUDIO: ./assets/audio/027/027064.mp3
+AR: أَمَّنْ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَمَنْ يَرْزُقُكُمْ مِنَ السَّمَاءِ وَالْأَرْضِ أَإِلَٰهٌ مَعَ اللَّهِ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ
+BM: Siapakah yang Esa yang meinisiasikan ciptaan, kemudian mengulanginya? Siapakah yang Esa yang mengadakan untuk kamu dari sekelian cekrawala dan bumi? Adakah tuhan lain yang bersama Allah? Katakanlah, "Tunjukkanlah kepadaku bukti kamu, jika kamu itu benar."
+EN: Who is the One who initiates the creation, then repeats it? Who is the One who provides for you from the heaven and the earth? Is it another god with GOD? Say, "Show me your proof, if you are truthful."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027064.mp3
 
 # Ayah 65
-AR: TODO_AR_027065
-BM: TODO_BM_027065
-EN: TODO_EN_027065
-AUDIO: ./assets/audio/027/027065.mp3
+AR: قُلْ لَا يَعْلَمُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا اللَّهُ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+BM: Katakanlah, "Tidak ada seorangpun disekelian cekrawala dan bumi  yang tahu berkenaan masa depan melainkan Allah. Malahan mereka sendiri tidak tahu bagaimana ataupun bila mereka akan dibangkitkan."
+EN: Say, "No one in the heavens and the earth knows the future except GOD. They do not even perceive how or when they will be resurrected."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027065.mp3
 
 # Ayah 66
-AR: TODO_AR_027066
-BM: TODO_BM_027066
-EN: TODO_EN_027066
-AUDIO: ./assets/audio/027/027066.mp3
+AR: بَلِ ادَّارَكَ عِلْمُهُمْ فِي الْآخِرَةِ بَلْ هُمْ فِي شَكٍّ مِنْهَا بَلْ هُمْ مِنْهَا عَمُونَ
+BM: Sebenarnya, ilmu pengetahuan mereka berkenaan Hari Akhirat adalah keliru. Sebenarnya, mereka menyimpan rasa keraguan berkenaannya. Sebenarnya, mereka tidak mengambil peduli langsung terhadapnya.
+EN: In fact, their knowledge concerning the Hereafter is confused. In fact, they harbor doubts about it. In fact, they are totally heedless thereof.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027066.mp3
+SUBTITLE_BM: Kepercayaan Kepada Hari Akhirat: Penghalang Yang Terbesar Bagi Kebanyakan Manusia
+SUBTITLE_EN: Believing in the Hereafter: Great Obstacle for Most People
 
 # Ayah 67
-AR: TODO_AR_027067
-BM: TODO_BM_027067
-EN: TODO_EN_027067
-AUDIO: ./assets/audio/027/027067.mp3
+AR: وَقَالَ الَّذِينَ كَفَرُوا أَإِذَا كُنَّا تُرَابًا وَآبَاؤُنَا أَئِنَّا لَمُخْرَجُونَ
+BM: Orang orang yang ingkar itu berkata, "Sesudah kita menjadi habuk, dan juga ibu bapa ibu bapa kita, adakah kita dibangkitkan semula?
+EN: Those who disbelieved said, "After we turn into dust, and also our parents, do we get brought out?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027067.mp3
 
 # Ayah 68
-AR: TODO_AR_027068
-BM: TODO_BM_027068
-EN: TODO_EN_027068
-AUDIO: ./assets/audio/027/027068.mp3
+AR: لَقَدْ وُعِدْنَا هَٰذَا نَحْنُ وَآبَاؤُنَا مِنْ قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ
+BM: "Kami telah dijanjikan yang serupa pada masa dahulu. Ini semuanya tiada lain melainkan hanyalah cerita cerita lama."
+EN: "We have been given the same promise in the past. These are nothing but tales from the past."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027068.mp3
 
 # Ayah 69
-AR: TODO_AR_027069
-BM: TODO_BM_027069
-EN: TODO_EN_027069
-AUDIO: ./assets/audio/027/027069.mp3
+AR: قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُجْرِمِينَ
+BM: Katakanlah, "Jelajahlah dimuka bumi ini dan perhatikanlah akibat akibat yang menimpa kepada orang orang yang bersalah."
+EN: Say, "Roam the earth and note the consequences for the guilty."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027069.mp3
 
 # Ayah 70
-AR: TODO_AR_027070
-BM: TODO_BM_027070
-EN: TODO_EN_027070
-AUDIO: ./assets/audio/027/027070.mp3
+AR: وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُنْ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ
+BM: Janganlah bersedih terhadap mereka, dan janganlah terganggu dengan perancangan mereka.
+EN: Do not grieve over them, and do not be annoyed by their scheming.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027070.mp3
 
 # Ayah 71
-AR: TODO_AR_027071
-BM: TODO_BM_027071
-EN: TODO_EN_027071
-AUDIO: ./assets/audio/027/027071.mp3
+AR: وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ
+BM: Mereka berkata, "Bilakah perjanjian yang demikian itu akan berlaku, jika sememangnya kamu yang benar?"
+EN: They say, "When will that promise come to pass, if you are truthful?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027071.mp3
 
 # Ayah 72
-AR: TODO_AR_027072
-BM: TODO_BM_027072
-EN: TODO_EN_027072
-AUDIO: ./assets/audio/027/027072.mp3
+AR: قُلْ عَسَىٰ أَنْ يَكُونَ رَدِفَ لَكُمْ بَعْضُ الَّذِي تَسْتَعْجِلُونَ
+BM: Katakanlah, "Kamu sedang menderita dengan beberapa hukuman yang kamu telah cabarkan itu."
+EN: Say, "You are already suffering some of the retribution you challenge."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027072.mp3
 
 # Ayah 73
-AR: TODO_AR_027073
-BM: TODO_BM_027073
-EN: TODO_EN_027073
-AUDIO: ./assets/audio/027/027073.mp3
+AR: وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ
+BM: Tuhan kamu itu penuh dengan kurniaan terhadap manusia, tetapi kebanyakan mereka itu tidak tahu bersyukur.
+EN: Your Lord is full of grace towards the people, but most of them are unappreciative.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027073.mp3
 
 # Ayah 74
-AR: TODO_AR_027074
-BM: TODO_BM_027074
-EN: TODO_EN_027074
-AUDIO: ./assets/audio/027/027074.mp3
+AR: وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+BM: Tuhan kamu amat mengetahui apa yang disembunyikan didalam dada dada mereka, dan apa yang mereka umumkan.
+EN: Your Lord fully knows what their chests hide, and what they declare.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027074.mp3
 
 # Ayah 75
-AR: TODO_AR_027075
-BM: TODO_BM_027075
-EN: TODO_EN_027075
-AUDIO: ./assets/audio/027/027075.mp3
+AR: وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ مُبِينٍ
+BM: Tidak ada suatu apa pun disekelian cekrawala dan bumi tersembunyi (dari Allah); segala galanya ada didalam rekod yang nyata.
+EN: There is nothing in the heavens and the earth that is hidden (from God); everything is in a profound record.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027075.mp3
 
 # Ayah 76
-AR: TODO_AR_027076
-BM: TODO_BM_027076
-EN: TODO_EN_027076
-AUDIO: ./assets/audio/027/027076.mp3
+AR: إِنَّ هَٰذَا الْقُرْآنَ يَقُصُّ عَلَىٰ بَنِي إِسْرَائِيلَ أَكْثَرَ الَّذِي هُمْ فِيهِ يَخْتَلِفُونَ
+BM: Quran ini telah menyelesaikan kebanyakan isu bagi bani Israil; isu isu yang mereka masih pertikaikan.
+EN: This Quran settles many issues for the Children of Israel; issues that they are still disputing.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027076.mp3
 
 # Ayah 77
-AR: TODO_AR_027077
-BM: TODO_BM_027077
-EN: TODO_EN_027077
-AUDIO: ./assets/audio/027/027077.mp3
+AR: وَإِنَّهُ لَهُدًى وَرَحْمَةٌ لِلْمُؤْمِنِينَ
+BM: Dan pasti sekali, ianya adalah bimbingan dan belas kasih untuk orang orang yang percaya.
+EN: And most assuredly, it is a guide and mercy for the believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027077.mp3
 
 # Ayah 78
-AR: TODO_AR_027078
-BM: TODO_BM_027078
-EN: TODO_EN_027078
-AUDIO: ./assets/audio/027/027078.mp3
+AR: إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ بِحُكْمِهِ وَهُوَ الْعَزِيزُ الْعَلِيمُ
+BM: Tuhanmu Sahajalah yang menghakimkan diantara mereka dengan mengikuti hukum hukumNya. Sesungguhnya, Dialah yang Maha Berkuasa lagi Maha Mengetahui.
+EN: Your Lord is the One who judges among them in accordance with His rules. He is the Almighty, the Omniscient.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027078.mp3
 
 # Ayah 79
-AR: TODO_AR_027079
-BM: TODO_BM_027079
-EN: TODO_EN_027079
-AUDIO: ./assets/audio/027/027079.mp3
+AR: فَتَوَكَّلْ عَلَى اللَّهِ إِنَّكَ عَلَى الْحَقِّ الْمُبِينِ
+BM: Dari itu, letakkanlah kepercayaanmu kepada Allah; sesungguhnya, kau mengikuti kebenaran yang jelas.
+EN: Therefore, put your trust in GOD; you are following the manifest truth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027079.mp3
 
 # Ayah 80
-AR: TODO_AR_027080
-BM: TODO_BM_027080
-EN: TODO_EN_027080
-AUDIO: ./assets/audio/027/027080.mp3
+AR: إِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ
+BM: Kamu tidak akan dapat menjadikan yang mati, tidak juga yang pekak, mendengarkan panggilan, jika mereka berpaling.
+EN: You cannot make the dead, nor the deaf, hear the call, if they turn away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027080.mp3
 
 # Ayah 81
-AR: TODO_AR_027081
-BM: TODO_BM_027081
-EN: TODO_EN_027081
-AUDIO: ./assets/audio/027/027081.mp3
+AR: وَمَا أَنْتَ بِهَادِي الْعُمْيِ عَنْ ضَلَالَتِهِمْ إِنْ تُسْمِعُ إِلَّا مَنْ يُؤْمِنُ بِآيَاتِنَا فَهُمْ مُسْلِمُونَ
+BM: Tidak juga dapat kamu membimbing yang buta keluar dari kesesatan mereka. Hanyalah orang orang yang boleh mendengarkan kamu itu adalah mereka mereka yang percaya dengan revelasi revelasi kami, dan memutuskan untuk menyerahkan diri diri mereka (kepada Allah).
+EN: Nor can you guide the blind out of their straying. The only ones who will hear you are those who believe in our revelations, and decide to be submitters.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027081.mp3
 
 # Ayah 82
-AR: TODO_AR_027082
-BM: TODO_BM_027082
-EN: TODO_EN_027082
-AUDIO: ./assets/audio/027/027082.mp3
+AR: وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَابَّةً مِنَ الْأَرْضِ تُكَلِّمُهُمْ أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا يُوقِنُونَ
+BM: Pada masa yang tepat, kami akan mengeluarkan untuk mereka makhluk, dibuat daripada bahan bahan dari bumi, yang mengumumkan bahwa manusia itu tidak yakin dengan revelasi revelasi kami.
+EN: At the right time, we will produce for them a creature, made of earthly materials, declaring that the people are not certain about our revelations.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027082.mp3
+SUBTITLE_BM: Komputer adalah Makhluk
+SUBTITLE_EN: The Computer Is The Creature*
 
 # Ayah 83
-AR: TODO_AR_027083
-BM: TODO_BM_027083
-EN: TODO_EN_027083
-AUDIO: ./assets/audio/027/027083.mp3
+AR: وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا مِمَّنْ يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ
+BM: Harinya akan tiba apabila kami akan menghimpunkan dari tiap tiap komuniti beberapa orang yang tidak percayakan bukti bukti kami, dengan dipaksa.
+EN: The day will come when we summon from every community some of those who did not believe in our proofs, forcibly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027083.mp3
 
 # Ayah 84
-AR: TODO_AR_027084
-BM: TODO_BM_027084
-EN: TODO_EN_027084
-AUDIO: ./assets/audio/027/027084.mp3
+AR: حَتَّىٰ إِذَا جَاءُوا قَالَ أَكَذَّبْتُمْ بِآيَاتِي وَلَمْ تُحِيطُوا بِهَا عِلْمًا أَمَّاذَا كُنْتُمْ تَعْمَلُونَ
+BM: Apabila mereka tiba, Dia akan berkata, "Kamu telah mengingkari revelasi revelasiKu, sebelum memperolehi ilmu pengetahuan berkenaannya. Tidakkah ini apa yang kamu lakukan?"
+EN: When they arrive, He will say, "You have rejected My revelations, before acquiring knowledge about them. Is this not what you did?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027084.mp3
+SUBTITLE_BM: Mempelajari Kod Matematika Di-Dalam Quran
+SUBTITLE_EN: Study the Quran's Mathematical Code
 
 # Ayah 85
-AR: TODO_AR_027085
-BM: TODO_BM_027085
-EN: TODO_EN_027085
-AUDIO: ./assets/audio/027/027085.mp3
+AR: وَوَقَعَ الْقَوْلُ عَلَيْهِمْ بِمَا ظَلَمُوا فَهُمْ لَا يَنْطِقُونَ
+BM: Mereka akan dikenakan balasan kerana kezaliman mereka itu; mereka tidak akan dapat berkata satu apa pun.
+EN: They will incur the requital for their wickedness; they will say nothing.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027085.mp3
 
 # Ayah 86
-AR: TODO_AR_027086
-BM: TODO_BM_027086
-EN: TODO_EN_027086
-AUDIO: ./assets/audio/027/027086.mp3
+AR: أَلَمْ يَرَوْا أَنَّا جَعَلْنَا الَّيْلَ لِيَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ
+BM: Tidakkah mereka melihatkan yang kami jadikan malam untuk mereka berehat, dan siang hari terang? Ini sepatutnya menjadi bukti bukti yang cukup bagi orang orang yang percaya.
+EN: Have they not seen that we made the night for their rest, and the day lighted? These should be sufficient proofs for people who believe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027086.mp3
 
 # Ayah 87
-AR: TODO_AR_027087
-BM: TODO_BM_027087
-EN: TODO_EN_027087
-AUDIO: ./assets/audio/027/027087.mp3
+AR: وَيَوْمَ يُنْفَخُ فِي الصُّورِ فَفَزِعَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ إِلَّا مَنْ شَاءَ اللَّهُ وَكُلٌّ أَتَوْهُ دَاخِرِينَ
+BM: Pada hari apabila terumpit ditiupkan, setiap sesuatu disekelian cekrawala dan bumi akan menjadi terkejut lagi takut, melainkan yang telah dipilih oleh Allah. Semuanya akan datang kepadaNya, dengan cara terpaksa.
+EN: On the day when the horn is blown, everyone in the heavens and the earth will be horrified, except those chosen by GOD. All will come before Him, forcibly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027087.mp3
 
 # Ayah 88
-AR: TODO_AR_027088
-BM: TODO_BM_027088
-EN: TODO_EN_027088
-AUDIO: ./assets/audio/027/027088.mp3
+AR: وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ إِنَّهُ خَبِيرٌ بِمَا تَفْعَلُونَ
+BM: Apabila kamu melihat kepada gunung gunung, kamu berfikir yang ianya berdiri tegak. Tetapi ianya sedang bergerak, seperti awan awan. Demikian itulah pembuatan dari Allah, yang menyempurnakan segala galanya. Sesungguhnya, Dialah yang Maha Perihatin bagi setiap apa yang kamu lakukan.
+EN: When you look at the mountains, you think that they are standing still. But they are moving, like the clouds. Such is the manufacture of GOD, who perfected everything. He is fully Cognizant of everything you do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027088.mp3
+SUBTITLE_BM: Pergerakkan Bumi: Satu Mukjizat Saintifik
+SUBTITLE_EN: Earth's Movement: A Scientific Miracle
 
 # Ayah 89
-AR: TODO_AR_027089
-BM: TODO_BM_027089
-EN: TODO_EN_027089
-AUDIO: ./assets/audio/027/027089.mp3
+AR: مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ يَوْمَئِذٍ آمِنُونَ
+BM: Orang orang yang membawa kerja kerja yang baik (didalam rekod mereka) akan menerima ganjaran ganjaran yang jauh lebih baik, dan mereka akan mendapat keselamatan yang cukup sempurna dari kegerunan pada hari itu.
+EN: Those who bring good works (in their records) will receive far better rewards, and they will be perfectly secure from the horrors of that day.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027089.mp3
+SUBTITLE_BM: Hari Pengadilan
+SUBTITLE_EN: The Day of Judgment
 
 # Ayah 90
-AR: TODO_AR_027090
-BM: TODO_BM_027090
-EN: TODO_EN_027090
-AUDIO: ./assets/audio/027/027090.mp3
+AR: وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ
+BM: Bagi sesiapa yang membawa kerja kerja jahat mereka, akan dipaksakan masuk kedalam Neraka. Tidakkah kamu patut menerima balasan dari apa yang telah kamu lakukan?
+EN: As for those who bring evil works, they will be forced into Hell. Do you not get requited for what you did?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027090.mp3
 
 # Ayah 91
-AR: TODO_AR_027091
-BM: TODO_BM_027091
-EN: TODO_EN_027091
-AUDIO: ./assets/audio/027/027091.mp3
+AR: إِنَّمَا أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَٰذِهِ الْبَلْدَةِ الَّذِي حَرَّمَهَا وَلَهُ كُلُّ شَيْءٍ وَأُمِرْتُ أَنْ أَكُونَ مِنَ الْمُسْلِمِينَ
+BM: Aku hanyalah diperintahkan untuk menyembah Tuhan kepada bandar ini - Dia telah menjadikan ianya tempat suci yang selamat - dan Dialah yang mempunyai segala galanya. Aku telah diperintahkan supaya menjadi orang orang yang menyerahkan diriku hanya (kepada Allah).
+EN: I am simply commanded to worship the Lord of this town--He has made it a safe sanctuary--and He possesses all things. I am commanded to be a submitter.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027091.mp3
 
 # Ayah 92
-AR: TODO_AR_027092
-BM: TODO_BM_027092
-EN: TODO_EN_027092
-AUDIO: ./assets/audio/027/027092.mp3
+AR: وَأَنْ أَتْلُوَ الْقُرْآنَ فَمَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَنْ ضَلَّ فَقُلْ إِنَّمَا أَنَا مِنَ الْمُنْذِرِينَ
+BM: Dan supaya membaca Quran. Sesiapa saja yang mendapat bimbingan hanyalah terbimbing untuk kebaikan dirinya sendiri, dan jika mereka tersesat, maka katakanlah, "Aku hanyalah seorang pemberi amaran."
+EN: And to recite the Quran. Whoever is guided is guided for his own good, and if they go astray, then say, "I am simply a warner."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027092.mp3
 
 # Ayah 93
-AR: TODO_AR_027093
-BM: TODO_BM_027093
-EN: TODO_EN_027093
-AUDIO: ./assets/audio/027/027093.mp3
+AR: وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ آيَاتِهِ فَتَعْرِفُونَهَا وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ
+BM: Dan katakanlah, "Segala kepujian bagi Allah; Dia akan tunjukkan bukti buktiNya, kepada kamu sampai kamu dapat mengenalnya. Tuhan kamu itu tidak pernah lalai dari apa apa yang kamu lakukan."
+EN: And say, "Praise be to GOD; He will show you His proofs, until you recognize them. Your Lord is never unaware of anything you do."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/027093.mp3
+
+
+
+
+

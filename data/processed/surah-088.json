@@ -1,8 +1,8 @@
 {
   "surahNumber": 88,
   "name": {
-    "ar": "الغاشية",
-    "bm": "Yang Meliputi",
+    "ar": "سورة الغاشـيـة",
+    "bm": "Peristiwa Yang Amat Sangat",
     "en": "The Overwhelming"
   },
   "totalAyahs": 26,
@@ -10,191 +10,191 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/088/088000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_088001",
-      "bm": "TODO_BM_088001",
-      "en": "TODO_EN_088001",
-      "audio": "./assets/audio/088/088001.mp3"
+      "arabic": "هَل أَتاكَ حَديثُ الغاشِيَةِ",
+      "bm": "Adakah kamu sedar akan peristiwa yang amat sangat?",
+      "en": "Are you aware of the Overwhelming?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_088002",
-      "bm": "TODO_BM_088002",
-      "en": "TODO_EN_088002",
-      "audio": "./assets/audio/088/088002.mp3"
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+      "bm": "Wajah wajah pada hari itu akan mendapat keaiban.",
+      "en": "Faces on that day will be shamed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_088003",
-      "bm": "TODO_BM_088003",
-      "en": "TODO_EN_088003",
-      "audio": "./assets/audio/088/088003.mp3"
+      "arabic": "عَامِلَةٌ نَاصِبَةٌ",
+      "bm": "Sukar dan keletihan.",
+      "en": "Laboring and exhausted.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_088004",
-      "bm": "TODO_BM_088004",
-      "en": "TODO_EN_088004",
-      "audio": "./assets/audio/088/088004.mp3"
+      "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "bm": "Menderita dalam api Neraka yang menyala nyala.",
+      "en": "Suffering in a blazing Hellfire.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_088005",
-      "bm": "TODO_BM_088005",
-      "en": "TODO_EN_088005",
-      "audio": "./assets/audio/088/088005.mp3"
+      "arabic": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+      "bm": "Meminum dari pancuran yang berapi.",
+      "en": "Drinking from a flaming spring.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_088006",
-      "bm": "TODO_BM_088006",
-      "en": "TODO_EN_088006",
-      "audio": "./assets/audio/088/088006.mp3"
+      "arabic": "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ",
+      "bm": "Mereka tidak mempunyai makanan melainkan campuran yang tidak berguna.",
+      "en": "They will have no food except the useless variety.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_088007",
-      "bm": "TODO_BM_088007",
-      "en": "TODO_EN_088007",
-      "audio": "./assets/audio/088/088007.mp3"
+      "arabic": "لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ",
+      "bm": "Ianya tidak akan menyehatkan, dan tidak juga mengenyangkan kelaparan.",
+      "en": "It never nourishes, nor satisfies hunger.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_088008",
-      "bm": "TODO_BM_088008",
-      "en": "TODO_EN_088008",
-      "audio": "./assets/audio/088/088008.mp3"
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ",
+      "bm": "Wajah wajah lainnya pada hari itu akan menjadi sungguh gembira.",
+      "en": "Other faces on that day will be full of joy.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_088009",
-      "bm": "TODO_BM_088009",
-      "en": "TODO_EN_088009",
-      "audio": "./assets/audio/088/088009.mp3"
+      "arabic": "لِسَعْيِهَا رَاضِيَةٌ",
+      "bm": "Berpuas hati dengan kerja kerja mereka.",
+      "en": "Satisfied with their work.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_088010",
-      "bm": "TODO_BM_088010",
-      "en": "TODO_EN_088010",
-      "audio": "./assets/audio/088/088010.mp3"
+      "arabic": "فِي جَنَّةٍ عَالِيَةٍ",
+      "bm": "Didalam Syurga yang tinggi.",
+      "en": "In an exalted Paradise.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_088011",
-      "bm": "TODO_BM_088011",
-      "en": "TODO_EN_088011",
-      "audio": "./assets/audio/088/088011.mp3"
+      "arabic": "لَا تَسْمَعُ فِيهَا لَاغِيَةً",
+      "bm": "Didalamnya, tidak kedengaran yang sia sia.",
+      "en": "In it, no nonsense is heard.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_088012",
-      "bm": "TODO_BM_088012",
-      "en": "TODO_EN_088012",
-      "audio": "./assets/audio/088/088012.mp3"
+      "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "bm": "Didalamnya, pancuran pancuran yang mengalir.",
+      "en": "In it, a spring flows.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_088013",
-      "bm": "TODO_BM_088013",
-      "en": "TODO_EN_088013",
-      "audio": "./assets/audio/088/088013.mp3"
+      "arabic": "فِيهَا سُرُرٌ مَرْفُوعَةٌ",
+      "bm": "Didalamnya, ada segala perhiasan yang mewah.",
+      "en": "In it, there are luxurious furnishings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_088014",
-      "bm": "TODO_BM_088014",
-      "en": "TODO_EN_088014",
-      "audio": "./assets/audio/088/088014.mp3"
+      "arabic": "وَأَكْوَابٌ مَوْضُوعَةٌ",
+      "bm": "Dan minuman yang sedia ada.",
+      "en": "And drinks made available.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_088015",
-      "bm": "TODO_BM_088015",
-      "en": "TODO_EN_088015",
-      "audio": "./assets/audio/088/088015.mp3"
+      "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "bm": "Dan kendi kendi yang tersusun rapi.",
+      "en": "And pitchers in rows.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_088016",
-      "bm": "TODO_BM_088016",
-      "en": "TODO_EN_088016",
-      "audio": "./assets/audio/088/088016.mp3"
+      "arabic": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+      "bm": "Dan permaidani permaidani terbentang luas.",
+      "en": "And carpets throughout.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_088017",
-      "bm": "TODO_BM_088017",
-      "en": "TODO_EN_088017",
-      "audio": "./assets/audio/088/088017.mp3"
+      "arabic": "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+      "bm": "Kenapakah tidak mereka merenungkan akan unta unta dan bagaimanakah mereka itu diciptakan?",
+      "en": "Why do they not reflect on the camels and how they are created?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_088018",
-      "bm": "TODO_BM_088018",
-      "en": "TODO_EN_088018",
-      "audio": "./assets/audio/088/088018.mp3"
+      "arabic": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+      "bm": "Dan langit bagaimanakah ianya dinaikkan.",
+      "en": "And the sky and how it is raised.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_088019",
-      "bm": "TODO_BM_088019",
-      "en": "TODO_EN_088019",
-      "audio": "./assets/audio/088/088019.mp3"
+      "arabic": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+      "bm": "Dan gunung gunung bagaimanakah mereka itu dibina.",
+      "en": "And the mountains and how they are constructed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_088020",
-      "bm": "TODO_BM_088020",
-      "en": "TODO_EN_088020",
-      "audio": "./assets/audio/088/088020.mp3"
+      "arabic": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+      "bm": "Dan bumi bagaimanakah ianya dijadikan.",
+      "en": "And the earth and how it is built.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_088021",
-      "bm": "TODO_BM_088021",
-      "en": "TODO_EN_088021",
-      "audio": "./assets/audio/088/088021.mp3"
+      "arabic": "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+      "bm": "Kau mestilah memberi peringatan, kerana misimu itu adalah untuk memberikan peringatan ini.",
+      "en": "You shall remind, for your mission is to deliver this reminder.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_088022",
-      "bm": "TODO_BM_088022",
-      "en": "TODO_EN_088022",
-      "audio": "./assets/audio/088/088022.mp3"
+      "arabic": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+      "bm": "Kau tidak mempunyai kuasa keatas mereka.",
+      "en": "You have no power over them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_088023",
-      "bm": "TODO_BM_088023",
-      "en": "TODO_EN_088023",
-      "audio": "./assets/audio/088/088023.mp3"
+      "arabic": "إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ",
+      "bm": "Bagi orang orang yang berpaling dan mengingkarkannya.",
+      "en": "As for those who turn away and disbelieve.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_088024",
-      "bm": "TODO_BM_088024",
-      "en": "TODO_EN_088024",
-      "audio": "./assets/audio/088/088024.mp3"
+      "arabic": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+      "bm": "Allah akan mengkomitkan mereka kepada hukuman yang besar.",
+      "en": "GOD will commit them to the great retribution.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_088025",
-      "bm": "TODO_BM_088025",
-      "en": "TODO_EN_088025",
-      "audio": "./assets/audio/088/088025.mp3"
+      "arabic": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+      "bm": "Kepada kamilah destini mereka yang terakhir.",
+      "en": "To us is their ultimate destiny.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_088026",
-      "bm": "TODO_BM_088026",
-      "en": "TODO_EN_088026",
-      "audio": "./assets/audio/088/088026.mp3"
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+      "bm": "Lalu akan kami memanggil mereka untuk diperhitungkan.",
+      "en": "Then we will call them to account.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/088026.mp3"
     }
   ]
 }

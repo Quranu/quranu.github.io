@@ -1,58 +1,63 @@
-SURAH_NUMBER: 99
-NAME_AR: الزلزلة
-NAME_BM: Goncangan
-NAME_EN: The Earthquake
+﻿SURAH_NUMBER: 99
+NAME_AR: سورة الـزلزلة
+NAME_BM: Gempa
+NAME_EN: The Quake
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/099/099000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099000.mp3
 
 # Ayah 1
-AR: TODO_AR_099001
-BM: TODO_BM_099001
-EN: TODO_EN_099001
-AUDIO: ./assets/audio/099/099001.mp3
+AR: إِذا زُلزِلَتِ الأَرضُ زِلزالَها
+BM: Apabila bumi menggempa dengan dahsyatnya.
+EN: When the earth is severely quaked.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099001.mp3
 
 # Ayah 2
-AR: TODO_AR_099002
-BM: TODO_BM_099002
-EN: TODO_EN_099002
-AUDIO: ./assets/audio/099/099002.mp3
+AR: وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا
+BM: Dan bumi mengeluarkan kandungan kandungannya.
+EN: And the earth ejects its loads.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099002.mp3
 
 # Ayah 3
-AR: TODO_AR_099003
-BM: TODO_BM_099003
-EN: TODO_EN_099003
-AUDIO: ./assets/audio/099/099003.mp3
+AR: وَقَالَ الْإِنْسَانُ مَا لَهَا
+BM: Manusia akan kehairanan: "Apa yang sudah terjadi?"
+EN: The human will wonder: "What is happening?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099003.mp3
 
 # Ayah 4
-AR: TODO_AR_099004
-BM: TODO_BM_099004
-EN: TODO_EN_099004
-AUDIO: ./assets/audio/099/099004.mp3
+AR: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
+BM: Pada hari itu, ianya akan memberitahukan berita beritanya.
+EN: On that day, it will tell its news.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099004.mp3
 
 # Ayah 5
-AR: TODO_AR_099005
-BM: TODO_BM_099005
-EN: TODO_EN_099005
-AUDIO: ./assets/audio/099/099005.mp3
+AR: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
+BM: Yang Tuhan kamu telah memerintahkannya.
+EN: That your Lord has commanded it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099005.mp3
 
 # Ayah 6
-AR: TODO_AR_099006
-BM: TODO_BM_099006
-EN: TODO_EN_099006
-AUDIO: ./assets/audio/099/099006.mp3
+AR: يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ
+BM: Pada hari itu, manusia akan mendatangi dari setiap arah, untuk ditunjukkan kerja kerja mereka.
+EN: On that day, the people will issue from every direction, to be shown their works.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099006.mp3
 
 # Ayah 7
-AR: TODO_AR_099007
-BM: TODO_BM_099007
-EN: TODO_EN_099007
-AUDIO: ./assets/audio/099/099007.mp3
+AR: فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ
+BM: Sesiapa saja melakukan walau seberat atom kebaikan akan diperlihatkan.
+EN: Whoever does an atom's weight of good will see it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099007.mp3
 
 # Ayah 8
-AR: TODO_AR_099008
-BM: TODO_BM_099008
-EN: TODO_EN_099008
-AUDIO: ./assets/audio/099/099008.mp3
+AR: وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ
+BM: Dan juga sesiapa saja yang melakukan seberat atom kejahatan akan diperlihatkannya.
+EN: And whoever does an atom's weight of evil will see it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/099008.mp3
+
+
+
+
+

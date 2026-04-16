@@ -1,76 +1,81 @@
-SURAH_NUMBER: 93
-NAME_AR: الضحى
-NAME_BM: Waktu Dhuha
-NAME_EN: The Morning Brightness
+﻿SURAH_NUMBER: 93
+NAME_AR: سورة الضـحى
+NAME_BM: Pagi
+NAME_EN: The Forenoon
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/093/093000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093000.mp3
 
 # Ayah 1
-AR: TODO_AR_093001
-BM: TODO_BM_093001
-EN: TODO_EN_093001
-AUDIO: ./assets/audio/093/093001.mp3
+AR: وَالضُّحىٰ
+BM: Demi pagi.
+EN: By the forenoon.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093001.mp3
 
 # Ayah 2
-AR: TODO_AR_093002
-BM: TODO_BM_093002
-EN: TODO_EN_093002
-AUDIO: ./assets/audio/093/093002.mp3
+AR: وَالَّيْلِ إِذَا سَجَىٰ
+BM: Demi malam apabila ianya jatuh.
+EN: By the night as it falls.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093002.mp3
 
 # Ayah 3
-AR: TODO_AR_093003
-BM: TODO_BM_093003
-EN: TODO_EN_093003
-AUDIO: ./assets/audio/093/093003.mp3
+AR: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+BM: Tuhanmu tidak pernah membiarkanmu, dan tidak juga Dia lupa.
+EN: Your Lord never abandoned you, nor did He forget.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093003.mp3
 
 # Ayah 4
-AR: TODO_AR_093004
-BM: TODO_BM_093004
-EN: TODO_EN_093004
-AUDIO: ./assets/audio/093/093004.mp3
+AR: وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ
+BM: Akhirat adalah lebih baik lagi untukmu dari (kehidupan) yang pertama ini.
+EN: The Hereafter is far better for you than this first (life).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093004.mp3
 
 # Ayah 5
-AR: TODO_AR_093005
-BM: TODO_BM_093005
-EN: TODO_EN_093005
-AUDIO: ./assets/audio/093/093005.mp3
+AR: وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ
+BM: Dan Tuhanmu akan memberikan kau mencukupi, dan kau akan meredhainya.
+EN: And your Lord will give you enough; you will be pleased.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093005.mp3
 
 # Ayah 6
-AR: TODO_AR_093006
-BM: TODO_BM_093006
-EN: TODO_EN_093006
-AUDIO: ./assets/audio/093/093006.mp3
+AR: أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ
+BM: Tidakkah Dia mendapati yang kau adalah yatim lalu Dia telah memberikan kau sebuah rumah?
+EN: Did He not find you orphaned and He gave you a home?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093006.mp3
 
 # Ayah 7
-AR: TODO_AR_093007
-BM: TODO_BM_093007
-EN: TODO_EN_093007
-AUDIO: ./assets/audio/093/093007.mp3
+AR: وَوَجَدَكَ ضَالًّا فَهَدَىٰ
+BM: Dia mendapati yang kau telah sesat, lalu membimbingmu.
+EN: He found you astray, and guided you.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093007.mp3
 
 # Ayah 8
-AR: TODO_AR_093008
-BM: TODO_BM_093008
-EN: TODO_EN_093008
-AUDIO: ./assets/audio/093/093008.mp3
+AR: وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ
+BM: Dia mendapati yang kau miskin, lalu menjadikanmu kaya.
+EN: He found you poor, and made you rich.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093008.mp3
 
 # Ayah 9
-AR: TODO_AR_093009
-BM: TODO_BM_093009
-EN: TODO_EN_093009
-AUDIO: ./assets/audio/093/093009.mp3
+AR: فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ
+BM: Dari itu, janganlah kau tidak memperdulikan anak yatim.
+EN: Therefore, you shall not forsake the orphan.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093009.mp3
 
 # Ayah 10
-AR: TODO_AR_093010
-BM: TODO_BM_093010
-EN: TODO_EN_093010
-AUDIO: ./assets/audio/093/093010.mp3
+AR: وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ
+BM: Dan janganlah juga kau menegur peminta sedekah.
+EN: Nor shall you reprimand the beggar.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093010.mp3
 
 # Ayah 11
-AR: TODO_AR_093011
-BM: TODO_BM_093011
-EN: TODO_EN_093011
-AUDIO: ./assets/audio/093/093011.mp3
+AR: وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
+BM: Kau mestilah mengumumkan rahmat dari Tuhanmu yang telah dikurniakan keatasmu.
+EN: You shall proclaim the blessing your Lord has bestowed upon you.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/093011.mp3
+
+
+
+
+

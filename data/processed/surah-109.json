@@ -1,8 +1,8 @@
 {
   "surahNumber": 109,
   "name": {
-    "ar": "الكافرون",
-    "bm": "Orang Kafir",
+    "ar": "سورة الـكافرون",
+    "bm": "Pengingkar Pengingkar",
     "en": "The Disbelievers"
   },
   "totalAyahs": 6,
@@ -10,51 +10,51 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/109/109000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_109001",
-      "bm": "TODO_BM_109001",
-      "en": "TODO_EN_109001",
-      "audio": "./assets/audio/109/109001.mp3"
+      "arabic": "قُل ياأَيُّهَا الكافِرونَ",
+      "bm": "Katakanlah, \"Wahai orang orang yang ingkar.",
+      "en": "Say, \"O you disbelievers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_109002",
-      "bm": "TODO_BM_109002",
-      "en": "TODO_EN_109002",
-      "audio": "./assets/audio/109/109002.mp3"
+      "arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "bm": "\"Aku tidak sembah apa yang kamu sembah.",
+      "en": "\"I do not worship what you worship.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_109003",
-      "bm": "TODO_BM_109003",
-      "en": "TODO_EN_109003",
-      "audio": "./assets/audio/109/109003.mp3"
+      "arabic": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "bm": "\"Tidak juga kamu sembah apa yang aku sembah.",
+      "en": "\"Nor do you worship what I worship.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_109004",
-      "bm": "TODO_BM_109004",
-      "en": "TODO_EN_109004",
-      "audio": "./assets/audio/109/109004.mp3"
+      "arabic": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+      "bm": "\"Tidak juga akan aku ingin menyembah apa yang kamu sembah.",
+      "en": "\"Nor will I ever worship what you worship.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_109005",
-      "bm": "TODO_BM_109005",
-      "en": "TODO_EN_109005",
-      "audio": "./assets/audio/109/109005.mp3"
+      "arabic": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "bm": "\"Dan tidak juga akan kamu sembah apa yang aku sembah.",
+      "en": "\"Nor will you ever worship what I worship.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_109006",
-      "bm": "TODO_BM_109006",
-      "en": "TODO_EN_109006",
-      "audio": "./assets/audio/109/109006.mp3"
+      "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "bm": "\"Kepada kamu adalah agama kamu, dan kepadaku adalah agamaku.\"",
+      "en": "\"To you is your religion, and to me is my religion.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/109006.mp3"
     }
   ]
 }

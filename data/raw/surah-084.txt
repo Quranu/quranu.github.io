@@ -1,160 +1,165 @@
-SURAH_NUMBER: 84
-NAME_AR: الإنشقاق
-NAME_BM: Terbelahnya Langit
-NAME_EN: The Splitting Open
+﻿SURAH_NUMBER: 84
+NAME_AR: سورة الانشقاق
+NAME_BM: Perpecahan
+NAME_EN: The Rupture
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/084/084000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084000.mp3
 
 # Ayah 1
-AR: TODO_AR_084001
-BM: TODO_BM_084001
-EN: TODO_EN_084001
-AUDIO: ./assets/audio/084/084001.mp3
+AR: إِذَا السَّماءُ انشَقَّت
+BM: Masanya akan tiba apabila langit berpecah.
+EN: The time will come when the sky is ruptured.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084001.mp3
 
 # Ayah 2
-AR: TODO_AR_084002
-BM: TODO_BM_084002
-EN: TODO_EN_084002
-AUDIO: ./assets/audio/084/084002.mp3
+AR: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+BM: Ianya akan menyerah kepada Tuhannya kerana tempohnya akan tamat.
+EN: It will submit to its Lord and expire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084002.mp3
 
 # Ayah 3
-AR: TODO_AR_084003
-BM: TODO_BM_084003
-EN: TODO_EN_084003
-AUDIO: ./assets/audio/084/084003.mp3
+AR: وَإِذَا الْأَرْضُ مُدَّتْ
+BM: Bumi akan menjadi rata.
+EN: The earth will be leveled.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084003.mp3
 
 # Ayah 4
-AR: TODO_AR_084004
-BM: TODO_BM_084004
-EN: TODO_EN_084004
-AUDIO: ./assets/audio/084/084004.mp3
+AR: وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
+BM: Ianya akan mengeluarkan kandungan kandungannya, sedang ianya meletup.
+EN: It will eject its contents, as it erupts.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084004.mp3
 
 # Ayah 5
-AR: TODO_AR_084005
-BM: TODO_BM_084005
-EN: TODO_EN_084005
-AUDIO: ./assets/audio/084/084005.mp3
+AR: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+BM: Ianya akan menyerah kepada tuhannya kerana tempohnya akan tamat.
+EN: It will submit to its Lord and expire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084005.mp3
 
 # Ayah 6
-AR: TODO_AR_084006
-BM: TODO_BM_084006
-EN: TODO_EN_084006
-AUDIO: ./assets/audio/084/084006.mp3
+AR: يَاأَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ
+BM: Wahai manusia, kamu tidak akan boleh berputar balik dari pertemuan dengan Tuhan kamu.
+EN: O humans, you are irreversibly heading for a meeting with your Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084006.mp3
 
 # Ayah 7
-AR: TODO_AR_084007
-BM: TODO_BM_084007
-EN: TODO_EN_084007
-AUDIO: ./assets/audio/084/084007.mp3
+AR: فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ
+BM: Bagi seorang yang menerima rekodnya ditangan kanannya,
+EN: As for the one who receives his record in his right hand,
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084007.mp3
 
 # Ayah 8
-AR: TODO_AR_084008
-BM: TODO_BM_084008
-EN: TODO_EN_084008
-AUDIO: ./assets/audio/084/084008.mp3
+AR: فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا
+BM: Perkiraannya akan menjadi mudah.
+EN: His reckoning will be easy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084008.mp3
 
 # Ayah 9
-AR: TODO_AR_084009
-BM: TODO_BM_084009
-EN: TODO_EN_084009
-AUDIO: ./assets/audio/084/084009.mp3
+AR: وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا
+BM: Dia akan kembali kepada orang orangnya dengan gembira.
+EN: He will return to his people joyfully.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084009.mp3
 
 # Ayah 10
-AR: TODO_AR_084010
-BM: TODO_BM_084010
-EN: TODO_EN_084010
-AUDIO: ./assets/audio/084/084010.mp3
+AR: وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ
+BM: Bagi seorang yang menerima rekod dari belakangnya,
+EN: As for the one who receives his record behind his back,
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084010.mp3
 
 # Ayah 11
-AR: TODO_AR_084011
-BM: TODO_BM_084011
-EN: TODO_EN_084011
-AUDIO: ./assets/audio/084/084011.mp3
+AR: فَسَوْفَ يَدْعُو ثُبُورًا
+BM: Dia akan berkeadaan penuh dengan kekesalan.
+EN: He will be ridden with remorse.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084011.mp3
 
 # Ayah 12
-AR: TODO_AR_084012
-BM: TODO_BM_084012
-EN: TODO_EN_084012
-AUDIO: ./assets/audio/084/084012.mp3
+AR: وَيَصْلَىٰ سَعِيرًا
+BM: Dan akan dibakar diNeraka.
+EN: And will burn in Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084012.mp3
 
 # Ayah 13
-AR: TODO_AR_084013
-BM: TODO_BM_084013
-EN: TODO_EN_084013
-AUDIO: ./assets/audio/084/084013.mp3
+AR: إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا
+BM: Dia pernah berlagak sombong diantara orang orangnya.
+EN: He used to act arrogantly among his people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084013.mp3
 
 # Ayah 14
-AR: TODO_AR_084014
-BM: TODO_BM_084014
-EN: TODO_EN_084014
-AUDIO: ./assets/audio/084/084014.mp3
+AR: إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ
+BM: Dia berfikir yang dia tidak akan dipanggil untuk dikira.
+EN: He thought that he will never be called to account.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084014.mp3
 
 # Ayah 15
-AR: TODO_AR_084015
-BM: TODO_BM_084015
-EN: TODO_EN_084015
-AUDIO: ./assets/audio/084/084015.mp3
+AR: بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا
+BM: Ya tentu sekali, Tuhannya telah Melihat akan dia.
+EN: Yes indeed, his Lord was Seer of him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084015.mp3
 
 # Ayah 16
-AR: TODO_AR_084016
-BM: TODO_BM_084016
-EN: TODO_EN_084016
-AUDIO: ./assets/audio/084/084016.mp3
+AR: فَلَا أُقْسِمُ بِالشَّفَقِ
+BM: Aku bersumpah dengan seriusnya kepada debu yang kemerah merahan.
+EN: I solemnly swear by the rosy dusk.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084016.mp3
 
 # Ayah 17
-AR: TODO_AR_084017
-BM: TODO_BM_084017
-EN: TODO_EN_084017
-AUDIO: ./assets/audio/084/084017.mp3
+AR: وَالَّيْلِ وَمَا وَسَقَ
+BM: Dan malam apabila ianya menyelubungi luas.
+EN: And the night as it spreads.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084017.mp3
 
 # Ayah 18
-AR: TODO_AR_084018
-BM: TODO_BM_084018
-EN: TODO_EN_084018
-AUDIO: ./assets/audio/084/084018.mp3
+AR: وَالْقَمَرِ إِذَا اتَّسَقَ
+BM: Dan bulan serta fasa fasanya.
+EN: And the moon and its phases.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084018.mp3
 
 # Ayah 19
-AR: TODO_AR_084019
-BM: TODO_BM_084019
-EN: TODO_EN_084019
-AUDIO: ./assets/audio/084/084019.mp3
+AR: لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
+BM: Kamu akan bergerak dari peringkat demi peringkat.
+EN: You will move from stage to stage.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084019.mp3
 
 # Ayah 20
-AR: TODO_AR_084020
-BM: TODO_BM_084020
-EN: TODO_EN_084020
-AUDIO: ./assets/audio/084/084020.mp3
+AR: فَمَا لَهُمْ لَا يُؤْمِنُونَ
+BM: Kenapakah mereka tidak mahu percaya?
+EN: Why do they not believe?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084020.mp3
 
 # Ayah 21
-AR: TODO_AR_084021
-BM: TODO_BM_084021
-EN: TODO_EN_084021
-AUDIO: ./assets/audio/084/084021.mp3
+AR: وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ
+BM: Dan apabila Quran dibacakan kepada mereka, mereka tidak jatuh sujud.
+EN: And when the Quran is recited to them, they do not fall prostrate.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084021.mp3
 
 # Ayah 22
-AR: TODO_AR_084022
-BM: TODO_BM_084022
-EN: TODO_EN_084022
-AUDIO: ./assets/audio/084/084022.mp3
+AR: بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ
+BM: Ini adalah kerana orang orang ingkar yang mengingkari (Quran).
+EN: This is because those who disbelieved are rejecting (the Quran).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084022.mp3
 
 # Ayah 23
-AR: TODO_AR_084023
-BM: TODO_BM_084023
-EN: TODO_EN_084023
-AUDIO: ./assets/audio/084/084023.mp3
+AR: وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ
+BM: Allah amat sedar akan fikiran fikiran mereka yang jauh didalam.
+EN: GOD is fully aware of their innermost thoughts.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084023.mp3
 
 # Ayah 24
-AR: TODO_AR_084024
-BM: TODO_BM_084024
-EN: TODO_EN_084024
-AUDIO: ./assets/audio/084/084024.mp3
+AR: فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ
+BM: Janjikan mereka hukuman yang menyakitkan.
+EN: Promise them painful retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084024.mp3
 
 # Ayah 25
-AR: TODO_AR_084025
-BM: TODO_BM_084025
-EN: TODO_EN_084025
-AUDIO: ./assets/audio/084/084025.mp3
+AR: إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ
+BM: Bagi orang orang yang percaya dan menjalani kehidupan yang benar, mereka akan menerima ganjaran amat baik yang telah dikhaskan.
+EN: As for those who believed and led a righteous life, they receive a recompense that is well deserved.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/084025.mp3
+
+
+
+
+

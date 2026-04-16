@@ -1,95 +1,95 @@
 {
   "surahNumber": 93,
   "name": {
-    "ar": "الضحى",
-    "bm": "Waktu Dhuha",
-    "en": "The Morning Brightness"
+    "ar": "سورة الضـحى",
+    "bm": "Pagi",
+    "en": "The Forenoon"
   },
   "totalAyahs": 11,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/093/093000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_093001",
-      "bm": "TODO_BM_093001",
-      "en": "TODO_EN_093001",
-      "audio": "./assets/audio/093/093001.mp3"
+      "arabic": "وَالضُّحىٰ",
+      "bm": "Demi pagi.",
+      "en": "By the forenoon.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_093002",
-      "bm": "TODO_BM_093002",
-      "en": "TODO_EN_093002",
-      "audio": "./assets/audio/093/093002.mp3"
+      "arabic": "وَالَّيْلِ إِذَا سَجَىٰ",
+      "bm": "Demi malam apabila ianya jatuh.",
+      "en": "By the night as it falls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_093003",
-      "bm": "TODO_BM_093003",
-      "en": "TODO_EN_093003",
-      "audio": "./assets/audio/093/093003.mp3"
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "bm": "Tuhanmu tidak pernah membiarkanmu, dan tidak juga Dia lupa.",
+      "en": "Your Lord never abandoned you, nor did He forget.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_093004",
-      "bm": "TODO_BM_093004",
-      "en": "TODO_EN_093004",
-      "audio": "./assets/audio/093/093004.mp3"
+      "arabic": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+      "bm": "Akhirat adalah lebih baik lagi untukmu dari (kehidupan) yang pertama ini.",
+      "en": "The Hereafter is far better for you than this first (life).",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_093005",
-      "bm": "TODO_BM_093005",
-      "en": "TODO_EN_093005",
-      "audio": "./assets/audio/093/093005.mp3"
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "bm": "Dan Tuhanmu akan memberikan kau mencukupi, dan kau akan meredhainya.",
+      "en": "And your Lord will give you enough; you will be pleased.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_093006",
-      "bm": "TODO_BM_093006",
-      "en": "TODO_EN_093006",
-      "audio": "./assets/audio/093/093006.mp3"
+      "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "bm": "Tidakkah Dia mendapati yang kau adalah yatim lalu Dia telah memberikan kau sebuah rumah?",
+      "en": "Did He not find you orphaned and He gave you a home?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_093007",
-      "bm": "TODO_BM_093007",
-      "en": "TODO_EN_093007",
-      "audio": "./assets/audio/093/093007.mp3"
+      "arabic": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "bm": "Dia mendapati yang kau telah sesat, lalu membimbingmu.",
+      "en": "He found you astray, and guided you.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_093008",
-      "bm": "TODO_BM_093008",
-      "en": "TODO_EN_093008",
-      "audio": "./assets/audio/093/093008.mp3"
+      "arabic": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "bm": "Dia mendapati yang kau miskin, lalu menjadikanmu kaya.",
+      "en": "He found you poor, and made you rich.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_093009",
-      "bm": "TODO_BM_093009",
-      "en": "TODO_EN_093009",
-      "audio": "./assets/audio/093/093009.mp3"
+      "arabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "bm": "Dari itu, janganlah kau tidak memperdulikan anak yatim.",
+      "en": "Therefore, you shall not forsake the orphan.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_093010",
-      "bm": "TODO_BM_093010",
-      "en": "TODO_EN_093010",
-      "audio": "./assets/audio/093/093010.mp3"
+      "arabic": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "bm": "Dan janganlah juga kau menegur peminta sedekah.",
+      "en": "Nor shall you reprimand the beggar.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_093011",
-      "bm": "TODO_BM_093011",
-      "en": "TODO_EN_093011",
-      "audio": "./assets/audio/093/093011.mp3"
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "bm": "Kau mestilah mengumumkan rahmat dari Tuhanmu yang telah dikurniakan keatasmu.",
+      "en": "You shall proclaim the blessing your Lord has bestowed upon you.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/093011.mp3"
     }
   ]
 }

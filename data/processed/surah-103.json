@@ -1,7 +1,7 @@
 {
   "surahNumber": 103,
   "name": {
-    "ar": "العصر",
+    "ar": "سورة الـعصر",
     "bm": "Petang Hari",
     "en": "The Afternoon"
   },
@@ -10,30 +10,30 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/103/103000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/103000.mp3"
     },
     {
       "number": 1,
       "arabic": "وَالعَصرِ",
       "bm": "Demi Petang hari.",
       "en": "By the afternoon.",
-      "audio": "./assets/audio/103/103001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/103001.mp3"
     },
     {
       "number": 2,
-      "arabic": "إِنَّ الإِنسٰنَ لَفى خُسرٍ",
+      "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
       "bm": "Manusia itu betul betul telah dilalaikan.",
       "en": "The human being is utterly lost.",
-      "audio": "./assets/audio/103/103002.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/103002.mp3"
     },
     {
       "number": 3,
-      "arabic": "إِلَّا الَّذينَ ءامَنوا وَعَمِلُوا الصّٰلِحٰتِ وَتَواصَوا بِالحَقِّ وَتَواصَوا بِالصَّبرِ",
+      "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
       "bm": "Melainkan orang orang yang percaya dan yang menjalani kehidupan yang benar, dan yang menyuruh satu sama lain supaya menegakkan kebenaran, dan menyuruh satu sama lain supaya bersabar.",
       "en": "Except those who believe and lead a righteous life, and exhort one another to uphold the truth, and exhort one another to be steadfast.",
-      "audio": "./assets/audio/103/103003.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/103003.mp3"
     }
   ]
 }

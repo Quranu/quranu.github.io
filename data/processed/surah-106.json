@@ -1,46 +1,46 @@
 {
   "surahNumber": 106,
   "name": {
-    "ar": "قريش",
-    "bm": "Quraisy",
-    "en": "Quraysh"
+    "ar": "سورة قريش",
+    "bm": "Kaum Quraish",
+    "en": "The Quraish Tribe"
   },
   "totalAyahs": 4,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/106/106000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/106000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_106001",
-      "bm": "TODO_BM_106001",
-      "en": "TODO_EN_106001",
-      "audio": "./assets/audio/106/106001.mp3"
+      "arabic": "لِإيلافِ قُرَيشٍ",
+      "bm": "Ini sepatutnya dihargai oleh kaum Quraish.",
+      "en": "This should be cherished by Quraish.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/106001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_106002",
-      "bm": "TODO_BM_106002",
-      "en": "TODO_EN_106002",
-      "audio": "./assets/audio/106/106002.mp3"
+      "arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+      "bm": "Cara mereka menghargai karavan karavan dimusim sejuk dan musim panas.",
+      "en": "The way they cherish the caravans of the winter and the summer.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/106002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_106003",
-      "bm": "TODO_BM_106003",
-      "en": "TODO_EN_106003",
-      "audio": "./assets/audio/106/106003.mp3"
+      "arabic": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "bm": "Mereka mestilah menyembah Tuhan bagi tempat suci ini.",
+      "en": "They shall worship the Lord of this shrine.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/106003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_106004",
-      "bm": "TODO_BM_106004",
-      "en": "TODO_EN_106004",
-      "audio": "./assets/audio/106/106004.mp3"
+      "arabic": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+      "bm": "Kerana Dia Sahajalah yang memberikan mereka makan selepas kelaparan, dan memberikan mereka keamanan selepas ketakutan.",
+      "en": "For He is the One who fed them after hunger, and provided them with security after fear.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/106004.mp3"
     }
   ]
 }

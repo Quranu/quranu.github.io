@@ -1,250 +1,257 @@
-SURAH_NUMBER: 75
-NAME_AR: القيامة
-NAME_BM: Kiamat
-NAME_EN: The Resurrection
+﻿SURAH_NUMBER: 75
+NAME_AR: سورة الـقـيامـة
+NAME_BM: Hari Kebangkitan
+NAME_EN: Resurrection
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/075/075000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075000.mp3
 
 # Ayah 1
-AR: TODO_AR_075001
-BM: TODO_BM_075001
-EN: TODO_EN_075001
-AUDIO: ./assets/audio/075/075001.mp3
+AR: لا أُقسِمُ بِيَومِ القِيامَةِ
+BM: Aku bersumpah demi Hari Kebangkitan.
+EN: I swear by the Day of Resurrection.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075001.mp3
 
 # Ayah 2
-AR: TODO_AR_075002
-BM: TODO_BM_075002
-EN: TODO_EN_075002
-AUDIO: ./assets/audio/075/075002.mp3
+AR: وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+BM: Dan Aku bersumpah demi roh yang menuduh.
+EN: And I swear by the blaming soul.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075002.mp3
 
 # Ayah 3
-AR: TODO_AR_075003
-BM: TODO_BM_075003
-EN: TODO_EN_075003
-AUDIO: ./assets/audio/075/075003.mp3
+AR: أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ
+BM: Adakah manusia berfikir yang kami tidak akan menyusunkan semula tulang tulangnya?
+EN: Does the human being think that we will not reconstruct his bones?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075003.mp3
 
 # Ayah 4
-AR: TODO_AR_075004
-BM: TODO_BM_075004
-EN: TODO_EN_075004
-AUDIO: ./assets/audio/075/075004.mp3
+AR: بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ
+BM: Ya! sesungguhnya; kami boleh menyusunkan semula hujung jarinya.
+EN: Yes indeed; we are able to reconstruct his finger tip.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075004.mp3
 
 # Ayah 5
-AR: TODO_AR_075005
-BM: TODO_BM_075005
-EN: TODO_EN_075005
-AUDIO: ./assets/audio/075/075005.mp3
+AR: بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ
+BM: Tetapi manusia itu hanya mempercayai apa yang dia lihat didepannya saja.
+EN: But the human being tends to believe only what he sees in front of him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075005.mp3
 
 # Ayah 6
-AR: TODO_AR_075006
-BM: TODO_BM_075006
-EN: TODO_EN_075006
-AUDIO: ./assets/audio/075/075006.mp3
+AR: يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ
+BM: Dia meragukan Hari Kebangkitan!
+EN: He doubts the Day of Resurrection!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075006.mp3
 
 # Ayah 7
-AR: TODO_AR_075007
-BM: TODO_BM_075007
-EN: TODO_EN_075007
-AUDIO: ./assets/audio/075/075007.mp3
+AR: فَإِذَا بَرِقَ الْبَصَرُ
+BM: Apabila saja pemandangan menjadi tajam.
+EN: Once the vision is sharpened.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075007.mp3
 
 # Ayah 8
-AR: TODO_AR_075008
-BM: TODO_BM_075008
-EN: TODO_EN_075008
-AUDIO: ./assets/audio/075/075008.mp3
+AR: وَخَسَفَ الْقَمَرُ
+BM: Dan bulan telah gerhana.
+EN: And the moon is eclipsed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075008.mp3
 
 # Ayah 9
-AR: TODO_AR_075009
-BM: TODO_BM_075009
-EN: TODO_EN_075009
-AUDIO: ./assets/audio/075/075009.mp3
+AR: وَجُمِعَ الشَّمْسُ وَالْقَمَرُ
+BM: Matahari dan bulan bertembung dengan satu sama lain.
+EN: And the sun and the moon crash into one another.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075009.mp3
 
 # Ayah 10
-AR: TODO_AR_075010
-BM: TODO_BM_075010
-EN: TODO_EN_075010
-AUDIO: ./assets/audio/075/075010.mp3
+AR: يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ
+BM: Manusia akan berkata pada hari itu, "Dimanakah tempat pelarian?"
+EN: The human being will say on that day, "Where is the escape?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075010.mp3
 
 # Ayah 11
-AR: TODO_AR_075011
-BM: TODO_BM_075011
-EN: TODO_EN_075011
-AUDIO: ./assets/audio/075/075011.mp3
+AR: كَلَّا لَا وَزَرَ
+BM: Sudah pasti tidak ada yang dapat melarikan diri.
+EN: Absolutely, there is no escape.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075011.mp3
 
 # Ayah 12
-AR: TODO_AR_075012
-BM: TODO_BM_075012
-EN: TODO_EN_075012
-AUDIO: ./assets/audio/075/075012.mp3
+AR: إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ
+BM: Kepada Tuhan kamu, pada hari itu, destini yang terakhir.
+EN: To your Lord, on that day, is the final destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075012.mp3
 
 # Ayah 13
-AR: TODO_AR_075013
-BM: TODO_BM_075013
-EN: TODO_EN_075013
-AUDIO: ./assets/audio/075/075013.mp3
+AR: يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ
+BM: Manusia  akan diberitahukan, pada hari itu, segala apa yang dia lakukan untuk memajukan dirinya, dan segala apa yang dia lakukan untuk mengundurkan dirinya sendiri.
+EN: The human being will be informed, on that day, of everything he did to advance himself, and everything he did to regress himself.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075013.mp3
 
 # Ayah 14
-AR: TODO_AR_075014
-BM: TODO_BM_075014
-EN: TODO_EN_075014
-AUDIO: ./assets/audio/075/075014.mp3
+AR: بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ
+BM: Manusia akan menghakimkan dirinya sendiri.
+EN: The human being will be his own judge.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075014.mp3
 
 # Ayah 15
-AR: TODO_AR_075015
-BM: TODO_BM_075015
-EN: TODO_EN_075015
-AUDIO: ./assets/audio/075/075015.mp3
+AR: وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ
+BM: Tidak ada alasan yang akan diterima.
+EN: No excuses will be accepted.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075015.mp3
 
 # Ayah 16
-AR: TODO_AR_075016
-BM: TODO_BM_075016
-EN: TODO_EN_075016
-AUDIO: ./assets/audio/075/075016.mp3
+AR: لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ
+BM: Janganlah menggerakkan lidahmu untuk mempercepatkannya.
+EN: Do not move your tongue to hasten it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075016.mp3
+SUBTITLE_BM: Muhammad Di-Larang Dari Menerangkan Quran
+SUBTITLE_EN: Muhammad Forbidden From Explaining the Quran
 
 # Ayah 17
-AR: TODO_AR_075017
-BM: TODO_BM_075017
-EN: TODO_EN_075017
-AUDIO: ./assets/audio/075/075017.mp3
+AR: إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ
+BM: Ianya adalah kami yang mengumpulkannya menjadi Quran.
+EN: It is we who will collect it into Quran.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075017.mp3
 
 # Ayah 18
-AR: TODO_AR_075018
-BM: TODO_BM_075018
-EN: TODO_EN_075018
-AUDIO: ./assets/audio/075/075018.mp3
+AR: فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ
+BM: Apabila saja kami membacakannya, kau mestilah mengikuti Quran yang sedemikian.
+EN: Once we recite it, you shall follow such a Quran.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075018.mp3
 
 # Ayah 19
-AR: TODO_AR_075019
-BM: TODO_BM_075019
-EN: TODO_EN_075019
-AUDIO: ./assets/audio/075/075019.mp3
+AR: ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ
+BM: Kemudian ianya adalah kami yang menerangkannya.
+EN: Then it is we who will explain it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075019.mp3
 
 # Ayah 20
-AR: TODO_AR_075020
-BM: TODO_BM_075020
-EN: TODO_EN_075020
-AUDIO: ./assets/audio/075/075020.mp3
+AR: كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ
+BM: Sesungguhnya, kamu menyintai kehidupan yang sekejap ini.
+EN: Indeed, you love this fleeting life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075020.mp3
 
 # Ayah 21
-AR: TODO_AR_075021
-BM: TODO_BM_075021
-EN: TODO_EN_075021
-AUDIO: ./assets/audio/075/075021.mp3
+AR: وَتَذَرُونَ الْآخِرَةَ
+BM: Sementara tidak memperdulikan Akhirat.
+EN: While disregarding the Hereafter.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075021.mp3
 
 # Ayah 22
-AR: TODO_AR_075022
-BM: TODO_BM_075022
-EN: TODO_EN_075022
-AUDIO: ./assets/audio/075/075022.mp3
+AR: وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ
+BM: Ada wajah wajah, pada hari itu, akan bergembira.
+EN: Some faces, on that day, will be happy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075022.mp3
 
 # Ayah 23
-AR: TODO_AR_075023
-BM: TODO_BM_075023
-EN: TODO_EN_075023
-AUDIO: ./assets/audio/075/075023.mp3
+AR: إِلَىٰ رَبِّهَا نَاظِرَةٌ
+BM: Melihat akan Tuhan mereka.
+EN: Looking at their Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075023.mp3
 
 # Ayah 24
-AR: TODO_AR_075024
-BM: TODO_BM_075024
-EN: TODO_EN_075024
-AUDIO: ./assets/audio/075/075024.mp3
+AR: وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
+BM: Wajah wajah yang lainnya, pada hari itu, menderita.
+EN: Other faces will be, on that day, miserable.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075024.mp3
 
 # Ayah 25
-AR: TODO_AR_075025
-BM: TODO_BM_075025
-EN: TODO_EN_075025
-AUDIO: ./assets/audio/075/075025.mp3
+AR: تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ
+BM: Menjangkakan yang terburuk.
+EN: Expecting the worst.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075025.mp3
 
 # Ayah 26
-AR: TODO_AR_075026
-BM: TODO_BM_075026
-EN: TODO_EN_075026
-AUDIO: ./assets/audio/075/075026.mp3
+AR: كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ
+BM: Sesungguhnya, apabila (nyawa) sampai kekerongkong.
+EN: Indeed, when (the soul) reaches the throat.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075026.mp3
 
 # Ayah 27
-AR: TODO_AR_075027
-BM: TODO_BM_075027
-EN: TODO_EN_075027
-AUDIO: ./assets/audio/075/075027.mp3
+AR: وَقِيلَ مَنْ رَاقٍ
+BM: Dan ianya diperintahkan: "Lepaskan!"
+EN: And it is ordered: "Let go!"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075027.mp3
 
 # Ayah 28
-AR: TODO_AR_075028
-BM: TODO_BM_075028
-EN: TODO_EN_075028
-AUDIO: ./assets/audio/075/075028.mp3
+AR: وَظَنَّ أَنَّهُ الْفِرَاقُ
+BM: Dia tahu yang ianya sudah berakhir.
+EN: He knows it is the end.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075028.mp3
 
 # Ayah 29
-AR: TODO_AR_075029
-BM: TODO_BM_075029
-EN: TODO_EN_075029
-AUDIO: ./assets/audio/075/075029.mp3
+AR: وَالْتَفَّتِ السَّاقُ بِالسَّاقِ
+BM: Sekaki akan berada dalam keadaan kaku bersebelahan satu sama lain.
+EN: Each leg will lay motionless next to the other leg.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075029.mp3
 
 # Ayah 30
-AR: TODO_AR_075030
-BM: TODO_BM_075030
-EN: TODO_EN_075030
-AUDIO: ./assets/audio/075/075030.mp3
+AR: إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ
+BM: Kepada Tuhan kamu, pada hari itu, adalah perhimpunan.
+EN: To your Lord, on that day, is the summoning.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075030.mp3
 
 # Ayah 31
-AR: TODO_AR_075031
-BM: TODO_BM_075031
-EN: TODO_EN_075031
-AUDIO: ./assets/audio/075/075031.mp3
+AR: فَلَا صَدَّقَ وَلَا صَلَّىٰ
+BM: Kerana dia yang tidak memberikan derma dan tidak juga mengerjakan sembahyang (Salat).
+EN: For he observed neither the charity, nor the contact prayers (Salat).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075031.mp3
 
 # Ayah 32
-AR: TODO_AR_075032
-BM: TODO_BM_075032
-EN: TODO_EN_075032
-AUDIO: ./assets/audio/075/075032.mp3
+AR: وَلَٰكِنْ كَذَّبَ وَتَوَلَّىٰ
+BM: Tetapi dia mengingkarkan dan berpaling.
+EN: But he disbelieved and turned away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075032.mp3
 
 # Ayah 33
-AR: TODO_AR_075033
-BM: TODO_BM_075033
-EN: TODO_EN_075033
-AUDIO: ./assets/audio/075/075033.mp3
+AR: ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ
+BM: Dengan keluarganya, dia berlagak sombong.
+EN: With his family, he acted arrogantly.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075033.mp3
 
 # Ayah 34
-AR: TODO_AR_075034
-BM: TODO_BM_075034
-EN: TODO_EN_075034
-AUDIO: ./assets/audio/075/075034.mp3
+AR: أَوْلَىٰ لَكَ فَأَوْلَىٰ
+BM: Kamu sepatutnya mendapatkan ini.
+EN: You have deserved this.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075034.mp3
 
 # Ayah 35
-AR: TODO_AR_075035
-BM: TODO_BM_075035
-EN: TODO_EN_075035
-AUDIO: ./assets/audio/075/075035.mp3
+AR: ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ
+BM: Sesungguhnya, kamu sepatutnya mendapatkan ini.
+EN: Indeed, you have deserved this.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075035.mp3
 
 # Ayah 36
-AR: TODO_AR_075036
-BM: TODO_BM_075036
-EN: TODO_EN_075036
-AUDIO: ./assets/audio/075/075036.mp3
+AR: أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى
+BM: Adakah manusia itu berfikir yang dia akan dibiarkan dengan begitu saja?
+EN: Does the human being think that he will go to nothing?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075036.mp3
 
 # Ayah 37
-AR: TODO_AR_075037
-BM: TODO_BM_075037
-EN: TODO_EN_075037
-AUDIO: ./assets/audio/075/075037.mp3
+AR: أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ
+BM: Bukankah dia dari setitik cecair air mani yang memancut keluar?
+EN: Was he not a drop of ejected semen?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075037.mp3
 
 # Ayah 38
-AR: TODO_AR_075038
-BM: TODO_BM_075038
-EN: TODO_EN_075038
-AUDIO: ./assets/audio/075/075038.mp3
+AR: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
+BM: Dan Dia menjadikan suatu embrio darinya!
+EN: Then He created an embryo out of it!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075038.mp3
 
 # Ayah 39
-AR: TODO_AR_075039
-BM: TODO_BM_075039
-EN: TODO_EN_075039
-AUDIO: ./assets/audio/075/075039.mp3
+AR: فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ
+BM: Dia menjadikannya kepada lelaki ataupun perempuan!
+EN: He made it into male or female!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075039.mp3
 
 # Ayah 40
-AR: TODO_AR_075040
-BM: TODO_BM_075040
-EN: TODO_EN_075040
-AUDIO: ./assets/audio/075/075040.mp3
+AR: أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ
+BM: Adakah selepas itu Dia tidak boleh menghidupkan semula yang mati?
+EN: Is He then unable to revive the dead?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/075040.mp3
+
+
+
+
+

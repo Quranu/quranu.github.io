@@ -1,34 +1,39 @@
-SURAH_NUMBER: 106
-NAME_AR: قريش
-NAME_BM: Quraisy
-NAME_EN: Quraysh
+﻿SURAH_NUMBER: 106
+NAME_AR: سورة قريش
+NAME_BM: Kaum Quraish
+NAME_EN: The Quraish Tribe
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/106/106000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/106000.mp3
 
 # Ayah 1
-AR: TODO_AR_106001
-BM: TODO_BM_106001
-EN: TODO_EN_106001
-AUDIO: ./assets/audio/106/106001.mp3
+AR: لِإيلافِ قُرَيشٍ
+BM: Ini sepatutnya dihargai oleh kaum Quraish.
+EN: This should be cherished by Quraish.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/106001.mp3
 
 # Ayah 2
-AR: TODO_AR_106002
-BM: TODO_BM_106002
-EN: TODO_EN_106002
-AUDIO: ./assets/audio/106/106002.mp3
+AR: إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ
+BM: Cara mereka menghargai karavan karavan dimusim sejuk dan musim panas.
+EN: The way they cherish the caravans of the winter and the summer.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/106002.mp3
 
 # Ayah 3
-AR: TODO_AR_106003
-BM: TODO_BM_106003
-EN: TODO_EN_106003
-AUDIO: ./assets/audio/106/106003.mp3
+AR: فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ
+BM: Mereka mestilah menyembah Tuhan bagi tempat suci ini.
+EN: They shall worship the Lord of this shrine.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/106003.mp3
 
 # Ayah 4
-AR: TODO_AR_106004
-BM: TODO_BM_106004
-EN: TODO_EN_106004
-AUDIO: ./assets/audio/106/106004.mp3
+AR: الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ
+BM: Kerana Dia Sahajalah yang memberikan mereka makan selepas kelaparan, dan memberikan mereka keamanan selepas ketakutan.
+EN: For He is the One who fed them after hunger, and provided them with security after fear.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/106004.mp3
+
+
+
+
+

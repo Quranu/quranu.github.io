@@ -1,124 +1,129 @@
-SURAH_NUMBER: 96
-NAME_AR: العلق
-NAME_BM: Segumpal Darah
-NAME_EN: The Clinging Clot
+﻿SURAH_NUMBER: 96
+NAME_AR: سورة الـعلق
+NAME_BM: Embrio
+NAME_EN: The Embryo
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/096/096000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096000.mp3
 
 # Ayah 1
-AR: TODO_AR_096001
-BM: TODO_BM_096001
-EN: TODO_EN_096001
-AUDIO: ./assets/audio/096/096001.mp3
+AR: اقرَأ بِاسمِ رَبِّكَ الَّذي خَلَقَ
+BM: Bacalah, dengan nama Tuhanmu yang menciptakan.
+EN: Read, in the name of your Lord, who created.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096001.mp3
 
 # Ayah 2
-AR: TODO_AR_096002
-BM: TODO_BM_096002
-EN: TODO_EN_096002
-AUDIO: ./assets/audio/096/096002.mp3
+AR: خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ
+BM: Dialah yang menciptakan manusia dari embrio.
+EN: He created man from an embryo.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096002.mp3
 
 # Ayah 3
-AR: TODO_AR_096003
-BM: TODO_BM_096003
-EN: TODO_EN_096003
-AUDIO: ./assets/audio/096/096003.mp3
+AR: اقْرَأْ وَرَبُّكَ الْأَكْرَمُ
+BM: Bacalah, dan Tuhanmu, yang Maha Mulia.
+EN: Read, and your Lord, Most Exalted.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096003.mp3
 
 # Ayah 4
-AR: TODO_AR_096004
-BM: TODO_BM_096004
-EN: TODO_EN_096004
-AUDIO: ./assets/audio/096/096004.mp3
+AR: الَّذِي عَلَّمَ بِالْقَلَمِ
+BM: Yang mengajar melalui kegunaan pena.
+EN: Teaches by means of the pen.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096004.mp3
 
 # Ayah 5
-AR: TODO_AR_096005
-BM: TODO_BM_096005
-EN: TODO_EN_096005
-AUDIO: ./assets/audio/096/096005.mp3
+AR: عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ
+BM: Dialah yang mengajarkan manusia apa yang dia tidak pernah tahu.
+EN: He teaches man what he never knew.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096005.mp3
 
 # Ayah 6
-AR: TODO_AR_096006
-BM: TODO_BM_096006
-EN: TODO_EN_096006
-AUDIO: ./assets/audio/096/096006.mp3
+AR: كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ
+BM: Sesungguhnya, manusia amatlah melampaui batas.
+EN: Indeed, the human transgresses.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096006.mp3
 
 # Ayah 7
-AR: TODO_AR_096007
-BM: TODO_BM_096007
-EN: TODO_EN_096007
-AUDIO: ./assets/audio/096/096007.mp3
+AR: أَنْ رَآهُ اسْتَغْنَىٰ
+BM: Apabila dia menjadi kaya.
+EN: When he becomes rich.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096007.mp3
 
 # Ayah 8
-AR: TODO_AR_096008
-BM: TODO_BM_096008
-EN: TODO_EN_096008
-AUDIO: ./assets/audio/096/096008.mp3
+AR: إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ
+BM: Kepada Tuhanmu adalah destini yang terakhir.
+EN: To your Lord is the ultimate destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096008.mp3
 
 # Ayah 9
-AR: TODO_AR_096009
-BM: TODO_BM_096009
-EN: TODO_EN_096009
-AUDIO: ./assets/audio/096/096009.mp3
+AR: أَرَأَيْتَ الَّذِي يَنْهَىٰ
+BM: Sudahkah kamu perhatikan seseorang yang menegah.
+EN: Have you seen the one who enjoins.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096009.mp3
 
 # Ayah 10
-AR: TODO_AR_096010
-BM: TODO_BM_096010
-EN: TODO_EN_096010
-AUDIO: ./assets/audio/096/096010.mp3
+AR: عَبْدًا إِذَا صَلَّىٰ
+BM: yang lainnya dari bersembahyang?
+EN: Others from praying?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096010.mp3
 
 # Ayah 11
-AR: TODO_AR_096011
-BM: TODO_BM_096011
-EN: TODO_EN_096011
-AUDIO: ./assets/audio/096/096011.mp3
+AR: أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ
+BM: Tidakkah lebih baik baginya untuk mengikuti petunjuk?
+EN: Is it not better for him to follow the guidance?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096011.mp3
 
 # Ayah 12
-AR: TODO_AR_096012
-BM: TODO_BM_096012
-EN: TODO_EN_096012
-AUDIO: ./assets/audio/096/096012.mp3
+AR: أَوْ أَمَرَ بِالتَّقْوَىٰ
+BM: Ataupun menganjurkan kebajikan?
+EN: Or advocate righteousness?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096012.mp3
 
 # Ayah 13
-AR: TODO_AR_096013
-BM: TODO_BM_096013
-EN: TODO_EN_096013
-AUDIO: ./assets/audio/096/096013.mp3
+AR: أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ
+BM: Jika dia mengingkarkan dan berpaling
+EN: If he disbelieves and turns away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096013.mp3
 
 # Ayah 14
-AR: TODO_AR_096014
-BM: TODO_BM_096014
-EN: TODO_EN_096014
-AUDIO: ./assets/audio/096/096014.mp3
+AR: أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ
+BM: Tidakkah dia sedar yang Allah melihatkan?
+EN: Does he not realize that GOD sees?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096014.mp3
 
 # Ayah 15
-AR: TODO_AR_096015
-BM: TODO_BM_096015
-EN: TODO_EN_096015
-AUDIO: ./assets/audio/096/096015.mp3
+AR: كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ
+BM: Sesungguhnya, melainkan jika dia berhenti, kami akan menundukkannya.
+EN: Indeed, unless he refrains, we will take him by the forelock.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096015.mp3
 
 # Ayah 16
-AR: TODO_AR_096016
-BM: TODO_BM_096016
-EN: TODO_EN_096016
-AUDIO: ./assets/audio/096/096016.mp3
+AR: نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
+BM: Penunduk yang mengingkarkan dan yang berdosa.
+EN: A forelock that is disbelieving and sinful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096016.mp3
 
 # Ayah 17
-AR: TODO_AR_096017
-BM: TODO_BM_096017
-EN: TODO_EN_096017
-AUDIO: ./assets/audio/096/096017.mp3
+AR: فَلْيَدْعُ نَادِيَهُ
+BM: Biarkan dia memanggil kepada pembantu pembantunya.
+EN: Let him then call on his helpers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096017.mp3
 
 # Ayah 18
-AR: TODO_AR_096018
-BM: TODO_BM_096018
-EN: TODO_EN_096018
-AUDIO: ./assets/audio/096/096018.mp3
+AR: سَنَدْعُ الزَّبَانِيَةَ
+BM: Kami akan memanggil penjaga penjaga dari Neraka.
+EN: We will call the guardians of Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096018.mp3
 
 # Ayah 19
-AR: TODO_AR_096019
-BM: TODO_BM_096019
-EN: TODO_EN_096019
-AUDIO: ./assets/audio/096/096019.mp3
+AR: كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ
+BM: Jangan sekali kamu menta'atinya; kamu mestilah jatuh sujud dan lebih mendekatkan diri.
+EN: You shall not obey him; you shall fall prostrate and draw nearer.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/096019.mp3
+
+
+
+
+

@@ -1,274 +1,279 @@
-SURAH_NUMBER: 70
-NAME_AR: المعارج
-NAME_BM: Tempat Naik
-NAME_EN: The Ascending Stairways
+﻿SURAH_NUMBER: 70
+NAME_AR: سورة الـمعارج
+NAME_BM: Ketinggian
+NAME_EN: The Heights
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/070/070000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070000.mp3
 
 # Ayah 1
-AR: TODO_AR_070001
-BM: TODO_BM_070001
-EN: TODO_EN_070001
-AUDIO: ./assets/audio/070/070001.mp3
+AR: سَأَلَ سائِلٌ بِعَذابٍ واقِعٍ
+BM: Penyoal akan menyoalkan hukuman yang tidak boleh dielakkan lagi.
+EN: A questioner may question the inevitable retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070001.mp3
 
 # Ayah 2
-AR: TODO_AR_070002
-BM: TODO_BM_070002
-EN: TODO_EN_070002
-AUDIO: ./assets/audio/070/070002.mp3
+AR: لِلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ
+BM: Bagi orang orang yang ingkar, tidak ada siapa pun dapat menghentikannya.
+EN: For the disbelievers, none can stop it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070002.mp3
 
 # Ayah 3
-AR: TODO_AR_070003
-BM: TODO_BM_070003
-EN: TODO_EN_070003
-AUDIO: ./assets/audio/070/070003.mp3
+AR: مِنَ اللَّهِ ذِي الْمَعَارِجِ
+BM: Dari Allah; yang Maha Pemilik ketinggian yang tertinggi.
+EN: From GOD; Possessor of the highest Height.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070003.mp3
 
 # Ayah 4
-AR: TODO_AR_070004
-BM: TODO_BM_070004
-EN: TODO_EN_070004
-AUDIO: ./assets/audio/070/070004.mp3
+AR: تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ
+BM: Para malaikat,* dan Roh Suci, dengan laporan laporan mereka, memanjat kepadaNya dalam satu hari yang mana sama seperti lima puluh tahun.
+EN: The angels, with their reports, climb to Him in a day that equals fifty thousand years.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070004.mp3
 
 # Ayah 5
-AR: TODO_AR_070005
-BM: TODO_BM_070005
-EN: TODO_EN_070005
-AUDIO: ./assets/audio/070/070005.mp3
+AR: فَاصْبِرْ صَبْرًا جَمِيلًا
+BM: Dari itu, kamu mestilah mengamalkan kesabaran dan belas kasih.
+EN: Therefore, you shall resort to a gracious patience.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070005.mp3
 
 # Ayah 6
-AR: TODO_AR_070006
-BM: TODO_BM_070006
-EN: TODO_EN_070006
-AUDIO: ./assets/audio/070/070006.mp3
+AR: إِنَّهُمْ يَرَوْنَهُ بَعِيدًا
+BM: Kerana mereka melihatnya dari jarak yang sangat jauh.
+EN: For they see it far away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070006.mp3
 
 # Ayah 7
-AR: TODO_AR_070007
-BM: TODO_BM_070007
-EN: TODO_EN_070007
-AUDIO: ./assets/audio/070/070007.mp3
+AR: وَنَرَاهُ قَرِيبًا
+BM: Sementara kami melihatnya terlalu dekat.
+EN: While we see it very close.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070007.mp3
 
 # Ayah 8
-AR: TODO_AR_070008
-BM: TODO_BM_070008
-EN: TODO_EN_070008
-AUDIO: ./assets/audio/070/070008.mp3
+AR: يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ
+BM: Harinya akan tiba apabila langit akan menjadi seperti batu batu yang lebur.
+EN: The day will come when the sky will be like molten rocks.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070008.mp3
 
 # Ayah 9
-AR: TODO_AR_070009
-BM: TODO_BM_070009
-EN: TODO_EN_070009
-AUDIO: ./assets/audio/070/070009.mp3
+AR: وَتَكُونُ الْجِبَالُ كَالْعِهْنِ
+BM: Gunung gunung akan menjadi seperti bulu yang kegebuan.
+EN: The mountains will be like fluffy wool.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070009.mp3
 
 # Ayah 10
-AR: TODO_AR_070010
-BM: TODO_BM_070010
-EN: TODO_EN_070010
-AUDIO: ./assets/audio/070/070010.mp3
+AR: وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا
+BM: Tidak ada kawan yang dapat perdulikan tentangn kawan rapatnya.
+EN: No friend will care about his close friend.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070010.mp3
 
 # Ayah 11
-AR: TODO_AR_070011
-BM: TODO_BM_070011
-EN: TODO_EN_070011
-AUDIO: ./assets/audio/070/070011.mp3
+AR: يُبَصَّرُونَهُمْ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ
+BM: Apabila mereka melihat mereka, pesalah akan berkeinginan supaya dia dapat menggantikan anak anaknya sendiri sebagai tebusan, untuk menyelamatkannya dari hukuman pada hari itu.
+EN: When they see them, the guilty will wish he could give his own children as ransom, to spare him the retribution of that day.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070011.mp3
 
 # Ayah 12
-AR: TODO_AR_070012
-BM: TODO_BM_070012
-EN: TODO_EN_070012
-AUDIO: ./assets/audio/070/070012.mp3
+AR: وَصَاحِبَتِهِ وَأَخِيهِ
+BM: Juga pasangannya (suami isteri), dan saudara lelakinya.
+EN: Also his spouse, and his brother.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070012.mp3
 
 # Ayah 13
-AR: TODO_AR_070013
-BM: TODO_BM_070013
-EN: TODO_EN_070013
-AUDIO: ./assets/audio/070/070013.mp3
+AR: وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ
+BM: Bahkan seluruh puaknya yang membesarkannya.
+EN: Even his whole tribe that raised him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070013.mp3
 
 # Ayah 14
-AR: TODO_AR_070014
-BM: TODO_BM_070014
-EN: TODO_EN_070014
-AUDIO: ./assets/audio/070/070014.mp3
+AR: وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ
+BM: Bahkan keseluruh manusia diatas bumi, jika ianya dapat menyelamatkannya.
+EN: Even all the people on earth, if it would save him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070014.mp3
 
 # Ayah 15
-AR: TODO_AR_070015
-BM: TODO_BM_070015
-EN: TODO_EN_070015
-AUDIO: ./assets/audio/070/070015.mp3
+AR: كَلَّا إِنَّهَا لَظَىٰ
+BM: Tidak; ianya adalah api yang bernyala nyala.
+EN: No; it is aflame.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070015.mp3
 
 # Ayah 16
-AR: TODO_AR_070016
-BM: TODO_BM_070016
-EN: TODO_EN_070016
-AUDIO: ./assets/audio/070/070016.mp3
+AR: نَزَّاعَةً لِلشَّوَىٰ
+BM: Berkeinginan keras untuk membakar.
+EN: Eager to burn.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070016.mp3
 
 # Ayah 17
-AR: TODO_AR_070017
-BM: TODO_BM_070017
-EN: TODO_EN_070017
-AUDIO: ./assets/audio/070/070017.mp3
+AR: تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ
+BM: Ianya memanggil kepada orang orang yang berpaling.
+EN: It calls on those who turned away.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070017.mp3
 
 # Ayah 18
-AR: TODO_AR_070018
-BM: TODO_BM_070018
-EN: TODO_EN_070018
-AUDIO: ./assets/audio/070/070018.mp3
+AR: وَجَمَعَ فَأَوْعَىٰ
+BM: Orang orang yang mengumpulkan dan mengira.
+EN: Those who hoarded and counted.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070018.mp3
 
 # Ayah 19
-AR: TODO_AR_070019
-BM: TODO_BM_070019
-EN: TODO_EN_070019
-AUDIO: ./assets/audio/070/070019.mp3
+AR: إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا
+BM: Sesungguhnya, manusia itu didalam keadaan kebimbangan.
+EN: Indeed, the human being is anxious.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070019.mp3
 
 # Ayah 20
-AR: TODO_AR_070020
-BM: TODO_BM_070020
-EN: TODO_EN_070020
-AUDIO: ./assets/audio/070/070020.mp3
+AR: إِذَا مَسَّهُ الشَّرُّ جَزُوعًا
+BM: Jika dilanda kesukaran, berputus asa.
+EN: If touched by adversity, despondent.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070020.mp3
 
 # Ayah 21
-AR: TODO_AR_070021
-BM: TODO_BM_070021
-EN: TODO_EN_070021
-AUDIO: ./assets/audio/070/070021.mp3
+AR: وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا
+BM: Jika dirahmati dengan kekayaan, menjadi kikir.
+EN: If blessed by wealth, stingy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070021.mp3
 
 # Ayah 22
-AR: TODO_AR_070022
-BM: TODO_BM_070022
-EN: TODO_EN_070022
-AUDIO: ./assets/audio/070/070022.mp3
+AR: إِلَّا الْمُصَلِّينَ
+BM: Melainkan bagi penyembah penyembah.
+EN: Except for the worshipers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070022.mp3
 
 # Ayah 23
-AR: TODO_AR_070023
-BM: TODO_BM_070023
-EN: TODO_EN_070023
-AUDIO: ./assets/audio/070/070023.mp3
+AR: الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ
+BM: Yang sentiasa mengerjakan sembahyang (Salat).
+EN: Who always observe their contact prayers (Salat).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070023.mp3
 
 # Ayah 24
-AR: TODO_AR_070024
-BM: TODO_BM_070024
-EN: TODO_EN_070024
-AUDIO: ./assets/audio/070/070024.mp3
+AR: وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ
+BM: Sebahagian dari wang mereka diketepikan.
+EN: Part of their money is set aside.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070024.mp3
 
 # Ayah 25
-AR: TODO_AR_070025
-BM: TODO_BM_070025
-EN: TODO_EN_070025
-AUDIO: ./assets/audio/070/070025.mp3
+AR: لِلسَّائِلِ وَالْمَحْرُومِ
+BM: Untuk orang orang miskin dan yang memerlukan.
+EN: For the poor and the needy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070025.mp3
 
 # Ayah 26
-AR: TODO_AR_070026
-BM: TODO_BM_070026
-EN: TODO_EN_070026
-AUDIO: ./assets/audio/070/070026.mp3
+AR: وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ
+BM: Mereka percaya kepada Hari Pengadilan.
+EN: They believe in the Day of Judgment.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070026.mp3
 
 # Ayah 27
-AR: TODO_AR_070027
-BM: TODO_BM_070027
-EN: TODO_EN_070027
-AUDIO: ./assets/audio/070/070027.mp3
+AR: وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ
+BM: Mereka menghormati pembalasan Tuhan mereka.
+EN: They reverence their Lord's requital.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070027.mp3
 
 # Ayah 28
-AR: TODO_AR_070028
-BM: TODO_BM_070028
-EN: TODO_EN_070028
-AUDIO: ./assets/audio/070/070028.mp3
+AR: إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ
+BM: Pembalasan dari Tuhan mereka tidak diambil ringan.
+EN: Their Lord's requital is not taken for granted.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070028.mp3
 
 # Ayah 29
-AR: TODO_AR_070029
-BM: TODO_BM_070029
-EN: TODO_EN_070029
-AUDIO: ./assets/audio/070/070029.mp3
+AR: وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ
+BM: Mereka memelihara kesucian mereka.
+EN: They keep their chastity.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070029.mp3
 
 # Ayah 30
-AR: TODO_AR_070030
-BM: TODO_BM_070030
-EN: TODO_EN_070030
-AUDIO: ./assets/audio/070/070030.mp3
+AR: إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ
+BM: (Mereka mengadakan perhubungan) hanyalah dengan pasangan mereka (suami isteri), ataupun apa yang telah disahkan untuk mereka-
+EN: (They have relations) only with their spouses, or what is legally theirs--
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070030.mp3
 
 # Ayah 31
-AR: TODO_AR_070031
-BM: TODO_BM_070031
-EN: TODO_EN_070031
-AUDIO: ./assets/audio/070/070031.mp3
+AR: فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ
+BM: sesiapa yang melampaui batas berlebihan dari ini adalah pendosa.
+EN: anyone who transgresses these limits is a sinner--
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070031.mp3
 
 # Ayah 32
-AR: TODO_AR_070032
-BM: TODO_BM_070032
-EN: TODO_EN_070032
-AUDIO: ./assets/audio/070/070032.mp3
+AR: وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ
+BM: Dan orang orang yang percaya memegang janji janji mereka; mereka itu adalah amanah.
+EN: And the believers keep their word; they are trustworthy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070032.mp3
 
 # Ayah 33
-AR: TODO_AR_070033
-BM: TODO_BM_070033
-EN: TODO_EN_070033
-AUDIO: ./assets/audio/070/070033.mp3
+AR: وَالَّذِينَ هُمْ بِشَهَادَاتِهِمْ قَائِمُونَ
+BM: Testimoni mereka adalah benar.
+EN: Their testimony is truthful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070033.mp3
 
 # Ayah 34
-AR: TODO_AR_070034
-BM: TODO_BM_070034
-EN: TODO_EN_070034
-AUDIO: ./assets/audio/070/070034.mp3
+AR: وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
+BM: Mereka konsisten dalam mengerjakan sembahyang (Salat) tepat pada waktunya.
+EN: They consistently observe their contact prayers (Salat), on time.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070034.mp3
 
 # Ayah 35
-AR: TODO_AR_070035
-BM: TODO_BM_070035
-EN: TODO_EN_070035
-AUDIO: ./assets/audio/070/070035.mp3
+AR: أُولَٰئِكَ فِي جَنَّاتٍ مُكْرَمُونَ
+BM: Mereka sepatutnya mendapat suatu kedudukan yang mulia didalam Syurga.
+EN: They have deserved a position of honor, in Paradise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070035.mp3
 
 # Ayah 36
-AR: TODO_AR_070036
-BM: TODO_BM_070036
-EN: TODO_EN_070036
-AUDIO: ./assets/audio/070/070036.mp3
+AR: فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ
+BM: Apa yang menahan orang orang yang ingkar itu dari mengikutimu?
+EN: What is keeping those who disbelieved from joining you?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070036.mp3
 
 # Ayah 37
-AR: TODO_AR_070037
-BM: TODO_BM_070037
-EN: TODO_EN_070037
-AUDIO: ./assets/audio/070/070037.mp3
+AR: عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ
+BM: Kekanan , dan kekiri, mereka melarikan diri.
+EN: To the right, and to the left, they flee.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070037.mp3
 
 # Ayah 38
-AR: TODO_AR_070038
-BM: TODO_BM_070038
-EN: TODO_EN_070038
-AUDIO: ./assets/audio/070/070038.mp3
+AR: أَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُدْخَلَ جَنَّةَ نَعِيمٍ
+BM: Bagaimanakah mereka dapat mengharapkan untuk memasuki Syurga yang indah?
+EN: How can any of them expect to enter the blissful Paradise?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070038.mp3
 
 # Ayah 39
-AR: TODO_AR_070039
-BM: TODO_BM_070039
-EN: TODO_EN_070039
-AUDIO: ./assets/audio/070/070039.mp3
+AR: كَلَّا إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ
+BM: Tidak; kami telah menciptakan mereka, dan mereka tahu dari apa.
+EN: Never; we created them, and they know from what.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070039.mp3
 
 # Ayah 40
-AR: TODO_AR_070040
-BM: TODO_BM_070040
-EN: TODO_EN_070040
-AUDIO: ./assets/audio/070/070040.mp3
+AR: فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ
+BM: Aku bersumpah dengan seriusnya demi Tuhan bagi timur timur dan barat barat; kami tentu sekali boleh-
+EN: I solemnly swear by the Lord of the easts and the wests; we are able--
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070040.mp3
 
 # Ayah 41
-AR: TODO_AR_070041
-BM: TODO_BM_070041
-EN: TODO_EN_070041
-AUDIO: ./assets/audio/070/070041.mp3
+AR: عَلَىٰ أَنْ نُبَدِّلَ خَيْرًا مِنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ
+BM: untuk menggantikan orang yang lebih baik ditempat kamu; kami tidak pernah boleh dikalahkan.
+EN: to substitute better people in your place; we can never be defeated.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070041.mp3
 
 # Ayah 42
-AR: TODO_AR_070042
-BM: TODO_BM_070042
-EN: TODO_EN_070042
-AUDIO: ./assets/audio/070/070042.mp3
+AR: فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ
+BM: Dari itu, biarkan mereka berkhayalan dan bermain main, sehingga mereka akan bertemu dengan hari yang sedang menunggukan mereka.
+EN: Therefore, let them blunder and play, until they meet the day that is awaiting them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070042.mp3
 
 # Ayah 43
-AR: TODO_AR_070043
-BM: TODO_BM_070043
-EN: TODO_EN_070043
-AUDIO: ./assets/audio/070/070043.mp3
+AR: يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ
+BM: Itulah harinya yang mereka keluar dari kubur kubur dengan terburu buru, seolah olah dikumpulkan (dikorbankan untuk penyembahan) dialtar altar.
+EN: That is the day they come out of the graves in a hurry, as if herded to the (sacrificial) altars.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070043.mp3
 
 # Ayah 44
-AR: TODO_AR_070044
-BM: TODO_BM_070044
-EN: TODO_EN_070044
-AUDIO: ./assets/audio/070/070044.mp3
+AR: خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ
+BM: Dengan mata mata mereka tunduk, keaiban akan meliputi mereka. Itulah harinya yang sedang menunggu mereka.
+EN: With their eyes subdued, shame will cover them. That is the day that is awaiting them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/070044.mp3
+
+
+
+
+

@@ -1,58 +1,63 @@
-SURAH_NUMBER: 98
-NAME_AR: البينة
-NAME_BM: Bukti Nyata
-NAME_EN: The Clear Proof
+﻿SURAH_NUMBER: 98
+NAME_AR: سورة الـبينة
+NAME_BM: Bukti
+NAME_EN: Proof
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/098/098000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098000.mp3
 
 # Ayah 1
-AR: TODO_AR_098001
-BM: TODO_BM_098001
-EN: TODO_EN_098001
-AUDIO: ./assets/audio/098/098001.mp3
+AR: لَم يَكُنِ الَّذينَ كَفَروا مِن أَهلِ الكِتابِ وَالمُشرِكينَ مُنفَكّينَ حَتّىٰ تَأتِيَهُمُ البَيِّنَةُ
+BM: Orang orang yang ingkar diantara ahli kitab, dan juga penyembah pujaan pujaan, berkeras dengan pendirian mereka, meskipun bukti telah diberikan kepada mereka.
+EN: Those who disbelieved among the people of the scripture, as well as the idol worshipers, insist on their ways, despite the proof given to them.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098001.mp3
 
 # Ayah 2
-AR: TODO_AR_098002
-BM: TODO_BM_098002
-EN: TODO_EN_098002
-AUDIO: ./assets/audio/098/098002.mp3
+AR: رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً
+BM: Seorang rasul dari Allah telah membacakan arahan arahan yang suci kepada mereka.
+EN: A messenger from GOD is reciting to them sacred instructions.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098002.mp3
 
 # Ayah 3
-AR: TODO_AR_098003
-BM: TODO_BM_098003
-EN: TODO_EN_098003
-AUDIO: ./assets/audio/098/098003.mp3
+AR: فِيهَا كُتُبٌ قَيِّمَةٌ
+BM: Didalamnya adalah pengajaran pengajaran yang berharga.
+EN: In them there are valuable teachings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098003.mp3
 
 # Ayah 4
-AR: TODO_AR_098004
-BM: TODO_BM_098004
-EN: TODO_EN_098004
-AUDIO: ./assets/audio/098/098004.mp3
+AR: وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ
+BM: Sebenarnya, orang orang yang telah menerima kitab tidaklah bertelingkahan sehinggalah bukti telah diberikan kepada mereka.
+EN: In fact, those who received the scripture did not dispute until the proof was given to them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098004.mp3
 
 # Ayah 5
-AR: TODO_AR_098005
-BM: TODO_BM_098005
-EN: TODO_EN_098005
-AUDIO: ./assets/audio/098/098005.mp3
+AR: وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ وَذَٰلِكَ دِينُ الْقَيِّمَةِ
+BM: Semuanya yang diminta dari mereka hanyalah menyembah Allah, mengabdikan agama semata mata kepadaNya sahaja, mengerjakan sembahyang (Salat), dan memberikan derma yang diwajibkan (Zakat). Demikian itu adalah agama yang sempurna.
+EN: All that was asked of them was to worship GOD, devoting the religion absolutely to Him alone, observe the contact prayers (Salat), and give the obligatory charity (Zakat). Such is the perfect religion.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098005.mp3
 
 # Ayah 6
-AR: TODO_AR_098006
-BM: TODO_BM_098006
-EN: TODO_EN_098006
-AUDIO: ./assets/audio/098/098006.mp3
+AR: إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ
+BM: Orang orang yang ingkar diantara ahli kitab, dan penyembah pujaan pujaan, telah dikenakan api dari Gehenna untuk selama lamanya. Mereka adalah makhluk yang paling buruk sekali.
+EN: Those who disbelieved among the people of the scripture, and the idol worshipers have incurred the fire of Gehenna forever. They are the worst creatures.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098006.mp3
 
 # Ayah 7
-AR: TODO_AR_098007
-BM: TODO_BM_098007
-EN: TODO_EN_098007
-AUDIO: ./assets/audio/098/098007.mp3
+AR: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ
+BM: Orang orang yang percaya dan yang menjalani kehidupan yang benar adalah makhluk yang paling baik sekali.
+EN: Those who believed and led a righteous life are the best creatures.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098007.mp3
 
 # Ayah 8
-AR: TODO_AR_098008
-BM: TODO_BM_098008
-EN: TODO_EN_098008
-AUDIO: ./assets/audio/098/098008.mp3
+AR: جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ
+BM: Anugerah mereka disisi Tuhan mereka adalah taman taman 'Adnin dengan air sungai sungainya yang mengalir, didalamnya mereka akan tinggal untuk selama lamanya. Allah telah meredhai mereka, dan mereka juga sangat meredhaiNya. Demikian itulah anugerah bagi orang orang yang menghormati Tuhan mereka.
+EN: Their reward at their Lord is the gardens of Eden with flowing streams, wherein they abide forever. GOD is pleased with them, and they are pleased with Him. Such is the reward for those who reverence their Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/098008.mp3
+
+
+
+
+

@@ -1,5 +1,6 @@
 import { AudioController } from "./audioController.js";
 import { getInitialLanguage, translate } from "./i18n.js";
+import { surahDisplayMeta } from "./surahDisplayMeta.js";
 import { bmTranslatedSuraNames } from "./suraNames.js";
 
 const appState = {
@@ -24,6 +25,7 @@ const elements = {
   layout: document.querySelector("#app-layout"),
   listPanel: document.querySelector("#surah-list-panel"),
   readerPanel: document.querySelector("#reader-panel"),
+  scrollTopButton: document.querySelector("#scroll-top-button"),
   appTitle: document.querySelector("#app-title"),
   appSubtitle: document.querySelector("#app-subtitle"),
   appKicker: document.querySelector("#app-kicker"),
@@ -58,6 +60,7 @@ async function init() {
   bindEvents();
   elements.surahSearch.value = appState.searchQuery;
   applyUiText();
+  syncScrollTopButton();
 
   const catalogResponse = await fetch(catalogUrl);
   appState.catalog = await catalogResponse.json();
@@ -70,11 +73,13 @@ async function init() {
 
 function bindEvents() {
   elements.languageSelect.value = appState.language;
+  window.addEventListener("scroll", syncScrollTopButton, { passive: true });
 
   mobileMediaQuery.addEventListener("change", (event) => {
     appState.isMobile = event.matches;
     appState.mobileView = event.matches ? appState.mobileView : "reader";
     syncResponsiveLayout();
+    syncScrollTopButton();
   });
 
   elements.languageSelect.addEventListener("change", (event) => {
@@ -159,6 +164,10 @@ function bindEvents() {
     scrollToList();
   });
 
+  elements.scrollTopButton.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+
   elements.searchResults.addEventListener("click", async (event) => {
     const button = event.target.closest("[data-result-surah]");
     if (!button) {
@@ -195,6 +204,8 @@ function applyUiText() {
   elements.searchSubmit.textContent = translate(appState.language, "searchButton");
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
+  elements.scrollTopButton.setAttribute("aria-label", translate(appState.language, "scrollTop"));
+  elements.scrollTopButton.title = translate(appState.language, "scrollTop");
 }
 
 function syncResponsiveLayout() {
@@ -234,7 +245,7 @@ function renderSurahList() {
             <span class="surah-number">${surah.number}</span>
             <div class="surah-name-group">
               <h3>${displayNames.primary}</h3>
-              <p class="surah-meta">${displayNames.secondary} • ${surah.name.ar}</p>
+              <p class="surah-meta">${displayNames.secondary} • ${displayNames.arabic}</p>
               <p class="surah-meta">${formatVerseCount(surah.totalAyahs)}</p>
             </div>
           </div>
@@ -369,6 +380,12 @@ function scrollToList() {
   });
 }
 
+function syncScrollTopButton() {
+  const shouldShow = window.scrollY > 320;
+  elements.scrollTopButton.classList.toggle("is-visible", shouldShow);
+  elements.scrollTopButton.setAttribute("aria-hidden", String(!shouldShow));
+}
+
 function renderStatus(message, isWarning = false) {
   elements.readerStatus.textContent = message;
   elements.readerStatus.classList.toggle("is-warning", Boolean(message) && isWarning);
@@ -474,6 +491,7 @@ function getSurahCardDisplayNames(surah) {
   return {
     primary: getSuraDisplayName(surah),
     secondary: getSuraSecondaryName(surah),
+    arabic: getSuraArabicDisplayName(surah),
   };
 }
 
@@ -487,8 +505,13 @@ function getSuraDisplayName(suraLike) {
 }
 
 function getSuraSecondaryName(suraLike) {
-  const { name } = getSuraNameParts(suraLike);
-  return name.bm;
+  const { number, name } = getSuraNameParts(suraLike);
+  return surahDisplayMeta[number]?.latin ?? name.bm;
+}
+
+function getSuraArabicDisplayName(suraLike) {
+  const { number, name } = getSuraNameParts(suraLike);
+  return surahDisplayMeta[number]?.arabic ?? name.ar;
 }
 
 function getSuraNameParts(suraLike) {
@@ -549,7 +572,7 @@ function getAudioPath(surahNumber, ayahNumber, audioPath) {
 
   const sura = String(surahNumber).padStart(3, "0");
   const audioFile = `${sura}${String(ayahNumber).padStart(3, "0")}`;
-  return `./assets/audio/${sura}/${audioFile}.mp3`;
+  return `https://everyayah.com/data/Alafasy_64kbps/${audioFile}.mp3`;
 }
 
 function getAudioKey(surahNumber, ayahNumber) {

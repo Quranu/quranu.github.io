@@ -1,142 +1,147 @@
-SURAH_NUMBER: 85
-NAME_AR: البروج
-NAME_BM: Gugusan Bintang
-NAME_EN: The Mansions of the Stars
+﻿SURAH_NUMBER: 85
+NAME_AR: سورة البروج
+NAME_BM: Bimasakti Bimasakti
+NAME_EN: The Galaxies
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/085/085000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085000.mp3
 
 # Ayah 1
-AR: TODO_AR_085001
-BM: TODO_BM_085001
-EN: TODO_EN_085001
-AUDIO: ./assets/audio/085/085001.mp3
+AR: وَالسَّماءِ ذاتِ البُروجِ
+BM: Langit serta bimasakti bimasaktinya.
+EN: The sky and its galaxies.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085001.mp3
 
 # Ayah 2
-AR: TODO_AR_085002
-BM: TODO_BM_085002
-EN: TODO_EN_085002
-AUDIO: ./assets/audio/085/085002.mp3
+AR: وَالْيَوْمِ الْمَوْعُودِ
+BM: Hari yang dijanjikan.
+EN: The promised day.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085002.mp3
 
 # Ayah 3
-AR: TODO_AR_085003
-BM: TODO_BM_085003
-EN: TODO_EN_085003
-AUDIO: ./assets/audio/085/085003.mp3
+AR: وَشَاهِدٍ وَمَشْهُودٍ
+BM: Saksi dan yang menjadi saksi.
+EN: The witness and the witnessed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085003.mp3
 
 # Ayah 4
-AR: TODO_AR_085004
-BM: TODO_BM_085004
-EN: TODO_EN_085004
-AUDIO: ./assets/audio/085/085004.mp3
+AR: قُتِلَ أَصْحَابُ الْأُخْدُودِ
+BM: Malang sungguh bagi penduduk penduduk dilembah yang mendalam.
+EN: Woe to the people of the canyon.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085004.mp3
 
 # Ayah 5
-AR: TODO_AR_085005
-BM: TODO_BM_085005
-EN: TODO_EN_085005
-AUDIO: ./assets/audio/085/085005.mp3
+AR: النَّارِ ذَاتِ الْوَقُودِ
+BM: Mereka menyalakan api yang membakar.
+EN: They ignited a blazing fire.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085005.mp3
 
 # Ayah 6
-AR: TODO_AR_085006
-BM: TODO_BM_085006
-EN: TODO_EN_085006
-AUDIO: ./assets/audio/085/085006.mp3
+AR: إِذْ هُمْ عَلَيْهَا قُعُودٌ
+BM: Lalu duduk mengelilinginya.
+EN: Then sat around it.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085006.mp3
 
 # Ayah 7
-AR: TODO_AR_085007
-BM: TODO_BM_085007
-EN: TODO_EN_085007
-AUDIO: ./assets/audio/085/085007.mp3
+AR: وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ
+BM: Untuk menyaksikan orang orang percaya yang dibakar.
+EN: To watch the burning of the believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085007.mp3
 
 # Ayah 8
-AR: TODO_AR_085008
-BM: TODO_BM_085008
-EN: TODO_EN_085008
-AUDIO: ./assets/audio/085/085008.mp3
+AR: وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ
+BM: Mereka membenci mereka itu dengan tidak ada apa alasan melainkan kerana mempercayakan Allah, yang Maha Kuat lagi Maha Terpuji.
+EN: They hated them for no other reason than believing in GOD, the Almighty, the Praiseworthy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085008.mp3
 
 # Ayah 9
-AR: TODO_AR_085009
-BM: TODO_BM_085009
-EN: TODO_EN_085009
-AUDIO: ./assets/audio/085/085009.mp3
+AR: الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ
+BM: KepunyaanNya kerajaan bagi sekelian cekrawala dan bumi. Dan Allah menyaksikan segala sesuatu.
+EN: To Him belongs the kingship of the heavens and the earth. And GOD witnesses all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085009.mp3
 
 # Ayah 10
-AR: TODO_AR_085010
-BM: TODO_BM_085010
-EN: TODO_EN_085010
-AUDIO: ./assets/audio/085/085010.mp3
+AR: إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ
+BM: Sudah tentu, orang orang yang menyiksa orang orang percaya lelaki dan perempuan, lalu gagal untuk bertaubat, telah menerima siksaan Gehenna; mereka telah dikenakan hukuman bakaran.
+EN: Surely, those who persecute the believing men and women, then fail to repent, have incurred the retribution of Gehenna; they have incurred the retribution of burning.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085010.mp3
 
 # Ayah 11
-AR: TODO_AR_085011
-BM: TODO_BM_085011
-EN: TODO_EN_085011
-AUDIO: ./assets/audio/085/085011.mp3
+AR: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ
+BM: Sudah tentu, orang orang yang percaya dan menjalani kehidupan yang benar, sepatutnyalah mendapatkan taman taman dengan air sungai sungainya yang mengalir. Ini adalah kemenangan yang terbesar.
+EN: Surely, those who believed and led a righteous life, have deserved gardens with flowing streams. This is the greatest triumph.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085011.mp3
 
 # Ayah 12
-AR: TODO_AR_085012
-BM: TODO_BM_085012
-EN: TODO_EN_085012
-AUDIO: ./assets/audio/085/085012.mp3
+AR: إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+BM: Sesungguhnya, pembalasan dari Allah amatlah dahsyat sekali.
+EN: Indeed, your Lord's blow is severe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085012.mp3
 
 # Ayah 13
-AR: TODO_AR_085013
-BM: TODO_BM_085013
-EN: TODO_EN_085013
-AUDIO: ./assets/audio/085/085013.mp3
+AR: إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ
+BM: Dia Sahajalah yang meinisiasikan dan mengulanginya.
+EN: He is the One who initiates and repeats.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085013.mp3
 
 # Ayah 14
-AR: TODO_AR_085014
-BM: TODO_BM_085014
-EN: TODO_EN_085014
-AUDIO: ./assets/audio/085/085014.mp3
+AR: وَهُوَ الْغَفُورُ الْوَدُودُ
+BM: Dan Dia adalah yang Maha Pengampun lagi Maha Mengasihani.
+EN: And He is the Forgiving, Most Kind.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085014.mp3
 
 # Ayah 15
-AR: TODO_AR_085015
-BM: TODO_BM_085015
-EN: TODO_EN_085015
-AUDIO: ./assets/audio/085/085015.mp3
+AR: ذُو الْعَرْشِ الْمَجِيدُ
+BM: Pemilik bagi tahta yang cemerlang.
+EN: Possessor of the glorious throne.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085015.mp3
 
 # Ayah 16
-AR: TODO_AR_085016
-BM: TODO_BM_085016
-EN: TODO_EN_085016
-AUDIO: ./assets/audio/085/085016.mp3
+AR: فَعَّالٌ لِمَا يُرِيدُ
+BM: Pembuat bagi apa saja yang Dia kehendaki.
+EN: Doer of whatever He wills.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085016.mp3
 
 # Ayah 17
-AR: TODO_AR_085017
-BM: TODO_BM_085017
-EN: TODO_EN_085017
-AUDIO: ./assets/audio/085/085017.mp3
+AR: هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ
+BM: Telahkah kamu memperhatikan sejarah bagi askar askar?
+EN: Did you note the history of the troops?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085017.mp3
 
 # Ayah 18
-AR: TODO_AR_085018
-BM: TODO_BM_085018
-EN: TODO_EN_085018
-AUDIO: ./assets/audio/085/085018.mp3
+AR: فِرْعَوْنَ وَثَمُودَ
+BM: Fir'aun dan Thamud?
+EN: Pharaoh and Thamûd?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085018.mp3
 
 # Ayah 19
-AR: TODO_AR_085019
-BM: TODO_BM_085019
-EN: TODO_EN_085019
-AUDIO: ./assets/audio/085/085019.mp3
+AR: بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ
+BM: Orang orang yang ingkar selalu menafikan.
+EN: Those who disbelieve are plagued with denial.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085019.mp3
 
 # Ayah 20
-AR: TODO_AR_085020
-BM: TODO_BM_085020
-EN: TODO_EN_085020
-AUDIO: ./assets/audio/085/085020.mp3
+AR: وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ
+BM: Allah amat sedar akan mereka.
+EN: GOD is fully aware of them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085020.mp3
 
 # Ayah 21
-AR: TODO_AR_085021
-BM: TODO_BM_085021
-EN: TODO_EN_085021
-AUDIO: ./assets/audio/085/085021.mp3
+AR: بَلْ هُوَ قُرْآنٌ مَجِيدٌ
+BM: Sesungguhnya, ianya adalah Quran yang gemilang.
+EN: Indeed, it is a glorious Quran.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085021.mp3
 
 # Ayah 22
-AR: TODO_AR_085022
-BM: TODO_BM_085022
-EN: TODO_EN_085022
-AUDIO: ./assets/audio/085/085022.mp3
+AR: فِي لَوْحٍ مَحْفُوظٍ
+BM: Tersimpan rapi didalam sebuah tablet yang ulung.
+EN: In a preserved master tablet.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/085022.mp3
+
+
+
+
+

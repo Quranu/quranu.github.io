@@ -1,53 +1,53 @@
 {
   "surahNumber": 97,
   "name": {
-    "ar": "القدر",
-    "bm": "Kemuliaan",
-    "en": "The Power"
+    "ar": "سورة الـقدر",
+    "bm": "Destini",
+    "en": "Destiny"
   },
   "totalAyahs": 5,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/097/097000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/097000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_097001",
-      "bm": "TODO_BM_097001",
-      "en": "TODO_EN_097001",
-      "audio": "./assets/audio/097/097001.mp3"
+      "arabic": "إِنّا أَنزَلناهُ في لَيلَةِ القَدرِ",
+      "bm": "Kami menurunkannya diMalam Destini.",
+      "en": "We revealed it in the Night of Destiny.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/097001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_097002",
-      "bm": "TODO_BM_097002",
-      "en": "TODO_EN_097002",
-      "audio": "./assets/audio/097/097002.mp3"
+      "arabic": "وَمَا أَدْرَٮکَ مَا لَيْلَةُ الْقَدْرِ",
+      "bm": "Betapa mulianya akan Malam Destini!",
+      "en": "How awesome is the Night of Destiny!",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/097002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_097003",
-      "bm": "TODO_BM_097003",
-      "en": "TODO_EN_097003",
-      "audio": "./assets/audio/097/097003.mp3"
+      "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+      "bm": "Malam Destini adalah lebih baik lagi dari seribu bulan.",
+      "en": "The Night of Destiny is better than a thousand months.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/097003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_097004",
-      "bm": "TODO_BM_097004",
-      "en": "TODO_EN_097004",
-      "audio": "./assets/audio/097/097004.mp3"
+      "arabic": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
+      "bm": "Para malaikat dan Roh turun didalamnya, dengan izin dari Tuhan mereka, untuk melaksanakan segala perintah.",
+      "en": "The angels and the Spirit descend therein, by their Lord's leave, to carry out every command.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/097004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_097005",
-      "bm": "TODO_BM_097005",
-      "en": "TODO_EN_097005",
-      "audio": "./assets/audio/097/097005.mp3"
+      "arabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+      "bm": "Keamanan baginya sehingga terbitnya subuh.",
+      "en": "Peaceful it is until the advent of the dawn.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/097005.mp3"
     }
   ]
 }

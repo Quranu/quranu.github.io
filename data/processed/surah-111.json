@@ -1,53 +1,53 @@
 {
   "surahNumber": 111,
   "name": {
-    "ar": "المسد",
-    "bm": "Sabut",
-    "en": "The Palm Fiber"
+    "ar": "سورة الـمسد",
+    "bm": "Duri Duri",
+    "en": "Thorns"
   },
   "totalAyahs": 5,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/111/111000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/111000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_111001",
-      "bm": "TODO_BM_111001",
-      "en": "TODO_EN_111001",
-      "audio": "./assets/audio/111/111001.mp3"
+      "arabic": "تَبَّت يَدا أَبي لَهَبٍ وَتَبَّ",
+      "bm": "Terkutuk adalah pekerjaan Abi Lahab, dan dia telah dikutuk.",
+      "en": "Condemned are the works of Abee Lahab, and he is condemned.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/111001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_111002",
-      "bm": "TODO_BM_111002",
-      "en": "TODO_EN_111002",
-      "audio": "./assets/audio/111/111002.mp3"
+      "arabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "bm": "Wangnya dan apa saja yang dia telah usahakan tidak akan dapat menolongnya.",
+      "en": "His money and whatever he has accomplished will never help him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/111002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_111003",
-      "bm": "TODO_BM_111003",
-      "en": "TODO_EN_111003",
-      "audio": "./assets/audio/111/111003.mp3"
+      "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "bm": "Dia telah dikenakan Neraka yang bernyala nyala.",
+      "en": "He has incurred the blazing Hell.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/111003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_111004",
-      "bm": "TODO_BM_111004",
-      "en": "TODO_EN_111004",
-      "audio": "./assets/audio/111/111004.mp3"
+      "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "bm": "Begitu juga dengan isterinya, yang melancarkan penyeksaan.",
+      "en": "Also his wife, who led the persecution.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/111004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_111005",
-      "bm": "TODO_BM_111005",
-      "en": "TODO_EN_111005",
-      "audio": "./assets/audio/111/111005.mp3"
+      "arabic": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+      "bm": "Dia akan (dibangkitkan) dengan tali berduri dsekeliling lehernya.",
+      "en": "She will be (resurrected) with a rope of thorns around her neck.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/111005.mp3"
     }
   ]
 }

@@ -1,676 +1,713 @@
-SURAH_NUMBER: 12
-NAME_AR: يوسف
+﻿SURAH_NUMBER: 12
+NAME_AR: سورة يوسف
 NAME_BM: Yusuf
 NAME_EN: Joseph
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/012/012000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012000.mp3
 
 # Ayah 1
-AR: TODO_AR_012001
-BM: TODO_BM_012001
-EN: TODO_EN_012001
-AUDIO: ./assets/audio/012/012001.mp3
+AR: الر تِلكَ آياتُ الكِتابِ المُبينِ
+BM: A . L . R. (Alif. Lam. Raa - Huruf huruf) didalam kitab ini adalah bukti bukti yang sangat nyata.
+EN: A. L. R. These (letters) are proofs of this profound scripture.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012001.mp3
 
 # Ayah 2
-AR: TODO_AR_012002
-BM: TODO_BM_012002
-EN: TODO_EN_012002
-AUDIO: ./assets/audio/012/012002.mp3
+AR: إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ
+BM: Kami telah turunkan Quran ini dalam bahasa Arab, supaya dapat kamu memahaminya.
+EN: We have revealed it an Arabic Quran, that you may understand.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012002.mp3
 
 # Ayah 3
-AR: TODO_AR_012003
-BM: TODO_BM_012003
-EN: TODO_EN_012003
-AUDIO: ./assets/audio/012/012003.mp3
+AR: نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ وَإِنْ كُنْتَ مِنْ قَبْلِهِ لَمِنَ الْغَافِلِينَ
+BM: Kami menceritakan kepada kamu sejarah yang paling tepat melalui revelasi revelasidari Quran ini. Sebelum ini, kamu benar benar tidak ketahui.
+EN: We narrate to you the most accurate history through the revelation of this Quran. Before this, you were totally unaware.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012003.mp3
 
 # Ayah 4
-AR: TODO_AR_012004
-BM: TODO_BM_012004
-EN: TODO_EN_012004
-AUDIO: ./assets/audio/012/012004.mp3
+AR: إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَاأَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ
+BM: Ingatlah, diwaktu Yusuf berkata kepada bapanya, "Wahai bapaku, aku telah melihat sebelas planet, matahari dan bulan; aku melihat semuanya sujud kepadaku."
+EN: Recall that Joseph said to his father, "O my father, I saw eleven planets, and the sun, and the moon; I saw them prostrating before me."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012004.mp3
 
 # Ayah 5
-AR: TODO_AR_012005
-BM: TODO_BM_012005
-EN: TODO_EN_012005
-AUDIO: ./assets/audio/012/012005.mp3
+AR: قَالَ يَابُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا إِنَّ الشَّيْطَانَ لِلْإِنْسَانِ عَدُوٌّ مُبِينٌ
+BM: Dia berkata, "Anakku, janganlah kau menceritakan kepada saudara saudaramu berkenaan mimpimu itu, jangan sampai mereka berkomplot dan merancang untuk menentangmu. Tentu sekali syaitan adalah musuh manusia yang paling jahat.
+EN: He said, "My son, do not tell your brothers about your dream, lest they plot and scheme against you. Surely, the devil is man's worst enemy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012005.mp3
 
 # Ayah 6
-AR: TODO_AR_012006
-BM: TODO_BM_012006
-EN: TODO_EN_012006
-AUDIO: ./assets/audio/012/012006.mp3
+AR: وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِنْ تَأْوِيلِ الْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَىٰ آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِنْ قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ
+BM: "Tuhanmu telah merahmatimu, dan telah memberikan kau berita berita yang baik melalui mimpimu itu. Dia telah sempurnakan rahmatNya kepadamu dan keluarga Ya'kub, sebagaimana yang Dia telah berikan kepada keturunan kau Ibrahim dan Ishak sebelum itu. Sesungguhnya Tuhanmu itulah yang Maha Mengetahui lagi Maha Bijaksana.
+EN: "Your Lord has thus blessed you, and has given you good news through your dream. He has perfected His blessings upon you and upon the family of Jacob, as He did for your ancestors Abraham and Isaac before that. Your Lord is Omniscient, Most Wise."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012006.mp3
 
 # Ayah 7
-AR: TODO_AR_012007
-BM: TODO_BM_012007
-EN: TODO_EN_012007
-AUDIO: ./assets/audio/012/012007.mp3
+AR: لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ
+BM: Didalam kisah Yusuf dan saudara saudaranya terdapat pelajaran pelajaran bagi orang orang yang sedang mencari kebenaran.
+EN: In Joseph and his brothers there are lessons for the seekers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012007.mp3
 
 # Ayah 8
-AR: TODO_AR_012008
-BM: TODO_BM_012008
-EN: TODO_EN_012008
-AUDIO: ./assets/audio/012/012008.mp3
+AR: إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُبِينٍ
+BM: Mereka berkata, "Yusuf dan saudaranya lebih disayangi oleh bapa kita, dan kita dipihak yang ramai. Sesungguhnya, bapa kita telah tersesat jauh.
+EN: They said, "Joseph and his brother are favored by our father, and we are in the majority. Indeed, our father is far astray.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012008.mp3
 
 # Ayah 9
-AR: TODO_AR_012009
-BM: TODO_BM_012009
-EN: TODO_EN_012009
-AUDIO: ./assets/audio/012/012009.mp3
+AR: اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِنْ بَعْدِهِ قَوْمًا صَالِحِينَ
+BM: "Marilah kita bunuh saja Yusuf, ataupun membuangkan dia, maka kamu akan mendapat perhatian dari bapa kamu. Selepas itu, kamu boleh menjadi orang orang yang salih."
+EN: "Let us kill Joseph, or banish him, that you may get some attention from your father. Afterwards, you can be righteous people."*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012009.mp3
+SUBTITLE_BM: Nasib Yusuf Telah Ditentukan Oleh Allah.
+SUBTITLE_EN: Joseph's Fate Already Decided by God*
 
 # Ayah 10
-AR: TODO_AR_012010
-BM: TODO_BM_012010
-EN: TODO_EN_012010
-AUDIO: ./assets/audio/012/012010.mp3
+AR: قَالَ قَائِلٌ مِنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِنْ كُنْتُمْ فَاعِلِينَ
+BM: Salah satu dari mereka berkata, "Janganlah bunuh Yusuf; biarkan kita buangkan dia kedalam perigi yang dalam. Mungkin ada karavan yang dapat mengambilnya, jika ini yang kamu bercadang untuk melakukan."
+EN: One of them said, "Do not kill Joseph; let us throw him into the abyss of the well. Perhaps some caravan can pick him up, if this is what you decide to do."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012010.mp3
 
 # Ayah 11
-AR: TODO_AR_012011
-BM: TODO_BM_012011
-EN: TODO_EN_012011
-AUDIO: ./assets/audio/012/012011.mp3
+AR: قَالُوا يَاأَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُ لَنَاصِحُونَ
+BM: Mereka berkata, "Bapa kami, kenapakah tidak kau percayakan Yusuf kepada kami? Kami akan menjaganya dengan baik.
+EN: They said, "Our father, why do you not trust us with Joseph? We will take good care of him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012011.mp3
 
 # Ayah 12
-AR: TODO_AR_012012
-BM: TODO_BM_012012
-EN: TODO_EN_012012
-AUDIO: ./assets/audio/012/012012.mp3
+AR: أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَافِظُونَ
+BM: "Hantarkanlah dia kepada kami esok untuk berlari larian dan bermain main. Kami akan menlindunginya."
+EN: "Send him with us tomorrow to run and play. We will protect him."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012012.mp3
 
 # Ayah 13
-AR: TODO_AR_012013
-BM: TODO_BM_012013
-EN: TODO_EN_012013
-AUDIO: ./assets/audio/012/012013.mp3
+AR: قَالَ إِنِّي لَيَحْزُنُنِي أَنْ تَذْهَبُوا بِهِ وَأَخَافُ أَنْ يَأْكُلَهُ الذِّئْبُ وَأَنْتُمْ عَنْهُ غَافِلُونَ
+BM: Dia berkata, "Aku bimbang jikalau kamu pergi jauh darinya, maka serigala akan membaham dia semasa kamu tidak memerhatikannya."
+EN: He said, "I worry lest you go away with him, then the wolf may devour him while you are not watching him."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012013.mp3
 
 # Ayah 14
-AR: TODO_AR_012014
-BM: TODO_BM_012014
-EN: TODO_EN_012014
-AUDIO: ./assets/audio/012/012014.mp3
+AR: قَالُوا لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَخَاسِرُونَ
+BM: Mereka berkata, "Sesungguhnya, jika serigala membaham dia, dengan ramainya kami yang berada disekelilingnya, tentulah kami ini benar benar orang orang yang rugi."
+EN: They said, "Indeed, if the wolf devours him, with so many of us around, then we are really losers."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012014.mp3
 
 # Ayah 15
-AR: TODO_AR_012015
-BM: TODO_BM_012015
-EN: TODO_EN_012015
-AUDIO: ./assets/audio/012/012015.mp3
+AR: فَلَمَّا ذَهَبُوا بِهِ وَأَجْمَعُوا أَنْ يَجْعَلُوهُ فِي غَيَابَتِ الْجُبِّ وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ
+BM: Apabila mereka pergi bersamanya, sebulat suara bercadang untuk membuangnya didalam perigi yang dalam, kami meinspirasikan dia; "Suatu hari kelak, kamu akan memberitahukan mereka berkenaan ini, dimasa itu mereka tidak pun mempunyai idea."
+EN: When they went away with him, and unanimously decided to throw him into the abyss of the well, we inspired him: "Some day, you will tell them about all this, while they have no idea."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012015.mp3
+SUBTITLE_BM: Orang Orang Yang Percaya Mendapat Rahmat Dan Jaminan Dari Allah.
+SUBTITLE_EN: Believers are Blessed with God's Assurances
 
 # Ayah 16
-AR: TODO_AR_012016
-BM: TODO_BM_012016
-EN: TODO_EN_012016
-AUDIO: ./assets/audio/012/012016.mp3
+AR: وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ
+BM: Mereka pulang kepada bapa mereka diwaktu petang, menangis.
+EN: They came back to their father in the evening, weeping.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012016.mp3
 
 # Ayah 17
-AR: TODO_AR_012017
-BM: TODO_BM_012017
-EN: TODO_EN_012017
-AUDIO: ./assets/audio/012/012017.mp3
+AR: قَالُوا يَاأَبَانَا إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِنْدَ مَتَاعِنَا فَأَكَلَهُ الذِّئْبُ وَمَا أَنْتَ بِمُؤْمِنٍ لَنَا وَلَوْ كُنَّا صَادِقِينَ
+BM: Mereka berkata, "Bapa kami, kami berlumba lumba sesama sendiri, dan meninggalkan Yusuf dengan barang barang kami, serigala datang lalu membahamnya. Kau tentu sekali tidak akan percayakan kami, walaupun kami berkata benar."
+EN: They said, "Our father, we went racing with each other, leaving Joseph with our equipment, and the wolf devoured him. You will never believe us, even if we were telling the truth."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012017.mp3
 
 # Ayah 18
-AR: TODO_AR_012018
-BM: TODO_BM_012018
-EN: TODO_EN_012018
-AUDIO: ./assets/audio/012/012018.mp3
+AR: وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
+BM: Mereka menunjukkan bajunya yang berlumuran darah palsu. Dia berkata, "Sesungguhnya, kamu telah berkomplot sesama sendiri untuk mengkomit sesuatu perancangan. Apa yang dapat aku lakukan hanyalah menempatkan diriku supaya dapat aku menahan kesabaranku. Semoga Allah menolongku menghadapi perancangan kamu itu."
+EN: They produced his shirt with fake blood on it. He said, "Indeed, you have conspired with each other to commit a certain scheme. All I can do is resort to a quiet patience. May GOD help me in the face of your conspiracy."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012018.mp3
 
 # Ayah 19
-AR: TODO_AR_012019
-BM: TODO_BM_012019
-EN: TODO_EN_012019
-AUDIO: ./assets/audio/012/012019.mp3
+AR: وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُ قَالَ يَابُشْرَىٰ هَٰذَا غُلَامٌ وَأَسَرُّوهُ بِضَاعَةً وَاللَّهُ عَلِيمٌ بِمَا يَعْمَلُونَ
+BM: Karavan melewati disitu, lalu menyuruh pengambil air mereka. Dia menurunkan timbanya, dan berkata, "Betapa bertuah! Ada seorang budak lelaki disini!" Mereka mengambilnya bersama sebagai dagangan, dan Allah amat sedar apa yang telah mereka lakukan.
+EN: A caravan passed by, and soon sent their waterer. He let down his bucket, then said, "How lucky! There is a boy here!" They took him along as merchandise, and GOD was fully aware of what they did.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012019.mp3
+SUBTITLE_BM: Yusuf Dibawa keMesir.
+SUBTITLE_EN: Joseph is Taken to Egypt
 
 # Ayah 20
-AR: TODO_AR_012020
-BM: TODO_BM_012020
-EN: TODO_EN_012020
-AUDIO: ./assets/audio/012/012020.mp3
+AR: وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ
+BM: Mereka menjualkannya dengan harga yang murah - beberapa dirham - kerana mereka tidak memerlukan dia.
+EN: They sold him for a cheap price-- a few Dirhams--for they did not have any need for him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012020.mp3
 
 # Ayah 21
-AR: TODO_AR_012021
-BM: TODO_BM_012021
-EN: TODO_EN_012021
-AUDIO: ./assets/audio/012/012021.mp3
+AR: وَقَالَ الَّذِي اشْتَرَاهُ مِنْ مِصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ وَلِنُعَلِّمَهُ مِنْ تَأْوِيلِ الْأَحَادِيثِ وَاللَّهُ غَالِبٌ عَلَىٰ أَمْرِهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+BM: Orang dari Mesir yang membelinya itu berkata kepada isterinya, "Jagalah dia dengan baik. Mungkin dia dapat menolong kita, ataupun mungkin kita boleh mengambilnya sebagai anak angkat." Maka kami memantapkanYusuf dimuka bumi ini, dan kami mengajarkannya interpretasi mimpi. Perintah Allah telah selesai, tetapi kebanyakan manusia tidak mengetahui.
+EN: The one who bought him in Egypt said to his wife, "Take good care of him. Maybe he can help us, or maybe we can adopt him." We thus established Joseph on earth, and we taught him the interpretation of dreams. GOD's command is always done, but most people do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012021.mp3
 
 # Ayah 22
-AR: TODO_AR_012022
-BM: TODO_BM_012022
-EN: TODO_EN_012022
-AUDIO: ./assets/audio/012/012022.mp3
+AR: وَلَمَّا بَلَغَ أَشُدَّهُ آتَيْنَاهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ
+BM: Setelah dia matang, kami kurnikannya dengan kebijaksanaan dan ilmu pengetahuan. Maka kami memberikan ganjaran kepada orang orang yang salih.
+EN: When he reached maturity, we endowed him with wisdom and knowledge. We thus reward the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012022.mp3
 
 # Ayah 23
-AR: TODO_AR_012023
-BM: TODO_BM_012023
-EN: TODO_EN_012023
-AUDIO: ./assets/audio/012/012023.mp3
+AR: وَرَاوَدَتْهُ الَّتِي هُوَ فِي بَيْتِهَا عَنْ نَفْسِهِ وَغَلَّقَتِ الْأَبْوَابَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ
+BM: Wanita yang empunya rumah dimana dia tinggal cuba menggodanya. Dia menutup sekelian pintu pintu dan berkata, "Aku kepunyaanmu." Dia berkata, "Semoga Allah melindungiku. Dialah Tuhanku, yang memberikan aku rumah yang baik. Orang orang yang melampaui batas tidak akan berjaya."
+EN: The lady of the house where he lived tried to seduce him. She closed the doors and said, "I am all yours." He said, "May GOD protect me. He is my Lord, who gave me a good home.* The transgressors never succeed."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012023.mp3
+SUBTITLE_BM: Allah Memelihara Orang Orang Percaya Dari Dosa.
+SUBTITLE_EN: God Protects the Believers From Sin
 
 # Ayah 24
-AR: TODO_AR_012024
-BM: TODO_BM_012024
-EN: TODO_EN_012024
-AUDIO: ./assets/audio/012/012024.mp3
+AR: وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَىٰ بُرْهَانَ رَبِّهِ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ السُّوءَ وَالْفَحْشَاءَ إِنَّهُ مِنْ عِبَادِنَا الْمُخْلَصِينَ
+BM: Dia nyaris nyaris tunduk kepada dia, dan dia juga nyaris nyaris tunduk kepadanya, jika tidak kerana dia melihat bukti dari Tuhannya. Maka kami pun memalingkan syaitan dan dosa jauh darinya, kerana dia adalah salah seorang dari hamba kami yang ta'at.
+EN: She almost succumbed to him, and he almost succumbed to her, if it were not that he saw a proof from his Lord. We thus diverted evil and sin away from him, for he was one of our devoted servants.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012024.mp3
 
 # Ayah 25
-AR: TODO_AR_012025
-BM: TODO_BM_012025
-EN: TODO_EN_012025
-AUDIO: ./assets/audio/012/012025.mp3
+AR: وَاسْتَبَقَا الْبَابَ وَقَدَّتْ قَمِيصَهُ مِنْ دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ قَالَتْ مَا جَزَاءُ مَنْ أَرَادَ بِأَهْلِكَ سُوءًا إِلَّا أَنْ يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
+BM: Kedua mereka berlumba lumba menuju kepintu, dan didalam pergerakkan itu, dia mengoyakkan pakaiannya dari belakang. Mereka melihat suaminya didepan pintu. Dia berkata, "Apakah hukumannya bagi orang yang cuba menodai isterimu, melainkan dipenjarakan ataupun hukuman yang menyakitkan?"
+EN: The two of them raced towards the door, and, in the process, she tore his garment from the back. They found her husband at the door. She said, "What should be the punishment for one who wanted to molest your wife, except imprisonment or a painful punishment?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012025.mp3
 
 # Ayah 26
-AR: TODO_AR_012026
-BM: TODO_BM_012026
-EN: TODO_EN_012026
-AUDIO: ./assets/audio/012/012026.mp3
+AR: قَالَ هِيَ رَاوَدَتْنِي عَنْ نَفْسِي وَشَهِدَ شَاهِدٌ مِنْ أَهْلِهَا إِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ الْكَاذِبِينَ
+BM: Dia berkata, "Dialah yang cuba menggodaku." Saksi dari keluarganya menganjurkan: "Jika pakaiannya terkoyak dari depan, maka dia telah berkata benar dan dia pembohong.
+EN: He said, "She is the one who tried to seduce me." A witness from her family suggested: "If his garment is torn from the front, then she is telling the truth and he is a liar.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012026.mp3
 
 # Ayah 27
-AR: TODO_AR_012027
-BM: TODO_BM_012027
-EN: TODO_EN_012027
-AUDIO: ./assets/audio/012/012027.mp3
+AR: وَإِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقِينَ
+BM: "Dan jika pakaian dia telah terkoyak dari belakang, maka dialah yang bohong, dan dia telah berkata benar."
+EN: "And if his garment is torn from the back, then she lied, and he is telling the truth."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012027.mp3
 
 # Ayah 28
-AR: TODO_AR_012028
-BM: TODO_BM_012028
-EN: TODO_EN_012028
-AUDIO: ./assets/audio/012/012028.mp3
+AR: فَلَمَّا رَأَىٰ قَمِيصَهُ قُدَّ مِنْ دُبُرٍ قَالَ إِنَّهُ مِنْ كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ
+BM: Apabila suaminya nampak yang pakaiannya telah terkoyak dari belakang, dia berkata, "Ini suatu perancangan dari wanita. Sesungguhnya perancanganmu menggerunkan.
+EN: When her husband saw that his garment was torn from the back, he said, "This is a woman's scheme. Indeed, your scheming is formidable.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012028.mp3
 
 # Ayah 29
-AR: TODO_AR_012029
-BM: TODO_BM_012029
-EN: TODO_EN_012029
-AUDIO: ./assets/audio/012/012029.mp3
+AR: يُوسُفُ أَعْرِضْ عَنْ هَٰذَا وَاسْتَغْفِرِي لِذَنْبِكِ إِنَّكِ كُنْتِ مِنَ الْخَاطِئِينَ
+BM: "Yusuf lupakanlah peristiwa ini. Bagi kamu (isteriku), kau mestilah meminta pengampunan atas dosamu. Kamu telah komit satu kesilapan,"
+EN: "Joseph, disregard this incident. As for you (my wife), you should seek forgiveness for your sin. You have committed an error."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012029.mp3
 
 # Ayah 30
-AR: TODO_AR_012030
-BM: TODO_BM_012030
-EN: TODO_EN_012030
-AUDIO: ./assets/audio/012/012030.mp3
+AR: وَقَالَ نِسْوَةٌ فِي الْمَدِينَةِ امْرَأَتُ الْعَزِيزِ تُرَاوِدُ فَتَاهَا عَنْ نَفْسِهِ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَاهَا فِي ضَلَالٍ مُبِينٍ
+BM: Beberapa wanita dibandar mengumpat: "Isteri gabenor cuba menggoda pembantunya. Dia telah jatuh cinta yang mendalam kepada dia. Kami lihat dia telah tersesat jauh."
+EN: Some women in the city gossiped: "The governor's wife is trying to seduce her servant. She is deeply in love with him. We see that she has gone astray."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012030.mp3
 
 # Ayah 31
-AR: TODO_AR_012031
-BM: TODO_BM_012031
-EN: TODO_EN_012031
-AUDIO: ./assets/audio/012/012031.mp3
+AR: فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ
+BM: Apabila dia mendengar umpatan mereka, dia menjemput mereka, menyediakan mereka tempat rehat yang nyaman, dan memberikannya tiap tiap seorang sebuah pisau. Maka dia berkata kepadanya, "Masuklah kedalam bilik." Apabila mereka melihat dia, mereka kagum, hinggakan mereka memotong (melukakan) tangan tangan mereka. Mereka lantas berkata, "Maha suci bagi Allah, ini bukanlah manusia; ini seorang malaikat yang mulia."
+EN: When she heard of their gossip, she invited them, prepared for them a comfortable place, and gave each of them a knife. She then said to him, "Enter their room." When they saw him, they so admired him, that they cut their hands.* They said, "Glory be to GOD, this is not a human being; this is an honorable angel."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012031.mp3
 
 # Ayah 32
-AR: TODO_AR_012032
-BM: TODO_BM_012032
-EN: TODO_EN_012032
-AUDIO: ./assets/audio/012/012032.mp3
+AR: قَالَتْ فَذَٰلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ فَاسْتَعْصَمَ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرِينَ
+BM: Dia berkata, "Inilah dia yang kamu salahkan aku kerana jatuh cinta. Sesungguhnya aku yang menggoda dia, tetapi dia menolak. Melainkan jika dia menurut apa yang aku perintahkan dia, dia tentu sekali dimasukkan penjara, dan dihina."
+EN: She said, "This is the one you blamed me for falling in love with. I did indeed try to seduce him, and he refused. Unless he does what I command him to do, he will surely go to prison, and will be debased."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012032.mp3
 
 # Ayah 33
-AR: TODO_AR_012033
-BM: TODO_BM_012033
-EN: TODO_EN_012033
-AUDIO: ./assets/audio/012/012033.mp3
+AR: قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ الْجَاهِلِينَ
+BM: Dia berkata, "Tuhanku, penjara lebih baik dari menyerah kepada mereka. Melainkan kiranya Engkau alihkan perancangan mereka dariku, aku mungkin menginginkan dan berkelakuan seperti orang orang yang jahil."
+EN: He said, "My Lord, the prison is better than giving in to them. Unless You divert their scheming from me, I may desire them and behave like the ignorant ones."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012033.mp3
 
 # Ayah 34
-AR: TODO_AR_012034
-BM: TODO_BM_012034
-EN: TODO_EN_012034
-AUDIO: ./assets/audio/012/012034.mp3
+AR: فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
+BM: Tuhan dia menerima do'anya dan dialihkan perancangan mereka dari dia. Sesungguhnya Dialah Yang Maha Mendengar lagi Maha Mengetahui.
+EN: His Lord answered his prayer and diverted their scheming from him. He is the Hearer, the Omniscient.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012034.mp3
 
 # Ayah 35
-AR: TODO_AR_012035
-BM: TODO_BM_012035
-EN: TODO_EN_012035
-AUDIO: ./assets/audio/012/012035.mp3
+AR: ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ
+BM: Sesudah itu, walaupun mereka mengetahuinya, biarpun ada bukti bukti yang terang, diwaktu itu mereka harus penjarakan dia untuk seketika.
+EN: Later, they saw to it, despite the clear proofs, that they should imprison him for awhile.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012035.mp3
 
 # Ayah 36
-AR: TODO_AR_012036
-BM: TODO_BM_012036
-EN: TODO_EN_012036
-AUDIO: ./assets/audio/012/012036.mp3
+AR: وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ
+BM: Kedua orang lelaki telah dipenjarakan bersama samanya. Salah seorang dari mereka berkata, "aku lihat (didalam mimpiku) yang aku sedang membuat wain," dan yang lainnya berkata, "Aku melihat yang diriku sedang menjunjung roti, yang mana burung burung datang memakannya. Beritahukan kami akan interperitasi mimpi mimpi kami itu. Kami lihat kamu adalah seorang yang salih."
+EN: Two young men were in the prison with him. One of them said, "I saw (in my dream) that I was making wine," and the other said, "I saw myself carrying bread on my head, from which the birds were eating. Inform us of the interpretation of these dreams. We see that you are righteous."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012036.mp3
 
 # Ayah 37
-AR: TODO_AR_012037
-BM: TODO_BM_012037
-EN: TODO_EN_012037
-AUDIO: ./assets/audio/012/012037.mp3
+AR: قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَنْ يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّي إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ
+BM: Dia berkata, "Jika ada makanan yang diperuntukkan kepada kamu, aku akan mengatakan berkenaannya sebelum kamu mendapatkannya. Ini adalah beberapa ilmu pengetahuan yang dikurniakan kepadaku dari Tuhanku. Aku telah tinggalkan agama orang orang yang tidak percaya kepada Allah, dan berkenaan Hari Akhirat, mereka sangat mengingkarinya.
+EN: He said, "If any food is provided to you, I can inform you about it before you receive it. This is some of the knowledge bestowed upon me by my Lord. I have forsaken the religion of people who do not believe in GOD, and with regard to the Hereafter, they are really disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012037.mp3
 
 # Ayah 38
-AR: TODO_AR_012038
-BM: TODO_BM_012038
-EN: TODO_EN_012038
-AUDIO: ./assets/audio/012/012038.mp3
+AR: وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ مَا كَانَ لَنَا أَنْ نُشْرِكَ بِاللَّهِ مِنْ شَيْءٍ ذَٰلِكَ مِنْ فَضْلِ اللَّهِ عَلَيْنَا وَعَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ
+BM: "Dan sebaliknya aku mengikuti agama dari keturunanku, Ibrahim, Ishak dan Ya'kub. Kami tidak pernah mengada adakan pujaan pujaan disamping Allah. Demikianlah rahmat dari Allah kepada kami dan manusia, tetapi kebanyakan manusia tidak mensyukurinya.
+EN: "And I followed instead the religion of my ancestors, Abraham, Isaac, and Jacob. We never set up any idols beside GOD. Such is the blessing from GOD upon us and upon the people, but most people are unappreciative.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012038.mp3
 
 # Ayah 39
-AR: TODO_AR_012039
-BM: TODO_BM_012039
-EN: TODO_EN_012039
-AUDIO: ./assets/audio/012/012039.mp3
+AR: يَاصَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ
+BM: "Wahai teman teman sepenjaraku, adakah banyak tuhan tuhan itu baik, ataupun hanya Allah sahaja, yang Esa yang Maha Tinggi?
+EN: "O my prison mates, are several gods better, or GOD alone, the One, the Supreme?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012039.mp3
 
 # Ayah 40
-AR: TODO_AR_012040
-BM: TODO_BM_012040
-EN: TODO_EN_012040
-AUDIO: ./assets/audio/012/012040.mp3
+AR: مَا تَعْبُدُونَ مِنْ دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنْتُمْ وَآبَاؤُكُمْ مَا أَنْزَلَ اللَّهُ بِهَا مِنْ سُلْطَانٍ إِنِ الْحُكْمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+BM: "Kamu tidak menyembah disampingNya melainkan innovasi innovasi yang kamu ada adakan, kamu dan ibu bapa ibu bapa kamu. Allah tidak pernah mengautoritifkan pujaan pujaan yang sedemikian. Segala keputusan kepunyaan Allah, dan Dia telah memutuskan yang kamu jangan sekali menyembah melainkan Dia. Ini adalah agama yang cukup sempurna, tetapi kebanyakan manusia tidak tahu.
+EN: "You do not worship beside Him except innovations that you have made up, you and your parents. GOD has never authorized such idols. All ruling belongs to GOD, and He has ruled that you shall not worship except Him. This is the perfect religion, but most people do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012040.mp3
 
 # Ayah 41
-AR: TODO_AR_012041
-BM: TODO_BM_012041
-EN: TODO_EN_012041
-AUDIO: ./assets/audio/012/012041.mp3
+AR: يَاصَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ
+BM: "Wahai teman teman sepenjaraku, salah satu dari kamu akan menjadi penjaga wain untuk tuhan dia, sementara satunya lagi disalib - burung burung yang makan diatas kepalanya. Ini telah selesai berkenaan apa yang kamu tanyakan."
+EN: "O my prison mates, one of you will be the wine butler for his lord, while the other will be crucified-- the birds will eat from his head. This settles the matter about which you have inquired."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012041.mp3
 
 # Ayah 42
-AR: TODO_AR_012042
-BM: TODO_BM_012042
-EN: TODO_EN_012042
-AUDIO: ./assets/audio/012/012042.mp3
+AR: وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ فَأَنْسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ
+BM: Maka dia berkata kepada orang yang akan diselamatkan "Ingatlah aku dituhan kamu." Lantas syaitan telah membuat dia melupakan Tuhannya, maka akibat dari itu, dia tinggal didalam penjara beberapa tahun lagi.
+EN: He then said to the one to be saved "Remember me at your lord."* Thus, the devil caused him to forget his Lord, and, consequently, he remained in prison a few more years.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012042.mp3
 
 # Ayah 43
-AR: TODO_AR_012043
-BM: TODO_BM_012043
-EN: TODO_EN_012043
-AUDIO: ./assets/audio/012/012043.mp3
+AR: وَقَالَ الْمَلِكُ إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ يَاأَيُّهَا الْمَلَأُ أَفْتُونِي فِي رُؤْيَايَ إِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ
+BM: Raja berkata, "Aku lihat tujuh ekor lembu yang gemuk membaham tujuh ekor lembu kurus, dan tujuh tangkai bulir hijau (gandum), dan lain lainnya menjadi kering dan berkedut. Wahai pengetua pengetuaku, nasihatilah aku berkenaan mimpiku ini, jika kamu tahu bagimana hendak meinteperitasikan mimpi mimpi."
+EN: The king said, "I saw seven fat cows being devoured by seven skinny cows, and seven green spikes (of wheat), and others shriveled. O my elders, advise me regarding my dream, if you know how to interpret the dreams."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012043.mp3
+SUBTITLE_BM: Raja Bermimpi.
+SUBTITLE_EN: The King's Dream
 
 # Ayah 44
-AR: TODO_AR_012044
-BM: TODO_BM_012044
-EN: TODO_EN_012044
-AUDIO: ./assets/audio/012/012044.mp3
+AR: قَالُوا أَضْغَاثُ أَحْلَامٍ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ
+BM: Mereka berkata, "Mimpi mimpi yang karut. Apabila sampai kepada meinteperitasikan mimpi, kami tidak mempunyai pengetahuan tentangnya."
+EN: They said, "Nonsense dreams. When it comes to the interpretation of dreams, we are not knowledgeable."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012044.mp3
 
 # Ayah 45
-AR: TODO_AR_012045
-BM: TODO_BM_012045
-EN: TODO_EN_012045
-AUDIO: ./assets/audio/012/012045.mp3
+AR: وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُمْ بِتَأْوِيلِهِ فَأَرْسِلُونِ
+BM: Orang yang terselamat (dari penjara) berkata, barulah akhirnya dia teringat, "Aku akan beritahukan untuk meinteperitasikannya, dan hantarkanlah aku (kepada Yusuf)."
+EN: The one who was saved (from the prison) said, now that he finally remembered, "I can tell you its interpretation, so send me (to Joseph)."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012045.mp3
 
 # Ayah 46
-AR: TODO_AR_012046
-BM: TODO_BM_012046
-EN: TODO_EN_012046
-AUDIO: ./assets/audio/012/012046.mp3
+AR: يُوسُفُ أَيُّهَا الصِّدِّيقُ أَفْتِنَا فِي سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنْبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ لَعَلِّي أَرْجِعُ إِلَى النَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
+BM: "Yusuf kawanku, katakan kepada kami berkenaan tujuh lembu lembu gemuk membaham tujuh lembu lembu kurus, dan tujuh bulir hijau dan lainnya kering berkedut. Aku ingin kembali untuk membawa keterangan ini kepada orang orang itu."
+EN: "Joseph my friend, inform us about seven fat cows being devoured by seven skinny cows, and seven green spikes, and others shriveled. I wish to go back with some information for the people."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012046.mp3
+SUBTITLE_BM: Yusuf Meinteperitasikan Mimpi Raja.
+SUBTITLE_EN: Joseph Interprets the King's Dream
 
 # Ayah 47
-AR: TODO_AR_012047
-BM: TODO_BM_012047
-EN: TODO_EN_012047
-AUDIO: ./assets/audio/012/012047.mp3
+AR: قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدْتُمْ فَذَرُوهُ فِي سُنْبُلِهِ إِلَّا قَلِيلًا مِمَّا تَأْكُلُونَ
+BM: Dia berkata, "Apa yang kamu usahakan selama tujuh tahun akan datang, apabila musim tuaian tiba, simpankan biji bijian itu dipacak pacak, dan bahagiankan untuk dimakan.
+EN: He said, "What you cultivate during the next seven years, when the time of harvest comes, leave the grains in their spikes, except for what you eat.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012047.mp3
 
 # Ayah 48
-AR: TODO_AR_012048
-BM: TODO_BM_012048
-EN: TODO_EN_012048
-AUDIO: ./assets/audio/012/012048.mp3
+AR: ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِمَّا تُحْصِنُونَ
+BM: "Selepas itu, tujuh tahun musim kemarau akan datang, akan memakan hampir habis apa yang kamu simpankan.
+EN: "After that, seven years of drought will come, which will consume most of what you stored for them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012048.mp3
 
 # Ayah 49
-AR: TODO_AR_012049
-BM: TODO_BM_012049
-EN: TODO_EN_012049
-AUDIO: ./assets/audio/012/012049.mp3
+AR: ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ
+BM: "Selepas itu, setahun akan datang yang memberi kelegaan kepada manusia, dan mereka akan, sekali lagi, memerah air dari buah buahan."
+EN: "After that, a year will come that brings relief for the people, and they will, once again, press juice."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012049.mp3
 
 # Ayah 50
-AR: TODO_AR_012050
-BM: TODO_BM_012050
-EN: TODO_EN_012050
-AUDIO: ./assets/audio/012/012050.mp3
+AR: وَقَالَ الْمَلِكُ ائْتُونِي بِهِ فَلَمَّا جَاءَهُ الرَّسُولُ قَالَ ارْجِعْ إِلَىٰ رَبِّكَ فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ الّٰتِیۡۤ قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ
+BM: Raja berkata, "Bawalah dia kepadaku." Apabila rasul datang kepadanya, dia berkata, "Kembali semula kepada tuhan kamu dan suruh dia siasat tentang wanita yang memotong tangan tangan mereka. Tuhanku amat sedar akan perancangan mereka."
+EN: The king said, "Bring him to me." When the messenger came to him, he said, "Go back to your lord and ask him to investigate the women who cut their hands. My Lord is fully aware of their schemes."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012050.mp3
 
 # Ayah 51
-AR: TODO_AR_012051
-BM: TODO_BM_012051
-EN: TODO_EN_012051
-AUDIO: ./assets/audio/012/012051.mp3
+AR: قَالَ مَا خَطْبُكُنَّ إِذْ رَاوَدْتُنَّ يُوسُفَ عَنْ نَفْسِهِ قُلْنَ حَاشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِنْ سُوءٍ قَالَتِ امْرَأَتُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ أَنَا رَاوَدْتُهُ عَنْ نَفْسِهِ وَإِنَّهُ لَمِنَ الصَّادِقِينَ
+BM: (Raja) berkata (kepada wanita wanita) "Apa yang kamu tahu peristiwa tentang percubaan kamu untuk menggoda Yusuf?" Mereka berkata, "Allah melarang; kami tidak ketahui segala kejahatan yang telah dikomit olehnya." Isteri gobenor berkata, "Sekarang kebenaran telah mengatasinya. Akulah yang sebenarnya menggoda dia, dan dialah seorang yang benar."
+EN: (The king) said (to the women), "What do you know about the incident when you tried to seduce Joseph?" They said, "GOD forbid; we did not know of anything evil committed by him." The wife of the governor said, "Now the truth has prevailed. I am the one who tried to seduce him, and he was the truthful one.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012051.mp3
 
 # Ayah 52
-AR: TODO_AR_012052
-BM: TODO_BM_012052
-EN: TODO_EN_012052
-AUDIO: ./assets/audio/012/012052.mp3
+AR: ذَٰلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ
+BM: "Aku berharap supaya dia  akan sedar yang aku tidak pernah menghkianati dia semasa ketiadaannya, kerana Allah tidak merahmati perancangan dari pengkhianat pengkhianat.
+EN: "I hope that he will realize that I never betrayed him in his absence, for GOD does not bless the schemes of the betrayers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012052.mp3
 
 # Ayah 53
-AR: TODO_AR_012053
-BM: TODO_BM_012053
-EN: TODO_EN_012053
-AUDIO: ./assets/audio/012/012053.mp3
+AR: وَمَا أُبَرِّئُ نَفْسِي إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي إِنَّ رَبِّي غَفُورٌ رَحِيمٌ
+BM: "Aku tidak mendakwa yang diriku tidak bersalah. Diri sendirilah yang menyokong maksiat, melainkan bagi orang orang yang telah mendapat belas kasih dari Tuhanku. Tuhanku itu Maha Pengampun lagi Maha Penyayang."
+EN: "I do not claim innocence for myself. The self is an advocate of vice, except for those who have attained mercy from my Lord. My Lord is Forgiver, Most Merciful."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012053.mp3
 
 # Ayah 54
-AR: TODO_AR_012054
-BM: TODO_BM_012054
-EN: TODO_EN_012054
-AUDIO: ./assets/audio/012/012054.mp3
+AR: وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي فَلَمَّا كَلَّمَهُ قَالَ إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
+BM: Raja berkata, "Bawa dia kepadaku, supaya dapat dia bekerja denganku." Apabila dia bercakap dengannya, dia berkata, "Hari ini, engkau mempunyai kedudukan yang tinggi bersama kami,"
+EN: The king said, "Bring him to me, so I can hire him to work for me." When he talked with him, he said, "Today, you have a prominent position with us."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012054.mp3
+SUBTITLE_BM: Yusuf Menjadi Terkenal.
+SUBTITLE_EN: Joseph Attains Prominence
 
 # Ayah 55
-AR: TODO_AR_012055
-BM: TODO_BM_012055
-EN: TODO_EN_012055
-AUDIO: ./assets/audio/012/012055.mp3
+AR: قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ
+BM: Dia berkata, "Jadikan aku bendahari, kerana aku berpengalaman dibidang ini dan berpengatahuan."
+EN: He said, "Make me the treasurer, for I am experienced in this area and knowledgeable."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012055.mp3
 
 # Ayah 56
-AR: TODO_AR_012056
-BM: TODO_BM_012056
-EN: TODO_EN_012056
-AUDIO: ./assets/audio/012/012056.mp3
+AR: وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَاءُ نُصِيبُ بِرَحْمَتِنَا مَنْ نَشَاءُ وَلَا نُضِيعُ أَجْرَ الْمُحْسِنِينَ
+BM: Maka kami pun memantapkan Yusuf dimuka bumi, membuat keputusan sesukanya. Kami mencucuri belas kasih kami diatas sesiapa yang kami kehendaki, dan kami tidak pernah lalai untuk memberi ganjaran kepada orang orang yang benar.
+EN: We thus established Joseph on earth, ruling as he wished. We shower our mercy upon whomever we will, and we never fail to recompense the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012056.mp3
 
 # Ayah 57
-AR: TODO_AR_012057
-BM: TODO_BM_012057
-EN: TODO_EN_012057
-AUDIO: ./assets/audio/012/012057.mp3
+AR: وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ
+BM: Tambahan pula, kurniaan diHari Akhirat itu lebih lagi baik bagi orang orang yang percaya dan menjalani kehidupan yang benar.
+EN: Additionally, the reward in the Hereafter is even better for those who believe and lead a righteous life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012057.mp3
 
 # Ayah 58
-AR: TODO_AR_012058
-BM: TODO_BM_012058
-EN: TODO_EN_012058
-AUDIO: ./assets/audio/012/012058.mp3
+AR: وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنْكِرُونَ
+BM: Saudara saudara Yusuf datang; apabila mereka masuk, dia mengenali mereka, tetapi mereka tidak mengenalnya.
+EN: Joseph's brothers came; when they entered, he recognized them, while they did not recognize him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012058.mp3
 
 # Ayah 59
-AR: TODO_AR_012059
-BM: TODO_BM_012059
-EN: TODO_EN_012059
-AUDIO: ./assets/audio/012/012059.mp3
+AR: وَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ قَالَ ائْتُونِي بِأَخٍ لَكُمْ مِنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّي أُوفِي الْكَيْلَ وَأَنَا خَيْرُ الْمُنْزِلِينَ
+BM: Setelah dia memberikan peruntukkan peruntukkan mereka, dia berkata, "Lain kali bawalah adik tiri kamu. Tidakkah kamu lihat yang aku memberikan pertimbangan yang penuh, dan melayani kamu dengan penuh murah hati?
+EN: After he provided them with their provisions, he said, "Next time, bring with you your half-brother. Do you not see that I give full measure, and treat you generously?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012059.mp3
 
 # Ayah 60
-AR: TODO_AR_012060
-BM: TODO_BM_012060
-EN: TODO_EN_012060
-AUDIO: ./assets/audio/012/012060.mp3
+AR: فَإِنْ لَمْ تَأْتُونِي بِهِ فَلَا كَيْلَ لَكُمْ عِنْدِي وَلَا تَقْرَبُونِ
+BM: "Jika kamu gagal membawa dia kepadaku, kamu tidak akan mendapat bahagian dariku; bahkan kamu tidak akan dapat rapat."
+EN: "If you fail to bring him to me, you will get no share from me; you will not even come close."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012060.mp3
 
 # Ayah 61
-AR: TODO_AR_012061
-BM: TODO_BM_012061
-EN: TODO_EN_012061
-AUDIO: ./assets/audio/012/012061.mp3
+AR: قَالُوا سَنُرَاوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَاعِلُونَ
+BM: Mereka berkata, "Kami akan berunding dengan bapanya berkenaan dia. Tentu sekali kami akan melakukannya."
+EN: They said, "We will negotiate with his father about him. We will surely do this."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012061.mp3
 
 # Ayah 62
-AR: TODO_AR_012062
-BM: TODO_BM_012062
-EN: TODO_EN_012062
-AUDIO: ./assets/audio/012/012062.mp3
+AR: وَقَالَ لِفِتْيَانِهِ اجْعَلُوا بِضَاعَتَهُمْ فِي رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ
+BM: Maka dia pun menyuruh pembantunya: "Masukkan barang barang itu dikampit kampit mereka. Apabila mereka pulang kepada keluarga mereka kelak, dan mendapati barangan itu, mungkin mereka akan kembali dengan segera."
+EN: He then instructed his assistants: "Put their goods back in their bags. When they find them upon their return to their family, they may come back sooner."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012062.mp3
 
 # Ayah 63
-AR: TODO_AR_012063
-BM: TODO_BM_012063
-EN: TODO_EN_012063
-AUDIO: ./assets/audio/012/012063.mp3
+AR: فَلَمَّا رَجَعُوا إِلَىٰ أَبِيهِمْ قَالُوا يَاأَبَانَا مُنِعَ مِنَّا الْكَيْلُ فَأَرْسِلْ مَعَنَا أَخَانَا نَكْتَلْ وَإِنَّا لَهُ لَحَافِظُونَ
+BM: Apabila mereka pulang kepada bapa mereka, mereka berkata, "Bapa kami, tidak akan lagi kami mendapatkan peruntukkan peruntukkan ini melainkan jika kamu menghantarkan adik kami pergi bersama sama kami. Kami akan memeliharanya dengan baik."
+EN: When they returned to their father, they said, "Our father, we can no longer get any provisions, unless you send our brother with us. We will take good care of him."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012063.mp3
 
 # Ayah 64
-AR: TODO_AR_012064
-BM: TODO_BM_012064
-EN: TODO_EN_012064
-AUDIO: ./assets/audio/012/012064.mp3
+AR: قَالَ هَلْ آمَنُكُمْ عَلَيْهِ إِلَّا كَمَا أَمِنْتُكُمْ عَلَىٰ أَخِيهِ مِنْ قَبْلُ فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ أَرْحَمُ الرَّاحِمِينَ
+BM: Dia berkata, "Mestikah aku percayakan kamu dengannya, sebagimana aku mempercayai kamu dengan saudaranya sebelum itu? Allah sajalah Pelindung yang terbaik, dan bagi sekelian penyayang, Dialah yang Maha Penyayang.
+EN: He said, "Shall I trust you with him, as I trusted you with his brother before that? GOD is the best Protector, and, of all the merciful ones, He is the Most Merciful."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012064.mp3
 
 # Ayah 65
-AR: TODO_AR_012065
-BM: TODO_BM_012065
-EN: TODO_EN_012065
-AUDIO: ./assets/audio/012/012065.mp3
+AR: وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا بِضَاعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا يَاأَبَانَا مَا نَبْغِي هَٰذِهِ بِضَاعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ
+BM: Apabila mereka membuka kampit kampit mereka, didapati barangan mereka telah dipulangkan kepada mereka. Mereka berkata, Bapa kami, apa lagi dapat kami pintakan? Ini semua barangan yang telah dipulangkan kepada kami. Maka dapatlah kami memberikan kepada keluarga kami, untuk selamatkan adik kami, dan akan mendapat satu lagi muatan - unta. Tentu sekali ini adalah urusan yang menguntungkan."
+EN: When they opened their bags, they found their goods returned to them. They said, "Our father, what more can we ask for? Here are our goods returned to us. We can thus provide for our family, protect our brother, and receive one more camel-load. This is certainly a profitable deal."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012065.mp3
 
 # Ayah 66
-AR: TODO_AR_012066
-BM: TODO_BM_012066
-EN: TODO_EN_012066
-AUDIO: ./assets/audio/012/012066.mp3
+AR: قَالَ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِنَ اللَّهِ لَتَأْتُنَّنِي بِهِ إِلَّا أَنْ يُحَاطَ بِكُمْ فَلَمَّا آتَوْهُ مَوْثِقَهُمْ قَالَ اللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ
+BM: Dia berkata, "Aku tidak akan menghantarnya kepada kamu, melainkan jika kamu membuat pengakuan yang serius dihadapan Allah yang kamu akan membawanya pulang, melainkan jika kamu terlalu sangat gembira. "Setelah mereka memberi pengakuan dengan serius, dia berkata, "Allah telah bersaksi apa apa yang kami katakan."
+EN: He said, "I will not send him with you, unless you give me a solemn pledge before GOD that you will bring him back, unless you are utterly overwhelmed." When they gave him their solemn pledge, he said, "GOD is witnessing everything we say."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012066.mp3
 
 # Ayah 67
-AR: TODO_AR_012067
-BM: TODO_BM_012067
-EN: TODO_EN_012067
-AUDIO: ./assets/audio/012/012067.mp3
+AR: وَقَالَ يَابَنِيَّ لَا تَدْخُلُوا مِنْ بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُتَفَرِّقَةٍ وَمَا أُغْنِي عَنْكُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِنِ الْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ
+BM: Dan dia berkata, "Wahai anak anakku, janganlah masuk dari satu pintu; masuklah melalui pintu pintu yang berasingan. Walau bagaimanapun, aku tidak dapat menolong kamu dari segala apa yang telah ditentukan oleh Allah. Kepunyaan Allah sajalah segala pengadilan aku percaya kepadaNya, dan kepadaNyalah kesemua orang orang yang percaya  meletakkan kepercayaan mereka."
+EN: And he said, "O my sons, do not enter from one door; enter through separate doors. However, I cannot save you from anything that is predetermined by GOD. To GOD belongs all judgments. I trust in Him, and in Him shall all the trusters put their trust."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012067.mp3
 
 # Ayah 68
-AR: TODO_AR_012068
-BM: TODO_BM_012068
-EN: TODO_EN_012068
-AUDIO: ./assets/audio/012/012068.mp3
+AR: وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُمْ مَا كَانَ يُغْنِي عَنْهُمْ مِنَ اللَّهِ مِنْ شَيْءٍ إِلَّا حَاجَةً فِي نَفْسِ يَعْقُوبَ قَضَاهَا وَإِنَّهُ لَذُو عِلْمٍ لِمَا عَلَّمْنَاهُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ
+BM: Apabila mereka pergi (kepada Yusuf), mereka masuk mengikut cara yang telah ditunjukkan oleh bapa mereka. Walaupun ini tidak dapat menukarkan apa yang telah didekrikan oleh Allah, Ya'kub mempunyai maksud yang tersendiri dengan menyuruh mereka berbuat demikian kerana dia mempunyai beberapa ilmu pengetahuan yang kami mengajarkan kepadanya, tetapi kebanyakan manusia tidak tahu.
+EN: When they went (to Joseph), they entered in accordance with their father's instructions. Although this could not change anything decreed by GOD, Jacob had a private reason for asking them to do this. For he possessed certain knowledge that we taught him, but most people do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012068.mp3
+SUBTITLE_BM: Ya'kub Terkenangkan Yusuf.
+SUBTITLE_EN: Jacob Senses Joseph
 
 # Ayah 69
-AR: TODO_AR_012069
-BM: TODO_BM_012069
-EN: TODO_EN_012069
-AUDIO: ./assets/audio/012/012069.mp3
+AR: وَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَخَاهُ قَالَ إِنِّي أَنَا أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ
+BM: Apabila mereka memasuki tempat Yusuf, dia membawa adiknya dekat kepadanya dan berkata, "Aku saudaramu; janganlah bersedih dengan perbuatan mereka."
+EN: When they entered Joseph's place, he brought his brother closer to him and said, "I am your brother; do not be saddened by their actions."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012069.mp3
+SUBTITLE_BM: Sekembali Dari Mesir.
+SUBTITLE_EN: Back in Egypt
 
 # Ayah 70
-AR: TODO_AR_012070
-BM: TODO_BM_012070
-EN: TODO_EN_012070
-AUDIO: ./assets/audio/012/012070.mp3
+AR: فَلَمَّا جَهَّزَهُمْ بِجَهَازِهِمْ جَعَلَ السِّقَايَةَ فِي رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ
+BM: Apabila dia memberikan peruntukkan peruntukkan mereka, dia meletakkan cawan minuman didalam kampit adiknya, maka pengumumam pun mengumumkan: " Empunya karavan ini pencuri."
+EN: When he provided them with their provisions, he placed the drinking cup in his brother's bag, then an announcer announced: "The owners of this caravan are thieves."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012070.mp3
+SUBTITLE_BM: Yusuf Tinggal Bersama Adiknya.
+SUBTITLE_EN: Joseph Keeps His Brother
 
 # Ayah 71
-AR: TODO_AR_012071
-BM: TODO_BM_012071
-EN: TODO_EN_012071
-AUDIO: ./assets/audio/012/012071.mp3
+AR: قَالُوا وَأَقْبَلُوا عَلَيْهِمْ مَاذَا تَفْقِدُونَ
+BM: Mereka berkata, sambil datang kepada mereka, "Apa yang kamu hilang?"
+EN: They said, as they came towards them, "What did you lose?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012071.mp3
 
 # Ayah 72
-AR: TODO_AR_012072
-BM: TODO_BM_012072
-EN: TODO_EN_012072
-AUDIO: ./assets/audio/012/012072.mp3
+AR: قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ وَأَنَا بِهِ زَعِيمٌ
+BM: Mereka berkata, "Kami kehilangan cawan raja. Sesiapa yang dapat memulangkannya akan menerima muatan- untah yang lebih; Aku sendiri yang menjaminnya."
+EN: They said, "We lost the king's cup. Anyone who returns it will receive an extra camel-load; I personally guarantee this."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012072.mp3
 
 # Ayah 73
-AR: TODO_AR_012073
-BM: TODO_BM_012073
-EN: TODO_EN_012073
-AUDIO: ./assets/audio/012/012073.mp3
+AR: قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُمْ مَا جِئْنَا لِنُفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ
+BM: Mereka berkata,"Sungguh demi Allah, kamu tahu dengan sepenuhnya yang kami tidak datang kesini untuk mengkomit kejahatan, juga kami bukanlah pencuri."
+EN: They said, "By GOD, you know full well that we did not come here to commit evil, nor are we thieves."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012073.mp3
 
 # Ayah 74
-AR: TODO_AR_012074
-BM: TODO_BM_012074
-EN: TODO_EN_012074
-AUDIO: ./assets/audio/012/012074.mp3
+AR: قَالُوا فَمَا جَزَاؤُهُ إِنْ كُنْتُمْ كَاذِبِينَ
+BM: Mereka berkata, "Apakah hukuman bagi pencuri, jika kamu adalah pembohong?"
+EN: They said, "What is the punishment for the thief, if you are liars?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012074.mp3
 
 # Ayah 75
-AR: TODO_AR_012075
-BM: TODO_BM_012075
-EN: TODO_EN_012075
-AUDIO: ./assets/audio/012/012075.mp3
+AR: قَالُوا جَزَاؤُهُ مَنْ وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ
+BM: Mereka berkata, "Hukumannya jika terjumpa didalam kampit, maka pencuri itu kepunyaan kamu. Maka akan kami hukum orang orang yang bersalah."
+EN: They said, "The punishment, if it is found in his bag, is that the thief belongs to you. We thus punish the guilty."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012075.mp3
 
 # Ayah 76
-AR: TODO_AR_012076
-BM: TODO_BM_012076
-EN: TODO_EN_012076
-AUDIO: ./assets/audio/012/012076.mp3
+AR: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَاءِ أَخِيهِ ثُمَّ اسْتَخْرَجَهَا مِنْ وِعَاءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِي دِينِ الْمَلِكِ إِلَّا أَنْ يَشَاءَ اللَّهُ نَرْفَعُ دَرَجَاتٍ مَنْ نَشَاءُ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ
+BM: Dia pun memulakan dengan memeriksa kampit kampit, sebelum sampai kekampit adiknya, lalu dia mengeluarkannya dari kampit adiknya. Lantas kami sempurnakan perancangan untuk Yusuf; dia tidak akan dapat menahan adiknya jika dia mengamalkan undang undang beraja. Tetapi itu adalah kehendak dari Allah. Kami menaikkan sesiapa saja yang kami pilih untuk kedudukan kedudukan yang tinggi. Diatas tiap tiap orang orang yang berilmu pengetahuan, tentunya ada lain yang lebih lagi tinggi ilmu pengetahuannya.
+EN: He then started by inspecting their containers, before getting to his brother's container, and he extracted it out of his brother's container. We thus perfected the scheme for Joseph; he could not have kept his brother if he applied the king's law. But that was the will of GOD. We exalt whomever we choose to higher ranks. Above every knowledgeable one, there is one who is even more knowledgeable.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012076.mp3
 
 # Ayah 77
-AR: TODO_AR_012077
-BM: TODO_BM_012077
-EN: TODO_EN_012077
-AUDIO: ./assets/audio/012/012077.mp3
+AR: قَالُوا إِنْ يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَهُ مِنْ قَبْلُ فَأَسَرَّهَا يُوسُفُ فِي نَفْسِهِ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنْتُمْ شَرٌّ مَكَانًا وَاللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
+BM: Mereka berkata, "Jika dia mencuri, begitu juga dengan saudaranya dimasa lalu." Yusuf menyembunyikan perasaannya, dengan tidak memberikan mereka sebarang tanda. Dia berkata (kepada dirinya), "Kamu sangatlah jahat. Allah amat sedar dengan tuduhan kamu."
+EN: They said, "If he stole, so did a brother of his in the past." Joseph concealed his feelings in himself, and did not give them any clue. He said (to himself), "You are really bad. GOD is fully aware of your accusations."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012077.mp3
 
 # Ayah 78
-AR: TODO_AR_012078
-BM: TODO_BM_012078
-EN: TODO_EN_012078
-AUDIO: ./assets/audio/012/012078.mp3
+AR: قَالُوا يَاأَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ
+BM: Mereka berkata, "Wahai engkau yang mulia, dia mempunyai bapa yang sudah tua; bolehkah kamu mengambil salah satu diantara kami untuk menggantikan tempatnya?" Kami lihat engkau adalah seorang yang baik hati."
+EN: They said, “O you noble one, he has a father who is elderly; would you take one of us in his place? We see that you are a kind man."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012078.mp3
 
 # Ayah 79
-AR: TODO_AR_012079
-BM: TODO_BM_012079
-EN: TODO_EN_012079
-AUDIO: ./assets/audio/012/012079.mp3
+AR: قَالَ مَعَاذَ اللَّهِ أَنْ نَأْخُذَ إِلَّا مَنْ وَجَدْنَا مَتَاعَنَا عِنْدَهُ إِنَّا إِذًا لَظَالِمُونَ
+BM: Dia berkata, "Allah melarang kami mengambil selain dari orang yang telah mempunyai barang barang  yang telah kami jumpa dengannya, kalau tidak, kami tidak berlaku adil."
+EN: He said, "GOD forbid that we should take other than the one in whose possession we found our goods. Otherwise, we would be unjust."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012079.mp3
 
 # Ayah 80
-AR: TODO_AR_012080
-BM: TODO_BM_012080
-EN: TODO_EN_012080
-AUDIO: ./assets/audio/012/012080.mp3
+AR: فَلَمَّا اسْتَيْأَسُوا مِنْهُ خَلَصُوا نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوا أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُمْ مَوْثِقًا مِنَ اللَّهِ وَمِنْ قَبْلُ مَا فَرَّطْتُمْ فِي يُوسُفَ فَلَنْ أَبْرَحَ الْأَرْضَ حَتَّىٰ يَأْذَنَ لِي أَبِي أَوْ يَحْكُمَ اللَّهُ لِي وَهُوَ خَيْرُ الْحَاكِمِينَ
+BM: Apabila mereka berputus asa untuk menukarkan fikirannya, dia berbincang bersama mereka.yang tua berkata, "Tidakkah kamu sedar yang bapa kamu telah mengambil perjanjian yang teguh dari kamu didepan Allah? Dahulu kamu telah kehilangan Yusuf. Aku tidak akan meninggalkan tempat ini sehingga bapaku memberikan keizinan, ataupun sehingga Allah menghakimiku; Dialah Hakim yang terbaik.
+EN: When they despaired of changing his mind, they conferred together. Their eldest said, "Do you realize that your father has taken a solemn pledge from you before GOD? In the past you lost Joseph. I am not leaving this place until my father gives me permission, or until GOD judges for me; He is the best Judge.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012080.mp3
 
 # Ayah 81
-AR: TODO_AR_012081
-BM: TODO_BM_012081
-EN: TODO_EN_012081
-AUDIO: ./assets/audio/012/012081.mp3
+AR: ارْجِعُوا إِلَىٰ أَبِيكُمْ فَقُولُوا يَاأَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ
+BM: "Pulanglah kepada bapa kamu dan sampaikan kepadanya?"
+EN: "Go back to your father and tell him...
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012081.mp3
 
 # Ayah 82
-AR: TODO_AR_012082
-BM: TODO_BM_012082
-EN: TODO_EN_012082
-AUDIO: ./assets/audio/012/012082.mp3
+AR: وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا وَالْعِيرَ الَّتِي أَقْبَلْنَا فِيهَا وَإِنَّا لَصَادِقُونَ
+BM: 'Kamu bolehlah menanyakan kepada komuniti dimana kami berada, dan kepada karavan yang telah pulang bersama sama kami. Kami berkata benar.'"
+EN: 'You may ask the community where we were, and the caravan that came back with us. We are telling the truth.'"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012082.mp3
 
 # Ayah 83
-AR: TODO_AR_012083
-BM: TODO_BM_012083
-EN: TODO_EN_012083
-AUDIO: ./assets/audio/012/012083.mp3
+AR: قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنْفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى اللَّهُ أَنْ يَأْتِيَنِي بِهِمْ جَمِيعًا إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ
+BM: Dia berkata, "Sesungguhnya, kamu telah berkomplot untuk membuat satu perancangan. Kesabaran yang amat sangat hanyalah jalan keluar untukku. Semoga Allah menghantarkan mereka semuanya pulang kepadaku. Sesungguhnya Dialah yang Maha Mengetahui lagi Maha Bijaksana."
+EN: He said, "Indeed, you have conspired to carry out a certain scheme. Quiet patience is my only recourse. May GOD bring them all back to me. He is the Omniscient, Most Wise."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012083.mp3
 
 # Ayah 84
-AR: TODO_AR_012084
-BM: TODO_BM_012084
-EN: TODO_EN_012084
-AUDIO: ./assets/audio/012/012084.mp3
+AR: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَاأَسَفَىٰ عَلَىٰ يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ
+BM: Dia berpaling dari mereka, dengan berkata, "Aku amat sangat sedih tentang Yusuf." Matanya menjadi putih kerana kesedihan yang terlalu sangat; dia terlalu sangat dukacita.
+EN: He turned away from them, saying, "I am grieving over Joseph." His eyes turned white from grieving so much; he was truly sad.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012084.mp3
 
 # Ayah 85
-AR: TODO_AR_012085
-BM: TODO_BM_012085
-EN: TODO_EN_012085
-AUDIO: ./assets/audio/012/012085.mp3
+AR: قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ
+BM: Mereka berkata, "Demi Allah, kamu akan sentiasa bersedih tentang Yusuf sehinggakan kamu akan menderita sakit, ataupun mati."
+EN: They said, "By GOD, you will keep on grieving over Joseph until you become ill, or until you die."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012085.mp3
 
 # Ayah 86
-AR: TODO_AR_012086
-BM: TODO_BM_012086
-EN: TODO_EN_012086
-AUDIO: ./assets/audio/012/012086.mp3
+AR: قَالَ إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
+BM: Dia berkata, "Aku hanyalah mengadu kepada Allah dalam keadaan dilema dan dukacitaku, kerana aku tahu dari Allah apa yang tidak kamu ketahui.
+EN: He said, "I simply complain to GOD about my dilemma and grief, for I know from GOD what you do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012086.mp3
 
 # Ayah 87
-AR: TODO_AR_012087
-BM: TODO_BM_012087
-EN: TODO_EN_012087
-AUDIO: ./assets/audio/012/012087.mp3
+AR: يَابَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ
+BM: "Wahai anak anakku, pergilah ambil Yusuf dan adiknya, dan janganlah berputus asa dari belas kasih Allah.  Tiada yang berputus asa dari belas kasih Allah melainkan orang orang yang ingkar."
+EN: "O my sons, go fetch Joseph and his brother, and never despair of GOD's grace. None despairs of GOD's grace except the disbelieving people."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012087.mp3
 
 # Ayah 88
-AR: TODO_AR_012088
-BM: TODO_BM_012088
-EN: TODO_EN_012088
-AUDIO: ./assets/audio/012/012088.mp3
+AR: فَلَمَّا دَخَلُوا عَلَيْهِ قَالُوا يَاأَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا إِنَّ اللَّهَ يَجْزِي الْمُتَصَدِّقِينَ
+BM: Apabila mereka memasuki dikawasan kawasan (Yusuf), mereka berkata, "Wahai seorang yang mulia, kami telah ditimpa dengan banyak kesukaran, bersama sama keluarga kami, dan kami telah membawa barang barang bawahan. Tetapi kami berharap agar kamu dapat memberikan kami timbangan yang penuh dan berdermalah kepada kami. Allah merahmati orang orang yang menderma."
+EN: When they entered (Joseph's) quarters, they said, "O you noble one, we have suffered a lot of hardship, along with our family, and we have brought inferior goods. But we hope that you will give us full measure and be charitable to us. GOD rewards the charitable."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012088.mp3
+SUBTITLE_BM: Israil Pergi keMesir.
+SUBTITLE_EN: Israel Goes to Egypt
 
 # Ayah 89
-AR: TODO_AR_012089
-BM: TODO_BM_012089
-EN: TODO_EN_012089
-AUDIO: ./assets/audio/012/012089.mp3
+AR: قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ جَاهِلُونَ
+BM: Dia berkata, "Dapatkah kamu ingat apa yang telah kamu lakukan kepada Yusuf dan adiknya, semasa kamu didalam kejahilan?"
+EN: He said, "Do you recall what you did to Joseph and his brother when you were ignorant?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012089.mp3
 
 # Ayah 90
-AR: TODO_AR_012090
-BM: TODO_BM_012090
-EN: TODO_EN_012090
-AUDIO: ./assets/audio/012/012090.mp3
+AR: قَالُوا أَإِنَّكَ لَأَنْتَ يُوسُفُ قَالَ أَنَا يُوسُفُ وَهَٰذَا أَخِي قَدْ مَنَّ اللَّهُ عَلَيْنَا إِنَّهُ مَنْ يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ
+BM: Mereka berkata, "Kamu tentunya Yusuf." Dia berkata, "Akulah Yusuf, dan ini adikku. Allah telah merahmati kami. Itu adalah kerana jika seseorang mengamalkan kehidupan yang benar, sabar dan ta'at, Allah tidak akan lalai dari memberi kurnia kepada orang orang yang salih."
+EN: They said, "You must be Joseph." He said, "I am Joseph, and here is my brother. GOD has blessed us. That is because if one leads a righteous life, and steadfastly perseveres, GOD never fails to reward the righteous."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012090.mp3
 
 # Ayah 91
-AR: TODO_AR_012091
-BM: TODO_BM_012091
-EN: TODO_EN_012091
-AUDIO: ./assets/audio/012/012091.mp3
+AR: قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِنْ كُنَّا لَخَاطِئِينَ
+BM: Mereka berkata, "Demi Allah, Allah telah benar benar mengutamakan kamu dari kami. Kami tentu sekali bersalah."
+EN: They said, "By GOD, GOD has truly preferred you over us. We were definitely wrong."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012091.mp3
 
 # Ayah 92
-AR: TODO_AR_012092
-BM: TODO_BM_012092
-EN: TODO_EN_012092
-AUDIO: ./assets/audio/012/012092.mp3
+AR: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ
+BM: Dia berkata, "Tidak apa yang akan dipersalahkan kepada kamu hari ini. Semoga Allah mengampuni kamu. Bagi segala segala penyayang, Dialah yang Maha Penyayang.
+EN: He said, "There is no blame upon you today. May GOD forgive you. Of all the merciful ones, He is the Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012092.mp3
 
 # Ayah 93
-AR: TODO_AR_012093
-BM: TODO_BM_012093
-EN: TODO_EN_012093
-AUDIO: ./assets/audio/012/012093.mp3
+AR: اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ
+BM: "Ambillah bajuku; apabila kamu lemparkan pada wajah bapaku, pemandangannya akan kembali semula. Bawalah semua keluarga kamu dan kembalilah semula kepada aku."
+EN: "Take this shirt of mine; when you throw it on my father's face, his vision will be restored. Bring your whole family and come back to me."*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012093.mp3
 
 # Ayah 94
-AR: TODO_AR_012094
-BM: TODO_BM_012094
-EN: TODO_EN_012094
-AUDIO: ./assets/audio/012/012094.mp3
+AR: وَلَمَّا فَصَلَتِ الْعِيرُ قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ لَوْلَا أَنْ تُفَنِّدُونِ
+BM: Sebelum karavan itu dapat sampai, bapa mereka berkata, "Aku dapat merasai bauan Yusuf. Bolehkah sesiapa dapat menyedarkanku?"
+EN: Even before the caravan arrived, their father said, "I can sense the smell of Joseph. Will someone enlighten me?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012094.mp3
 
 # Ayah 95
-AR: TODO_AR_012095
-BM: TODO_BM_012095
-EN: TODO_EN_012095
-AUDIO: ./assets/audio/012/012095.mp3
+AR: قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ
+BM: Mereka berkata, "Demi Allah, kamu masih juga didalam kekeliruan yang lama."
+EN: They said, "By GOD, you are still in your old confusion."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012095.mp3
 
 # Ayah 96
-AR: TODO_AR_012096
-BM: TODO_BM_012096
-EN: TODO_EN_012096
-AUDIO: ./assets/audio/012/012096.mp3
+AR: فَلَمَّا أَنْ جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ
+BM: Apabila pembawa berita berita yang baik itu tiba, dilemparkannya (baju) pada mukanya, dimana pemandangannya pun pulih semula. Dia berkata, "Tidakkah telah aku katakan kepada kamu, yang aku ketahui dari Allah apa yang tidak kamu ketahui?"
+EN: When the bearer of good news arrived, he threw (the shirt) on his face, whereupon his vision was restored. He said, "Did I not tell you that I knew from GOD what you did not know?"
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012096.mp3
 
 # Ayah 97
-AR: TODO_AR_012097
-BM: TODO_BM_012097
-EN: TODO_EN_012097
-AUDIO: ./assets/audio/012/012097.mp3
+AR: قَالُوا يَاأَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ
+BM: Mereka berkata, "Bapa kami, doa'kan untuk pengampunan kami; sesungguhnya kamilah yang bersalah."
+EN: They said, "Our father, pray for our forgiveness; we were wrong indeed."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012097.mp3
 
 # Ayah 98
-AR: TODO_AR_012098
-BM: TODO_BM_012098
-EN: TODO_EN_012098
-AUDIO: ./assets/audio/012/012098.mp3
+AR: قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ
+BM: Dia berkata, "Aku akan memohon pengampunanmu kepada Tuhanku; sesungguhnya Dialah Maha Pengampun lagi Maha Penyayang."
+EN: He said, "I will implore my Lord to forgive you; He is the Forgiver, Most Merciful."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012098.mp3
 
 # Ayah 99
-AR: TODO_AR_012099
-BM: TODO_BM_012099
-EN: TODO_EN_012099
-AUDIO: ./assets/audio/012/012099.mp3
+AR: فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَبَوَيْهِ وَقَالَ ادْخُلُوا مِصْرَ إِنْ شَاءَ اللَّهُ آمِنِينَ
+BM: Apabila mereka tiba dikawasan kawasannya, dia memeluk kedua orang tuanya, dengan berkata, "Selamat datang keMesir. Dengan izin Allah kamu akan selamat disini."
+EN: When they entered Joseph's quarters, he embraced his parents, saying, "Welcome to Egypt. GOD willing, you will be safe here."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012099.mp3
+SUBTITLE_BM: Di-Mesir.
+SUBTITLE_EN: In Egypt
 
 # Ayah 100
-AR: TODO_AR_012100
-BM: TODO_BM_012100
-EN: TODO_EN_012100
-AUDIO: ./assets/audio/012/012100.mp3
+AR: وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا وَقَالَ يَاأَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا وَقَدْ أَحْسَنَ بِي إِذْ أَخْرَجَنِي مِنَ السِّجْنِ وَجَاءَ بِكُمْ مِنَ الْبَدْوِ مِنْ بَعْدِ أَنْ نَزَغَ الشَّيْطَانُ بَيْنِي وَبَيْنَ إِخْوَتِي إِنَّ رَبِّي لَطِيفٌ لِمَا يَشَاءُ إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ
+BM: Dia naikkan kedua ibu bapanya diatas tahta. Mereka pun sujud kepadanya. Dia berkata, "Wahai bapaku, inilah kepuasan yang aku dapati berkenaan mimpi lamaku.Tuhanku telah menjadikannya kenyataan. Dia telah merahmatiku, keluarkan aku dari penjara, dan membawa kamu keluar dari padang pasir, setelah syaitan membuat kemurkaan diantaraku dan saudara saudaraku. Tuhanku itu Maha Mengasihani kepada sesiapa saja yang dikehendakiNya. Sesungguhnya, Dialah yang Maha Mengetahui lagi Maha Bijaksana."
+EN: He raised his parents upon the throne. They fell prostrate before him. He said, "O my father, this is the fulfillment of my old dream. My Lord has made it come true. He has blessed me, delivered me from the prison, and brought you from the desert, after the devil had driven a wedge between me and my brothers. My Lord is Most Kind towards whomever He wills. He is the Knower, the Most Wise."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012100.mp3
 
 # Ayah 101
-AR: TODO_AR_012101
-BM: TODO_BM_012101
-EN: TODO_EN_012101
-AUDIO: ./assets/audio/012/012101.mp3
+AR: رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِنْ تَأْوِيلِ الْأَحَادِيثِ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنْتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ
+BM: "Tuhanku, Engkau telah memberiku kerajaan dan mengajarkanku untuk meinteperitasikan mimpi mimpi. Yang meinsiatifkan sekelian cekrawala dan bumi; Engkaulah Tuhan dan Tuanku dikehidupan ini dan diAkhirat. Matikanlah aku sebagai orang orang yang menyerahkan diriku dengan sepenuh penuh penyerahan (kepada Allah), dan kirakan aku bersama sama  dengan orang orang yang salih."
+EN: "My Lord, You have given me kingship and taught me the interpretation of dreams. Initiator of the heavens and the earth; You are my Lord and Master in this life and in the Hereafter. Let me die as a submitter, and count me with the righteous."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012101.mp3
 
 # Ayah 102
-AR: TODO_AR_012102
-BM: TODO_BM_012102
-EN: TODO_EN_012102
-AUDIO: ./assets/audio/012/012102.mp3
+AR: ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ
+BM: Ini adalah berita berita yang dahulu yang telah kami terangkan kepadamu. Kamu tidak ada bersama mereka apabila mereka bersepakat dengan membuat keputusan (untuk membuangYusuf didalam perigi), ketika mereka berkomplot bersama.
+EN: This is news from the past that we reveal to you. You were not present when they made their unanimous decision (to throw Joseph in the well), as they conspired together.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012102.mp3
 
 # Ayah 103
-AR: TODO_AR_012103
-BM: TODO_BM_012103
-EN: TODO_EN_012103
-AUDIO: ./assets/audio/012/012103.mp3
+AR: وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ
+BM: Kebanyakan manusia, bagaimana sekalipun kamu lakukan, tidak akan percaya.
+EN: Most people, no matter what you do, will not believe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012103.mp3
+SUBTITLE_BM: Kebanyakan Manusia Tidak Percaya.
+SUBTITLE_EN: The Majority of People Do Not Believe
 
 # Ayah 104
-AR: TODO_AR_012104
-BM: TODO_BM_012104
-EN: TODO_EN_012104
-AUDIO: ./assets/audio/012/012104.mp3
+AR: وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
+BM: Kamu tidak meminta wang kepada mereka; kamu hanya menyampaikan amaran ini untuk manusia.
+EN: You are not asking them for any money; you simply deliver this reminder for all the people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012104.mp3
 
 # Ayah 105
-AR: TODO_AR_012105
-BM: TODO_BM_012105
-EN: TODO_EN_012105
-AUDIO: ./assets/audio/012/012105.mp3
+AR: وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
+BM: Terlalu banyak bukti bukti dari sekelian cekrawala dan bumi telah diberikan kepada mereka, tidak diambil pedulikan langsung!
+EN: So many proofs in the heavens and the earth are given to them, but they pass by them, heedlessly!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012105.mp3
 
 # Ayah 106
-AR: TODO_AR_012106
-BM: TODO_BM_012106
-EN: TODO_EN_012106
-AUDIO: ./assets/audio/012/012106.mp3
+AR: وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلَّا وَهُمْ مُشْرِكُونَ
+BM: Kebanyakan orang orang yang mempercayai Allah itu tidak berbuat demikian sepenuhnya melainkan dengan mengkomitkan diri diri mereka untuk mengadakan pujaan pujaan disamping (Allah).
+EN: The majority of those who believe in GOD do not do so without committing idol worship.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012106.mp3
+SUBTITLE_BM: Kebanyakan Manusia Telah Di-Takdirkan Ke-Neraka.
+SUBTITLE_EN: The Majority of Believers Destined for Hell
 
 # Ayah 107
-AR: TODO_AR_012107
-BM: TODO_BM_012107
-EN: TODO_EN_012107
-AUDIO: ./assets/audio/012/012107.mp3
+AR: أَفَأَمِنُوا أَنْ تَأْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ
+BM: Dapatkah mereka memberikan jaminan bahwa hukuman yang sangat hebat dari Allah tidak akan menyerang mereka, ataupun Waktu yang dijanjikan itu tidak akan datang kepada mereka melainkan dengan tiba tiba, yang mana mereka tidak akan menyangkakannya langsung?
+EN: Have they guaranteed that an overwhelming retribution from GOD will not strike them, or the Hour will not come to them suddenly, when they least expect it?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012107.mp3
 
 # Ayah 108
-AR: TODO_AR_012108
-BM: TODO_BM_012108
-EN: TODO_EN_012108
-AUDIO: ./assets/audio/012/012108.mp3
+AR: قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ
+BM: Katakanlah, "Inilah jalanku: Aku mengundang kepada Allah, berasaskan dengan bukti yang terang, begitu juga dengan orang orang yang mengikutiku. Allah Maha Suci, Aku bukanlah orang orang yang menyekutukan (Allah)."
+EN: Say, "This is my path: I invite to GOD, on the basis of a clear proof, and so do those who follow me. GOD be glorified. I am not an idol worshiper."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012108.mp3
 
 # Ayah 109
-AR: TODO_AR_012109
-BM: TODO_BM_012109
-EN: TODO_EN_012109
-AUDIO: ./assets/audio/012/012109.mp3
+AR: وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ مِنْ أَهْلِ الْقُرَىٰ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا أَفَلَا تَعْقِلُونَ
+BM: Kami tidak menghantar sebelum kamu melainkan lelaki yang kami meinspirasikan, dipilih dari manusia yang berbilang komuniti. Tidakkah mereka menjelajahi dibumi dan melihat akibat akibatnya orang orang yang sebelum mereka? Tempat kediaman diAkhirat itu lebih lagi baiknya bagi orang orang yang menjalani kehidupan yang benar. Dapatkah kamu memahaminya?
+EN: We did not send before you except men whom we inspired, chosen from the people of various communities. Did they not roam the earth and see the consequences for those before them? The abode of the Hereafter is far better for those who lead a righteous life. Would you then understand?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012109.mp3
 
 # Ayah 110
-AR: TODO_AR_012110
-BM: TODO_BM_012110
-EN: TODO_EN_012110
-AUDIO: ./assets/audio/012/012110.mp3
+AR: حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ
+BM: Apabila saja para rasul kami merasakan putus asa, dan berfikir yang mereka telah diingkarkan, kemenangan kami datang kepada mereka. Maka kami pun menyelamatkan sesiapa saja yang kami pilih, sementara hukuman kami kepada orang orang yang bersalah itu tidak akan boleh dielakkan lagi.
+EN: Just when the messengers despair, and think that they had been rejected, our victory comes to them. We then save whomever we choose, while our retribution for the guilty people is unavoidable.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012110.mp3
+SUBTITLE_BM: Akhirnya Kemenangan Dimiliki Oleh Orang Orang Yang Percaya.
+SUBTITLE_EN: Victory, Ultimately, Belongs to the Believers
 
 # Ayah 111
-AR: TODO_AR_012111
-BM: TODO_BM_012111
-EN: TODO_EN_012111
-AUDIO: ./assets/audio/012/012111.mp3
+AR: لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي الْأَلْبَابِ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ
+BM: Didalam riwayat mereka, adalah pelajaran bagi orang orang yang mempunyai kecerdasan. Ini bukannya Hadis palsu; (Quran) ini mengesahkan semua kitab kitab terdahulu yang mengandungi penerangan yang terperinci, petunjuk dan rahmat bagi orang orang yang percaya.
+EN: In their history, there is a lesson for those who possess intelligence. This is not fabricated Hadith; this (Quran) confirms all previous scriptures, provides the details of everything, and is a beacon and mercy for those who believe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/012111.mp3
+SUBTITLE_BM: Hanya Quran Saja Yang Kita Perlukan.
+SUBTITLE_EN: The Quran is All We Need
+
+
+
+
+

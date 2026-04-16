@@ -1,58 +1,63 @@
-SURAH_NUMBER: 94
-NAME_AR: الشرح
-NAME_BM: Kelapangan
-NAME_EN: The Relief
+﻿SURAH_NUMBER: 94
+NAME_AR: سورة الـشرح
+NAME_BM: Mengawal Perasaan Marah
+NAME_EN: Cooling the Temper
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/094/094000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094000.mp3
 
 # Ayah 1
-AR: TODO_AR_094001
-BM: TODO_BM_094001
-EN: TODO_EN_094001
-AUDIO: ./assets/audio/094/094001.mp3
+AR: أَلَم نَشرَح لَكَ صَدرَكَ
+BM: Tidakkah kami yang mengawalkan kemarahanmu?
+EN: Did we not cool your temper?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094001.mp3
 
 # Ayah 2
-AR: TODO_AR_094002
-BM: TODO_BM_094002
-EN: TODO_EN_094002
-AUDIO: ./assets/audio/094/094002.mp3
+AR: وَوَضَعْنَا عَنْكَ وِزْرَكَ
+BM: Dan kami meringankan bebananmu ( dosa dosa).
+EN: And we unloaded your load (of sins).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094002.mp3
 
 # Ayah 3
-AR: TODO_AR_094003
-BM: TODO_BM_094003
-EN: TODO_EN_094003
-AUDIO: ./assets/audio/094/094003.mp3
+AR: الَّذِي أَنْقَضَ ظَهْرَكَ
+BM: Yang telah membebani belakangmu.
+EN: One that burdened your back.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094003.mp3
 
 # Ayah 4
-AR: TODO_AR_094004
-BM: TODO_BM_094004
-EN: TODO_EN_094004
-AUDIO: ./assets/audio/094/094004.mp3
+AR: وَرَفَعْنَا لَكَ ذِكْرَكَ
+BM: Kami naikkanmu kepada kedudukan yang mulia.
+EN: We exalted you to an honorable position.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094004.mp3
 
 # Ayah 5
-AR: TODO_AR_094005
-BM: TODO_BM_094005
-EN: TODO_EN_094005
-AUDIO: ./assets/audio/094/094005.mp3
+AR: فَإِنَّ مَعَ الْعُسْرِ يُسْرًا
+BM: Tentunya dengan kesulitan barulah adanya kemudahan.
+EN: With pain there is gain.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094005.mp3
 
 # Ayah 6
-AR: TODO_AR_094006
-BM: TODO_BM_094006
-EN: TODO_EN_094006
-AUDIO: ./assets/audio/094/094006.mp3
+AR: إِنَّ مَعَ الْعُسْرِ يُسْرًا
+BM: Sesungguhnya, dengan kesulitan barulah adanya kemudahan.
+EN: Indeed, with pain there is gain.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094006.mp3
 
 # Ayah 7
-AR: TODO_AR_094007
-BM: TODO_BM_094007
-EN: TODO_EN_094007
-AUDIO: ./assets/audio/094/094007.mp3
+AR: فَإِذَا فَرَغْتَ فَانْصَبْ
+BM: Bila saja mungkin kamu mestilah berjuang.
+EN: Whenever possible you shall strive.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094007.mp3
 
 # Ayah 8
-AR: TODO_AR_094008
-BM: TODO_BM_094008
-EN: TODO_EN_094008
-AUDIO: ./assets/audio/094/094008.mp3
+AR: وَإِلَىٰ رَبِّكَ فَارْغَبْ
+BM: Hanyalah mencarikan keredhaan Tuhanmu.
+EN: Seeking only your Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/094008.mp3
+
+
+
+
+

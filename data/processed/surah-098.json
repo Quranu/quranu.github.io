@@ -1,74 +1,74 @@
 {
   "surahNumber": 98,
   "name": {
-    "ar": "البينة",
-    "bm": "Bukti Nyata",
-    "en": "The Clear Proof"
+    "ar": "سورة الـبينة",
+    "bm": "Bukti",
+    "en": "Proof"
   },
   "totalAyahs": 8,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/098/098000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_098001",
-      "bm": "TODO_BM_098001",
-      "en": "TODO_EN_098001",
-      "audio": "./assets/audio/098/098001.mp3"
+      "arabic": "لَم يَكُنِ الَّذينَ كَفَروا مِن أَهلِ الكِتابِ وَالمُشرِكينَ مُنفَكّينَ حَتّىٰ تَأتِيَهُمُ البَيِّنَةُ",
+      "bm": "Orang orang yang ingkar diantara ahli kitab, dan juga penyembah pujaan pujaan, berkeras dengan pendirian mereka, meskipun bukti telah diberikan kepada mereka.",
+      "en": "Those who disbelieved among the people of the scripture, as well as the idol worshipers, insist on their ways, despite the proof given to them.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_098002",
-      "bm": "TODO_BM_098002",
-      "en": "TODO_EN_098002",
-      "audio": "./assets/audio/098/098002.mp3"
+      "arabic": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+      "bm": "Seorang rasul dari Allah telah membacakan arahan arahan yang suci kepada mereka.",
+      "en": "A messenger from GOD is reciting to them sacred instructions.*",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_098003",
-      "bm": "TODO_BM_098003",
-      "en": "TODO_EN_098003",
-      "audio": "./assets/audio/098/098003.mp3"
+      "arabic": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+      "bm": "Didalamnya adalah pengajaran pengajaran yang berharga.",
+      "en": "In them there are valuable teachings.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_098004",
-      "bm": "TODO_BM_098004",
-      "en": "TODO_EN_098004",
-      "audio": "./assets/audio/098/098004.mp3"
+      "arabic": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+      "bm": "Sebenarnya, orang orang yang telah menerima kitab tidaklah bertelingkahan sehinggalah bukti telah diberikan kepada mereka.",
+      "en": "In fact, those who received the scripture did not dispute until the proof was given to them.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_098005",
-      "bm": "TODO_BM_098005",
-      "en": "TODO_EN_098005",
-      "audio": "./assets/audio/098/098005.mp3"
+      "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "bm": "Semuanya yang diminta dari mereka hanyalah menyembah Allah, mengabdikan agama semata mata kepadaNya sahaja, mengerjakan sembahyang (Salat), dan memberikan derma yang diwajibkan (Zakat). Demikian itu adalah agama yang sempurna.",
+      "en": "All that was asked of them was to worship GOD, devoting the religion absolutely to Him alone, observe the contact prayers (Salat), and give the obligatory charity (Zakat). Such is the perfect religion.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_098006",
-      "bm": "TODO_BM_098006",
-      "en": "TODO_EN_098006",
-      "audio": "./assets/audio/098/098006.mp3"
+      "arabic": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+      "bm": "Orang orang yang ingkar diantara ahli kitab, dan penyembah pujaan pujaan, telah dikenakan api dari Gehenna untuk selama lamanya. Mereka adalah makhluk yang paling buruk sekali.",
+      "en": "Those who disbelieved among the people of the scripture, and the idol worshipers have incurred the fire of Gehenna forever. They are the worst creatures.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_098007",
-      "bm": "TODO_BM_098007",
-      "en": "TODO_EN_098007",
-      "audio": "./assets/audio/098/098007.mp3"
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+      "bm": "Orang orang yang percaya dan yang menjalani kehidupan yang benar adalah makhluk yang paling baik sekali.",
+      "en": "Those who believed and led a righteous life are the best creatures.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_098008",
-      "bm": "TODO_BM_098008",
-      "en": "TODO_EN_098008",
-      "audio": "./assets/audio/098/098008.mp3"
+      "arabic": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+      "bm": "Anugerah mereka disisi Tuhan mereka adalah taman taman 'Adnin dengan air sungai sungainya yang mengalir, didalamnya mereka akan tinggal untuk selama lamanya. Allah telah meredhai mereka, dan mereka juga sangat meredhaiNya. Demikian itulah anugerah bagi orang orang yang menghormati Tuhan mereka.",
+      "en": "Their reward at their Lord is the gardens of Eden with flowing streams, wherein they abide forever. GOD is pleased with them, and they are pleased with Him. Such is the reward for those who reverence their Lord.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098008.mp3"
     }
   ]
 }

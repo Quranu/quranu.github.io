@@ -1,8 +1,8 @@
 {
   "surahNumber": 80,
   "name": {
-    "ar": "عبس",
-    "bm": "Dia Bermuka Masam",
+    "ar": "سورة عبس",
+    "bm": "Berkerut Dahi",
     "en": "He Frowned"
   },
   "totalAyahs": 42,
@@ -10,303 +10,303 @@
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/080/080000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_080001",
-      "bm": "TODO_BM_080001",
-      "en": "TODO_EN_080001",
-      "audio": "./assets/audio/080/080001.mp3"
+      "arabic": "عَبَسَ وَتَوَلّىٰ",
+      "bm": "Dia (Muhammad) mengerutkan dahinya dan berpaling.",
+      "en": "He (Muhammad) frowned and turned away.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_080002",
-      "bm": "TODO_BM_080002",
-      "en": "TODO_EN_080002",
-      "audio": "./assets/audio/080/080002.mp3"
+      "arabic": "أَنْ جَاءَهُ الْأَعْمَىٰ",
+      "bm": "Apabila seorang lelaki buta datang kepadanya.",
+      "en": "When the blind man came to him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_080003",
-      "bm": "TODO_BM_080003",
-      "en": "TODO_EN_080003",
-      "audio": "./assets/audio/080/080003.mp3"
+      "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+      "bm": "Bagaimanakah kamu tahu? Mungkin dia dapat menyucikan dirinya sendiri.",
+      "en": "How do you know? He may purify himself.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_080004",
-      "bm": "TODO_BM_080004",
-      "en": "TODO_EN_080004",
-      "audio": "./assets/audio/080/080004.mp3"
+      "arabic": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+      "bm": "Ataupun mungkin dia dapat merenungkan, dan memanfaatkan dari mesej itu.",
+      "en": "Or he may take heed, and benefit from the message.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_080005",
-      "bm": "TODO_BM_080005",
-      "en": "TODO_EN_080005",
-      "audio": "./assets/audio/080/080005.mp3"
+      "arabic": "أَمَّا مَنِ اسْتَغْنَىٰ",
+      "bm": "Bagi seorang lelaki yang kaya.",
+      "en": "As for the rich man.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_080006",
-      "bm": "TODO_BM_080006",
-      "en": "TODO_EN_080006",
-      "audio": "./assets/audio/080/080006.mp3"
+      "arabic": "فَأَنْتَ لَهُ تَصَدَّىٰ",
+      "bm": "Kau memberikannya perhatianmu.",
+      "en": "You gave him your attention.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_080007",
-      "bm": "TODO_BM_080007",
-      "en": "TODO_EN_080007",
-      "audio": "./assets/audio/080/080007.mp3"
+      "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "bm": "Walaupun kau tidak dapat memastikan keselamatannya.",
+      "en": "Even though you could not guarantee his salvation.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_080008",
-      "bm": "TODO_BM_080008",
-      "en": "TODO_EN_080008",
-      "audio": "./assets/audio/080/080008.mp3"
+      "arabic": "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+      "bm": "Seorang yang datang kepadamu dengan penuh minat.",
+      "en": "The one who came to you eagerly.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_080009",
-      "bm": "TODO_BM_080009",
-      "en": "TODO_EN_080009",
-      "audio": "./assets/audio/080/080009.mp3"
+      "arabic": "وَهُوَ يَخْشَىٰ",
+      "bm": "Dan bersunguh sungguh menghormatkan.",
+      "en": "And is really reverent.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_080010",
-      "bm": "TODO_BM_080010",
-      "en": "TODO_EN_080010",
-      "audio": "./assets/audio/080/080010.mp3"
+      "arabic": "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+      "bm": "Kau tidak memperdulikannya.",
+      "en": "You ignored him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_080011",
-      "bm": "TODO_BM_080011",
-      "en": "TODO_EN_080011",
-      "audio": "./assets/audio/080/080011.mp3"
+      "arabic": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+      "bm": "Sesungguhnya, ini adalah satu Peringatan.",
+      "en": "Indeed, this is a reminder.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_080012",
-      "bm": "TODO_BM_080012",
-      "en": "TODO_EN_080012",
-      "audio": "./assets/audio/080/080012.mp3"
+      "arabic": "فَمَنْ شَاءَ ذَكَرَهُ",
+      "bm": "Sesiapa saja kehendaki bolehlah mengambil pelajaran.",
+      "en": "Whoever wills shall take heed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_080013",
-      "bm": "TODO_BM_080013",
-      "en": "TODO_EN_080013",
-      "audio": "./assets/audio/080/080013.mp3"
+      "arabic": "فِي صُحُفٍ مُكَرَّمَةٍ",
+      "bm": "Didalam kitab kitab yang mulia.",
+      "en": "In honorable scriptures.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_080014",
-      "bm": "TODO_BM_080014",
-      "en": "TODO_EN_080014",
-      "audio": "./assets/audio/080/080014.mp3"
+      "arabic": "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+      "bm": "Tinggi dan suci.",
+      "en": "Exalted and pure.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_080015",
-      "bm": "TODO_BM_080015",
-      "en": "TODO_EN_080015",
-      "audio": "./assets/audio/080/080015.mp3"
+      "arabic": "بِأَيْدِي سَفَرَةٍ",
+      "bm": "(Tertulis) oleh tangan tangan para rasul.",
+      "en": "(Written) by the hands of messengers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_080016",
-      "bm": "TODO_BM_080016",
-      "en": "TODO_EN_080016",
-      "audio": "./assets/audio/080/080016.mp3"
+      "arabic": "كِرَامٍ بَرَرَةٍ",
+      "bm": "Yang amat mulia dan orang orang yang salih.",
+      "en": "Who are honorable and righteous.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_080017",
-      "bm": "TODO_BM_080017",
-      "en": "TODO_EN_080017",
-      "audio": "./assets/audio/080/080017.mp3"
+      "arabic": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+      "bm": "Malang sungguh bagi manusia ; dia amatlah tidak bersyukur!",
+      "en": "Woe to the human being; he is so unappreciative!",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_080018",
-      "bm": "TODO_BM_080018",
-      "en": "TODO_EN_080018",
-      "audio": "./assets/audio/080/080018.mp3"
+      "arabic": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+      "bm": "Dari apakah Dia menciptakannya?",
+      "en": "What did He create him from?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_080019",
-      "bm": "TODO_BM_080019",
-      "en": "TODO_EN_080019",
-      "audio": "./assets/audio/080/080019.mp3"
+      "arabic": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+      "bm": "Dari setitik yang halus, Dia menciptakannya dan membentuknya.",
+      "en": "From a tiny drop, He creates him and designs him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_080020",
-      "bm": "TODO_BM_080020",
-      "en": "TODO_EN_080020",
-      "audio": "./assets/audio/080/080020.mp3"
+      "arabic": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+      "bm": "Lalu Dia menunjukkan jalan untuknya.",
+      "en": "Then He points out the path for him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080020.mp3"
     },
     {
       "number": 21,
-      "arabic": "TODO_AR_080021",
-      "bm": "TODO_BM_080021",
-      "en": "TODO_EN_080021",
-      "audio": "./assets/audio/080/080021.mp3"
+      "arabic": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+      "bm": "Lalu Dia mematikannya, dan dimasukkan kedalam kubur.",
+      "en": "Then He puts him to death, and into the grave.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080021.mp3"
     },
     {
       "number": 22,
-      "arabic": "TODO_AR_080022",
-      "bm": "TODO_BM_080022",
-      "en": "TODO_EN_080022",
-      "audio": "./assets/audio/080/080022.mp3"
+      "arabic": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+      "bm": "Apabila Dia kehendaki, Dia membangkitkannya.",
+      "en": "When He wills, He resurrects him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080022.mp3"
     },
     {
       "number": 23,
-      "arabic": "TODO_AR_080023",
-      "bm": "TODO_BM_080023",
-      "en": "TODO_EN_080023",
-      "audio": "./assets/audio/080/080023.mp3"
+      "arabic": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+      "bm": "Dia mestilah mendukung perintah perintahNya.",
+      "en": "He shall uphold His commandments.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080023.mp3"
     },
     {
       "number": 24,
-      "arabic": "TODO_AR_080024",
-      "bm": "TODO_BM_080024",
-      "en": "TODO_EN_080024",
-      "audio": "./assets/audio/080/080024.mp3"
+      "arabic": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+      "bm": "Biarkanlah manusia membuat pertimbangan tentang makanannya!",
+      "en": "Let the human consider his food!",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080024.mp3"
     },
     {
       "number": 25,
-      "arabic": "TODO_AR_080025",
-      "bm": "TODO_BM_080025",
-      "en": "TODO_EN_080025",
-      "audio": "./assets/audio/080/080025.mp3"
+      "arabic": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+      "bm": "Kami menyiramkan air dengan secukupnya.",
+      "en": "We pour the water generously.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080025.mp3"
     },
     {
       "number": 26,
-      "arabic": "TODO_AR_080026",
-      "bm": "TODO_BM_080026",
-      "en": "TODO_EN_080026",
-      "audio": "./assets/audio/080/080026.mp3"
+      "arabic": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+      "bm": "Lalu kami merekahkan tanah terbuka.",
+      "en": "Then we split the soil open.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080026.mp3"
     },
     {
       "number": 27,
-      "arabic": "TODO_AR_080027",
-      "bm": "TODO_BM_080027",
-      "en": "TODO_EN_080027",
-      "audio": "./assets/audio/080/080027.mp3"
+      "arabic": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+      "bm": "Kami tumbuhkan didalamnya biji bijian.",
+      "en": "We grow in it grains.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080027.mp3"
     },
     {
       "number": 28,
-      "arabic": "TODO_AR_080028",
-      "bm": "TODO_BM_080028",
-      "en": "TODO_EN_080028",
-      "audio": "./assets/audio/080/080028.mp3"
+      "arabic": "وَعِنَبًا وَقَضْبًا",
+      "bm": "Anggur anggur dan padang rumput ternak.",
+      "en": "Grapes and pasture.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080028.mp3"
     },
     {
       "number": 29,
-      "arabic": "TODO_AR_080029",
-      "bm": "TODO_BM_080029",
-      "en": "TODO_EN_080029",
-      "audio": "./assets/audio/080/080029.mp3"
+      "arabic": "وَزَيْتُونًا وَنَخْلًا",
+      "bm": "Pokok pokok zaitun dan pokok pokok palma.",
+      "en": "Olives and palms.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080029.mp3"
     },
     {
       "number": 30,
-      "arabic": "TODO_AR_080030",
-      "bm": "TODO_BM_080030",
-      "en": "TODO_EN_080030",
-      "audio": "./assets/audio/080/080030.mp3"
+      "arabic": "وَحَدَائِقَ غُلْبًا",
+      "bm": "Kebun kebun yang berbagai macam.",
+      "en": "A variety of orchards.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080030.mp3"
     },
     {
       "number": 31,
-      "arabic": "TODO_AR_080031",
-      "bm": "TODO_BM_080031",
-      "en": "TODO_EN_080031",
-      "audio": "./assets/audio/080/080031.mp3"
+      "arabic": "وَفَاكِهَةً وَأَبًّا",
+      "bm": "Buah buahan dan sayur sayuran.",
+      "en": "Fruits and vegetables.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080031.mp3"
     },
     {
       "number": 32,
-      "arabic": "TODO_AR_080032",
-      "bm": "TODO_BM_080032",
-      "en": "TODO_EN_080032",
-      "audio": "./assets/audio/080/080032.mp3"
+      "arabic": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+      "bm": "Untuk memberikan bantuan kehidupan kepada kamu dan binatang binatang kamu.",
+      "en": "To provide life support for you and your animals.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080032.mp3"
     },
     {
       "number": 33,
-      "arabic": "TODO_AR_080033",
-      "bm": "TODO_BM_080033",
-      "en": "TODO_EN_080033",
-      "audio": "./assets/audio/080/080033.mp3"
+      "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+      "bm": "Lalu, apabila tiupan berlaku.",
+      "en": "Then, when the blow comes to pass.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080033.mp3"
     },
     {
       "number": 34,
-      "arabic": "TODO_AR_080034",
-      "bm": "TODO_BM_080034",
-      "en": "TODO_EN_080034",
-      "audio": "./assets/audio/080/080034.mp3"
+      "arabic": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+      "bm": "Itulah harinya apabila seorang melarikan diri dari saudara lelakinya.",
+      "en": "That is the day when one flees from his brother.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080034.mp3"
     },
     {
       "number": 35,
-      "arabic": "TODO_AR_080035",
-      "bm": "TODO_BM_080035",
-      "en": "TODO_EN_080035",
-      "audio": "./assets/audio/080/080035.mp3"
+      "arabic": "وَأُمِّهِ وَأَبِيهِ",
+      "bm": "Dari ibu dan bapanya.",
+      "en": "From his mother and father.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080035.mp3"
     },
     {
       "number": 36,
-      "arabic": "TODO_AR_080036",
-      "bm": "TODO_BM_080036",
-      "en": "TODO_EN_080036",
-      "audio": "./assets/audio/080/080036.mp3"
+      "arabic": "وَصَاحِبَتِهِ وَبَنِيهِ",
+      "bm": "Dari pasangannya dan anak anaknya.",
+      "en": "From his spouse and children.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080036.mp3"
     },
     {
       "number": 37,
-      "arabic": "TODO_AR_080037",
-      "bm": "TODO_BM_080037",
-      "en": "TODO_EN_080037",
-      "audio": "./assets/audio/080/080037.mp3"
+      "arabic": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "bm": "Tiap tiap dari mereka, pada hari itu, bimbangkan tentang destininya sendiri.",
+      "en": "Each one of them, on that day, worries about his own destiny.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080037.mp3"
     },
     {
       "number": 38,
-      "arabic": "TODO_AR_080038",
-      "bm": "TODO_BM_080038",
-      "en": "TODO_EN_080038",
-      "audio": "./assets/audio/080/080038.mp3"
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+      "bm": "Ada wajah wajah pada hari itu akan bergembira.",
+      "en": "Some faces on that day will be happy.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080038.mp3"
     },
     {
       "number": 39,
-      "arabic": "TODO_AR_080039",
-      "bm": "TODO_BM_080039",
-      "en": "TODO_EN_080039",
-      "audio": "./assets/audio/080/080039.mp3"
+      "arabic": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+      "bm": "Ketawa dan kegirangan.",
+      "en": "Laughing and joyful.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080039.mp3"
     },
     {
       "number": 40,
-      "arabic": "TODO_AR_080040",
-      "bm": "TODO_BM_080040",
-      "en": "TODO_EN_080040",
-      "audio": "./assets/audio/080/080040.mp3"
+      "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "bm": "Wajah wajah yang lainnya, pada hari itu, akan ditutupi dengan derita.",
+      "en": "Other faces, on that day, will be covered with misery.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080040.mp3"
     },
     {
       "number": 41,
-      "arabic": "TODO_AR_080041",
-      "bm": "TODO_BM_080041",
-      "en": "TODO_EN_080041",
-      "audio": "./assets/audio/080/080041.mp3"
+      "arabic": "تَرْهَقُهَا قَتَرَةٌ",
+      "bm": "Diselubungi dengan penyesalan.",
+      "en": "Overwhelmed by remorse.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080041.mp3"
     },
     {
       "number": 42,
-      "arabic": "TODO_AR_080042",
-      "bm": "TODO_BM_080042",
-      "en": "TODO_EN_080042",
-      "audio": "./assets/audio/080/080042.mp3"
+      "arabic": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+      "bm": "Mereka inilah pengingkar pengingkar yang zalim.",
+      "en": "These are the wicked disbelievers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/080042.mp3"
     }
   ]
 }

@@ -1,95 +1,99 @@
 {
   "surahNumber": 62,
   "name": {
-    "ar": "الجمعة",
-    "bm": "Hari Jumat",
-    "en": "The Congregation"
+    "ar": "سورة الـجـمـعـة",
+    "bm": "Juma'at",
+    "en": "Friday"
   },
   "totalAyahs": 11,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/062/062000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_062001",
-      "bm": "TODO_BM_062001",
-      "en": "TODO_EN_062001",
-      "audio": "./assets/audio/062/062001.mp3"
+      "arabic": "يُسَبِّحُ لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ المَلِكِ القُدّوسِ العَزيزِ الحَكيمِ",
+      "bm": "Mengagungkan Allah adalah segala galanya disekelian cekrawala dan segala galanya dibumi; Raja, yang Maha Suci, yang Maha Kuat dan yang Maha Bijaksana.",
+      "en": "Glorifying GOD is everything in the heavens and everything on earth; the King, the Most Sacred, the Almighty, the Most Wise.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_062002",
-      "bm": "TODO_BM_062002",
-      "en": "TODO_EN_062002",
-      "audio": "./assets/audio/062/062002.mp3"
+      "arabic": "هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِهِ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَإِنْ كَانُوا مِنْ قَبْلُ لَفِي ضَلَالٍ مُبِينٍ",
+      "bm": "Dia Sahajalah yang menghantarkan orang orang yang tidak mempunyai kitab seorang rasul yang jujur dari kalangan mereka, untuk membacakan kepada mereka revelasi revelasiNya, menyucikan mereka, dan mengajarkan mereka kitab dan hikmah (kebijaksanaan). Sebelum ini, mereka telah tersesat jauh.",
+      "en": "He is the One who sent to the gentiles a messenger from among them, to recite to them His revelations, purify them, and teach them the scripture and wisdom. Before this, they had gone far astray.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_062003",
-      "bm": "TODO_BM_062003",
-      "en": "TODO_EN_062003",
-      "audio": "./assets/audio/062/062003.mp3"
+      "arabic": "وَآخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+      "bm": "Dan juga kepada banyak generasi generasi sesudah mereka. Sesungguhnya, Dialah yang Maha Kuat lagi Maha Bijaksana.",
+      "en": "And to many generations subsequent to them. He is the Almighty, Most Wise.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_062004",
-      "bm": "TODO_BM_062004",
-      "en": "TODO_EN_062004",
-      "audio": "./assets/audio/062/062004.mp3"
+      "arabic": "ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+      "bm": "Demikian itulah nikmat Allah yang Dia telah kurniakan keatas sesiapa saja yang Dia kehendaki. Sesungguhnya, Allah sahajalah Maha Pemilik Limpah kurnia yang tidak Terhad.",
+      "en": "Such is GOD's grace that He bestows upon whomever He wills. GOD is Possessor of Infinite Grace.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_062005",
-      "bm": "TODO_BM_062005",
-      "en": "TODO_EN_062005",
-      "audio": "./assets/audio/062/062005.mp3"
+      "arabic": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+      "bm": "Contoh bagi orang orang yang telah diberikan Taurat, lalu gagal untuk mendukungnya, adalah seperti keldai yang memikul kerja kerja kesusasteraan yang besar. Azab sungguh contoh bagi orang orang yang mengingkari revelasi revelasi Allah. Sesungguhnya, Allah tidak akan membimbing orang orang yang zalim.",
+      "en": "The example of those who were given the Torah then failed to uphold it is like the donkey carrying great works of literature. Miserable indeed is the example of people who rejected GOD's revelations. GOD does not guide the wicked people.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_062006",
-      "bm": "TODO_BM_062006",
-      "en": "TODO_EN_062006",
-      "audio": "./assets/audio/062/062006.mp3"
+      "arabic": "قُلْ يَاأَيُّهَا الَّذِينَ هَادُوا إِنْ زَعَمْتُمْ أَنَّكُمْ أَوْلِيَاءُ لِلَّهِ مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ",
+      "bm": "Katakanlah, \" Wahai kamu orang Yahudi, jika kamu mendakwa yang kamu adalah pilihan Allah, dan manusia lainnya tidak, maka sepatutnya kamu menginginkan kematian jika kamu itu adalah yang benar!\"",
+      "en": "Say, \"O you who are Jewish, if you claim that you are GOD's chosen, to the exclusion of all other people, then you should long for death if you are truthful!\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_062007",
-      "bm": "TODO_BM_062007",
-      "en": "TODO_EN_062007",
-      "audio": "./assets/audio/062/062007.mp3"
+      "arabic": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+      "bm": "Mereka tidak akan menginginkan kepadanya, kerana apa yang mereka telah mengkomit. Sesungguhnya, Allah amat sedar akan orang orang yang zalim.",
+      "en": "They will never long for it, because of what they have committed. GOD is fully aware of the wicked.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_062008",
-      "bm": "TODO_BM_062008",
-      "en": "TODO_EN_062008",
-      "audio": "./assets/audio/062/062008.mp3"
+      "arabic": "قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "bm": "Katakanlah, \"Kematian yang kamu cuba untuk mengelakkan akan mendatangi kamu lambat laun. Lalu kamu akan dikembalikan kepada yang Maha Mengetahui segala rahsia rahsia dan pengumuman pengumuman, dan Dia akan memberitahukan kamu tentang segala apa yang kamu telah lakukan.\"",
+      "en": "Say, \"The death that you are trying to evade will catch up with you sooner or later. Then you will be returned to the Knower of all secrets and declarations, then He will inform you of everything you had done.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_062009",
-      "bm": "TODO_BM_062009",
-      "en": "TODO_EN_062009",
-      "audio": "./assets/audio/062/062009.mp3"
+      "arabic": "يَاأَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+      "bm": "Wahai kamu yang percaya, apabila Sembahyang berjama'ah (Salat AL-Jumu'ah) telah diumumkan pada hari Juma'at, kamu mestilah bersegera kepada mengingati Allah, dan tinggalkan semua perniagaan. Ini adalah lebih baik untuk kamu, hanya jika kamu mengetahuinya.",
+      "en": "O you who believe, when the Congregational Prayer (Salat Al-Jumu'ah) is announced on Friday, you shall hasten to the commemoration of GOD, and drop all business. This is better for you, if you only knew.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062009.mp3",
+      "subtitle": {
+        "bm": "Perintah Perintah Yang Mustahak Kepada Semua Orang Orang Yang Percaya",
+        "en": "Important Commandments to All Believers"
+      }
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_062010",
-      "bm": "TODO_BM_062010",
-      "en": "TODO_EN_062010",
-      "audio": "./assets/audio/062/062010.mp3"
+      "arabic": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+      "bm": "Apabila saja selesai sembahyang, kamu bolehlah bertebaran dibumi untuk mencari pemberian Allah, dan berterusanlah mengingati Allah selalu, supaya kamu mendapat kejayaan.",
+      "en": "Once the prayer is completed, you may spread through the land to seek GOD's bounties, and continue to remember GOD frequently, that you may succeed.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_062011",
-      "bm": "TODO_BM_062011",
-      "en": "TODO_EN_062011",
-      "audio": "./assets/audio/062/062011.mp3"
+      "arabic": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+      "bm": "Ada diantara mereka apabila didatangkan urusan perniagaan, ataupun suatu hiburan, mereka bersegera kepadanya dan meninggalkan kau berdiri! Katakanlah, \"Apa yang Allah punyai adalah lebih baik lagi dari hiburan ataupun perniagaan. Sesungguhnya, Allah sahajalah Maha Pemberi yang terbaik.\"",
+      "en": "When some of them come across a business deal, or some entertainment, they rush to it and leave you standing! Say, \"What GOD possesses is far better than the entertainment or the business. GOD is the best Provider.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/062011.mp3"
     }
   ]
 }

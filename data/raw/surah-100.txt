@@ -1,76 +1,81 @@
-SURAH_NUMBER: 100
-NAME_AR: العاديات
-NAME_BM: Kuda Perang Yang Berlari
-NAME_EN: The Courser
+﻿SURAH_NUMBER: 100
+NAME_AR: سورة الـعاديات
+NAME_BM: Berlari Kencang
+NAME_EN: The Gallopers
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/100/100000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100000.mp3
 
 # Ayah 1
-AR: TODO_AR_100001
-BM: TODO_BM_100001
-EN: TODO_EN_100001
-AUDIO: ./assets/audio/100/100001.mp3
+AR: وَالعادِياتِ ضَبحًا
+BM: Demi yang berlari kencang.
+EN: By the fast gallopers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100001.mp3
 
 # Ayah 2
-AR: TODO_AR_100002
-BM: TODO_BM_100002
-EN: TODO_EN_100002
-AUDIO: ./assets/audio/100/100002.mp3
+AR: فَالْمُورِيَاتِ قَدْحًا
+BM: Menyalakan percikan yang berapi.
+EN: Igniting sparks.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100002.mp3
 
 # Ayah 3
-AR: TODO_AR_100003
-BM: TODO_BM_100003
-EN: TODO_EN_100003
-AUDIO: ./assets/audio/100/100003.mp3
+AR: فَالْمُغِيرَاتِ صُبْحًا
+BM: Yang menyerang (musuh) pada waktu pagi.
+EN: Invading (the enemy) by morning.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100003.mp3
 
 # Ayah 4
-AR: TODO_AR_100004
-BM: TODO_BM_100004
-EN: TODO_EN_100004
-AUDIO: ./assets/audio/100/100004.mp3
+AR: فَأَثَرْنَ بِهِ نَقْعًا
+BM: Yang menyerang dengan kegerunan didalamnya.
+EN: Striking terror therein.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100004.mp3
 
 # Ayah 5
-AR: TODO_AR_100005
-BM: TODO_BM_100005
-EN: TODO_EN_100005
-AUDIO: ./assets/audio/100/100005.mp3
+AR: فَوَسَطْنَ بِهِ جَمْعًا
+BM: Menyusuk kedalam hati diwilayah mereka.
+EN: Penetrating to the heart of their territory.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100005.mp3
 
 # Ayah 6
-AR: TODO_AR_100006
-BM: TODO_BM_100006
-EN: TODO_EN_100006
-AUDIO: ./assets/audio/100/100006.mp3
+AR: إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ
+BM: Manusia itu tidak tahu bersyukur terhadap Tuhannya.
+EN: The human being is unappreciative of his Lord.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100006.mp3
 
 # Ayah 7
-AR: TODO_AR_100007
-BM: TODO_BM_100007
-EN: TODO_EN_100007
-AUDIO: ./assets/audio/100/100007.mp3
+AR: وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ
+BM: Dia telah bersaksikan tentang fakta ini.
+EN: He bears witness to this fact.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100007.mp3
 
 # Ayah 8
-AR: TODO_AR_100008
-BM: TODO_BM_100008
-EN: TODO_EN_100008
-AUDIO: ./assets/audio/100/100008.mp3
+AR: وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ
+BM: Dia menyintai kebendaan dengan berlebih lebihan.
+EN: He loves material things excessively.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100008.mp3
 
 # Ayah 9
-AR: TODO_AR_100009
-BM: TODO_BM_100009
-EN: TODO_EN_100009
-AUDIO: ./assets/audio/100/100009.mp3
+AR: أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ
+BM: Tidakkah dia sedar yang harinya akan datang apabila kubur kubur akan terbuka?
+EN: Does he not realize that the day will come when the graves are opened?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100009.mp3
 
 # Ayah 10
-AR: TODO_AR_100010
-BM: TODO_BM_100010
-EN: TODO_EN_100010
-AUDIO: ./assets/audio/100/100010.mp3
+AR: وَحُصِّلَ مَا فِي الصُّدُورِ
+BM: Dan semua rahsia rahsia  akan dibawa keluar.
+EN: And all secrets are brought out.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100010.mp3
 
 # Ayah 11
-AR: TODO_AR_100011
-BM: TODO_BM_100011
-EN: TODO_EN_100011
-AUDIO: ./assets/audio/100/100011.mp3
+AR: إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ
+BM: Mereka akan mendapat tahu, pada hari itu, yang Tuhan mereka Amat Perihatin terhadap mereka.
+EN: They will find out, on that day, that their Lord has been fully Cognizant of them.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/100011.mp3
+
+
+
+
+

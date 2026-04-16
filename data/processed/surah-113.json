@@ -1,53 +1,53 @@
 {
   "surahNumber": 113,
   "name": {
-    "ar": "الفلق",
-    "bm": "Waktu Subuh",
-    "en": "The Daybreak"
+    "ar": "سورة الـفلق",
+    "bm": "Matahari Terbit",
+    "en": "Daybreak"
   },
   "totalAyahs": 5,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/113/113000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/113000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_113001",
-      "bm": "TODO_BM_113001",
-      "en": "TODO_EN_113001",
-      "audio": "./assets/audio/113/113001.mp3"
+      "arabic": "قُل أَعوذُ بِرَبِّ الفَلَقِ",
+      "bm": "Katakanlah, \"Aku mencari perlindungan Tuhan kepada matahari terbit.",
+      "en": "Say, \"I seek refuge in the Lord of daybreak.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/113001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_113002",
-      "bm": "TODO_BM_113002",
-      "en": "TODO_EN_113002",
-      "audio": "./assets/audio/113/113002.mp3"
+      "arabic": "مِنْ شَرِّ مَا خَلَقَ",
+      "bm": "\"Dari kejahatan diantara ciptaan ciptaanNya.",
+      "en": "\"From the evils among His creations.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/113002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_113003",
-      "bm": "TODO_BM_113003",
-      "en": "TODO_EN_113003",
-      "audio": "./assets/audio/113/113003.mp3"
+      "arabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "bm": "\"Dari kejahatan kegelapan apabila ianya menurun.",
+      "en": "\"From the evils of darkness as it falls.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/113003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_113004",
-      "bm": "TODO_BM_113004",
-      "en": "TODO_EN_113004",
-      "audio": "./assets/audio/113/113004.mp3"
+      "arabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "bm": "\"Dari kejahatan pengacau pengacau.",
+      "en": "\"From the evils of the troublemakers.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/113004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_113005",
-      "bm": "TODO_BM_113005",
-      "en": "TODO_EN_113005",
-      "audio": "./assets/audio/113/113005.mp3"
+      "arabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "bm": "\"Dari kejahatan yang iri hati apabila mereka merasakan iri hati.\"",
+      "en": "\"From the evils of the envious when they envy.\"",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/113005.mp3"
     }
   ]
 }

@@ -1,322 +1,333 @@
-SURAH_NUMBER: 69
-NAME_AR: الحاقة
-NAME_BM: Hari Kebenaran
-NAME_EN: The Reality
+﻿SURAH_NUMBER: 69
+NAME_AR: سورة الـحاقـة
+NAME_BM: Tidak dapat Di-Pertikaikan
+NAME_EN: Incontestable
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/069/069000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069000.mp3
 
 # Ayah 1
-AR: TODO_AR_069001
-BM: TODO_BM_069001
-EN: TODO_EN_069001
-AUDIO: ./assets/audio/069/069001.mp3
+AR: الحاقَّةُ
+BM: Yang tidak boleh dipertikaikan (peristiwa).
+EN: The incontestable (event).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069001.mp3
 
 # Ayah 2
-AR: TODO_AR_069002
-BM: TODO_BM_069002
-EN: TODO_EN_069002
-AUDIO: ./assets/audio/069/069002.mp3
+AR: مَا الْحَاقَّةُ
+BM: Apakah yang tidak boleh dipertikaikan itu (peristiwa)!
+EN: What an incontestable (event)!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069002.mp3
 
 # Ayah 3
-AR: TODO_AR_069003
-BM: TODO_BM_069003
-EN: TODO_EN_069003
-AUDIO: ./assets/audio/069/069003.mp3
+AR: وَمَا أَدْرَٮکَ مَا الْحَاقَّةُ
+BM: Ianya sebenarnyalah dan sememangnyalah tidak boleh dipertikaikan.
+EN: It is truly incontestable.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069003.mp3
 
 # Ayah 4
-AR: TODO_AR_069004
-BM: TODO_BM_069004
-EN: TODO_EN_069004
-AUDIO: ./assets/audio/069/069004.mp3
+AR: كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ
+BM: Thamud dan 'Ad mengingkarkan yang Memeranjatkan.
+EN: Thamûd and 'Ãd disbelieved in the Shocker.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069004.mp3
 
 # Ayah 5
-AR: TODO_AR_069005
-BM: TODO_BM_069005
-EN: TODO_EN_069005
-AUDIO: ./assets/audio/069/069005.mp3
+AR: فَأَمَّا ثَمُودُ فَأُهْلِكُوا بِالطَّاغِيَةِ
+BM: Bagi Thamud, mereka telah dihapuskan oleh kemusnahan (gempa bumi).
+EN: As for Thamûd, they were annihilated by the devastating (quake).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069005.mp3
 
 # Ayah 6
-AR: TODO_AR_069006
-BM: TODO_BM_069006
-EN: TODO_EN_069006
-AUDIO: ./assets/audio/069/069006.mp3
+AR: وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ
+BM: Bagi 'Ad, mereka telah dihapuskan oleh ribut taufan yang berterusan.
+EN: As for 'Ãd, they were annihilated by a persistent, violent storm.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069006.mp3
 
 # Ayah 7
-AR: TODO_AR_069007
-BM: TODO_BM_069007
-EN: TODO_EN_069007
-AUDIO: ./assets/audio/069/069007.mp3
+AR: سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ
+BM: Dia melepaskannya keatas mereka, selama tujuh malam dan delapan hari, dengan kencangnya. Kamu dapat melihat yang manusia itu terpelanting seperti batang batang pokok palma yang sudah mati.
+EN: He unleashed it upon them for seven nights and eight days, violently. You could see the people tossed around like decayed palm trunks.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069007.mp3
 
 # Ayah 8
-AR: TODO_AR_069008
-BM: TODO_BM_069008
-EN: TODO_EN_069008
-AUDIO: ./assets/audio/069/069008.mp3
+AR: فَهَلْ تَرَىٰ لَهُمْ مِنْ بَاقِيَةٍ
+BM: Bolehkah kamu menjumpakan sebarang kesan tentang mereka?
+EN: Can you find any trace of them?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069008.mp3
 
 # Ayah 9
-AR: TODO_AR_069009
-BM: TODO_BM_069009
-EN: TODO_EN_069009
-AUDIO: ./assets/audio/069/069009.mp3
+AR: وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ
+BM: Fir'aun, dan yang lain sebelumnya,dan pendosa pendosa (Sodom) adalah zalim.
+EN: Pharaoh, others before him, and the sinners (of Sodom) were wicked.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069009.mp3
 
 # Ayah 10
-AR: TODO_AR_069010
-BM: TODO_BM_069010
-EN: TODO_EN_069010
-AUDIO: ./assets/audio/069/069010.mp3
+AR: فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً
+BM: Mereka telah tidak ta'at kepada rasul Tuhan mereka. Akibatnya, Dia membalas mereka dengan suatu balasan yang memusnahkan.
+EN: They disobeyed the messenger of their Lord. Consequently, He requited them a devastating requital.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069010.mp3
 
 # Ayah 11
-AR: TODO_AR_069011
-BM: TODO_BM_069011
-EN: TODO_EN_069011
-AUDIO: ./assets/audio/069/069011.mp3
+AR: إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ
+BM: Air bah telah memusnahkan, lalu kami membawa kamu diatas pelampung (bahtera).
+EN: The flood was devastating, so we carried you on the floating (ark).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069011.mp3
 
 # Ayah 12
-AR: TODO_AR_069012
-BM: TODO_BM_069012
-EN: TODO_EN_069012
-AUDIO: ./assets/audio/069/069012.mp3
+AR: لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ
+BM: Kami menjadikannya suatu pengajaran kepada kamu, supaya sebarang telinga yang mendengarkan boleh memahaminya.
+EN: We rendered it a lesson for you, that any listening ear may understand.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069012.mp3
 
 # Ayah 13
-AR: TODO_AR_069013
-BM: TODO_BM_069013
-EN: TODO_EN_069013
-AUDIO: ./assets/audio/069/069013.mp3
+AR: فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ
+BM: Apabila terumpit ditiupkan sekali saja.
+EN: When the horn is blown once.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069013.mp3
 
 # Ayah 14
-AR: TODO_AR_069014
-BM: TODO_BM_069014
-EN: TODO_EN_069014
-AUDIO: ./assets/audio/069/069014.mp3
+AR: وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+BM: Bumi dan gunung gunung akan diangkat dan hancur berderai; dengan betul betul kehancuran.
+EN: The earth and the mountains will be carried off and crushed; utterly crushed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069014.mp3
 
 # Ayah 15
-AR: TODO_AR_069015
-BM: TODO_BM_069015
-EN: TODO_EN_069015
-AUDIO: ./assets/audio/069/069015.mp3
+AR: فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ
+BM: Itulah harinya apabila yang tidak dapat dielakkan lagi akan berlaku.
+EN: That is the day when the inevitable event will come to pass.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069015.mp3
 
 # Ayah 16
-AR: TODO_AR_069016
-BM: TODO_BM_069016
-EN: TODO_EN_069016
-AUDIO: ./assets/audio/069/069016.mp3
+AR: وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ
+BM: Cekrawala akan terbelah, dan jatuh dengan berkecai.
+EN: The heaven will crack, and fall apart.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069016.mp3
 
 # Ayah 17
-AR: TODO_AR_069017
-BM: TODO_BM_069017
-EN: TODO_EN_069017
-AUDIO: ./assets/audio/069/069017.mp3
+AR: وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ
+BM: Para malaikat akan berada disekeliling, dan tahta penguasaan Tuhan kamu akan meliputi didelapan (semesta alam).
+EN: The angels will be all around, and Your Lord's dominion will then encompass eight (universes).*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069017.mp3
 
 # Ayah 18
-AR: TODO_AR_069018
-BM: TODO_BM_069018
-EN: TODO_EN_069018
-AUDIO: ./assets/audio/069/069018.mp3
+AR: يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنْكُمْ خَافِيَةٌ
+BM: Pada hari itu, kamu akan didedahkan, tidak ada suatu apa pun dari kamu yang akan dapat disembunyikan. Orang Orang Yang Percaya
+EN: On that day, you will be exposed, nothing of you can be hidden.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069018.mp3
 
 # Ayah 19
-AR: TODO_AR_069019
-BM: TODO_BM_069019
-EN: TODO_EN_069019
-AUDIO: ./assets/audio/069/069019.mp3
+AR: فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ
+BM: Bagi seorang yang menerima rekodnya ditangan kanannya, dia akan berkata, "Marilah baca rekodku.
+EN: As for the one who receives his record with his right hand, he will say, "Come read my record.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069019.mp3
+SUBTITLE_BM: Orang-Orang Beriman
+SUBTITLE_EN: The Believers
 
 # Ayah 20
-AR: TODO_AR_069020
-BM: TODO_BM_069020
-EN: TODO_EN_069020
-AUDIO: ./assets/audio/069/069020.mp3
+AR: إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ
+BM: "Aku benar benar percaya yang aku akan dipertanggungjawabkan."
+EN: "I did believe that I was going to be held accountable."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069020.mp3
 
 # Ayah 21
-AR: TODO_AR_069021
-BM: TODO_BM_069021
-EN: TODO_EN_069021
-AUDIO: ./assets/audio/069/069021.mp3
+AR: فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ
+BM: Dia sepatutnya mendapat kehidupan yang menggembirakan.
+EN: He has deserved a happy life.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069021.mp3
 
 # Ayah 22
-AR: TODO_AR_069022
-BM: TODO_BM_069022
-EN: TODO_EN_069022
-AUDIO: ./assets/audio/069/069022.mp3
+AR: فِي جَنَّةٍ عَالِيَةٍ
+BM: Didalam Syurga yang tinggi.
+EN: In an exalted Paradise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069022.mp3
 
 # Ayah 23
-AR: TODO_AR_069023
-BM: TODO_BM_069023
-EN: TODO_EN_069023
-AUDIO: ./assets/audio/069/069023.mp3
+AR: قُطُوفُهَا دَانِيَةٌ
+BM: Buah buahannya mudah dicapai.
+EN: Its fruits are within reach.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069023.mp3
 
 # Ayah 24
-AR: TODO_AR_069024
-BM: TODO_BM_069024
-EN: TODO_EN_069024
-AUDIO: ./assets/audio/069/069024.mp3
+AR: كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ
+BM: Makan dan minumlah dengan gembira sebagai balasan terhadap kerja kerja kamu dimasa yang lampau.
+EN: Eat and drink happily in return for your works in days past.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069024.mp3
 
 # Ayah 25
-AR: TODO_AR_069025
-BM: TODO_BM_069025
-EN: TODO_EN_069025
-AUDIO: ./assets/audio/069/069025.mp3
+AR: وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَالَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ
+BM: Bagi dia yang telah diberikan rekodnya ditangan kirinya, dia akan berkata, "Aduhai, sekiranya tidak aku mendapatkan rekodku.
+EN: As for him who is given his record in his left hand, he will say, "Oh, I wish I never received my record.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069025.mp3
+SUBTITLE_BM: Orang Orang Yang Ingkar
+SUBTITLE_EN: The Disbelievers
 
 # Ayah 26
-AR: TODO_AR_069026
-BM: TODO_BM_069026
-EN: TODO_EN_069026
-AUDIO: ./assets/audio/069/069026.mp3
+AR: وَلَمْ أَدْرِ مَا حِسَابِيَهْ
+BM: "Sekiranya tidak payah aku mengetahui perhitunganku.
+EN: "I wish I never knew my account.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069026.mp3
 
 # Ayah 27
-AR: TODO_AR_069027
-BM: TODO_BM_069027
-EN: TODO_EN_069027
-AUDIO: ./assets/audio/069/069027.mp3
+AR: يَالَيْتَهَا كَانَتِ الْقَاضِيَةَ
+BM: "Aku kira kematianku adalah kekal.
+EN: "I wish my death was eternal.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069027.mp3
 
 # Ayah 28
-AR: TODO_AR_069028
-BM: TODO_BM_069028
-EN: TODO_EN_069028
-AUDIO: ./assets/audio/069/069028.mp3
+AR: مَا أَغْنَىٰ عَنِّي مَالِيَهْ
+BM: "Wangku tidak dapat menolongku.
+EN: "My money cannot help me.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069028.mp3
 
 # Ayah 29
-AR: TODO_AR_069029
-BM: TODO_BM_069029
-EN: TODO_EN_069029
-AUDIO: ./assets/audio/069/069029.mp3
+AR: هَلَكَ عَنِّي سُلْطَانِيَهْ
+BM: "Semua kekuasaanku telah hilang."
+EN: "All my power is gone."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069029.mp3
 
 # Ayah 30
-AR: TODO_AR_069030
-BM: TODO_BM_069030
-EN: TODO_EN_069030
-AUDIO: ./assets/audio/069/069030.mp3
+AR: خُذُوهُ فَغُلُّوهُ
+BM: Bawalah dia dan belenggukannya.
+EN: Take him and shackle him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069030.mp3
 
 # Ayah 31
-AR: TODO_AR_069031
-BM: TODO_BM_069031
-EN: TODO_EN_069031
-AUDIO: ./assets/audio/069/069031.mp3
+AR: ثُمَّ الْجَحِيمَ صَلُّوهُ
+BM: Bakarkannya didalam Neraka.
+EN: Burn him in Hell.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069031.mp3
 
 # Ayah 32
-AR: TODO_AR_069032
-BM: TODO_BM_069032
-EN: TODO_EN_069032
-AUDIO: ./assets/audio/069/069032.mp3
+AR: ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ
+BM: Didalam sebuah rantai yang tujuh puluh depa panjangnya, dan ikatkan dia.
+EN: In a chain that is seventy arms long, tie him up.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069032.mp3
 
 # Ayah 33
-AR: TODO_AR_069033
-BM: TODO_BM_069033
-EN: TODO_EN_069033
-AUDIO: ./assets/audio/069/069033.mp3
+AR: إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ
+BM: Kerana dia tidak mempercayakan Allah, yang Maha Besar.
+EN: For he did not believe in GOD, Most Great.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069033.mp3
 
 # Ayah 34
-AR: TODO_AR_069034
-BM: TODO_BM_069034
-EN: TODO_EN_069034
-AUDIO: ./assets/audio/069/069034.mp3
+AR: وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ
+BM: Tidak juga dia menganjurkan untuk memberikan makan kepada orang orang miskin.
+EN: Nor did he advocate the feeding of the poor.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069034.mp3
 
 # Ayah 35
-AR: TODO_AR_069035
-BM: TODO_BM_069035
-EN: TODO_EN_069035
-AUDIO: ./assets/audio/069/069035.mp3
+AR: فَلَيْسَ لَهُ الْيَوْمَ هَاهُنَا حَمِيمٌ
+BM: Akibatnya, dia tidak mempunyai kawan disini.
+EN: Consequently, he has no friend here.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069035.mp3
 
 # Ayah 36
-AR: TODO_AR_069036
-BM: TODO_BM_069036
-EN: TODO_EN_069036
-AUDIO: ./assets/audio/069/069036.mp3
+AR: وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ
+BM: Tidak juga makanan, melainkan beraneka makanan yang pahit pahit.
+EN: Nor any food, except the bitter variety.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069036.mp3
 
 # Ayah 37
-AR: TODO_AR_069037
-BM: TODO_BM_069037
-EN: TODO_EN_069037
-AUDIO: ./assets/audio/069/069037.mp3
+AR: لَا يَأْكُلُهُ إِلَّا الْخَاطِئُونَ
+BM: Makanan untuk para pendosa.
+EN: Food for the sinners.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069037.mp3
 
 # Ayah 38
-AR: TODO_AR_069038
-BM: TODO_BM_069038
-EN: TODO_EN_069038
-AUDIO: ./assets/audio/069/069038.mp3
+AR: فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ
+BM: Aku bersumpah dari apa yang kamu lihat.
+EN: I swear by what you see.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069038.mp3
 
 # Ayah 39
-AR: TODO_AR_069039
-BM: TODO_BM_069039
-EN: TODO_EN_069039
-AUDIO: ./assets/audio/069/069039.mp3
+AR: وَمَا لَا تُبْصِرُونَ
+BM: Dan apa yang kamu tidak kelihatan.
+EN: And what you do not see.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069039.mp3
 
 # Ayah 40
-AR: TODO_AR_069040
-BM: TODO_BM_069040
-EN: TODO_EN_069040
-AUDIO: ./assets/audio/069/069040.mp3
+AR: إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
+BM: Ini adalah pertuturan dari seorang rasul yang mulia.
+EN: This is the utterance of an honorable messenger.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069040.mp3
 
 # Ayah 41
-AR: TODO_AR_069041
-BM: TODO_BM_069041
-EN: TODO_EN_069041
-AUDIO: ./assets/audio/069/069041.mp3
+AR: وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَا تُؤْمِنُونَ
+BM: Bukanlah pertuturan dari seorang penyair; jarang sekali kamu mempercayainya.
+EN: Not the utterance of a poet; rarely do you believe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069041.mp3
 
 # Ayah 42
-AR: TODO_AR_069042
-BM: TODO_BM_069042
-EN: TODO_EN_069042
-AUDIO: ./assets/audio/069/069042.mp3
+AR: وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَا تَذَكَّرُونَ
+BM: Bukanlah pertuturan dari seorang tukang ramal; jarang sekali dapat kamu merenungkan.
+EN: Nor the utterance of a soothsayer; rarely do you take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069042.mp3
 
 # Ayah 43
-AR: TODO_AR_069043
-BM: TODO_BM_069043
-EN: TODO_EN_069043
-AUDIO: ./assets/audio/069/069043.mp3
+AR: تَنْزِيلٌ مِنْ رَبِّ الْعَالَمِينَ
+BM: Sebuah revelasi dari Tuhan semesta alam.
+EN: A revelation from the Lord of the universe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069043.mp3
 
 # Ayah 44
-AR: TODO_AR_069044
-BM: TODO_BM_069044
-EN: TODO_EN_069044
-AUDIO: ./assets/audio/069/069044.mp3
+AR: وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْأَقَاوِيلِ
+BM: Jika sekiranya dia menyatakan sebarang ajaran yang lain.
+EN: Had he uttered any other teachings.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069044.mp3
+SUBTITLE_BM: Muhammad Di-Larang Dari Mengisukan Sebarang Ajaran Agama
+SUBTITLE_EN: Muhammad Forbidden from Issuing Any Religious Teachings
 
 # Ayah 45
-AR: TODO_AR_069045
-BM: TODO_BM_069045
-EN: TODO_EN_069045
-AUDIO: ./assets/audio/069/069045.mp3
+AR: لَأَخَذْنَا مِنْهُ بِالْيَمِينِ
+BM: Kami pasti akan menghukumnya.
+EN: We would have punished him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069045.mp3
 
 # Ayah 46
-AR: TODO_AR_069046
-BM: TODO_BM_069046
-EN: TODO_EN_069046
-AUDIO: ./assets/audio/069/069046.mp3
+AR: ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ
+BM: Kami akan menghentikan revelasi revelasi kepadanya.
+EN: We would have stopped the revelations to him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069046.mp3
 
 # Ayah 47
-AR: TODO_AR_069047
-BM: TODO_BM_069047
-EN: TODO_EN_069047
-AUDIO: ./assets/audio/069/069047.mp3
+AR: فَمَا مِنْكُمْ مِنْ أَحَدٍ عَنْهُ حَاجِزِينَ
+BM: Tidak ada sesiapa pun dari kamu yang dapat menolongnya.
+EN: None of you could have helped him.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069047.mp3
 
 # Ayah 48
-AR: TODO_AR_069048
-BM: TODO_BM_069048
-EN: TODO_EN_069048
-AUDIO: ./assets/audio/069/069048.mp3
+AR: وَإِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّقِينَ
+BM: Ini adalah peringatan untuk orang orang yang benar.
+EN: This is a reminder for the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069048.mp3
 
 # Ayah 49
-AR: TODO_AR_069049
-BM: TODO_BM_069049
-EN: TODO_EN_069049
-AUDIO: ./assets/audio/069/069049.mp3
+AR: وَإِنَّا لَنَعْلَمُ أَنَّ مِنْكُمْ مُكَذِّبِينَ
+BM: Kami tahu; ada dari kamu yang menjadi pengingkar pengingkar.
+EN: We know; some of you are rejectors.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069049.mp3
 
 # Ayah 50
-AR: TODO_AR_069050
-BM: TODO_BM_069050
-EN: TODO_EN_069050
-AUDIO: ./assets/audio/069/069050.mp3
+AR: وَإِنَّهُ لَحَسْرَةٌ عَلَى الْكَافِرِينَ
+BM: Ianya hanyalah tetapi kesedihan bagi orang orang yang ingkar.
+EN: It is but sorrow for the disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069050.mp3
 
 # Ayah 51
-AR: TODO_AR_069051
-BM: TODO_BM_069051
-EN: TODO_EN_069051
-AUDIO: ./assets/audio/069/069051.mp3
+AR: وَإِنَّهُ لَحَقُّ الْيَقِينِ
+BM: Ianya adalah kebenaran yang telah dipastikan.
+EN: It is the absolute truth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069051.mp3
 
 # Ayah 52
-AR: TODO_AR_069052
-BM: TODO_BM_069052
-EN: TODO_EN_069052
-AUDIO: ./assets/audio/069/069052.mp3
+AR: فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ
+BM: Dari itu, kamu mestilah mengagungkan nama Tuhan kamu, yang Maha Besar.
+EN: Therefore, you shall glorify the name of your Lord, Most Great.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/069052.mp3
+
+
+
+
+

@@ -1,158 +1,158 @@
 {
   "surahNumber": 73,
   "name": {
-    "ar": "المزمل",
-    "bm": "Orang Yang Berselimut",
-    "en": "The Enshrouded One"
+    "ar": "سورة الـمـزمـل",
+    "bm": "Yang Berselubung",
+    "en": "Cloaked"
   },
   "totalAyahs": 20,
   "ayahs": [
     {
       "number": 0,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "bm": "Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.",
-      "en": "In the name of GOD, Most Gracious, Most Merciful.",
-      "audio": "./assets/audio/073/073000.mp3"
+      "bm": "Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.",
+      "en": "In the name of God, Most Gracious, Most Merciful",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073000.mp3"
     },
     {
       "number": 1,
-      "arabic": "TODO_AR_073001",
-      "bm": "TODO_BM_073001",
-      "en": "TODO_EN_073001",
-      "audio": "./assets/audio/073/073001.mp3"
+      "arabic": "ياأَيُّهَا المُزَّمِّلُ",
+      "bm": "Wahai kau yang berselubung.",
+      "en": "O you cloaked one.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073001.mp3"
     },
     {
       "number": 2,
-      "arabic": "TODO_AR_073002",
-      "bm": "TODO_BM_073002",
-      "en": "TODO_EN_073002",
-      "audio": "./assets/audio/073/073002.mp3"
+      "arabic": "قُمِ الَّيْلَ إِلَّا قَلِيلًا",
+      "bm": "Bertaffakurlah diwaktu malam, kecuali jarang jarang.",
+      "en": "Meditate during the night, except rarely.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073002.mp3"
     },
     {
       "number": 3,
-      "arabic": "TODO_AR_073003",
-      "bm": "TODO_BM_073003",
-      "en": "TODO_EN_073003",
-      "audio": "./assets/audio/073/073003.mp3"
+      "arabic": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+      "bm": "Separuh darinya, ataupun sedikit kurang.",
+      "en": "Half of it, or a little less.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073003.mp3"
     },
     {
       "number": 4,
-      "arabic": "TODO_AR_073004",
-      "bm": "TODO_BM_073004",
-      "en": "TODO_EN_073004",
-      "audio": "./assets/audio/073/073004.mp3"
+      "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+      "bm": "Ataupun lebih dari sedikit. Dan bacalah Quran dari mula hingga akhir.",
+      "en": "Or a little more. And read the Quran from cover to cover.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073004.mp3"
     },
     {
       "number": 5,
-      "arabic": "TODO_AR_073005",
-      "bm": "TODO_BM_073005",
-      "en": "TODO_EN_073005",
-      "audio": "./assets/audio/073/073005.mp3"
+      "arabic": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "bm": "Kami akan memberikanmu mesej yang berat.",
+      "en": "We will give you a heavy message.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073005.mp3"
     },
     {
       "number": 6,
-      "arabic": "TODO_AR_073006",
-      "bm": "TODO_BM_073006",
-      "en": "TODO_EN_073006",
-      "audio": "./assets/audio/073/073006.mp3"
+      "arabic": "إِنَّ نَاشِئَةَ الَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+      "bm": "Bertaffakur diwaktu malam itu adalah lebih berkesan, dan lebih takwah.",
+      "en": "The meditation at night is more effective, and more righteous.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073006.mp3"
     },
     {
       "number": 7,
-      "arabic": "TODO_AR_073007",
-      "bm": "TODO_BM_073007",
-      "en": "TODO_EN_073007",
-      "audio": "./assets/audio/073/073007.mp3"
+      "arabic": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+      "bm": "Kamu telah mempunyai masa yang banyak semasa siang hari untuk perkara perkara yang lainnya.",
+      "en": "You have a lot of time during the day for other matters.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073007.mp3"
     },
     {
       "number": 8,
-      "arabic": "TODO_AR_073008",
-      "bm": "TODO_BM_073008",
-      "en": "TODO_EN_073008",
-      "audio": "./assets/audio/073/073008.mp3"
+      "arabic": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "bm": "Kamu mestilah memujikan nama Tuhan kamu, untuk datang dekat dan lebih dekat kepadaNya.",
+      "en": "You shall commemorate the name of your Lord, to come ever closer and closer to Him.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073008.mp3"
     },
     {
       "number": 9,
-      "arabic": "TODO_AR_073009",
-      "bm": "TODO_BM_073009",
-      "en": "TODO_EN_073009",
-      "audio": "./assets/audio/073/073009.mp3"
+      "arabic": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+      "bm": "Tuhan bagi timur dan barat; tidak ada tuhan yang lain disampingNya. Kamu mestilah memilihNya sebagai penyokong kamu.",
+      "en": "Lord of the east and the west; there is no other god besides Him. You should choose Him as your advocate.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073009.mp3"
     },
     {
       "number": 10,
-      "arabic": "TODO_AR_073010",
-      "bm": "TODO_BM_073010",
-      "en": "TODO_EN_073010",
-      "audio": "./assets/audio/073/073010.mp3"
+      "arabic": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "bm": "Dan sentiasa bersabar menghadapi percakapan percakapan mereka, dan berpalinglah dari mereka dengan cara yang baik.",
+      "en": "And remain steadfast in the face of their utterances, and disregard them in a nice manner.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073010.mp3"
     },
     {
       "number": 11,
-      "arabic": "TODO_AR_073011",
-      "bm": "TODO_BM_073011",
-      "en": "TODO_EN_073011",
-      "audio": "./assets/audio/073/073011.mp3"
+      "arabic": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "bm": "Dan biarkanlah Aku yang membuat perhitungan dengan pengingkar pengingkar, yang telah dirahamati dengan mewahnya; berikanlah mereka sedikit masa.",
+      "en": "And let Me deal with the rejectors, who have been generously blessed; just give them a little time.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073011.mp3"
     },
     {
       "number": 12,
-      "arabic": "TODO_AR_073012",
-      "bm": "TODO_BM_073012",
-      "en": "TODO_EN_073012",
-      "audio": "./assets/audio/073/073012.mp3"
+      "arabic": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+      "bm": "Kami mempunyai hukuman yang dahsyat, dan Neraka.",
+      "en": "We have severe punishments, and Hell.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073012.mp3"
     },
     {
       "number": 13,
-      "arabic": "TODO_AR_073013",
-      "bm": "TODO_BM_073013",
-      "en": "TODO_EN_073013",
-      "audio": "./assets/audio/073/073013.mp3"
+      "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+      "bm": "Makanan yang sangat susah untuk ditelan, dan hukuman yang menyakitkan.",
+      "en": "Food that can hardly be swallowed, and painful retribution.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073013.mp3"
     },
     {
       "number": 14,
-      "arabic": "TODO_AR_073014",
-      "bm": "TODO_BM_073014",
-      "en": "TODO_EN_073014",
-      "audio": "./assets/audio/073/073014.mp3"
+      "arabic": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+      "bm": "Harinya akan tiba apabila bumi dan gunung gunung akan bergegar, dan gunung gunung akan bertukar menjadi timbunan yang ringan.",
+      "en": "The day will come when the earth and the mountains will quake, and the mountains will turn into a weightless pile.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073014.mp3"
     },
     {
       "number": 15,
-      "arabic": "TODO_AR_073015",
-      "bm": "TODO_BM_073015",
-      "en": "TODO_EN_073015",
-      "audio": "./assets/audio/073/073015.mp3"
+      "arabic": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+      "bm": "Kami telah menghantar kepada kamu seorang rasul, sebagaimana telah kami menghantarkan kepada Fir'aun seorang rasul.",
+      "en": "We have sent to you a messenger, just as we sent to Pharaoh a messenger.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073015.mp3"
     },
     {
       "number": 16,
-      "arabic": "TODO_AR_073016",
-      "bm": "TODO_BM_073016",
-      "en": "TODO_EN_073016",
-      "audio": "./assets/audio/073/073016.mp3"
+      "arabic": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+      "bm": "Fir'aun telah mengingkari rasul dan, akibatnya, kami menghukumnya dengan dahsyat sekali.",
+      "en": "Pharaoh disobeyed the messenger and, consequently, we punished him severely.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073016.mp3"
     },
     {
       "number": 17,
-      "arabic": "TODO_AR_073017",
-      "bm": "TODO_BM_073017",
-      "en": "TODO_EN_073017",
-      "audio": "./assets/audio/073/073017.mp3"
+      "arabic": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+      "bm": "Jika kamu mengingkarkan, bagaimana pula dapat kamu mengelakkan satu hari yang sangat dahsyat dimana ianya akan menjadikan bayi bayi beruban?",
+      "en": "If you disbelieve, how can you evade a day so terrible that it makes the infants gray-haired?",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073017.mp3"
     },
     {
       "number": 18,
-      "arabic": "TODO_AR_073018",
-      "bm": "TODO_BM_073018",
-      "en": "TODO_EN_073018",
-      "audio": "./assets/audio/073/073018.mp3"
+      "arabic": "السَّمَاءُ مُنْفَطِرٌ بِهِ كَانَ وَعْدُهُ مَفْعُولًا",
+      "bm": "Cekrawala akan menjadi hancur berkecai disitu. PerjanjianNya adalah benar.",
+      "en": "The heaven will shatter therefrom. His promise is true.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073018.mp3"
     },
     {
       "number": 19,
-      "arabic": "TODO_AR_073019",
-      "bm": "TODO_BM_073019",
-      "en": "TODO_EN_073019",
-      "audio": "./assets/audio/073/073019.mp3"
+      "arabic": "إِنَّ هَٰذِهِ تَذْكِرَةٌ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+      "bm": "Ini adalah satu amaran; sesiapa saja berkehendakkan, biarkanlah dia memilih jalan kepada Tuhannya.",
+      "en": "This is a reminder; whoever wills, let him choose the path to his Lord.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073019.mp3"
     },
     {
       "number": 20,
-      "arabic": "TODO_AR_073020",
-      "bm": "TODO_BM_073020",
-      "en": "TODO_EN_073020",
-      "audio": "./assets/audio/073/073020.mp3"
+      "arabic": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ الَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ وَاللَّهُ يُقَدِّرُ الَّيْلَ وَالنَّهَارَ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَاسْتَغْفِرُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "bm": "Tuhanmu tahu yang kau bertaffakur pada waktu dua pertiga dari malam, ataupun separuh darinya, ataupun satu pertiga darinya, dan ada juga diantara orang orang yang percaya bersama samamu. Allah telah membentukkan malam dan siang, dan Dia tahu yang kau tidak dapat melakukan ini selalu. Dia telah mengampunkanmu. Sebaliknya, kau mestilah membaca apa yang kau boleh didalam Quran. Dia tahu ada diantara kamu mungkin sakit, yang lainnya mungkin berpergian untuk mencari rezeki rezeki Allah, dan yang lainnya mungkin berjuang dijalan Allah. Kau mestilah membaca apa yang kau boleh darinya, dan kerjakanlah sembahyang (Salat), dan berikanlah derma yang diwajibkan (Zakat), dan pinjamilah Allah suatu pinjaman berupa kebajikan. Apa saja kebaikan yang kamu hantarkan kedepan bagi pihak rohmu, kamu akan mendapatinya disisi Allah jauh lebih baik lagi dan ganjaran yang mewah. Dan bermohonlah kepada Allah untuk pengampunan. Sesungguhnya, Allah sahajalah yang Maha Pengampun lagi Maha Penyayang.",
+      "en": "Your Lord knows that you meditate during two-thirds of the night, or half of it, or one-third of it, and so do some of those who believed with you. GOD has designed the night and the day, and He knows that you cannot always do this. He has pardoned you. Instead, you shall read what you can of the Quran. He knows that some of you may be ill, others may be traveling in pursuit of GOD's provisions, and others may be striving in the cause of GOD. You shall read what you can of it, and observe the contact prayers (Salat), give the obligatory charity (Zakat), and lend GOD a loan of righteousness. Whatever good you send ahead on behalf of your souls, you will find it at GOD far better and generously rewarded. And implore GOD for forgiveness. GOD is Forgiver, Most Merciful.",
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/073020.mp3"
     }
   ]
 }

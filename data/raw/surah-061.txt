@@ -1,94 +1,105 @@
-SURAH_NUMBER: 61
-NAME_AR: الصف
+﻿SURAH_NUMBER: 61
+NAME_AR: سورة الـصـف
 NAME_BM: Barisan
-NAME_EN: The Ranks
+NAME_EN: The Column
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/061/061000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061000.mp3
 
 # Ayah 1
-AR: TODO_AR_061001
-BM: TODO_BM_061001
-EN: TODO_EN_061001
-AUDIO: ./assets/audio/061/061001.mp3
+AR: سَبَّحَ لِلَّهِ ما فِي السَّماواتِ وَما فِي الأَرضِ وَهُوَ العَزيزُ الحَكيمُ
+BM: Mengagungkan Allah adalah segala galanya sekelian cekrawala dan dan segala gala yang ada dibumi. Sesungguhnya, Dialah yang Maha Kuat lagi Maha Bijaksana.
+EN: Glorifying GOD is everything in the heavens and everything on earth. He is the Almighty, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061001.mp3
 
 # Ayah 2
-AR: TODO_AR_061002
-BM: TODO_BM_061002
-EN: TODO_EN_061002
-AUDIO: ./assets/audio/061/061002.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ
+BM: Wahai kamu yang percaya, mengapa tidak kamu lakukan apa yang telah kamu katakan?
+EN: O you who believe, why do you say what you do not do?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061002.mp3
 
 # Ayah 3
-AR: TODO_AR_061003
-BM: TODO_BM_061003
-EN: TODO_EN_061003
-AUDIO: ./assets/audio/061/061003.mp3
+AR: كَبُرَ مَقْتًا عِنْدَ اللَّهِ أَنْ تَقُولُوا مَا لَا تَفْعَلُونَ
+BM: Yang paling terkeji disisi Allah adalah apa yang kamu katakan tetapi tidak melakukannya.
+EN: Most abominable in the sight of GOD is that you say what you do not do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061003.mp3
 
 # Ayah 4
-AR: TODO_AR_061004
-BM: TODO_BM_061004
-EN: TODO_EN_061004
-AUDIO: ./assets/audio/061/061004.mp3
+AR: إِنَّ اللَّهَ يُحِبُّ الَّذِينَ يُقَاتِلُونَ فِي سَبِيلِهِ صَفًّا كَأَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ
+BM: Allah mencintai orang orang yang berjuang keranaNya bersatu dalam satu barisan, sebagai batu batu bata didalam sebuah dinding.
+EN: GOD loves those who fight in His cause united in one column, like the bricks in one wall.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061004.mp3
 
 # Ayah 5
-AR: TODO_AR_061005
-BM: TODO_BM_061005
-EN: TODO_EN_061005
-AUDIO: ./assets/audio/061/061005.mp3
+AR: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَاقَوْمِ لِمَ تُؤْذُونَنِي وَقَدْ تَعْلَمُونَ أَنِّي رَسُولُ اللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+BM: Ingatlah apabila Musa berkata kepada kaumnya, "Wahai kaumku, mengapa mesti kamu melukaiku, walaupun kamu tahu yang aku ini adalah rasul Allah kepada kamu?" Apabila mereka telah sesat, Allah palingkan hati hati mereka. Kerana Allah tidak akan membimbing orang orang yang zalim.
+EN: Recall that Moses said to his people, "O my people, why do you hurt me, even though you know that I am GOD's messenger to you?" When they deviated, GOD diverted their hearts. For GOD does not guide the wicked people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061005.mp3
 
 # Ayah 6
-AR: TODO_AR_061006
-BM: TODO_BM_061006
-EN: TODO_EN_061006
-AUDIO: ./assets/audio/061/061006.mp3
+AR: وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَابَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ فَلَمَّا جَاءَهُمْ بِالْبَيِّنَاتِ قَالُوا هَٰذَا سِحْرٌ مُبِينٌ
+BM: Ingatlah apabila Isa, anak lelaki Maryam, berkata, "Wahai Bani Israil, aku adalah rasul Allah kepada kamu, mengesahkan Taurat dan membawa berita berita baik bagi kedatangan seorang rasul selepasku yang namanya akan menjadi lebih lagi dipuji (Ahmad)." Lalu, apabila dia menunjukkan mereka bukti bukti yang jelas, mereka berkata, "Ini adalah magik yang nyata."
+EN: Recall that Jesus, son of Mary, said, "O Children of Israel, I am GOD's messenger to you, confirming the Torah and bringing good news of a messenger to come after me whose name will be even more praised (Ahmad)." Then, when he showed them the clear proofs, they said, "This is profound magic."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061006.mp3
+SUBTITLE_BM: Rasul Selepas Isa
+SUBTITLE_EN: Messenger After Jesus
 
 # Ayah 7
-AR: TODO_AR_061007
-BM: TODO_BM_061007
-EN: TODO_EN_061007
-AUDIO: ./assets/audio/061/061007.mp3
+AR: وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ وَهُوَ يُدْعَىٰ إِلَى الْإِسْلَامِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+BM: Siapakah yang paling jahat dari orang yang mengada adakan pembohongan terhadap Allah, dan dia telah diundang untuk menyerahkan diri (kepada Allah)? Sesungguhnya, Allah tidak akan membimbing orang orang yang jahat.
+EN: Who is more evil than one who fabricates lies about GOD, and he is being invited to Submission? GOD does not guide the evil people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061007.mp3
 
 # Ayah 8
-AR: TODO_AR_061008
-BM: TODO_BM_061008
-EN: TODO_EN_061008
-AUDIO: ./assets/audio/061/061008.mp3
+AR: يُرِيدُونَ لِيُطْفِئُوا نُورَ اللَّهِ بِأَفْوَاهِهِمْ وَاللَّهُ مُتِمُّ نُورِهِ وَلَوْ كَرِهَ الْكَافِرُونَ
+BM: Mereka berkeinginan untuk memadamkan cahaya Allah dengan mulut mulut mereka. Tetapi Allah berkeras untuk menyempurnakan cahayaNya, walaupun dibenci oleh orang orang yang ingkar.
+EN: They wish to put out GOD's light with their mouths. But GOD insists upon perfecting His light, in spite of the disbelievers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061008.mp3
 
 # Ayah 9
-AR: TODO_AR_061009
-BM: TODO_BM_061009
-EN: TODO_EN_061009
-AUDIO: ./assets/audio/061/061009.mp3
+AR: هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ وَلَوْ كَرِهَ الْمُشْرِكُونَ
+BM: Dia telah menghantarkan rasulNya dengan membawa petunjuk dan agama yang benar, dan akan menjadikannya menguasai kesemua agama agama, walaupun dibenci oleh penyembah penyembah pujaan.
+EN: He has sent His messenger* with the guidance and the true religion, and will make it dominate all religions, in spite of the idol worshipers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061009.mp3
+SUBTITLE_BM: Ramalan Yang Besar
+SUBTITLE_EN: The Great Prophecy
 
 # Ayah 10
-AR: TODO_AR_061010
-BM: TODO_BM_061010
-EN: TODO_EN_061010
-AUDIO: ./assets/audio/061/061010.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَةٍ تُنْجِيكُمْ مِنْ عَذَابٍ أَلِيمٍ
+BM: Wahai kamu yang percaya, biarkanlah Aku memberitahukan kepada kamu tentang perniagaan yang akan menyelamatkan kamu dari hukuman yang menyakitkan.
+EN: O you who believe, let Me inform you of a trade that will save you from painful retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061010.mp3
+SUBTITLE_BM: Tawaran Yang Terbaik
+SUBTITLE_EN: The Best Deal
 
 # Ayah 11
-AR: TODO_AR_061011
-BM: TODO_BM_061011
-EN: TODO_EN_061011
-AUDIO: ./assets/audio/061/061011.mp3
+AR: تُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ وَتُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِكُمْ وَأَنْفُسِكُمْ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+BM: Percaya kepada Allah dan rasulNya dan berjuang kerana Allah dengan wang dan nyawa kamu. Ini adalah tawaran yang terbaik untuk kamu, hanya jika kamu mengetahuinya.
+EN: Believe in GOD and His messenger and strive in the cause of GOD with your money and your lives. This is the best deal for you, if you only knew.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061011.mp3
 
 # Ayah 12
-AR: TODO_AR_061012
-BM: TODO_BM_061012
-EN: TODO_EN_061012
-AUDIO: ./assets/audio/061/061012.mp3
+AR: يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
+BM: Sebagai balasan, Dia mengampunkan dosa dosa kamu, dan memasukkan kamu kedalam taman taman dengan air sungai sungainya yang mengalir, dengan rumah rumah besar yang cantik cantik ditaman Adnin. Ini adalah kemenangan yang sangat besar.
+EN: In return, He forgives your sins, and admits you into gardens with flowing streams, with beautiful mansions in the gardens of Eden. This is the greatest triumph.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061012.mp3
 
 # Ayah 13
-AR: TODO_AR_061013
-BM: TODO_BM_061013
-EN: TODO_EN_061013
-AUDIO: ./assets/audio/061/061013.mp3
+AR: وَأُخْرَىٰ تُحِبُّونَهَا نَصْرٌ مِنَ اللَّهِ وَفَتْحٌ قَرِيبٌ وَبَشِّرِ الْمُؤْمِنِينَ
+BM: Ditambahkan pula, kamu akan mendapatkan sesuatu yang kamu benar benar menyintai: Sokongan dari Allah dan dijamin kemenangan. Sampaikanlah berita berita baik kepada orang orang yang percaya.
+EN: Additionally, you get something you truly love: support from GOD and guaranteed victory. Give good news to the believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061013.mp3
 
 # Ayah 14
-AR: TODO_AR_061014
-BM: TODO_BM_061014
-EN: TODO_EN_061014
-AUDIO: ./assets/audio/061/061014.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ كَمَا قَالَ عِيسَى ابْنُ مَرْيَمَ لِلْحَوَارِيِّينَ مَنْ أَنْصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنْصَارُ اللَّهِ فَآمَنَتْ طَائِفَةٌ مِنْ بَنِي إِسْرَائِيلَ وَكَفَرَتْ طَائِفَةٌ فَأَيَّدْنَا الَّذِينَ آمَنُوا عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا ظَاهِرِينَ
+BM: Wahai kamu yang percaya, jadilah penyokong penyokong Allah, seperti murid murid Isa anak lelaki Maryam. Apabila dia berkata kepada mereka, "Siapakah penyokong penyokongku kejalan Allah." Mereka berkata, "Kami adalah penyokong penyokong Allah." Lantas, satu kumpulan dari Bani Israil percaya, dan sekumpulan lagi mengingkarkan. Kami menolong orang orang yang percaya menentang musuh musuh mereka, sehingga mereka mendapat kemenangan.
+EN: O you who believe, be GOD's supporters, like the disciples of Jesus, son of Mary. When he said to them, "Who are my supporters towards GOD," they said, "We are GOD's supporters." Thus, a group from the Children of Israel believed, and another group disbelieved. We helped those who believed against their enemy, until they won.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/061014.mp3
+
+
+
+
+

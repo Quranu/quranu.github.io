@@ -1,184 +1,191 @@
-SURAH_NUMBER: 81
-NAME_AR: التكوير
-NAME_BM: Penggulungan
-NAME_EN: The Overthrowing
+﻿SURAH_NUMBER: 81
+NAME_AR: سورة التكوير
+NAME_BM: Menggulung
+NAME_EN: The Rolling
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/081/081000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081000.mp3
 
 # Ayah 1
-AR: TODO_AR_081001
-BM: TODO_BM_081001
-EN: TODO_EN_081001
-AUDIO: ./assets/audio/081/081001.mp3
+AR: إِذَا الشَّمسُ كُوِّرَت
+BM: Apabila matahari menggulung.
+EN: When the sun is rolled.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081001.mp3
 
 # Ayah 2
-AR: TODO_AR_081002
-BM: TODO_BM_081002
-EN: TODO_EN_081002
-AUDIO: ./assets/audio/081/081002.mp3
+AR: وَإِذَا النُّجُومُ انْكَدَرَتْ
+BM: Bintang bintang pun bertembung dengan satu sama lain.
+EN: The stars are crashed into each other.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081002.mp3
 
 # Ayah 3
-AR: TODO_AR_081003
-BM: TODO_BM_081003
-EN: TODO_EN_081003
-AUDIO: ./assets/audio/081/081003.mp3
+AR: وَإِذَا الْجِبَالُ سُيِّرَتْ
+BM: Gunung gunung akan dilenyapkan
+EN: The mountains are wiped out.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081003.mp3
 
 # Ayah 4
-AR: TODO_AR_081004
-BM: TODO_BM_081004
-EN: TODO_EN_081004
-AUDIO: ./assets/audio/081/081004.mp3
+AR: وَإِذَا الْعِشَارُ عُطِّلَتْ
+BM: Pembiakan dihentikan.
+EN: The reproduction is halted.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081004.mp3
 
 # Ayah 5
-AR: TODO_AR_081005
-BM: TODO_BM_081005
-EN: TODO_EN_081005
-AUDIO: ./assets/audio/081/081005.mp3
+AR: وَإِذَا الْوُحُوشُ حُشِرَتْ
+BM: Binatang liar dikumpulkan.
+EN: The beasts are summoned.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081005.mp3
 
 # Ayah 6
-AR: TODO_AR_081006
-BM: TODO_BM_081006
-EN: TODO_EN_081006
-AUDIO: ./assets/audio/081/081006.mp3
+AR: وَإِذَا الْبِحَارُ سُجِّرَتْ
+BM: Lautan lautan menjadi terbakar.
+EN: The oceans are set aflame.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081006.mp3
 
 # Ayah 7
-AR: TODO_AR_081007
-BM: TODO_BM_081007
-EN: TODO_EN_081007
-AUDIO: ./assets/audio/081/081007.mp3
+AR: وَإِذَا النُّفُوسُ زُوِّجَتْ
+BM: Roh roh dikembalikan kepada tubuh tubuh mereka.
+EN: The souls are restored to their bodies.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081007.mp3
 
 # Ayah 8
-AR: TODO_AR_081008
-BM: TODO_BM_081008
-EN: TODO_EN_081008
-AUDIO: ./assets/audio/081/081008.mp3
+AR: وَإِذَا الْمَوْءُودَةُ سُئِلَتْ
+BM: Bayi bayi perempuan yang telah ditanam hidup hidup akan ditanya:
+EN: The girl who was buried alive is asked:
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081008.mp3
 
 # Ayah 9
-AR: TODO_AR_081009
-BM: TODO_BM_081009
-EN: TODO_EN_081009
-AUDIO: ./assets/audio/081/081009.mp3
+AR: بِأَيِّ ذَنْبٍ قُتِلَتْ
+BM: Kerana jenayah apakah yang dia dibunuh?
+EN: For what crime was she killed?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081009.mp3
 
 # Ayah 10
-AR: TODO_AR_081010
-BM: TODO_BM_081010
-EN: TODO_EN_081010
-AUDIO: ./assets/audio/081/081010.mp3
+AR: وَإِذَا الصُّحُفُ نُشِرَتْ
+BM: Rekod rekod telah diperkenalkan.
+EN: The records are made known.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081010.mp3
 
 # Ayah 11
-AR: TODO_AR_081011
-BM: TODO_BM_081011
-EN: TODO_EN_081011
-AUDIO: ./assets/audio/081/081011.mp3
+AR: وَإِذَا السَّمَاءُ كُشِطَتْ
+BM: Cekrawala akan dilenyapkan.
+EN: The heaven is removed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081011.mp3
 
 # Ayah 12
-AR: TODO_AR_081012
-BM: TODO_BM_081012
-EN: TODO_EN_081012
-AUDIO: ./assets/audio/081/081012.mp3
+AR: وَإِذَا الْجَحِيمُ سُعِّرَتْ
+BM: Neraka telah dinyalakan.
+EN: Hell is ignited.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081012.mp3
 
 # Ayah 13
-AR: TODO_AR_081013
-BM: TODO_BM_081013
-EN: TODO_EN_081013
-AUDIO: ./assets/audio/081/081013.mp3
+AR: وَإِذَا الْجَنَّةُ أُزْلِفَتْ
+BM: Syurga dihadirkan.
+EN: Paradise is presented.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081013.mp3
 
 # Ayah 14
-AR: TODO_AR_081014
-BM: TODO_BM_081014
-EN: TODO_EN_081014
-AUDIO: ./assets/audio/081/081014.mp3
+AR: عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ
+BM: Tiap tiap roh akan ketahui segala apa yang dibawanya.
+EN: Every soul will know everything it brought.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081014.mp3
 
 # Ayah 15
-AR: TODO_AR_081015
-BM: TODO_BM_081015
-EN: TODO_EN_081015
-AUDIO: ./assets/audio/081/081015.mp3
+AR: فَلَا أُقْسِمُ بِالْخُنَّسِ
+BM: Aku bersumpah dengan seriusnya kepada bimasakti bimasakti.
+EN: I solemnly swear by the galaxies.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081015.mp3
+SUBTITLE_BM: Rasul Allah Yang Di-Janjikan
+SUBTITLE_EN: God's Messenger of the Covenant
 
 # Ayah 16
-AR: TODO_AR_081016
-BM: TODO_BM_081016
-EN: TODO_EN_081016
-AUDIO: ./assets/audio/081/081016.mp3
+AR: الْجَوَارِ الْكُنَّسِ
+BM: Yang berjalan dalam orbit orbit mereka dengan tepat.
+EN: Precisely running in their orbits.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081016.mp3
 
 # Ayah 17
-AR: TODO_AR_081017
-BM: TODO_BM_081017
-EN: TODO_EN_081017
-AUDIO: ./assets/audio/081/081017.mp3
+AR: وَالَّيْلِ إِذَا عَسْعَسَ
+BM: Malam apabila ianya jatuh.
+EN: By the night as it falls.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081017.mp3
 
 # Ayah 18
-AR: TODO_AR_081018
-BM: TODO_BM_081018
-EN: TODO_EN_081018
-AUDIO: ./assets/audio/081/081018.mp3
+AR: وَالصُّبْحِ إِذَا تَنَفَّسَ
+BM: Dan pagi apabila ianya bernafas.
+EN: And the morn as it breathes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081018.mp3
 
 # Ayah 19
-AR: TODO_AR_081019
-BM: TODO_BM_081019
-EN: TODO_EN_081019
-AUDIO: ./assets/audio/081/081019.mp3
+AR: إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ
+BM: Ini adalah perkataan dari rasul yang mulia.
+EN: This is the utterance of an honorable messenger. *
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081019.mp3
 
 # Ayah 20
-AR: TODO_AR_081020
-BM: TODO_BM_081020
-EN: TODO_EN_081020
-AUDIO: ./assets/audio/081/081020.mp3
+AR: ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ
+BM: Mendapat kebenaran dari Yang Maha Pemilik bagi Tahta, dengan sokongan yang sepenuhnya.
+EN: Authorized by the Possessor of the Throne, fully supported.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081020.mp3
 
 # Ayah 21
-AR: TODO_AR_081021
-BM: TODO_BM_081021
-EN: TODO_EN_081021
-AUDIO: ./assets/audio/081/081021.mp3
+AR: مُطَاعٍ ثَمَّ أَمِينٍ
+BM: Dia mestilah dita'ati dan diyakini.
+EN: He shall be obeyed and trusted.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081021.mp3
 
 # Ayah 22
-AR: TODO_AR_081022
-BM: TODO_BM_081022
-EN: TODO_EN_081022
-AUDIO: ./assets/audio/081/081022.mp3
+AR: وَمَا صَاحِبُكُمْ بِمَجْنُونٍ
+BM: Kawan kamu (Rashad) tidaklah gila.
+EN: Your friend (Rashad) is not crazy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081022.mp3
 
 # Ayah 23
-AR: TODO_AR_081023
-BM: TODO_BM_081023
-EN: TODO_EN_081023
-AUDIO: ./assets/audio/081/081023.mp3
+AR: وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ
+BM: Dia melihatnya diufuk yang tinggi.
+EN: He saw him at the high horizon. *
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081023.mp3
 
 # Ayah 24
-AR: TODO_AR_081024
-BM: TODO_BM_081024
-EN: TODO_EN_081024
-AUDIO: ./assets/audio/081/081024.mp3
+AR: وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ
+BM: Dia tidak menyembunyikan sebarang berita berita.
+EN: He is not holding back any news.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081024.mp3
 
 # Ayah 25
-AR: TODO_AR_081025
-BM: TODO_BM_081025
-EN: TODO_EN_081025
-AUDIO: ./assets/audio/081/081025.mp3
+AR: وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ
+BM: Ianya bukanlah percakapan dari syaitan yang disingkirkan.
+EN: It is not the talk of a rejected devil.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081025.mp3
 
 # Ayah 26
-AR: TODO_AR_081026
-BM: TODO_BM_081026
-EN: TODO_EN_081026
-AUDIO: ./assets/audio/081/081026.mp3
+AR: فَأَيْنَ تَذْهَبُونَ
+BM: Sekarang ini, kemana kamu akan pergi?
+EN: Now then, where will you go?
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081026.mp3
 
 # Ayah 27
-AR: TODO_AR_081027
-BM: TODO_BM_081027
-EN: TODO_EN_081027
-AUDIO: ./assets/audio/081/081027.mp3
+AR: إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
+BM: Ini adalah mesej untuk kesemuanya manusia.
+EN: This is a message to all the people.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081027.mp3
 
 # Ayah 28
-AR: TODO_AR_081028
-BM: TODO_BM_081028
-EN: TODO_EN_081028
-AUDIO: ./assets/audio/081/081028.mp3
+AR: لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ
+BM: Bagi orang orang yang inginkan untuk mencari kelurusan.
+EN: For those who wish to go straight.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081028.mp3
 
 # Ayah 29
-AR: TODO_AR_081029
-BM: TODO_BM_081029
-EN: TODO_EN_081029
-AUDIO: ./assets/audio/081/081029.mp3
+AR: وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ
+BM: Apa saja yang kamu kehendaki adalah menurut kehendak dari Allah, Tuhan bagi semesta alam.
+EN: Whatever you will is in accordance with the will of GOD, Lord of the universe.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/081029.mp3
+
+
+
+
+

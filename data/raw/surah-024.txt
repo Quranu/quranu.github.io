@@ -1,394 +1,437 @@
-SURAH_NUMBER: 24
-NAME_AR: النور
+﻿SURAH_NUMBER: 24
+NAME_AR: سورة النور
 NAME_BM: Cahaya
-NAME_EN: The Light
+NAME_EN: Light
 ---
 # Ayah 0
 AR: بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-BM: Dengan nama Allah, Yang Maha Pengasih, Maha Penyayang.
-EN: In the name of GOD, Most Gracious, Most Merciful.
-AUDIO: ./assets/audio/024/024000.mp3
+BM: Dengan Nama Allah yang Maha Pengasih lagi Maha Penyayang.
+EN: In the name of God, Most Gracious, Most Merciful
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024000.mp3
 
 # Ayah 1
-AR: TODO_AR_024001
-BM: TODO_BM_024001
-EN: TODO_EN_024001
-AUDIO: ./assets/audio/024/024001.mp3
+AR: سورَةٌ أَنزَلناها وَفَرَضناها وَأَنزَلنا فيها آياتٍ بَيِّناتٍ لَعَلَّكُم تَذَكَّرونَ
+BM: Sebuah surah yang kami telah turunkan, dan kami telah mendekrikannya sebagai undang undang. Kami telah turunkan didalamnya revelasi revelasi yang terang, supaya dapat kamu mengambil peringatan.
+EN: A sura that we have sent down, and we have decreed as law. We have revealed in it clear revelations, that you may take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024001.mp3
 
 # Ayah 2
-AR: TODO_AR_024002
-BM: TODO_BM_024002
-EN: TODO_EN_024002
-AUDIO: ./assets/audio/024/024002.mp3
+AR: الزَّانِيَةُ وَالزَّانِي فَاجْلِدُوا كُلَّ وَاحِدٍ مِنْهُمَا مِائَةَ جَلْدَةٍ وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَلْيَشْهَدْ عَذَابَهُمَا طَائِفَةٌ مِنَ الْمُؤْمِنِينَ
+BM: Perempuan perempuan dan laki laki yang berzina mestilah kamu sebat setiap dari mereka itu seratus sebatan. Janganlah kamu terbawa bawa dengan merasa belas kasihan untuk menjalani hukuman Allah, jika kamu adalah orang yang benar benar percaya kepada Allah dan Hari Akhirat. Dan hendaklah sekumpulan orang orang yang percaya menyaksikan hukuman mereka.
+EN: The adulteress and the adulterer you shall whip each of them a hundred lashes. Do not be swayed by pity from carrying out GOD's law, if you truly believe in GOD and the Last Day. And let a group of believers witness their penalty.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024002.mp3
+SUBTITLE_BM: Perzinaan.
+SUBTITLE_EN: Adultery
 
 # Ayah 3
-AR: TODO_AR_024003
-BM: TODO_BM_024003
-EN: TODO_EN_024003
-AUDIO: ./assets/audio/024/024003.mp3
+AR: الزَّانِي لَا يَنْكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَالزَّانِيَةُ لَا يَنْكِحُهَا إِلَّا زَانٍ أَوْ مُشْرِكٌ وَحُرِّمَ ذَٰلِكَ عَلَى الْمُؤْمِنِينَ
+BM: Penzina penzina lelaki berakhir dengan mengahwini penzina penzina perempuan ataupun penyembah pujaan, dan penzina penzina perempuan berakhir dengan mengahwini penzina penzina lelaki ataupun penyembah pujaan. Mereka ini dilarang untuk mengahwini orang orang yang percaya.
+EN: The adulterer will end up marrying an adulteress or an idol worshiper, and the adulteress will end up marrying an adulterer or an idol worshiper. This is prohibited for the believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024003.mp3
 
 # Ayah 4
-AR: TODO_AR_024004
-BM: TODO_BM_024004
-EN: TODO_EN_024004
-AUDIO: ./assets/audio/024/024004.mp3
+AR: وَالَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ ثُمَّ لَمْ يَأْتُوا بِأَرْبَعَةِ شُهَدَاءَ فَاجْلِدُوهُمْ ثَمَانِينَ جَلْدَةً وَلَا تَقْبَلُوا لَهُمْ شَهَادَةً أَبَدًا وَأُولَٰئِكَ هُمُ الْفَاسِقُونَ
+BM: Orang orang yang menuduh wanita wanita yang sudah berkahwin itu berzina, dengan tidak mengadakan empat orang para saksi, kamu mestilah sebat mereka lapan puluh sebatan, dan janganlah menerima sebarang testimoni dari mereka, mereka itu adalah orang orang yang zalim.
+EN: Those who accuse married women of adultery, then fail to produce four witnesses, you shall whip them eighty lashes, and do not accept any testimony from them; they are wicked.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024004.mp3
 
 # Ayah 5
-AR: TODO_AR_024005
-BM: TODO_BM_024005
-EN: TODO_EN_024005
-AUDIO: ./assets/audio/024/024005.mp3
+AR: إِلَّا الَّذِينَ تَابُوا مِنْ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+BM: Jika mereka bertaubat selepas itu dan membaiki diri, maka sesungguhnya Allah sajalah Maha Pengampun lagi Maha Penyayang.
+EN: If they repent afterwards and reform, then GOD is Forgiver, Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024005.mp3
 
 # Ayah 6
-AR: TODO_AR_024006
-BM: TODO_BM_024006
-EN: TODO_EN_024006
-AUDIO: ./assets/audio/024/024006.mp3
+AR: وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ وَلَمْ يَكُنْ لَهُمْ شُهَدَاءُ إِلَّا أَنْفُسُهُمْ فَشَهَادَةُ أَحَدِهِمْ أَرْبَعُ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الصَّادِقِينَ
+BM: Bagi orang orang yang menuduh pasangan pasangan sendiri, dengan tidak mempunyai saksi saksi, dan testimoninya boleh diterima jika dia bersumpah dengan Allah sebanyak empat kali yang dia itu berkata benar.
+EN: As for those who accuse their own spouses, without any other witnesses, then the testimony may be accepted if he swears by GOD four times that he is telling the truth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024006.mp3
 
 # Ayah 7
-AR: TODO_AR_024007
-BM: TODO_BM_024007
-EN: TODO_EN_024007
-AUDIO: ./assets/audio/024/024007.mp3
+AR: وَالْخَامِسَةُ أَنَّ لَعْنَتَ اللَّهِ عَلَيْهِ إِنْ كَانَ مِنَ الْكَاذِبِينَ
+BM: Sumpahan yang kelima adalah untuk menerima kutukan dari Allah baginya, jika dia berbohong.
+EN: The fifth oath shall be to incur GOD's condemnation upon him, if he was lying.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024007.mp3
 
 # Ayah 8
-AR: TODO_AR_024008
-BM: TODO_BM_024008
-EN: TODO_EN_024008
-AUDIO: ./assets/audio/024/024008.mp3
+AR: وَيَدْرَأُ عَنْهَا الْعَذَابَ أَنْ تَشْهَدَ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الْكَاذِبِينَ
+BM: Dia (isteri) akan didapati tidak bersalah jika dia bersumpah dengan Allah sebanyak empat kali yang dia (suami) adalah pembohong.
+EN: She shall be considered innocent if she swears by GOD four times that he is a liar.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024008.mp3
 
 # Ayah 9
-AR: TODO_AR_024009
-BM: TODO_BM_024009
-EN: TODO_EN_024009
-AUDIO: ./assets/audio/024/024009.mp3
+AR: وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِنْ كَانَ مِنَ الصَّادِقِينَ
+BM: Sumpahan kelima adalah untuk mendapat kemurkaan dari Allah terhadap (isteri) jika dia (suami) berkata benar.
+EN: The fifth oath shall incur GOD's wrath upon her if he was telling the truth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024009.mp3
 
 # Ayah 10
-AR: TODO_AR_024010
-BM: TODO_BM_024010
-EN: TODO_EN_024010
-AUDIO: ./assets/audio/024/024010.mp3
+AR: وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ وَأَنَّ اللَّهَ تَوَّابٌ حَكِيمٌ
+BM: Ini adalah limpah kurnia Allah dan belas kasih untuk kamu. Sesunguhnya Allah Maha Penyelamat lagi Maha Bijaksana.
+EN: This is GOD's grace and mercy towards you. GOD is Redeemer, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024010.mp3
 
 # Ayah 11
-AR: TODO_AR_024011
-BM: TODO_BM_024011
-EN: TODO_EN_024011
-AUDIO: ./assets/audio/024/024011.mp3
+AR: إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِنْكُمْ لَا تَحْسَبُوهُ شَرًّا لَكُمْ بَلْ هُوَ خَيْرٌ لَكُمْ لِكُلِّ امْرِئٍ مِنْهُمْ مَا اكْتَسَبَ مِنَ الْإِثْمِ وَالَّذِي تَوَلَّىٰ كِبْرَهُ مِنْهُمْ لَهُ عَذَابٌ عَظِيمٌ
+BM: Sekumpulan dari kamu mengadakan pembohongan yang besar. Jangan difikirkan yang ianya itu tidak baik bagi kamu; sebaliknya, itu adalah baik untuk kamu. Sementara itu, tiap tiap seorang dari mereka akan mendapatkan bahagian dari kesalahan itu. Bagi orang yang menginisiasikan seluruh peristiwa ini, dia telah mendapat hukuman yang dahsyat.
+EN: A gang among you produced a big lie.* Do not think that it was bad for you; instead, it was good for you. Meanwhile, each one of them has earned his share of the guilt. As for the one who initiated the whole incident, he has incurred a terrible retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024011.mp3
+SUBTITLE_BM: Bagaimana Hendak Mengatasi Desas Desus Dan Tuduhan Yang Belum Terbukti
+SUBTITLE_EN: How to Deal With Rumors and Unproven Accusations
 
 # Ayah 12
-AR: TODO_AR_024012
-BM: TODO_BM_024012
-EN: TODO_EN_024012
-AUDIO: ./assets/audio/024/024012.mp3
+AR: لَوْلَا إِذْ سَمِعْتُمُوهُ ظَنَّ الْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بِأَنْفُسِهِمْ خَيْرًا وَقَالُوا هَٰذَا إِفْكٌ مُبِينٌ
+BM: Apabila saja kamu mendengarnya, orang orang lelaki yang percaya juga orang orang perempuan yang percaya sepatutnya mempunyai pemikiran yang baik berkenaan diri masing masing, dan sepatutnya berkata, "Ini adalah jelas satu pembohongan yang benar."
+EN: When you heard it, the believing men and the believing women should have had better thoughts about themselves, and should have said, "This is obviously a big lie."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024012.mp3
 
 # Ayah 13
-AR: TODO_AR_024013
-BM: TODO_BM_024013
-EN: TODO_EN_024013
-AUDIO: ./assets/audio/024/024013.mp3
+AR: لَوْلَا جَاءُوا عَلَيْهِ بِأَرْبَعَةِ شُهَدَاءَ فَإِذْ لَمْ يَأْتُوا بِالشُّهَدَاءِ فَأُولَٰئِكَ عِنْدَ اللَّهِ هُمُ الْكَاذِبُونَ
+BM: Hanyalah jika mereka membawa empat orang para saksi (kamu boleh mempercayai mereka). Jika mereka tidak dapat mengadakan para saksi, maka mereka itu, mengikut Allah, para pembohong.
+EN: Only if they produced four witnesses (you may believe them). If they fail to produce the witnesses, then they are, according to GOD, liars.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024013.mp3
 
 # Ayah 14
-AR: TODO_AR_024014
-BM: TODO_BM_024014
-EN: TODO_EN_024014
-AUDIO: ./assets/audio/024/024014.mp3
+AR: وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ فِي الدُّنْيَا وَالْآخِرَةِ لَمَسَّكُمْ فِي مَا أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ
+BM: Jika tidak kerana limpah kurnia Allah terhadap kamu, dan belas kasihNya didalam dunia ini dan diAkhirat, tentu kamu akan mengalami hukuman yang benar disebabkan peristiwa ini.
+EN: If it were not for GOD's grace towards you, and His mercy in this world and in the Hereafter, you would have suffered a great retribution because of this incident.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024014.mp3
 
 # Ayah 15
-AR: TODO_AR_024015
-BM: TODO_BM_024015
-EN: TODO_EN_024015
-AUDIO: ./assets/audio/024/024015.mp3
+AR: إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُمْ مَا لَيْسَ لَكُمْ بِهِ عِلْمٌ وَتَحْسَبُونَهُ هَيِّنًا وَهُوَ عِنْدَ اللَّهِ عَظِيمٌ
+BM: Kamu mengada adakannya dengan lidah lidah kamu sendiri, dan yang lainnya diantara kamu mengulanginya dengan mulut mulut kamu dengan tidak mempunyai bukti. Kamu kira ianya hanyalah perkara mudah, padahal ianya, mengikut Allah, dosa yang sangat besar.
+EN: You fabricated it with your own tongues, and the rest of you repeated it with your mouths without proof. You thought it was simple, when it was, according to GOD, gross.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024015.mp3
 
 # Ayah 16
-AR: TODO_AR_024016
-BM: TODO_BM_024016
-EN: TODO_EN_024016
-AUDIO: ./assets/audio/024/024016.mp3
+AR: وَلَوْلَا إِذْ سَمِعْتُمُوهُ قُلْتُمْ مَا يَكُونُ لَنَا أَنْ نَتَكَلَّمَ بِهَٰذَا سُبْحَانَكَ هَٰذَا بُهْتَانٌ عَظِيمٌ
+BM: Apabila kamu mendengarnya, kamu sepatutnya berkata, "Kami tidak akan mengulangi ini. Maha Suci Engkau. Ini adalah penipuan yang besar."
+EN: When you heard it, you should have said, "We will not repeat this. Glory be to You. This is a gross falsehood."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024016.mp3
+SUBTITLE_BM: Apa Mesti Dibuat.
+SUBTITLE_EN: What to Do
 
 # Ayah 17
-AR: TODO_AR_024017
-BM: TODO_BM_024017
-EN: TODO_EN_024017
-AUDIO: ./assets/audio/024/024017.mp3
+AR: يَعِظُكُمُ اللَّهُ أَنْ تَعُودُوا لِمِثْلِهِ أَبَدًا إِنْ كُنْتُمْ مُؤْمِنِينَ
+BM: Allah menegur kamu supaya jangan kamu mengulanginya lagi, jika kamu adalah orang orang percaya.
+EN: GOD admonishes you that you shall never do it again, if you are believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024017.mp3
 
 # Ayah 18
-AR: TODO_AR_024018
-BM: TODO_BM_024018
-EN: TODO_EN_024018
-AUDIO: ./assets/audio/024/024018.mp3
+AR: وَيُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+BM: Lantas, Allah menerangkan revelasi revelasi kepada kamu. Sesungguhnya, Allah Maha Mengetahui lagi Maha Bijaksana.
+EN: GOD thus explains the revelations for you. GOD is Omniscient, Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024018.mp3
 
 # Ayah 19
-AR: TODO_AR_024019
-BM: TODO_BM_024019
-EN: TODO_EN_024019
-AUDIO: ./assets/audio/024/024019.mp3
+AR: إِنَّ الَّذِينَ يُحِبُّونَ أَنْ تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ
+BM: Orang orang yang suka melihat ketidak kebaikan merebak diantara orang orang yang percaya telah menerima hukuman yang menyakitkan didunia ini dan juga diAkhirat. Sesungguhnya Allah tahu sedangkan kamu tidak mengetahui.
+EN: Those who love to see immorality spread among the believers have incurred a painful retribution in this life and in the Hereafter. GOD knows, while you do not know.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024019.mp3
 
 # Ayah 20
-AR: TODO_AR_024020
-BM: TODO_BM_024020
-EN: TODO_EN_024020
-AUDIO: ./assets/audio/024/024020.mp3
+AR: وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ وَأَنَّ اللَّهَ رَءُوفٌ رَحِيمٌ
+BM: Allah telah mencucuri kamu dengan limpah kurnia dan belas kasihNya. Sesungguhnya Allah Maha Mengasihani lagi Maha Penyayang.
+EN: GOD showers you with His grace and mercy. GOD is Most Kind towards the believers, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024020.mp3
 
 # Ayah 21
-AR: TODO_AR_024021
-BM: TODO_BM_024021
-EN: TODO_EN_024021
-AUDIO: ./assets/audio/024/024021.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ وَمَنْ يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ بِالْفَحْشَاءِ وَالْمُنْكَرِ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنْكُمْ مِنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ اللَّهَ يُزَكِّي مَنْ يَشَاءُ وَاللَّهُ سَمِيعٌ عَلِيمٌ
+BM: Wahai orang orang yang percaya, janganlah mengikuti langkah langkah syaitan. Sesiapa yang mengikuti langkah lankah Syaitan, mestilah mengetahui yang dia menggalakkan kejahatan dan kemungkaran. Jika ianya tidak kerana limpah kurnia Allah terhadap kamu, dan belas kasihNya, tidak ada satu pun dari kamu dapat disucikan. Tetapi Allah menyucikan sesiapa saja yang dikehendakiNya. Sesungguhnya, Allah Maha Mendengar lagi Maha Mengetahui.
+EN: O you who believe, do not follow the steps of Satan. Anyone who follows the steps of Satan, should know that he advocates evil and vice. If it were not for GOD's grace towards you, and His mercy, none of you would have been purified. But GOD purifies whomever He wills. GOD is Hearer, Knower.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024021.mp3
+SUBTITLE_BM: Syaitan Menggalakkan Tuduhan Yang Tidak Berasas.
+SUBTITLE_EN: The Devil Encourages Baseless Accusations
 
 # Ayah 22
-AR: TODO_AR_024022
-BM: TODO_BM_024022
-EN: TODO_EN_024022
-AUDIO: ./assets/audio/024/024022.mp3
+AR: وَلَا يَأْتَلِ أُولُو الْفَضْلِ مِنْكُمْ وَالسَّعَةِ أَنْ يُؤْتُوا أُولِي الْقُرْبَىٰ وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ اللَّهِ وَلْيَعْفُوا وَلْيَصْفَحُوا أَلَا تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ
+BM: Sesiapa dari kamu yang telah dirahmati dengan harta dan kekayaan mestilah menjadi dermawan terhadap saudara mara mereka, orang orang miskin, dan orang orang yang berhijrah kerana Allah. Mereka mestilah melayani mereka itu dengan baik dengan bersifat toleransi; tidakkah kamu suka untuk mendapatkan pengampunan dari Allah? Sesungguhnya, Allah Maha Pengampun lagi Maha Penyayang.
+EN: Those among you who are blessed with resources and wealth shall be charitable towards their relatives, the poor, and those who have immigrated for the sake of GOD. They shall treat them with kindness and tolerance; do you not love to attain GOD's forgiveness? GOD is Forgiver, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024022.mp3
 
 # Ayah 23
-AR: TODO_AR_024023
-BM: TODO_BM_024023
-EN: TODO_EN_024023
-AUDIO: ./assets/audio/024/024023.mp3
+AR: إِنَّ الَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ الْغَافِلَاتِ الْمُؤْمِنَاتِ لُعِنُوا فِي الدُّنْيَا وَالْآخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ
+BM: Tentu sekali, orang orang yang membuat tuduhan palsu kepada wanita wanita yang sudah berkahwin yang percaya lagi bertakwah telah menerima kutukkan dikehidupan ini dan diAkhirat; mereka akan menerima hukuman yang amat sangat azabnya.
+EN: Surely, those who falsely accuse married women who are pious believers have incurred condemnation in this life and in the Hereafter; they have incurred a horrendous retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024023.mp3
+SUBTITLE_BM: Dosa Besar.
+SUBTITLE_EN: Gross Sin
 
 # Ayah 24
-AR: TODO_AR_024024
-BM: TODO_BM_024024
-EN: TODO_EN_024024
-AUDIO: ./assets/audio/024/024024.mp3
+AR: يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُمْ بِمَا كَانُوا يَعْمَلُونَ
+BM: Harinya akan tiba apabila lidah lidah, tangan tangan dan kaki kaki mereka sendiri akan menjadi saksi diatas segala gala yang mereka telah lakukan.
+EN: The day will come when their own tongues, hands, and feet will bear witness to everything they had done.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024024.mp3
 
 # Ayah 25
-AR: TODO_AR_024025
-BM: TODO_BM_024025
-EN: TODO_EN_024025
-AUDIO: ./assets/audio/024/024025.mp3
+AR: يَوْمَئِذٍ يُوَفِّيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ
+BM: Pada hari itu, Allah akan membalas dengan secukupnya diatas kerja kerja mereka, dan mereka akan dapati yang Allah adalah Benar.
+EN: On that day, GOD will requite them fully for their works, and they will find out that GOD is the Truth.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024025.mp3
 
 # Ayah 26
-AR: TODO_AR_024026
-BM: TODO_BM_024026
-EN: TODO_EN_024026
-AUDIO: ./assets/audio/024/024026.mp3
+AR: الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+BM: Wanita wanita yang tidak baik untuk lelaki lelaki yang tidak baik, dan lelaki lelaki yang tidak baik untuk wanita wanita yang tidak baik, dan wanita wanita yang baik untuk lelaki lelaki yang baik, dan lelaki lelaki yang baik untuk wanita wanita yang baik. Mereka yang baik akan terselamat dari tuduhan yang demikian. Mereka akan mendapat pengampunan dan ganjaran yang mewah.
+EN: The bad women for the bad men, and the bad men for the bad women, and the good women for the good men, and the good men for the good women. The latter are innocent of such accusations. They have attained forgiveness and a generous reward.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024026.mp3
 
 # Ayah 27
-AR: TODO_AR_024027
-BM: TODO_BM_024027
-EN: TODO_EN_024027
-AUDIO: ./assets/audio/024/024027.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ذَٰلِكُمْ خَيْرٌ لَكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
+BM: Wahai kamu yang percaya, janganlah memasuki rumah rumah selain dari rumah kamu dengan tidak mendapat kebenaran dari penghuni penghuninya, dan dengan tidak memberi salam kepada mereka. Ini adalah baik untuk kamu, supaya dapat kamu merenungkan.
+EN: O you who believe, do not enter homes other than yours without permission from their inhabitants, and without greeting them. This is better for you, that you may take heed.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024027.mp3
+SUBTITLE_BM: Etiket Yang Suci
+SUBTITLE_EN: Divine Etiquette
 
 # Ayah 28
-AR: TODO_AR_024028
-BM: TODO_BM_024028
-EN: TODO_EN_024028
-AUDIO: ./assets/audio/024/024028.mp3
+AR: فَإِنْ لَمْ تَجِدُوا فِيهَا أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ وَإِنْ قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا هُوَ أَزْكَىٰ لَكُمْ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
+BM: Jika kamu tidak mendapat sesiapa didalamnya, janganlah masuk didalamnya sehingga kamu mendapat keizinan. Jika kamu diberitahu, "Pulanglah," kamu mesti pulang. Ini lebih suci bagi kamu. Sesungguhnya, Allah amat perihatin dengan segala apa yang kamu lakukan.
+EN: If you find no one in them, do not enter them until you obtain permission. If you are told, "Go back," you must go back. This is purer for you. GOD is fully aware of everything you do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024028.mp3
 
 # Ayah 29
-AR: TODO_AR_024029
-BM: TODO_BM_024029
-EN: TODO_EN_024029
-AUDIO: ./assets/audio/024/024029.mp3
+AR: لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَكُمْ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
+BM: Kamu tidak melakukan kesalahan dengan memasuki rumah rumah tanpa penghuni yang mana disana ada sesuatu kepunyaan kamu. Sesungguhnya, Allah tahu apa yang kamu nyatakan, dan segala apa yang kamu rahsiakan.
+EN: You commit no error by entering uninhabited homes wherein there is something that belongs to you. GOD knows everything you reveal, and everything you conceal.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024029.mp3
 
 # Ayah 30
-AR: TODO_AR_024030
-BM: TODO_BM_024030
-EN: TODO_EN_024030
-AUDIO: ./assets/audio/024/024030.mp3
+AR: قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ذَٰلِكَ أَزْكَىٰ لَهُمْ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ
+BM: Beritahukan kepada lelaki lelaki yang percaya yang mereka itu mestilah menahan mata mata mereka (jangan merenung wanita wanita), dan berterusan menjaga kesucian mereka. Ini lebih suci bagi mereka. Sesungguhnya Allah Maha Perihatin dengan segala apa yang mereka lakukan.
+EN: Tell the believing men that they shall subdue their eyes (and not stare at the women), and to maintain their chastity. This is purer for them. GOD is fully Cognizant of everything they do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024030.mp3
+SUBTITLE_BM: Cara berpakaian Untuk Orang Orang Yang Percaya
+SUBTITLE_EN: Dress Code for Believers*
 
 # Ayah 31
-AR: TODO_AR_024031
-BM: TODO_BM_024031
-EN: TODO_EN_024031
-AUDIO: ./assets/audio/024/024031.mp3
+AR: وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاءِ بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاءِ بُعُولَتِهِنَّ أَوْ إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ غَيْرِ أُولِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَىٰ عَوْرَاتِ النِّسَاءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِنْ زِينَتِهِنَّ وَتُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَ الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
+BM: Dan beritahukanlah kepada wanita wanita yang percaya supaya menahan mata mata mereka, dan berterusan menjaga kesucian mereka. Mereka tidak sepatutnya menampakkan sebarang bahagian tubuh tubuh mereka, melainkan mana yang perlu. Mereka mestilah menutup dada dada mereka, dan janganlah melepas pakaian ini melainkan berhadapan dengan suami suami mereka, bapa bapa, bapa bapa mertua mereka, anak anak lelaki mereka, anak anak lelaki suami suami mereka, adik beradik lelaki mereka, anak anak lelaki suadara saudara lelaki mereka, anak anak lelaki saudara saudara perempuan mereka, wanita wanita lainnya, pembantu pembantu lelaki ataupun pekerja pekerja yang keinginan seknya telah tiada lagi, ataupun anak anak yang belum baligh. Janganlah mereka menghentakkan kaki kaki mereka apabila mereka berjalan untuk menggerakkan dan menunjukkan sesuatu perincian pada tubuh tubuh mereka. Semuanya kamu mestilah bertaubat kepada Allah, wahai kamu yang percaya, supaya kamu mendapat kejayaan.
+EN: And tell the believing women to subdue their eyes, and maintain their chastity. They shall not reveal any parts of their bodies, except that which is necessary. They shall cover their chests, and shall not relax this code in the presence of other than their husbands, their fathers, the fathers of their husbands, their sons, the sons of their husbands, their brothers, the sons of their brothers, the sons of their sisters, other women, the male servants or employees whose sexual drive has been nullified, or the children who have not reached puberty. They shall not strike their feet when they walk in order to shake and reveal certain details of their bodies. All of you shall repent to GOD, O you believers, that you may succeed.*
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024031.mp3
 
 # Ayah 32
-AR: TODO_AR_024032
-BM: TODO_BM_024032
-EN: TODO_EN_024032
-AUDIO: ./assets/audio/024/024032.mp3
+AR: وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ وَإِمَائِكُمْ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ فَضْلِهِ وَاللَّهُ وَاسِعٌ عَلِيمٌ
+BM: Kamu mestilah menggalakkan sesiapa jua dari kamu yang bersendirian supaya bernikah. Mereka bolehlah berkahwin dengan orang orang yang benar diantara pembantu pembantu kamu yang lelaki  dan perempuan, jika mereka itu miskin. Allah akan memberikan mereka keluasan limpah kurniaNya. Sesungguhnya Allah yang Maha Pemurah lagi Maha Mengetahui.
+EN: You shall encourage those of you who are single to get married. They may marry the righteous among your male and female servants, if they are poor. GOD will enrich them from His grace. GOD is Bounteous, Knower.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024032.mp3
+SUBTITLE_BM: Menggalakkan Perkahwinan Untuk Mencegah Dari Tidak Bermoral
+SUBTITLE_EN: Encourage Marriage to Discourage Immorality
 
 # Ayah 33
-AR: TODO_AR_024033
-BM: TODO_BM_024033
-EN: TODO_EN_024033
-AUDIO: ./assets/audio/024/024033.mp3
+AR: وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللَّهُ مِنْ فَضْلِهِ وَالَّذِينَ يَبْتَغُونَ الْكِتَابَ مِمَّا مَلَكَتْ أَيْمَانُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَآتُوهُمْ مِنْ مَالِ اللَّهِ الَّذِي آتَاكُمْ وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ تَحَصُّنًا لِتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا وَمَنْ يُكْرِهْهُنَّ فَإِنَّ اللَّهَ مِنْ بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَحِيمٌ
+BM: Orang orang yang tidak ada kemampuan untuk berkahwin mestilah memeliharakan akhlaknya sehingga Allah mengadakan untuk mereka itu dari limpah kurniaNya. Sesiapa diantara pembantu pembantu kamu yang inginkan kebebasan untuk berkahwin, kamu mestilah memenuhi keinginan mereka, sesudah kamu dapati yang mereka itu jujur. Dan berikanlah kepada mereka wang dari Allah yang Dia telah dikurniakan kepada kamu. Kamu tidak boleh memaksa perempuan perempuan kamu mengkomitkan pelacuran, demi untuk mencari kebendaan didunia ini, jika mereka itu berkeinginan untuk menyucikan diri. Jika sesiapa yang memaksakan mereka itu, maka Allah, melihat mereka itu dipaksa, yang Maha Pengampun lagi Maha Penyayang.
+EN: Those who cannot afford to get married shall maintain morality until GOD provides for them from His grace. Those among your servants who wish to be freed in order to marry, you shall grant them their wish, once you realize that they are honest. And give them from GOD's money that He has bestowed upon you. You shall not force your girls to commit prostitution, seeking the materials of this world, if they wish to be chaste. If anyone forces them, then GOD, seeing that they are forced, is Forgiver, Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024033.mp3
 
 # Ayah 34
-AR: TODO_AR_024034
-BM: TODO_BM_024034
-EN: TODO_EN_024034
-AUDIO: ./assets/audio/024/024034.mp3
+AR: وَلَقَدْ أَنْزَلْنَا إِلَيْكُمْ آيَاتٍ مُبَيِّنَاتٍ وَمَثَلًا مِنَ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ وَمَوْعِظَةً لِلْمُتَّقِينَ
+BM: Kami telah turunkan kepada kamu revelasi revelasi yang jelas, dan tauladan dari generasi generasi yang terdahulu, dan kesedaran bagi orang orang yang benar.
+EN: We have revealed to you clarifying revelations, and examples from the past generations, and an enlightenment for the righteous.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024034.mp3
 
 # Ayah 35
-AR: TODO_AR_024035
-BM: TODO_BM_024035
-EN: TODO_EN_024035
-AUDIO: ./assets/audio/024/024035.mp3
+AR: اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلَىٰ نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
+BM: Allah adalah cahaya bagi sekelian cekrawala dan bumi. Aligori bagi cahayaNya itu adalah seperti cermin yang berbentuk kanta cekung dibelakang lampu yang ditaruh kedalam bekas dari kaca. Bekas kaca itu terang bercahaya seumpama mutiara -  bintang yang terang. Minyak didalamnya adalah datang dari pokok - yang mengeluarkan minyak yang telah dirahmati, tidak dari timur ataupun barat. Minyaknya hampir mempunyai pancaran cahaya yang tersendiri; tidak memerlukan api untuk menyalakannya. Cahaya diatas cahaya. Allah membimbing kepada cahayaNya sesiapa saja yang menghendaki (untuk dibimbing). Allah lantas memberikan ibarat ibarat untuk manusia. Sesungguhnya Allah amat sedar akan setiap sesuatu.
+EN: GOD is the light of the heavens and the earth. The allegory of His light is that of a concave mirror behind a lamp that is placed inside a glass container. The glass container is like a bright, pearl-like star. The fuel thereof is supplied from a blessed oil-producing tree, that is neither eastern, nor western. Its oil is almost self-radiating; needs no fire to ignite it. Light upon light. GOD guides to His light whomever He wills. GOD thus cites the parables for the people. GOD is fully aware of all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024035.mp3
+SUBTITLE_BM: Allah
+SUBTITLE_EN: God
 
 # Ayah 36
-AR: TODO_AR_024036
-BM: TODO_BM_024036
-EN: TODO_EN_024036
-AUDIO: ./assets/audio/024/024036.mp3
+AR: فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ
+BM: (Bimbingan Allah dapat dijumpa) dirumah rumah yang diberikan kedudukkan yang tinggi oleh Allah, kerana didalamnya namaNya sentiasa diingati, memujiNya didalamnya, siang dan malam-
+EN: (God's guidance is found) in houses exalted by GOD, for His name is commemorated therein. Glorifying Him therein, day and night--
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024036.mp3
 
 # Ayah 37
-AR: TODO_AR_024037
-BM: TODO_BM_024037
-EN: TODO_EN_024037
-AUDIO: ./assets/audio/024/024037.mp3
+AR: رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ
+BM: Orang orang yang tidak dilalaikan dengan perniagaan ataupun jual beli dari mengingati Allah; Mereka Mengerjakan Sembahyang (Salat), dan memberikan derma yang diwajibkan (Zakat), dan mereka sedar akan harinya apabila minda minda dan mata mata akan menjadi terperanjat.
+EN: People who are not distracted by business or trade from commemorating GOD; they observe the Contact Prayers (Salat), and give the obligatory charity (Zakat), and they are conscious of the day when the minds and the eyes will be horrified.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024037.mp3
+SUBTITLE_BM: Orang Orang Yang Sentiasa Ke-Masjid
+SUBTITLE_EN: Those Who Frequent the Masjid
 
 # Ayah 38
-AR: TODO_AR_024038
-BM: TODO_BM_024038
-EN: TODO_EN_024038
-AUDIO: ./assets/audio/024/024038.mp3
+AR: لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ
+BM: Allah tentu sekali akan memberikan mereka ganjaran kerana kerja kerja baik mereka, dan akan mencucuri mereka dengan limpah kurniaNya. Allah mengadakan kepada sesiapa yang Dia kehendaki dengan  tanpa batasan.
+EN: GOD will certainly reward them for their good works, and will shower them with His grace. GOD provides for whomever He wills without limits.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024038.mp3
 
 # Ayah 39
-AR: TODO_AR_024039
-BM: TODO_BM_024039
-EN: TODO_EN_024039
-AUDIO: ./assets/audio/024/024039.mp3
+AR: وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ وَاللَّهُ سَرِيعُ الْحِسَابِ
+BM: Bagi orang orang yang ingkar, kerja kerja mereka itu seumpama maya dipadang pasir. Orang yang kehausan memikirkan yang ianya adalah air. Tetapi setelah dia sampai kepadanya, Dia mendapati tidak ada sesuatu apa pun, dan sebaliknya disana dia menemui Allah, untuk membalas sepenuhnya kerja kerjanya. Sesungguhnya Allah adalah penghitung yang amat cekap.
+EN: As for those who disbelieve, their works are like a mirage in the desert. A thirsty person thinks that it is water. But when he reaches it, he finds that it is nothing, and he finds GOD there instead, to requite him fully for his works. GOD is the most efficient reckoner.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024039.mp3
+SUBTITLE_BM: Mengejar Sebuah Khayalan
+SUBTITLE_EN: Chasing A Mirage
 
 # Ayah 40
-AR: TODO_AR_024040
-BM: TODO_BM_024040
-EN: TODO_EN_024040
-AUDIO: ./assets/audio/024/024040.mp3
+AR: أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ
+BM: Satu lagi aligori ialah seperti berada didalam kegelapan yang amat sangat dipertengahan lautan yang bergelombang, dengan ombak demi ombak, ditambahkan dengan kabus yang tebal. Kegelapan demi kegelapan - jika dia melihat tangannya sendiri, dia hampir hampir tidak dapat melihatnya. Sesiapa yang Allah menghalanginya dari mendapatkan cahaya, tidak akan boleh mendapat cahaya.
+EN: Another allegory is that of being in total darkness in the midst of a violent ocean, with waves upon waves, in addition to thick fog. Darkness upon darkness--if he looked at his own hand, he could barely see it. Whomever GOD deprives of light, will have no light.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024040.mp3
+SUBTITLE_BM: Menjauhi Diri Dari Allah Akan Menghadapi Kegelapan Sepenuhnya
+SUBTITLE_EN: Exile From God: Total Darkness
 
 # Ayah 41
-AR: TODO_AR_024041
-BM: TODO_BM_024041
-EN: TODO_EN_024041
-AUDIO: ./assets/audio/024/024041.mp3
+AR: أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ وَاللَّهُ عَلِيمٌ بِمَا يَفْعَلُونَ
+BM: Tidakkah kamu sedar yang semuanya disekelian cekrawala dan dibumi mengagung agungkan Allah, begitu juga dengan burung burung apabila ianya terbang didalam barisan? Masing masing tahu penyembahannya dan cara pemujiannya. Sesungguhnya, Allah amat sedar sepenuhnya setiap apa saja yang mereka lakukan.
+EN: Do you not realize that everyone in the heavens and the earth glorifies GOD, even the birds as they fly in a column? Each knows its prayer and its glorification. GOD is fully aware of everything they do.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024041.mp3
 
 # Ayah 42
-AR: TODO_AR_024042
-BM: TODO_BM_024042
-EN: TODO_EN_024042
-AUDIO: ./assets/audio/024/024042.mp3
+AR: وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَى اللَّهِ الْمَصِيرُ
+BM: Kepunyaan Allah kedaulatan bagi sekelian cekrawala dan bumi, dan kepada Allah sajalah destini yang terakhir.
+EN: To GOD belongs the sovereignty of the heavens and the earth, and to GOD is the final destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024042.mp3
 
 # Ayah 43
-AR: TODO_AR_024043
-BM: TODO_BM_024043
-EN: TODO_EN_024043
-AUDIO: ./assets/audio/024/024043.mp3
+AR: أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ وَيُنَزِّلُ مِنَ السَّمَاءِ مِنْ جِبَالٍ فِيهَا مِنْ بَرَدٍ فَيُصِيبُ بِهِ مَنْ يَشَاءُ وَيَصْرِفُهُ عَنْ مَنْ يَشَاءُ يَكَادُ سَنَا بَرْقِهِ يَذْهَبُ بِالْأَبْصَارِ
+BM: Tidakkah kamu sedar bahwa Allah yang menjalankan awan awan, kemudian dikumpulkan kesemuanya, bersama dan dilonggokkan semuanya itu dengan yang lain, maka kamu dapat menyaksikan yang hujan keluar daripadanya? Dia turunkan dari langit timbunan salju untuk menutupi siapa saja yang dikehendakiNya, sementara memalingkannya kepada sesiapa saja yang dikehendakiNya. Terangnya salju itu hampir hampir membutakan mata.
+EN: Do you not realize that GOD drives the clouds, then gathers them together, then piles them on each other, then you see the rain coming out of them? He sends down from the sky loads of snow to cover whomever He wills, while diverting it from whomever He wills. The brightness of the snow almost blinds the eyes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024043.mp3
 
 # Ayah 44
-AR: TODO_AR_024044
-BM: TODO_BM_024044
-EN: TODO_EN_024044
-AUDIO: ./assets/audio/024/024044.mp3
+AR: يُقَلِّبُ اللَّهُ الَّيْلَ وَالنَّهَارَ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ
+BM: Allah yang menguasai malam dan siang. Ini sepatutnya menjadi pelajaran bagi orang orang yang mempunyai pemandangan.
+EN: GOD controls the night and day. This should be a lesson for those who possess eyes.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024044.mp3
 
 # Ayah 45
-AR: TODO_AR_024045
-BM: TODO_BM_024045
-EN: TODO_EN_024045
-AUDIO: ./assets/audio/024/024045.mp3
+AR: وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ فَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ بَطْنِهِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ أَرْبَعٍ يَخْلُقُ اللَّهُ مَا يَشَاءُ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+BM: Dan Allah menciptakan setiap tiap makhluk yang hidup dari air. Ada yang berjalan menggunakan perut perut mereka, ada yang berjalan dengan dua kaki, dan ada yang berjalan dengan empat. Allah mencipta apa saja yang dikehendakNya. Sesungguhnya Allah Maha Berkuasa.
+EN: And GOD created every living creature from water. Some of them walk on their bellies, some walk on two legs, and some walk on four. GOD creates whatever He wills. GOD is Omnipotent.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024045.mp3
 
 # Ayah 46
-AR: TODO_AR_024046
-BM: TODO_BM_024046
-EN: TODO_EN_024046
-AUDIO: ./assets/audio/024/024046.mp3
+AR: لَقَدْ أَنْزَلْنَا آيَاتٍ مُبَيِّنَاتٍ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ
+BM: Kami telah turunkan kepada kamu revelasi revelasi yang jelas, kemudian Allah membimbing sesiapa saja yang berkehendakan untuk menuju kejalan yang lurus.
+EN: We have sent down to you clarifying revelations, then GOD guides whoever wills in a straight path.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024046.mp3
 
 # Ayah 47
-AR: TODO_AR_024047
-BM: TODO_BM_024047
-EN: TODO_EN_024047
-AUDIO: ./assets/audio/024/024047.mp3
+AR: وَيَقُولُونَ آمَنَّا بِاللَّهِ وَبِالرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِنْهُمْ مِنْ بَعْدِ ذَٰلِكَ وَمَا أُولَٰئِكَ بِالْمُؤْمِنِينَ
+BM: Mereka berkata,  "Kami percaya kepada Allah dan kepada rasul, dan kami ta'at," tetapi selepas itu ada yang mengundur kebelakang. Mereka ini bukanlah orang orang yang percaya.
+EN: They say, "We believe in GOD and in the messenger, and we obey," but then some of them slide back afterwards. These are not believers.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024047.mp3
+SUBTITLE_BM: Allah Memberi Arahan Melalui RasulNya
+SUBTITLE_EN: God Sends Instructions Through His Messenger
 
 # Ayah 48
-AR: TODO_AR_024048
-BM: TODO_BM_024048
-EN: TODO_EN_024048
-AUDIO: ./assets/audio/024/024048.mp3
+AR: وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِنْهُمْ مُعْرِضُونَ
+BM: Apabila mereka itu diundang kepada Allah dan rasulNya untuk menghakimkan diantara mereka, ada dari mereka yang tidak suka.
+EN: When they are invited to GOD and His messenger to judge among them, some of them get upset.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024048.mp3
 
 # Ayah 49
-AR: TODO_AR_024049
-BM: TODO_BM_024049
-EN: TODO_EN_024049
-AUDIO: ./assets/audio/024/024049.mp3
+AR: وَإِنْ يَكُنْ لَهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ
+BM: Walau bagaimanapun,  jika keputusan itu menyebelahi mereka, mereka bersedia untuk menerimanya!
+EN: However, if the judgment is in their favor, they readily accept it!
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024049.mp3
 
 # Ayah 50
-AR: TODO_AR_024050
-BM: TODO_BM_024050
-EN: TODO_EN_024050
-AUDIO: ./assets/audio/024/024050.mp3
+AR: أَفِي قُلُوبِهِمْ مَرَضٌ أَمِ ارْتَابُوا أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ بَلْ أُولَٰئِكَ هُمُ الظَّالِمُونَ
+BM: Adakah dihati hati mereka itu berpenyakit? Adakah mereka dalam keraguan? Adakah mereka takut yang Allah dan rasulNya akan melayani mereka dengan ketidak adilan? Sebenarnya, mereka itulah yang tidak adil.
+EN: Is there a disease in their hearts? Are they doubtful? Are they afraid that GOD and His messenger may treat them unfairly? In fact, it is they who are unjust.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024050.mp3
 
 # Ayah 51
-AR: TODO_AR_024051
-BM: TODO_BM_024051
-EN: TODO_EN_024051
-AUDIO: ./assets/audio/024/024051.mp3
+AR: إِنَّمَا كَانَ قَوْلَ الْمُؤْمِنِينَ إِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ أَنْ يَقُولُوا سَمِعْنَا وَأَطَعْنَا وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ
+BM: Tiada lain ucapan orang orang yang percaya itu, apabila diundang kepada Allah dan rasulNya untuk mengadili dalam masaalah mereka, adalah dengan berkata, "Kami dengar dan kami ta'at." Mereka inilah orang orang yang berjaya.
+EN: The only utterance of the believers, whenever invited to GOD and His messenger to judge in their affairs, is to say, "We hear and we obey." These are the winners.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024051.mp3
+SUBTITLE_BM: Orang Orang Yang Percaya Tidak Teragak agak Untuk Menta'ati Allah Dan RasulNya
+SUBTITLE_EN: Believers Unhesitatingly Obey God and His Messenger
 
 # Ayah 52
-AR: TODO_AR_024052
-BM: TODO_BM_024052
-EN: TODO_EN_024052
-AUDIO: ./assets/audio/024/024052.mp3
+AR: وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ وَيَخْشَ اللَّهَ وَيَتَّقْهِ فَأُولَٰئِكَ هُمُ الْفَائِزُونَ
+BM: Orang orang yang ta'at kepada Allah dan rasulNya, dan memuliakan Allah dan bertakwah kepadaNya, maka orang orang inilah yang mendapat kemenangan.
+EN: Those who obey GOD and His messenger, and reverence GOD and observe Him, these are the triumphant ones.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024052.mp3
 
 # Ayah 53
-AR: TODO_AR_024053
-BM: TODO_BM_024053
-EN: TODO_EN_024053
-AUDIO: ./assets/audio/024/024053.mp3
+AR: وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ قُلْ لَا تُقْسِمُوا طَاعَةٌ مَعْرُوفَةٌ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ
+BM: Mereka bersumpah kepada Allah, dengan seriusnya, jika kau memerintahkan mereka supaya bersiap sedia, mereka akan bersiap sedia. Katakanlah, "Janganlah bersumpah. Keta'atan adalah satu kewajiban. Sesungguhnya Allah Maha Perihatin segala apa yang kamu lakukan."
+EN: They swear by GOD, solemnly, that if you commanded them to mobilize, they would mobilize. Say, "Do not swear. Obedience is an obligation. GOD is fully Cognizant of everything you do."
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024053.mp3
 
 # Ayah 54
-AR: TODO_AR_024054
-BM: TODO_BM_024054
-EN: TODO_EN_024054
-AUDIO: ./assets/audio/024/024054.mp3
+AR: قُلْ أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُمْ مَا حُمِّلْتُمْ وَإِنْ تُطِيعُوهُ تَهْتَدُوا وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ
+BM: Katakanlah, "Ta'atilah Allah dan ta'atilah rasul." Jika mereka menolak, maka dialah yang bertanggungjawab terhadap kewajiban kewajibannya, dan kamu bertanggungjawab diatas kewajiban kewajiban kamu. Jika kamu menta'atinya, kamu akan mendapat bimbingan. Kewajiban yang utama bagi rasul adalah untuk menyampaikan (mesej).
+EN: Say, "Obey GOD, and obey the messenger." If they refuse, then he is responsible for his obligations, and you are responsible for your obligations. If you obey him, you will be guided. The sole duty of the messenger is to deliver (the message).
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024054.mp3
 
 # Ayah 55
-AR: TODO_AR_024055
-BM: TODO_BM_024055
-EN: TODO_EN_024055
-AUDIO: ./assets/audio/024/024055.mp3
+AR: وَعَدَ اللَّهُ الَّذِينَ آمَنُوا مِنْكُمْ وَعَمِلُوا الصَّالِحَاتِ لَيَسْتَخْلِفَنَّهُمْ فِي الْأَرْضِ كَمَا اسْتَخْلَفَ الَّذِينَ مِنْ قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ الَّذِي ارْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُمْ مِنْ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا وَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ
+BM: Allah menjanjikan kepada orang orang percaya diantara kamu yang menjalani kehidupan yang benar, Dia akan memberikan kedaulatan kepada mereka itu dibumi, sebagaimana yang telah diberikan kepada orang orang yang sebelum mereka, dan akan memantapkan agama yang telah dipilihkan olehNya untuk mereka, dan akan menggantikan dengan keamanan dan keselamatan keatas mereka sesudah ketakutan. Semuanya ini kerana mereka itu menyembah Aku sahaja; mereka tidak akan mengadakan sebarang pujaan pujaan disampingKu. Sesiapa yang ingkar sesudah ini adalah orang orang yang benar benar zalim.
+EN: GOD promises those among you who believe and lead a righteous life, that He will make them sovereigns on earth, as He did for those before them, and will establish for them the religion He has chosen for them, and will substitute peace and security for them in place of fear. All this because they worship Me alone; they never set up any idols beside Me. Those who disbelieve after this are the truly wicked.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024055.mp3
+SUBTITLE_BM: Allah Janjikan Raja Raja Dan Permaisuri Permaisuri Dibumi
+SUBTITLE_EN: God's Promise Kings and Queens on Earth
 
 # Ayah 56
-AR: TODO_AR_024056
-BM: TODO_BM_024056
-EN: TODO_EN_024056
-AUDIO: ./assets/audio/024/024056.mp3
+AR: وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ
+BM: Kamu mestilah Mengerjakan Sembahyang (Salat) dan memberikan derma yang wajib (Zakat), dan menta'ati rasul, supaya kamu mendapat belas kasih.
+EN: You shall observe the Contact Prayers (Salat) and give the obligatory charity (Zakat), and obey the messenger, that you may attain mercy.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024056.mp3
+SUBTITLE_BM: Formula Untuk Kejayaan
+SUBTITLE_EN: Formula for Success
 
 # Ayah 57
-AR: TODO_AR_024057
-BM: TODO_BM_024057
-EN: TODO_EN_024057
-AUDIO: ./assets/audio/024/024057.mp3
+AR: لَا تَحْسَبَنَّ الَّذِينَ كَفَرُوا مُعْجِزِينَ فِي الْأَرْضِ وَمَأْوَاهُمُ النَّارُ وَلَبِئْسَ الْمَصِيرُ
+BM: Janganlah berfikir bahwa orang orang yang ingkar itu akan dapat terlepas darinya. Tempat tinggal mereka yang terakhir adalah Neraka; betapa azabnya destini.
+EN: Do not think that those who disbelieve will ever get away with it. Their final abode is Hell; what a miserable destiny.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024057.mp3
 
 # Ayah 58
-AR: TODO_AR_024058
-BM: TODO_BM_024058
-EN: TODO_EN_024058
-AUDIO: ./assets/audio/024/024058.mp3
+AR: يَاأَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلَاثَ مَرَّاتٍ مِنْ قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلَاةِ الْعِشَاءِ ثَلَاثُ عَوْرَاتٍ لَكُمْ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ طَوَّافُونَ عَلَيْكُمْ بَعْضُكُمْ عَلَىٰ بَعْضٍ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+BM: Wahai kamu yang percaya, keizinan mestilah diminta oleh pembantu pembantu dan anak anak kamu yang belum lagi baligh (sebelum memasuki bilik bilik kamu). Ini mestilah dilakukan pada tiga waktu- sebelum Sembahyang Fajar, pada waktu tengah hari apabila kamu menukar pakaian untuk berehat, dan selepas Sembahyang Isyak. Ini adalah tiga masa peribadi bagi kamu. Pada masa yang lain, tidaklah salah bagi kamu ataupun mereka untuk bergaul sesesama sendiri. Allah telah menerangkan revelasi revelasi untuk kamu. Sesungguhnya Allah Maha Mengetahui lagi Maha Bijaksana.
+EN: O you who believe, permission must be requested by your servants and the children who have not attained puberty (before entering your rooms). This is to be done in three instances--before the Dawn Prayer, at noon when you change your clothes to rest, and after the Night Prayer. These are three private times for you. At other times, it is not wrong for you or them to mingle with one another. GOD thus clarifies the revelations for you. GOD is Omniscient, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024058.mp3
+SUBTITLE_BM: Etiket Dua Waktu Sembahyang Dinamakan
+SUBTITLE_EN: Etiquette Two Prayers Mentioned by Name
 
 # Ayah 59
-AR: TODO_AR_024059
-BM: TODO_BM_024059
-EN: TODO_EN_024059
-AUDIO: ./assets/audio/024/024059.mp3
+AR: وَإِذَا بَلَغَ الْأَطْفَالُ مِنْكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا كَمَا اسْتَأْذَنَ الَّذِينَ مِنْ قَبْلِهِمْ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ
+BM: Apabila saja anak anak sudah baligh, mereka mestilah meminta keizinan (sebelum masuk) seperti orang orang dewasa sebelum mereka yang telah meminta keizinan (sebelum masuk). Lantas Allah menerangkan revelasi revelasiNya kepada kamu. Sesungguhnya, Allah Maha Mengetahui lagi Maha Bijaksana.
+EN: Once the children reach puberty, they must ask permission (before entering) like those who became adults before them have asked permission (before entering). GOD thus clarifies His revelations for you. GOD is Omniscient, Most Wise.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024059.mp3
 
 # Ayah 60
-AR: TODO_AR_024060
-BM: TODO_BM_024060
-EN: TODO_EN_024060
-AUDIO: ./assets/audio/024/024060.mp3
+AR: وَالْقَوَاعِدُ مِنَ النِّسَاءِ الّٰتِیۡۤ لَا يَرْجُونَ نِكَاحًا فَلَيْسَ عَلَيْهِنَّ جُنَاحٌ أَنْ يَضَعْنَ ثِيَابَهُنَّ غَيْرَ مُتَبَرِّجَاتٍ بِزِينَةٍ وَأَنْ يَسْتَعْفِفْنَ خَيْرٌ لَهُنَّ وَاللَّهُ سَمِيعٌ عَلِيمٌ
+BM: Wanita wanita tua yang tidak ada keinginan untuk berkahwin tidaklah komit kesalahan dengan melonggarkan cara adab pakaian mereka, asalkan mereka tidak menunjukkan tubuh tubuh mereka dengan berketerlaluan. Untuk mengekalkan dengan berpakaian sederhana adalah baik bagi mereka. Sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui.
+EN: The elderly women who do not expect to get married commit nothing wrong by relaxing their dress code, provided they do not reveal too much of their bodies. To maintain modesty is better for them. GOD is Hearer, Knower.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024060.mp3
+SUBTITLE_BM: Kamu Mestilah Berpakaian Sebaik Baiknya
+SUBTITLE_EN: You Shall Dress Modestly
 
 # Ayah 61
-AR: TODO_AR_024061
-BM: TODO_BM_024061
-EN: TODO_EN_024061
-AUDIO: ./assets/audio/024/024061.mp3
+AR: لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ وَلَا عَلَىٰ أَنْفُسِكُمْ أَنْ تَأْكُلُوا مِنْ بُيُوتِكُمْ أَوْ بُيُوتِ آبَائِكُمْ أَوْ بُيُوتِ أُمَّهَاتِكُمْ أَوْ بُيُوتِ إِخْوَانِكُمْ أَوْ بُيُوتِ أَخَوَاتِكُمْ أَوْ بُيُوتِ أَعْمَامِكُمْ أَوْ بُيُوتِ عَمَّاتِكُمْ أَوْ بُيُوتِ أَخْوَالِكُمْ أَوْ بُيُوتِ خَالَاتِكُمْ أَوْ مَا مَلَكْتُمْ مَفَاتِحَهُ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَأْكُلُوا جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُمْ بُيُوتًا فَسَلِّمُوا عَلَىٰ أَنْفُسِكُمْ تَحِيَّةً مِنْ عِنْدِ اللَّهِ مُبَارَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ
+BM: Sibuta tidak boleh dipersalahkan, yang pincang tidak juga dipersalahkan, tidak juga yang cacat boleh disalahkan, begitu juga kamu tidaklah bersalah kerana memakan dirumah rumah kamu, ataupun rumah rumah bapa bapa kamu ataupun dirumah rumah ibu ibu kamu, ataupun dirumah rumah adik beradik lelaki kamu ataupun dirumah rumah adik beradik perempuan kamu, ataupun dirumah rumah bapa bapa saudara lelaki bapa kamu, ataupun dirumah rumah ibu ibu saudara perempuan bapa kamu, ataupun dirumah rumah bapa bapa saudara lelaki ibu kamu, ataupun dirumah rumah ibu ibu saudara perempuan ibu kamu ataupun rumah rumah yang dimiliki oleh kamu dan kamu mempunyai kunci kuncinya, ataupun dirumah rumah kawan kawanmu. Kamu tidak komit kesalahan dengan memakan bersama ataupun bersendirian. Apabila kamu memasuki sebarang rumah, kamu mestilah memberi salam diantara kamu dengan ucapan yang Allah rahmati dan baik. Lantas, Allah menerangkan revelasi revelasi kepada kamu, supaya  kamu dapat memahami.
+EN: The blind is not to be blamed, the crippled is not to be blamed, nor the handicapped is to be blamed, just as you are not to be blamed for eating at your homes, or the homes of your fathers, or the homes of your mothers, or the homes of your brothers, or the homes of your sisters, or the homes of your fathers' brothers, or the homes of your fathers' sisters, or the homes of your mothers' brothers, or the homes of your mothers' sisters, or the homes that belong to you and you possess their keys, or the homes of your friends. You commit nothing wrong by eating together or as individuals. When you enter any home, you shall greet each other a greeting from GOD that is blessed and good. GOD thus explains the revelations for you, that you may understand.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024061.mp3
+SUBTITLE_BM: Pastikan Makanan Kamu Itu Halal
+SUBTITLE_EN: Be Sure Your Meal is Lawful
 
 # Ayah 62
-AR: TODO_AR_024062
-BM: TODO_BM_024062
-EN: TODO_EN_024062
-AUDIO: ./assets/audio/024/024062.mp3
+AR: إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ وَإِذَا كَانُوا مَعَهُ عَلَىٰ أَمْرٍ جَامِعٍ لَمْ يَذْهَبُوا حَتَّىٰ يَسْتَأْذِنُوهُ إِنَّ الَّذِينَ يَسْتَأْذِنُونَكَ أُولَٰئِكَ الَّذِينَ يُؤْمِنُونَ بِاللَّهِ وَرَسُولِهِ فَإِذَا اسْتَأْذَنُوكَ لِبَعْضِ شَأْنِهِمْ فَأْذَنْ لِمَنْ شِئْتَ مِنْهُمْ وَاسْتَغْفِرْ لَهُمُ اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ
+BM: Orang orang percaya yang sebenarnya adalah mereka yang percayakan Allah dan rasulNya, dan apabila mereka bersama samanya dalam mesyuarat komuniti, mereka tidak meninggalkannya dengan tidak meminta keizinan. Orang orang yang meminta kebenaran adalah mereka yang percayakan Allah dan rasulNya. Jika mereka memintakan keizinan, oleh kerana menguruskan urusan mereka, kau bolehlah memberikan keizinan kepada sesiapa saja yang kamu kehendaki, dan pohonkanlah pengampunan bagi mereka dari Allah. Sesungguhnya, Allah Maha Pengampun lagi Maha Penyayang.
+EN: The true believers are those who believe in GOD and His messenger,* and when they are with him in a community meeting, they do not leave him without permission. Those who ask permission are the ones who do believe in GOD and His messenger. If they ask your permission, in order to tend to some of their affairs, you may grant permission to whomever you wish, and ask GOD to forgive them. GOD is Forgiver, Most Merciful.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024062.mp3
 
 # Ayah 63
-AR: TODO_AR_024063
-BM: TODO_BM_024063
-EN: TODO_EN_024063
-AUDIO: ./assets/audio/024/024063.mp3
+AR: لَا تَجْعَلُوا دُعَاءَ الرَّسُولِ بَيْنَكُمْ كَدُعَاءِ بَعْضِكُمْ بَعْضًا قَدْ يَعْلَمُ اللَّهُ الَّذِينَ يَتَسَلَّلُونَ مِنْكُمْ لِوَاذًا فَلْيَحْذَرِ الَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِ أَنْ تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ
+BM: Janganlah memperlakukan permintaan rasul sepertimana kamu memperlakukan permintaan permintaan sesama kamu. Allah amat sedar akan orang orang diantara kamu yang menyelinap keluar dengan menggunakan alasan alasan yang tidak benar. Hendaklah mereka berjaga jaga - orang orang yang tidak menta'ati perintah perintahnya - kerana mala petaka akan menimpa mereka, ataupun hukuman yang dahsyat.
+EN: Do not treat the messenger's requests as you treat each others' requests. GOD is fully aware of those among you who sneak away using flimsy excuses. Let them beware--those who disobey his orders--for a disaster may strike them, or a severe retribution.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024063.mp3
 
 # Ayah 64
-AR: TODO_AR_024064
-BM: TODO_BM_024064
-EN: TODO_EN_024064
-AUDIO: ./assets/audio/024/024064.mp3
+AR: أَلَا إِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ قَدْ يَعْلَمُ مَا أَنْتُمْ عَلَيْهِ وَيَوْمَ يُرْجَعُونَ إِلَيْهِ فَيُنَبِّئُهُمْ بِمَا عَمِلُوا وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ
+BM: Tentu sekali, kepunyaan Allah segala yang berada disekelian cekrawala dan bumi. Dia amat ketahui setiap keadaan yang kamu alami. Dihari yang kamu akan dipulangkan kepadaNya, Dia akan memberitahukan segala apa yang telah mereka lakukan. Sesungguhnya, Allah amat sedar  akan segala sesuatu.
+EN: Absolutely, to GOD belongs everything in the heavens and the earth. He fully knows every condition you may be in. The day you are returned to Him, He will inform them of everything they had done. GOD is fully aware of all things.
+AUDIO: https://everyayah.com/data/Alafasy_64kbps/024064.mp3
+
+
+
+
+
