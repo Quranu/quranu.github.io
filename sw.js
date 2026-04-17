@@ -16,6 +16,9 @@ const CORE_ASSETS = [
   "/src/suraNames.js",
   "/src/surahDisplayMeta.js",
   "/data/processed/surah-catalog.json",
+  "/data/study/introduction.json",
+  "/data/study/proclamation.json",
+  "/data/study/glossary.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -58,6 +61,7 @@ self.addEventListener("fetch", (event) => {
     url.pathname.startsWith("/assets/icons/") ||
     url.pathname === "/manifest.webmanifest" ||
     url.pathname.startsWith("/data/processed/") ||
+    url.pathname.startsWith("/data/study/") ||
     url.pathname.startsWith("/assets/fonts/")
   ) {
     event.respondWith(staleWhileRevalidate(event.request));

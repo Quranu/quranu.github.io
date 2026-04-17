@@ -17,11 +17,15 @@ const appState = {
   searchMessageIsWarning: false,
   highlightedAyahNumber: null,
   availableSurahCache: new Map(),
+  studyDocumentCache: new Map(),
   audioErrors: new Set(),
   searchQuery: "",
   isKeywordSearchLoading: false,
   loadingSurahNumber: null,
+  loadingStudyKey: null,
   surahRequestId: 0,
+  activeDocumentKey: null,
+  activeDocument: null,
 };
 
 const elements = {
@@ -39,6 +43,13 @@ const elements = {
   languageSelect: document.querySelector("#language-select"),
   listKicker: document.querySelector("#list-kicker"),
   listHeading: document.querySelector("#surah-list-heading"),
+  studyMenuKicker: document.querySelector("#study-menu-kicker"),
+  studyMenuHeading: document.querySelector("#study-menu-heading"),
+  studyMenuCopy: document.querySelector("#study-menu-copy"),
+  studyQuickLinks: document.querySelector("#study-quick-links"),
+  studyAppendices: document.querySelector("#study-appendices"),
+  studyAppendicesSummary: document.querySelector("#study-appendices-summary"),
+  studyAppendicesGrid: document.querySelector("#study-appendices-grid"),
   searchLabel: document.querySelector("#search-label"),
   searchForm: document.querySelector("#search-form"),
   surahSearch: document.querySelector("#surah-search"),
@@ -57,9 +68,11 @@ const elements = {
 
 const audioController = new AudioController();
 const catalogUrl = new URL("../data/processed/surah-catalog.json", import.meta.url);
+const studyDocBaseUrl = new URL("../data/study/", import.meta.url);
 const mobileMediaQuery = window.matchMedia("(max-width: 859px)");
 const LAST_READ_STORAGE_KEY = "quran-last-read";
 let ignoreNextHashChange = false;
+const STUDY_APPENDIX_COUNT = 38;
 
 init()
   .catch((error) => {
@@ -92,7 +105,13 @@ async function init() {
   renderSurahList();
   renderSearchResults();
 
-  if (hashTarget) {
+  if (hashTarget?.type === "study") {
+    await openStudyDocument(hashTarget.key);
+    renderLastReadChip();
+    return;
+  }
+
+  if (hashTarget?.type === "surah") {
     await openSurahAndMaybeAyah(hashTarget.surahNumber, hashTarget.ayahNumber);
     renderLastReadChip();
     return;
@@ -137,6 +156,7 @@ function bindEvents() {
     });
     applyUiText();
     renderSurahList();
+    renderStudyMenu();
     renderSearchResults();
     renderReader();
   });
@@ -177,6 +197,9 @@ function bindEvents() {
     showReaderLoadingState();
     await loadSurah(number);
   });
+
+  elements.studyQuickLinks.addEventListener("click", handleStudyNavigationClick);
+  elements.studyAppendicesGrid.addEventListener("click", handleStudyNavigationClick);
 
   elements.ayahList.addEventListener("click", async (event) => {
     const copyLinkButton = event.target.closest("[data-copy-link]");
@@ -271,6 +294,15 @@ function bindEvents() {
   });
 }
 
+async function handleStudyNavigationClick(event) {
+  const button = event.target.closest("[data-study-key]");
+  if (!button) {
+    return;
+  }
+
+  await openStudyDocument(button.dataset.studyKey);
+}
+
 function handleSearchInputChange(event) {
   appState.searchQuery = event.target.value;
   syncSearchControls();
@@ -312,16 +344,69 @@ function applyUiText() {
   elements.languageLabel.textContent = translate(appState.language, "languageLabel");
   elements.listKicker.textContent = translate(appState.language, "listKicker");
   elements.listHeading.textContent = translate(appState.language, "listHeading");
+  elements.studyMenuKicker.textContent = translate(appState.language, "studyMenuKicker");
+  elements.studyMenuHeading.textContent = translate(appState.language, "studyMenuHeading");
+  elements.studyMenuCopy.textContent = translate(appState.language, "studyMenuCopy");
+  elements.studyAppendicesSummary.textContent = translate(appState.language, "studyAppendicesSummary");
   elements.searchLabel.textContent = translate(appState.language, "searchLabel");
   elements.surahSearch.placeholder = translate(appState.language, "searchPlaceholder");
   elements.searchHint.textContent = translate(appState.language, "searchHint");
   syncSearchControls();
+  renderStudyMenu();
   renderLastReadChip();
   elements.launchText.textContent = getLaunchLoadingText();
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
   elements.scrollTopButton.setAttribute("aria-label", translate(appState.language, "scrollTop"));
   elements.scrollTopButton.title = translate(appState.language, "scrollTop");
+}
+
+function renderStudyMenu() {
+  const quickLinks = getStudyQuickLinks();
+  const appendixLinks = getStudyAppendixLinks();
+
+  elements.studyQuickLinks.innerHTML = quickLinks
+    .map((item) => renderStudyLinkButton(item, "study-link study-link-quick"))
+    .join("");
+
+  elements.studyAppendicesGrid.innerHTML = appendixLinks
+    .map((item) => renderStudyLinkButton(item, "study-link study-link-appendix"))
+    .join("");
+
+  const isAppendixActive = appState.activeDocumentKey?.startsWith("appendix-");
+  elements.studyAppendices.open = Boolean(isAppendixActive);
+}
+
+function renderStudyLinkButton(item, className) {
+  const isActive = appState.activeDocumentKey === item.key;
+  return `
+    <button
+      class="${className} ${isActive ? "is-active" : ""}"
+      type="button"
+      data-study-key="${item.key}"
+      aria-pressed="${String(isActive)}"
+    >
+      <span class="study-link-label">${item.label}</span>
+    </button>
+  `;
+}
+
+function getStudyQuickLinks() {
+  return [
+    { key: "introduction", label: translate(appState.language, "studyIntroduction") },
+    { key: "proclamation", label: translate(appState.language, "studyProclamation") },
+    { key: "glossary", label: translate(appState.language, "studyGlossary") },
+  ];
+}
+
+function getStudyAppendixLinks() {
+  return Array.from({ length: STUDY_APPENDIX_COUNT }, (_, index) => {
+    const number = index + 1;
+    return {
+      key: `appendix-${number}`,
+      label: translate(appState.language, "studyAppendixTitle", { number }),
+    };
+  });
 }
 
 function syncResponsiveLayout() {
@@ -356,7 +441,7 @@ function renderSurahList() {
 
   elements.surahList.innerHTML = appState.filteredCatalog
     .map((surah) => {
-      const isActive = surah.number === appState.activeSurahNumber;
+      const isActive = appState.activeDocumentKey == null && surah.number === appState.activeSurahNumber;
       const isLoading = surah.number === appState.loadingSurahNumber;
       const displayNames = getSurahCardDisplayNames(surah);
 
@@ -431,6 +516,9 @@ async function loadSurah(number) {
   const requestId = appState.surahRequestId + 1;
   appState.surahRequestId = requestId;
 
+  appState.activeDocumentKey = null;
+  appState.activeDocument = null;
+  appState.loadingStudyKey = null;
   appState.activeSurahNumber = number;
   appState.activeSurah = null;
   appState.loadingSurahNumber = number;
@@ -441,6 +529,7 @@ async function loadSurah(number) {
   });
 
   renderSurahList();
+  renderStudyMenu();
 
   if (!selected.available) {
     appState.loadingSurahNumber = null;
@@ -474,6 +563,7 @@ async function loadSurah(number) {
     appState.loadingSurahNumber = null;
     renderReader();
     renderSurahList();
+    renderStudyMenu();
   } catch (error) {
     if (appState.surahRequestId !== requestId) {
       return;
@@ -484,6 +574,7 @@ async function loadSurah(number) {
     renderStatus(translate(appState.language, "fetchError"), true);
     renderReader();
     renderSurahList();
+    renderStudyMenu();
   }
 }
 
@@ -526,6 +617,61 @@ function showReaderLoadingState() {
   scrollToReader();
 }
 
+async function openStudyDocument(key) {
+  const documentItem = getStudyDocument(key);
+  if (!documentItem) {
+    return;
+  }
+
+  appState.activeDocumentKey = key;
+  appState.activeDocument = null;
+  appState.activeSurahNumber = null;
+  appState.activeSurah = null;
+  appState.loadingSurahNumber = null;
+  appState.loadingStudyKey = key;
+  appState.highlightedAyahNumber = null;
+  audioController.stop({
+    playIcon: renderAudioIcon("play"),
+    pauseIcon: renderAudioIcon("stop"),
+    loadingIcon: renderAudioIcon("loading"),
+  });
+
+  renderStatus(translate(appState.language, "loadingStudy"));
+  renderReader();
+  renderSurahList();
+  renderStudyMenu();
+  updateHashReference({ type: "study", key });
+
+  if (appState.isMobile) {
+    appState.mobileView = "reader";
+    syncResponsiveLayout();
+    scrollToReader();
+  }
+
+  try {
+    const documentData = await loadStudyDocument(key);
+    if (appState.activeDocumentKey !== key) {
+      return;
+    }
+
+    appState.activeDocument = documentData;
+    appState.loadingStudyKey = null;
+    renderStatus("");
+    renderReader();
+    renderStudyMenu();
+  } catch (error) {
+    if (appState.activeDocumentKey !== key) {
+      return;
+    }
+
+    console.error(error);
+    appState.loadingStudyKey = null;
+    renderStatus(translate(appState.language, "fetchError"), true);
+    renderReader();
+    renderStudyMenu();
+  }
+}
+
 function scrollToReader() {
   requestAnimationFrame(() => {
     const top = window.scrollY + elements.readerPanel.getBoundingClientRect().top - getScrollOffset();
@@ -554,10 +700,27 @@ function waitForNextFrame() {
 function renderStatus(message, isWarning = false) {
   elements.readerStatus.textContent = message;
   elements.readerStatus.classList.toggle("is-warning", Boolean(message) && isWarning);
-  elements.readerStatus.classList.toggle("is-loading", message === translate(appState.language, "loadingSurah"));
+  elements.readerStatus.classList.toggle(
+    "is-loading",
+    message === translate(appState.language, "loadingSurah")
+      || message === translate(appState.language, "loadingStudy"),
+  );
 }
 
 function renderReader() {
+  if (appState.activeDocumentKey) {
+    const documentItem = getStudyDocument(appState.activeDocumentKey);
+    if (!documentItem) {
+      appState.activeDocumentKey = null;
+    } else {
+      const documentData = appState.activeDocument;
+      const localizedTitle = documentData ? getLocalizedStudyValue(documentData.title) : documentItem.label;
+      elements.readerHeading.textContent = localizedTitle;
+      elements.ayahList.innerHTML = renderStudyDocument(documentItem, documentData);
+      return;
+    }
+  }
+
   const surah = appState.activeSurah;
   const selected = appState.catalog.find((item) => item.number === appState.activeSurahNumber);
 
@@ -859,10 +1022,20 @@ async function handleHashChange() {
     return;
   }
 
+  if (hashTarget.type === "study") {
+    await openStudyDocument(hashTarget.key);
+    return;
+  }
+
   await openSurahAndMaybeAyah(hashTarget.surahNumber, hashTarget.ayahNumber);
 }
 
 function parseHashReference(hashValue) {
+  const studyMatch = hashValue.match(/^#\/study\/([a-z0-9-]+)$/);
+  if (studyMatch) {
+    return { type: "study", key: studyMatch[1] };
+  }
+
   const match = hashValue.match(/^#\/(\d+)(?::(\d+))?$/);
   if (!match) {
     return null;
@@ -879,11 +1052,15 @@ function parseHashReference(hashValue) {
     return null;
   }
 
-  return { surahNumber, ayahNumber };
+  return { type: "surah", surahNumber, ayahNumber };
 }
 
-function updateHashReference(surahNumber, ayahNumber = null) {
-  const nextHash = ayahNumber == null ? `#/${surahNumber}` : `#/${surahNumber}:${ayahNumber}`;
+function updateHashReference(target, ayahNumber = null) {
+  const nextHash = typeof target === "object" && target?.type === "study"
+    ? `#/study/${target.key}`
+    : ayahNumber == null
+      ? `#/${target}`
+      : `#/${target}:${ayahNumber}`;
   if (window.location.hash === nextHash) {
     return;
   }
@@ -895,6 +1072,104 @@ function updateHashReference(surahNumber, ayahNumber = null) {
 function buildAyahShareUrl(surahNumber, ayahNumber) {
   const baseUrl = `${window.location.origin}${window.location.pathname}`;
   return `${baseUrl}#/${formatAyahReference(surahNumber, ayahNumber)}`;
+}
+
+function getStudyDocument(key) {
+  return [...getStudyQuickLinks(), ...getStudyAppendixLinks()].find((item) => item.key === key) ?? null;
+}
+
+async function loadStudyDocument(key) {
+  if (appState.studyDocumentCache.has(key)) {
+    return appState.studyDocumentCache.get(key);
+  }
+
+  const documentPath = getStudyDocumentPath(key);
+  if (!documentPath) {
+    throw new Error(`Unknown study document key: ${key}`);
+  }
+
+  const response = await fetch(new URL(documentPath, studyDocBaseUrl));
+  if (!response.ok) {
+    throw new Error(`Failed to load study document ${key}: ${response.status}`);
+  }
+
+  const documentData = await response.json();
+  appState.studyDocumentCache.set(key, documentData);
+  return documentData;
+}
+
+function getStudyDocumentPath(key) {
+  if (key === "introduction") {
+    return "introduction.json";
+  }
+
+  if (key === "proclamation") {
+    return "proclamation.json";
+  }
+
+  if (key === "glossary") {
+    return "glossary.json";
+  }
+
+  const appendixMatch = key.match(/^appendix-(\d{1,2})$/);
+  if (!appendixMatch) {
+    return null;
+  }
+
+  return `appendix-${String(Number(appendixMatch[1])).padStart(2, "0")}.json`;
+}
+
+function renderStudyDocument(documentItem, documentData) {
+  const title = documentData ? getLocalizedStudyValue(documentData.title) : documentItem.label;
+  const kicker = documentData
+    ? getLocalizedStudyValue(documentData.kicker)
+    : translate(appState.language, "studyPlaceholderEyebrow");
+  const contentHtml = documentData ? getLocalizedStudyValue(documentData.contentHtml) : "";
+  const summary = documentData
+    ? getLocalizedStudyValue(documentData.summary)
+    : translate(appState.language, "studyPlaceholderCopy");
+  const notes = Array.isArray(documentData?.notes)
+    ? documentData.notes
+      .map((note) => getLocalizedStudyValue(note))
+      .filter(Boolean)
+    : [translate(appState.language, "studyPlaceholderHint")];
+
+  if (contentHtml) {
+    return `
+      <article class="document-card">
+        <p class="document-kicker">${escapeHtml(kicker)}</p>
+        <h3 class="document-title">${escapeHtml(title)}</h3>
+        <div class="document-body">${contentHtml}</div>
+      </article>
+    `;
+  }
+
+  return `
+    <article class="document-card">
+      <p class="document-kicker">${escapeHtml(kicker)}</p>
+      <h3 class="document-title">${escapeHtml(title)}</h3>
+      <p class="document-copy">${escapeHtml(summary)}</p>
+      <div class="document-notes">
+        ${notes.map((note) => `<p class="document-hint">${escapeHtml(note)}</p>`).join("")}
+      </div>
+    </article>
+  `;
+}
+
+function getLocalizedStudyValue(value) {
+  if (!value) {
+    return "";
+  }
+
+  if (typeof value === "string") {
+    return value;
+  }
+
+  if (appState.language === "en") {
+    return value.en ?? value.ms ?? "";
+  }
+
+  return value.ms ?? value.en ?? "";
 }
 
 function parseSearchInput(rawQuery) {

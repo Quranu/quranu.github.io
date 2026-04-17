@@ -1,0 +1,26 @@
+{
+  "key": "appendix-22",
+  "filename": "appendix-22.json",
+  "title": {
+    "ms": "Lampiran 22",
+    "en": "Appendix 22"
+  },
+  "kicker": {
+    "ms": "Disediakan",
+    "en": "Prepared"
+  },
+  "summary": {
+    "ms": "Tempat simpanan untuk Lampiran 22 sudah disediakan dan sedia diisi dengan kandungan sebenar kemudian.",
+    "en": "The placeholder for Appendix 22 is prepared and ready for the real content later."
+  },
+  "notes": [
+    {
+      "ms": "Hash route dan menu untuk lampiran ini sudah stabil.",
+      "en": "The hash route and menu entry for this appendix are already stable."
+    },
+    {
+      "ms": "Apabila kandungan sebenar siap, kita hanya perlu menggantikan fail JSON ini.",
+      "en": "When the real content is ready, we only need to replace this JSON file."
+    }
+  ]
+}

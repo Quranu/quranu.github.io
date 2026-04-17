@@ -1,0 +1,330 @@
+[
+  {
+    "key": "introduction",
+    "filename": "introduction.json",
+    "title": {
+      "ms": "Pendahuluan",
+      "en": "Introduction"
+    }
+  },
+  {
+    "key": "proclamation",
+    "filename": "proclamation.json",
+    "title": {
+      "ms": "Proklamasi",
+      "en": "Proclamation"
+    }
+  },
+  {
+    "key": "glossary",
+    "filename": "glossary.json",
+    "title": {
+      "ms": "Glosari",
+      "en": "Glossary"
+    }
+  },
+  {
+    "key": "appendix-1",
+    "filename": "appendix-01.json",
+    "title": {
+      "ms": "Lampiran 1",
+      "en": "Appendix 1"
+    }
+  },
+  {
+    "key": "appendix-2",
+    "filename": "appendix-02.json",
+    "title": {
+      "ms": "Lampiran 2",
+      "en": "Appendix 2"
+    }
+  },
+  {
+    "key": "appendix-3",
+    "filename": "appendix-03.json",
+    "title": {
+      "ms": "Lampiran 3",
+      "en": "Appendix 3"
+    }
+  },
+  {
+    "key": "appendix-4",
+    "filename": "appendix-04.json",
+    "title": {
+      "ms": "Lampiran 4",
+      "en": "Appendix 4"
+    }
+  },
+  {
+    "key": "appendix-5",
+    "filename": "appendix-05.json",
+    "title": {
+      "ms": "Lampiran 5",
+      "en": "Appendix 5"
+    }
+  },
+  {
+    "key": "appendix-6",
+    "filename": "appendix-06.json",
+    "title": {
+      "ms": "Lampiran 6",
+      "en": "Appendix 6"
+    }
+  },
+  {
+    "key": "appendix-7",
+    "filename": "appendix-07.json",
+    "title": {
+      "ms": "Lampiran 7",
+      "en": "Appendix 7"
+    }
+  },
+  {
+    "key": "appendix-8",
+    "filename": "appendix-08.json",
+    "title": {
+      "ms": "Lampiran 8",
+      "en": "Appendix 8"
+    }
+  },
+  {
+    "key": "appendix-9",
+    "filename": "appendix-09.json",
+    "title": {
+      "ms": "Lampiran 9",
+      "en": "Appendix 9"
+    }
+  },
+  {
+    "key": "appendix-10",
+    "filename": "appendix-10.json",
+    "title": {
+      "ms": "Lampiran 10",
+      "en": "Appendix 10"
+    }
+  },
+  {
+    "key": "appendix-11",
+    "filename": "appendix-11.json",
+    "title": {
+      "ms": "Lampiran 11",
+      "en": "Appendix 11"
+    }
+  },
+  {
+    "key": "appendix-12",
+    "filename": "appendix-12.json",
+    "title": {
+      "ms": "Lampiran 12",
+      "en": "Appendix 12"
+    }
+  },
+  {
+    "key": "appendix-13",
+    "filename": "appendix-13.json",
+    "title": {
+      "ms": "Lampiran 13",
+      "en": "Appendix 13"
+    }
+  },
+  {
+    "key": "appendix-14",
+    "filename": "appendix-14.json",
+    "title": {
+      "ms": "Lampiran 14",
+      "en": "Appendix 14"
+    }
+  },
+  {
+    "key": "appendix-15",
+    "filename": "appendix-15.json",
+    "title": {
+      "ms": "Lampiran 15",
+      "en": "Appendix 15"
+    }
+  },
+  {
+    "key": "appendix-16",
+    "filename": "appendix-16.json",
+    "title": {
+      "ms": "Lampiran 16",
+      "en": "Appendix 16"
+    }
+  },
+  {
+    "key": "appendix-17",
+    "filename": "appendix-17.json",
+    "title": {
+      "ms": "Lampiran 17",
+      "en": "Appendix 17"
+    }
+  },
+  {
+    "key": "appendix-18",
+    "filename": "appendix-18.json",
+    "title": {
+      "ms": "Lampiran 18",
+      "en": "Appendix 18"
+    }
+  },
+  {
+    "key": "appendix-19",
+    "filename": "appendix-19.json",
+    "title": {
+      "ms": "Lampiran 19",
+      "en": "Appendix 19"
+    }
+  },
+  {
+    "key": "appendix-20",
+    "filename": "appendix-20.json",
+    "title": {
+      "ms": "Lampiran 20",
+      "en": "Appendix 20"
+    }
+  },
+  {
+    "key": "appendix-21",
+    "filename": "appendix-21.json",
+    "title": {
+      "ms": "Lampiran 21",
+      "en": "Appendix 21"
+    }
+  },
+  {
+    "key": "appendix-22",
+    "filename": "appendix-22.json",
+    "title": {
+      "ms": "Lampiran 22",
+      "en": "Appendix 22"
+    }
+  },
+  {
+    "key": "appendix-23",
+    "filename": "appendix-23.json",
+    "title": {
+      "ms": "Lampiran 23",
+      "en": "Appendix 23"
+    }
+  },
+  {
+    "key": "appendix-24",
+    "filename": "appendix-24.json",
+    "title": {
+      "ms": "Lampiran 24",
+      "en": "Appendix 24"
+    }
+  },
+  {
+    "key": "appendix-25",
+    "filename": "appendix-25.json",
+    "title": {
+      "ms": "Lampiran 25",
+      "en": "Appendix 25"
+    }
+  },
+  {
+    "key": "appendix-26",
+    "filename": "appendix-26.json",
+    "title": {
+      "ms": "Lampiran 26",
+      "en": "Appendix 26"
+    }
+  },
+  {
+    "key": "appendix-27",
+    "filename": "appendix-27.json",
+    "title": {
+      "ms": "Lampiran 27",
+      "en": "Appendix 27"
+    }
+  },
+  {
+    "key": "appendix-28",
+    "filename": "appendix-28.json",
+    "title": {
+      "ms": "Lampiran 28",
+      "en": "Appendix 28"
+    }
+  },
+  {
+    "key": "appendix-29",
+    "filename": "appendix-29.json",
+    "title": {
+      "ms": "Lampiran 29",
+      "en": "Appendix 29"
+    }
+  },
+  {
+    "key": "appendix-30",
+    "filename": "appendix-30.json",
+    "title": {
+      "ms": "Lampiran 30",
+      "en": "Appendix 30"
+    }
+  },
+  {
+    "key": "appendix-31",
+    "filename": "appendix-31.json",
+    "title": {
+      "ms": "Lampiran 31",
+      "en": "Appendix 31"
+    }
+  },
+  {
+    "key": "appendix-32",
+    "filename": "appendix-32.json",
+    "title": {
+      "ms": "Lampiran 32",
+      "en": "Appendix 32"
+    }
+  },
+  {
+    "key": "appendix-33",
+    "filename": "appendix-33.json",
+    "title": {
+      "ms": "Lampiran 33",
+      "en": "Appendix 33"
+    }
+  },
+  {
+    "key": "appendix-34",
+    "filename": "appendix-34.json",
+    "title": {
+      "ms": "Lampiran 34",
+      "en": "Appendix 34"
+    }
+  },
+  {
+    "key": "appendix-35",
+    "filename": "appendix-35.json",
+    "title": {
+      "ms": "Lampiran 35",
+      "en": "Appendix 35"
+    }
+  },
+  {
+    "key": "appendix-36",
+    "filename": "appendix-36.json",
+    "title": {
+      "ms": "Lampiran 36",
+      "en": "Appendix 36"
+    }
+  },
+  {
+    "key": "appendix-37",
+    "filename": "appendix-37.json",
+    "title": {
+      "ms": "Lampiran 37",
+      "en": "Appendix 37"
+    }
+  },
+  {
+    "key": "appendix-38",
+    "filename": "appendix-38.json",
+    "title": {
+      "ms": "Lampiran 38",
+      "en": "Appendix 38"
+    }
+  }
+]

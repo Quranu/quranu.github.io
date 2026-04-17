@@ -1,0 +1,26 @@
+{
+  "key": "proclamation",
+  "filename": "proclamation.json",
+  "title": {
+    "ms": "Proklamasi",
+    "en": "Proclamation"
+  },
+  "kicker": {
+    "ms": "Disediakan",
+    "en": "Prepared"
+  },
+  "summary": {
+    "ms": "Ruang proklamasi telah disediakan supaya pautan dan struktur halaman sudah siap dari awal.",
+    "en": "The proclamation section is prepared so the link and page structure are ready from the start."
+  },
+  "notes": [
+    {
+      "ms": "Kandungan sebenar boleh dimasukkan kemudian tanpa menukar UX utama.",
+      "en": "The real content can be added later without changing the main UX."
+    },
+    {
+      "ms": "Menu ini sudah boleh dibuka dan dikongsi melalui hash route.",
+      "en": "This section can already be opened and shared through its hash route."
+    }
+  ]
+}

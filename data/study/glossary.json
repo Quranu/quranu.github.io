@@ -1,0 +1,26 @@
+{
+  "key": "glossary",
+  "filename": "glossary.json",
+  "title": {
+    "ms": "Glosari",
+    "en": "Glossary"
+  },
+  "kicker": {
+    "ms": "Disediakan",
+    "en": "Prepared"
+  },
+  "summary": {
+    "ms": "Ruang glosari telah disediakan untuk menerima senarai istilah dan definisi kemudian.",
+    "en": "The glossary space is ready to receive terms and definitions later."
+  },
+  "notes": [
+    {
+      "ms": "Struktur ini memudahkan kita menambah istilah satu demi satu selepas ini.",
+      "en": "This structure makes it easy for us to add terms one by one later."
+    },
+    {
+      "ms": "Pengalaman pengguna sudah konsisten antara senarai sura dan bahan rujukan.",
+      "en": "The user experience is already consistent between the sura list and the study material."
+    }
+  ]
+}
