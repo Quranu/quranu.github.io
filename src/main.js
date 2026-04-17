@@ -174,13 +174,8 @@ function bindEvents() {
       return;
     }
 
+    showReaderLoadingState();
     await loadSurah(number);
-
-    if (appState.isMobile) {
-      appState.mobileView = "reader";
-      syncResponsiveLayout();
-      scrollToReader();
-    }
   });
 
   elements.ayahList.addEventListener("click", async (event) => {
@@ -457,6 +452,7 @@ async function loadSurah(number) {
 
   renderStatus(translate(appState.language, "loadingSurah"));
   renderReader();
+  await waitForNextFrame();
 
   try {
     const surahUrl = new URL(
@@ -499,13 +495,9 @@ async function openSurahAndMaybeAyah(surahNumber, ayahNumber = null) {
     return;
   }
 
+  showReaderLoadingState();
   await loadSurah(surahNumber);
   updateHashReference(surahNumber, ayahNumber);
-
-  if (appState.isMobile) {
-    appState.mobileView = "reader";
-    syncResponsiveLayout();
-  }
 
   if (ayahNumber) {
     const foundAyah = appState.activeSurah?.ayahs.find((ayah) => ayah.number === ayahNumber);
@@ -522,6 +514,16 @@ async function openSurahAndMaybeAyah(surahNumber, ayahNumber = null) {
   if (appState.isMobile) {
     scrollToReader();
   }
+}
+
+function showReaderLoadingState() {
+  if (!appState.isMobile) {
+    return;
+  }
+
+  appState.mobileView = "reader";
+  syncResponsiveLayout();
+  scrollToReader();
 }
 
 function scrollToReader() {
@@ -541,6 +543,12 @@ function syncScrollTopButton() {
   const shouldShow = window.scrollY > 320;
   elements.scrollTopButton.classList.toggle("is-visible", shouldShow);
   elements.scrollTopButton.setAttribute("aria-hidden", String(!shouldShow));
+}
+
+function waitForNextFrame() {
+  return new Promise((resolve) => {
+    requestAnimationFrame(() => resolve());
+  });
 }
 
 function renderStatus(message, isWarning = false) {
