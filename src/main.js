@@ -25,6 +25,8 @@ const appState = {
 };
 
 const elements = {
+  launchScreen: document.querySelector("#app-launch-screen"),
+  launchText: document.querySelector("#app-launch-text"),
   layout: document.querySelector("#app-layout"),
   listPanel: document.querySelector("#surah-list-panel"),
   readerPanel: document.querySelector("#reader-panel"),
@@ -59,10 +61,14 @@ const mobileMediaQuery = window.matchMedia("(max-width: 859px)");
 const LAST_READ_STORAGE_KEY = "quran-last-read";
 let ignoreNextHashChange = false;
 
-init().catch((error) => {
-  console.error(error);
-  renderStatus(translate(appState.language, "fetchError"), true);
-});
+init()
+  .catch((error) => {
+    console.error(error);
+    renderStatus(translate(appState.language, "fetchError"), true);
+  })
+  .finally(() => {
+    hideLaunchScreen();
+  });
 
 async function init() {
   bindEvents();
@@ -316,6 +322,7 @@ function applyUiText() {
   elements.searchHint.textContent = translate(appState.language, "searchHint");
   syncSearchControls();
   renderLastReadChip();
+  elements.launchText.textContent = getLaunchLoadingText();
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
   elements.scrollTopButton.setAttribute("aria-label", translate(appState.language, "scrollTop"));
@@ -329,6 +336,14 @@ function syncResponsiveLayout() {
     appState.isMobile && appState.mobileView === "reader",
   );
   elements.backToList.hidden = !appState.isMobile;
+}
+
+function hideLaunchScreen() {
+  elements.launchScreen.classList.add("is-hidden");
+}
+
+function getLaunchLoadingText() {
+  return appState.language === "en" ? "Loading..." : "Memuatkan...";
 }
 
 function renderSurahList() {
