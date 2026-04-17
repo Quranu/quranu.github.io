@@ -1,33 +1,28 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="64" y1="48" x2="438" y2="462" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="72" y1="52" x2="434" y2="458" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFF8EE"/>
-      <stop offset="1" stop-color="#F2E6D3"/>
+      <stop offset="1" stop-color="#F1E4CF"/>
     </linearGradient>
-    <linearGradient id="accent" x1="146" y1="122" x2="364" y2="404" gradientUnits="userSpaceOnUse">
+    <linearGradient id="stroke" x1="132" y1="122" x2="378" y2="392" gradientUnits="userSpaceOnUse">
       <stop stop-color="#14968B"/>
       <stop offset="1" stop-color="#0A5C56"/>
     </linearGradient>
+    <linearGradient id="accent" x1="180" y1="154" x2="318" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8B84A"/>
+      <stop offset="1" stop-color="#E59D2C"/>
+    </linearGradient>
   </defs>
 
-  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)"/>
-  <rect x="24" y="24" width="464" height="464" rx="112" stroke="#DCC8A8" stroke-width="12"/>
+  <rect x="24" y="24" width="464" height="464" rx="120" fill="url(#bg)"/>
+  <rect x="24" y="24" width="464" height="464" rx="120" stroke="#DCC8A8" stroke-width="12"/>
 
-  <circle cx="372" cy="140" r="38" fill="#F8B84A" opacity="0.92"/>
-  <circle cx="356" cy="140" r="34" fill="#FFF8EE"/>
+  <path d="M176 176C196.939 155.061 225.339 143.3 254.95 143.3C284.56 143.3 312.961 155.061 333.9 176C354.839 196.939 366.6 225.34 366.6 254.95C366.6 284.561 354.839 312.961 333.9 333.9C312.961 354.839 284.56 366.6 254.95 366.6C225.339 366.6 196.939 354.839 176 333.9C155.061 312.961 143.3 284.561 143.3 254.95C143.3 225.34 155.061 196.939 176 176Z" stroke="url(#stroke)" stroke-width="32"/>
 
-  <path d="M140 156C140 140.536 152.536 128 168 128H247C273.509 128 299.25 137.004 319.999 153.531L335.5 165.876V356.239L306.897 337.942C289.551 326.848 269.39 321 248.799 321H168C152.536 321 140 308.464 140 293V156Z" fill="url(#accent)"/>
-  <path d="M372 156C372 140.536 359.464 128 344 128H265C238.491 128 212.75 137.004 192.001 153.531L176.5 165.876V356.239L205.103 337.942C222.449 326.848 242.61 321 263.201 321H344C359.464 321 372 308.464 372 293V156Z" fill="#118178"/>
+  <path d="M350.5 350.5L401 401" stroke="url(#stroke)" stroke-width="28" stroke-linecap="round"/>
 
-  <path d="M196 180.5C211.648 167.845 231.168 161 251.291 161H309.5" stroke="#F8F3EA" stroke-width="14" stroke-linecap="round"/>
-  <path d="M196 224.5C211.648 211.845 231.168 205 251.291 205H309.5" stroke="#F8F3EA" stroke-width="14" stroke-linecap="round" opacity="0.9"/>
-  <path d="M196 268.5C211.648 255.845 231.168 249 251.291 249H309.5" stroke="#F8F3EA" stroke-width="14" stroke-linecap="round" opacity="0.78"/>
+  <path d="M209 176V277.5C209 307.047 232.953 331 262.5 331C292.047 331 316 307.047 316 277.5V176" stroke="url(#stroke)" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
 
-  <path d="M176.5 165.876L192.001 153.531C212.75 137.004 238.491 128 265 128H344C359.464 128 372 140.536 372 156V293C372 308.464 359.464 321 344 321H263.201C242.61 321 222.449 326.848 205.103 337.942L176.5 356.239M176.5 165.876L160.999 153.531C140.25 137.004 114.509 128 88 128H168C183.464 128 196 140.536 196 156V293C196 308.464 183.464 321 168 321H248.799C269.39 321 289.551 326.848 306.897 337.942L335.5 356.239V165.876" stroke="#0C665E" stroke-width="12" stroke-linejoin="round"/>
-
-  <path d="M256 152V352" stroke="#E7D4B3" stroke-width="8" stroke-linecap="round"/>
-
-  <circle cx="256" cy="392" r="24" fill="#F8B84A"/>
-  <path d="M256 380V404" stroke="#FFF8EE" stroke-width="8" stroke-linecap="round"/>
-  <circle cx="256" cy="416" r="4" fill="#FFF8EE"/>
+  <path d="M303.5 185.5L334 155" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="334" cy="155" r="18" fill="url(#accent)"/>
 </svg>

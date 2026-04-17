@@ -83,16 +83,10 @@ body {
 }
 
 .app-launch-mark {
-  width: 62px;
-  height: 62px;
-  margin: 0 auto 14px;
-  display: grid;
-  place-items: center;
-  border-radius: 20px;
-  background: rgba(15, 118, 110, 0.14);
-  color: var(--accent-strong);
-  font-size: 1.6rem;
-  font-weight: 800;
+  width: 72px;
+  height: 72px;
+  margin: 0 auto 16px;
+  display: block;
 }
 
 .app-launch-title,
@@ -101,8 +95,9 @@ body {
 }
 
 .app-launch-title {
-  font-size: 1.2rem;
+  font-size: 1.18rem;
   font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 .app-launch-copy {
