@@ -40,6 +40,11 @@ function Save-QuranuIcon {
   $graphics.Clear([System.Drawing.Color]::Transparent)
 
   $scale = $size / 512.0
+  $contentScale = if ($size -le 16) { 1.12 } elseif ($size -le 32) { 1.08 } else { 1.0 }
+
+  function Map-Content([float]$value) {
+    return (((($value - 256.0) * $contentScale) + 256.0) * $scale)
+  }
 
   $bgRect = New-Object System.Drawing.RectangleF (24 * $scale), (24 * $scale), (464 * $scale), (464 * $scale)
   $bgStart = [System.Drawing.ColorTranslator]::FromHtml("#FFF8EE")
@@ -68,24 +73,24 @@ function Save-QuranuIcon {
     $strokeStart,
     $strokeEnd
   )
-  $qPen = New-Object System.Drawing.Pen $qBrush, (32 * $scale)
+  $qPen = New-Object System.Drawing.Pen $qBrush, (32 * $scale * $contentScale)
   $qPen.LineJoin = [System.Drawing.Drawing2D.LineJoin]::Round
-  $qRect = New-Object System.Drawing.RectangleF (143.3 * $scale), (143.3 * $scale), (223.3 * $scale), (223.3 * $scale)
+  $qRect = New-Object System.Drawing.RectangleF (Map-Content 143.3), (Map-Content 143.3), (223.3 * $scale * $contentScale), (223.3 * $scale * $contentScale)
   $graphics.DrawEllipse($qPen, $qRect)
 
-  $tailPen = New-Object System.Drawing.Pen $qBrush, (28 * $scale)
+  $tailPen = New-Object System.Drawing.Pen $qBrush, (28 * $scale * $contentScale)
   $tailPen.StartCap = [System.Drawing.Drawing2D.LineCap]::Round
   $tailPen.EndCap = [System.Drawing.Drawing2D.LineCap]::Round
-  $graphics.DrawLine($tailPen, (350.5 * $scale), (350.5 * $scale), (401 * $scale), (401 * $scale))
+  $graphics.DrawLine($tailPen, (Map-Content 350.5), (Map-Content 350.5), (Map-Content 401), (Map-Content 401))
 
-  $uPen = New-Object System.Drawing.Pen $qBrush, (30 * $scale)
+  $uPen = New-Object System.Drawing.Pen $qBrush, (30 * $scale * $contentScale)
   $uPen.StartCap = [System.Drawing.Drawing2D.LineCap]::Round
   $uPen.EndCap = [System.Drawing.Drawing2D.LineCap]::Round
   $uPen.LineJoin = [System.Drawing.Drawing2D.LineJoin]::Round
   $uPath = New-Object System.Drawing.Drawing2D.GraphicsPath
-  $uPath.AddLine((209 * $scale), (176 * $scale), (209 * $scale), (277.5 * $scale))
-  $uPath.AddArc((209 * $scale), (224 * $scale), (107 * $scale), (107 * $scale), 180, 180)
-  $uPath.AddLine((316 * $scale), (277.5 * $scale), (316 * $scale), (176 * $scale))
+  $uPath.AddLine((Map-Content 209), (Map-Content 176), (Map-Content 209), (Map-Content 277.5))
+  $uPath.AddArc((Map-Content 209), (Map-Content 224), (107 * $scale * $contentScale), (107 * $scale * $contentScale), 180, 180)
+  $uPath.AddLine((Map-Content 316), (Map-Content 277.5), (Map-Content 316), (Map-Content 176))
   $graphics.DrawPath($uPen, $uPath)
 
   $accentBrush = New-Object System.Drawing.Drawing2D.LinearGradientBrush(
@@ -94,11 +99,11 @@ function Save-QuranuIcon {
     $accentStart,
     $accentEnd
   )
-  $accentPen = New-Object System.Drawing.Pen $accentBrush, (18 * $scale)
+  $accentPen = New-Object System.Drawing.Pen $accentBrush, (18 * $scale * $contentScale)
   $accentPen.StartCap = [System.Drawing.Drawing2D.LineCap]::Round
   $accentPen.EndCap = [System.Drawing.Drawing2D.LineCap]::Round
-  $graphics.DrawLine($accentPen, (303.5 * $scale), (185.5 * $scale), (334 * $scale), (155 * $scale))
-  $graphics.FillEllipse($accentBrush, (316 * $scale), (137 * $scale), (36 * $scale), (36 * $scale))
+  $graphics.DrawLine($accentPen, (Map-Content 303.5), (Map-Content 185.5), (Map-Content 334), (Map-Content 155))
+  $graphics.FillEllipse($accentBrush, (Map-Content 316), (Map-Content 137), (36 * $scale * $contentScale), (36 * $scale * $contentScale))
 
   $directory = Split-Path -Parent $outputPath
   if (-not (Test-Path $directory)) {
