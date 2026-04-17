@@ -1,5 +1,5 @@
-const STATIC_CACHE = "quranu-static-v1";
-const RUNTIME_CACHE = "quranu-runtime-v1";
+const STATIC_CACHE = "quranu-static-v2";
+const RUNTIME_CACHE = "quranu-runtime-v2";
 const CORE_ASSETS = [
   "/",
   "/index.html",
@@ -15,7 +15,7 @@ const CORE_ASSETS = [
   "/src/audioController.js",
   "/src/suraNames.js",
   "/src/surahDisplayMeta.js",
-  "/data/processed/surah-catalog.json"
+  "/data/processed/surah-catalog.json",
 ];
 
 self.addEventListener("install", (event) => {
@@ -47,7 +47,16 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
+  if (event.request.mode === "navigate") {
+    event.respondWith(networkFirst(event.request, "/index.html"));
+    return;
+  }
+
   if (
+    url.pathname.startsWith("/src/") ||
+    url.pathname.startsWith("/assets/styles/") ||
+    url.pathname.startsWith("/assets/icons/") ||
+    url.pathname === "/manifest.webmanifest" ||
     url.pathname.startsWith("/data/processed/") ||
     url.pathname.startsWith("/assets/fonts/")
   ) {
@@ -82,4 +91,21 @@ async function staleWhileRevalidate(request) {
     .catch(() => cached);
 
   return cached || networkPromise;
+}
+
+async function networkFirst(request, fallbackPath) {
+  const cache = await caches.open(RUNTIME_CACHE);
+
+  try {
+    const response = await fetch(request);
+    cache.put(request, response.clone());
+    return response;
+  } catch (error) {
+    const cached = await cache.match(request);
+    if (cached) {
+      return cached;
+    }
+
+    return caches.match(fallbackPath);
+  }
 }
