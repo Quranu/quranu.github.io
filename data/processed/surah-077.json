@@ -1,7 +1,7 @@
 {
   "surahNumber": 77,
   "name": {
-    "ar": "سورة الـمرسلات",
+    "ar": "سورة المرسلاة",
     "bm": "Penghantaran",
     "en": "Dispatched"
   },
@@ -152,7 +152,11 @@
       "arabic": "أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ",
       "bm": "Tidakkah kami yang menciptakan kamu dari cecair yang hina?",
       "en": "Did we not create you from a lowly liquid?*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/077020.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/077020.mp3",
+      "footnote": {
+        "bm": "*77:20-23 Menurut Langman's Medical Embryology, oleh T. W. Sadler (Edisi Kelima, halaman 88): \"Secara umum tempoh kehamilan bagi janin cukup bulan ialah 266 hari atau 38 minggu selepas persenyawaan.\" Kedua-dua 266 dan 38 ialah gandaan 19 (Lampiran 1).",
+        "en": "*77:20-23 According to Langman's Medical Embryology, by T. W. Sadler (Fifth Edition, Page 88): \"In general the length of pregnancy for a full term fetus is 266 days or 38 weeks after fertilization.\" Both 266 and 38 are multiples of 19 (Appendix 1)."
+      }
     },
     {
       "number": 21,

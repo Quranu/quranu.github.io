@@ -1,7 +1,7 @@
 {
   "surahNumber": 49,
   "name": {
-    "ar": "سورة الحـجـرات",
+    "ar": "سورة الحجرات",
     "bm": "Dinding Dinding",
     "en": "The Walls"
   },
@@ -26,14 +26,22 @@
       "arabic": "يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ",
       "bm": "Wahai kamu yang percaya, janganlah meninggikan suara suara kamu melebihi suara nabi, dan janganlah kamu berteriak kepadanya sebagai mana kamu meneriak satu sama lain, supaya kerja kerja kamu tidak menjadi batal sedangkan kamu tidak sedar.",
       "en": "O you who believe, do not raise your voices above the voice of the prophet,* nor shall you shout at him as you shout at each other, lest your works become nullified while you do not perceive.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/049002.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/049002.mp3",
+      "footnote": {
+        "bm": "*49:2 Setiap kali perkataan \"nabi\" (Nabi) digunakan bagi merujuk kepada Muhammad, ia sentiasa merujuk kepada beliau semasa hidup, bukan selepas wafatnya. Jelas sekali kita tidak mungkin meninggikan suara kita melebihi suara Muhammad sekarang setelah beliau telah wafat. Lihat juga 33:56.",
+        "en": "*49:2 Whenever the word \"prophet\" (Nabi) is used in reference to Muhammad, it invariably refers to him during his life, not after his death. Obviously, we cannot possibly raise our voices above Muhammad's voice, now that he is dead. See also 33:56."
+      }
     },
     {
       "number": 3,
       "arabic": "إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَٰئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
       "bm": "Sudah tentu, orang orang yang merendahkan suara suara mereka kepada rasul Allah adalah mereka itu orang orang yang hati hati mereka telah diaturkan oleh Allah untuk menjadi orang orang yang benar. Mereka berhak mendapat pengampunan dan ganjaran yang besar.",
       "en": "Surely, those who lower their voices at the messenger of GOD are the ones whose hearts are prepared by GOD to become righteous.* They have deserved forgiveness and a great recompense.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/049003.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/049003.mp3",
+      "footnote": {
+        "bm": "*49:3 Menghormati rasul membantu orang luar dan para pengunjung mendekati mesej Allah.",
+        "en": "*49:3 Respecting the messenger helps outsiders and visitors in coming to God's message."
+      }
     },
     {
       "number": 4,

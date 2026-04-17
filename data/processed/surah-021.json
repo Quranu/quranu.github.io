@@ -37,7 +37,11 @@
       "arabic": "لَاهِيَةً قُلُوبُهُمْ وَأَسَرُّوا النَّجْوَى الَّذِينَ ظَلَمُوا هَلْ هَٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ أَفَتَأْتُونَ السِّحْرَ وَأَنْتُمْ تُبْصِرُونَ",
       "bm": "Minda minda mereka telah dilalaikan. Dan orang orang yang melampaui batas itu mengadakan perbincangan sulit: \"Bukankah dia seorang manusia seperti kamu? Mahukah kamu menerima magik yang dipersembahkannya kepada kamu?\"",
       "en": "Their minds are heedless. And the transgressors confer secretly: \"Is he not just a human being like you? Would you accept the magic that is presented to you?\"*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/021003.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/021003.mp3",
+      "footnote": {
+        "bm": "*21:3 Walaupun Bible (Maleakhi 3:1) dan Quran (3:81) menubuatkan kedatangan Rasul Perjanjian Allah, apabila beliau benar-benar muncul, disokong oleh \"salah satu mukjizat yang terbesar\" (74:30-35), beliau disambut dengan kelalaian dan penentangan. Pernyataan Ilahi bahawa setiap bukti yang \"baru\" akan ditentang telah dibuktikan oleh penentangan orang Arab terhadap mukjizat Quran (Lampiran 1 & 2).",
+        "en": "*21:3 Although the Bible (Malachi 3:1) and the Quran (3:81) prophesy the advent of God's Messenger of the Covenant, when he did appear, supported by 'one of the greatest miracles' (74:30-35), he was met with heedlessness and opposition. The divine assertion that every 'new' proof is opposed has been proven by the Arabs' opposition to the Quran's miracle. (App. 1 & 2)."
+      }
     },
     {
       "number": 4,
@@ -228,6 +232,10 @@
       "subtitle": {
         "bm": "Mitos Untuk Pengantaraan.",
         "en": "The Myth of Intercession"
+      },
+      "footnote": {
+        "bm": "*21:28 Mitos syafaat ialah umpan Syaitan yang paling berkesan (lihat Lampiran 8).",
+        "en": "*21:28 The myth of intercession is Satan's most effective bait (see Appendix 8)."
       }
     },
     {
@@ -246,6 +254,10 @@
       "subtitle": {
         "bm": "Teori Letupan Besar Disahkan.",
         "en": "The Big Bang Theory Confirmed*"
+      },
+      "footnote": {
+        "bm": "*21:30 Teori Big Bang kini disokong oleh kod matematik Pencipta yang tidak mungkin salah (Lampiran 1). Oleh itu, ia bukan lagi teori; ia ialah hukum, satu fakta yang telah terbukti.",
+        "en": "*21:30 The Big Bang Theory is now supported by the Creator's infallible mathematical code (Appendix 1). Thus, it is no longer a theory; it is a law, a proven fact."
       }
     },
     {
@@ -409,6 +421,10 @@
       "subtitle": {
         "bm": "Ibrahim.",
         "en": "Abraham"
+      },
+      "footnote": {
+        "bm": "*21:51 Adakah Ibrahim begitu bijak sehingga menemui Allah sendiri, atau adakah Allah mengurniakan kecerdasan itu kepadanya kerana Dia mengetahui bahawa Ibrahim layak diselamatkan? Akhirnya, seluruh dunia ini dicipta untuk menebus mereka antara kita yang sememangnya layak ditebus. Ketika para malaikat mencadangkan bahawa semua pemberontak, manusia dan jin, mesti dibuang keluar dari kerajaan Allah, Allah berfirman, \"Aku mengetahui apa yang kamu tidak ketahui\" (2:30). Pada masa yang sama, dunia ini membuktikan ketidakmampuan Syaitan sebagai tuhan (Lampiran 7).",
+        "en": "*21:51 Was Abraham so smart as to discover God, or, did God grant him the intelligence because He knew that he deserved to be saved? As it turns out, this whole world was created to redeem those among us who deserve redemption. When the angels suggested that all the rebels, humans and jinns, must be banished out of God's kingdom, 'I know what you do not know' (2:30). At the same time, this world proves Satan's incompetence as a god (App. 7)."
       }
     },
     {
@@ -543,7 +559,11 @@
       "arabic": "قُلْنَا يَانَارُ كُونِي بَرْدًا وَسَلَامًا عَلَىٰ إِبْرَاهِيمَ",
       "bm": "Kami berkata, \"Wahai api menjadi sejuklah dan selamatkan Ibrahim.\"",
       "en": "We said, \"O fire, be cool and safe for Abraham.\"*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/021069.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/021069.mp3",
+      "footnote": {
+        "bm": "*21:69 Perkataan \"sejuk,\" tanpa tambahan \"dan selamat,\" pasti akan menyebabkan Ibrahim membeku.",
+        "en": "*21:69 \"Cool,\" without \"and safe\" would have caused Abraham to freeze."
+      }
     },
     {
       "number": 70,
@@ -575,6 +595,10 @@
       "subtitle": {
         "bm": "Ibrahim: Penyampai Semua Rukun Amalan Agama Islam.",
         "en": "Abraham: Delivered All Religious Duties of Islam"
+      },
+      "footnote": {
+        "bm": "*21:73 Ketika Quran diturunkan, semua kewajipan agama telah pun ditegakkan melalui Ibrahim (2:128, 16:123, 22:78).",
+        "en": "*21:73 When the Quran was revealed, all religious duties were already established through Abraham (2:128, 16:123, 22:78)."
       }
     },
     {
@@ -718,7 +742,11 @@
       "arabic": "فَاسْتَجَبْنَا لَهُ وَوَهَبْنَا لَهُ يَحْيَىٰ وَأَصْلَحْنَا لَهُ زَوْجَهُ إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا لَنَا خَاشِعِينَ",
       "bm": "Kami merespons kepadanya dan memberinya Yahya, kami membetulkan isterinya untuknya. Itu adalah kerana mereka bersegera untuk mengerjakan amalan salih, dan bermohon kepada kami dalam keadaan yang gembira, begitu juga didalam keadaan takut. Bagi kami, mereka itu adalah orang orang yang memuliakan.",
       "en": "We* responded to him and granted him John; we fixed his wife for him. That is because they used to hasten to work righteousness, and implored us in situations of joy, as well as fear. To us, they were reverent.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/021090.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/021090.mp3",
+      "footnote": {
+        "bm": "*21:90 Penggunaan bentuk jamak di seluruh Quran menunjukkan penyertaan para malaikat. Jelas daripada 3:39 dan juga Bible bahawa para malaikat banyak berurusan dengan Zakaria ketika mereka menyampaikan khabar gembira tentang Yahya. Lihat Lampiran 10.",
+        "en": "*21:90 The use of the plural tense throughout the Quran indicates participation of the angels. It is clear from 3:39 and from the Bible that the angels dealt with Zachariah extensively, as they gave him the good news about John. See Appendix 10."
+      }
     },
     {
       "number": 91,
@@ -772,6 +800,10 @@
       "subtitle": {
         "bm": "Akhirnya Dunia",
         "en": "The End of the World*"
+      },
+      "footnote": {
+        "bm": "*21:96 Menjelang tahun 2270 M, berkat mukjizat matematik Allah dalam Quran (Lampiran 1), Amerika akan menjadi pusat Islam, dan berbilion-bilion manusia di seluruh dunia akan beriman kepada Quran (9:33, 41:53, 48:28, 61:9). Gog dan Magog (nama alegori bagi komuniti-komuniti jahat) akan menjadi satu-satunya kubu kekafiran, dan mereka akan menyerang golongan penyerah diri. Pada ketika itulah dunia akan berakhir (15:87, 18:94, Lampiran 25). Gog dan Magog disebut dalam 18:94 & 21:96, 17 ayat sebelum penghujung setiap sura; ini mungkin menunjukkan masa kemunculan mereka.",
+        "en": "*21:96 By the year 2270 AD, thanks to God's mathematical miracle in the Quran (Appendix 1), America will be the heart of Islam, and billions around the globe will have believed in the Quran (9:33, 41:53, 48:28, 61:9). Gog and Magog (allegorical names of villainous communities), will be the only bastions of heathenism, and they will attack the submitters. That is when the world will end (15:87, 18:94, Appendix 25). Gog and Magog are mentioned in 18:94 & 21:96, 17 verses before the end of each sura; this may indicate the time of their appearance."
       }
     },
     {

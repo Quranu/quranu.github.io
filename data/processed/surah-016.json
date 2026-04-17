@@ -19,7 +19,11 @@
       "arabic": "أَتىٰ أَمرُ اللَّهِ فَلا تَستَعجِلوهُ سُبحانَهُ وَتَعالىٰ عَمّا يُشرِكونَ",
       "bm": "Perintah Allah telah diisukan (dan semuanya telah dituliskan), jadi janganlah terburu buru dengannya. Segala kepujian bagiNya; yang Maha Tinggi, jauh lebih tinggi dari sebarang pujaan pujaan yang mereka ada adakan.",
       "en": "GOD's command has already been issued (and everything has already been written), so do not rush it.* Be He glorified; the Most High, far above any idols they set up.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/016001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/016001.mp3",
+      "footnote": {
+        "bm": "*16:1 Segala sesuatu telah pun dicatatkan (57:22). Lihat juga Lampiran 14.",
+        "en": "*16:1 Everything is already recorded (57:22). See also Appendix 14."
+      }
     },
     {
       "number": 2,
@@ -238,6 +242,10 @@
       "subtitle": {
         "bm": "Orang Orang Yang Percaya Sebenarnya Tidak Mati.",
         "en": "The Believers Do Not Really Die*"
+      },
+      "footnote": {
+        "bm": "*16:30-32 Orang-orang yang benar hanya merasai kematian pertama, yang telah pun dialami oleh kita semua (lihat 44:56). Pada penghujung tempoh mereka di dunia ini, malaikat maut hanya menjemput mereka untuk berpindah ke Syurga tempat Adam dan Hawa pernah tinggal (2:154, 3:169, 8:24, 22:58, 36:27).",
+        "en": "*16:30-32 The righteous taste only the first death, which has been already experienced by all of us (see 44:56). At the end of their interim in this world, the angels of death simply invite them to move on to the Paradise where Adam and Eve once lived (2:154, 3:169, 8:24, 22:58, 36:27)."
       }
     },
     {
@@ -391,7 +399,11 @@
       "arabic": "وَلِلَّهِ يَسْجُدُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مِنْ دَابَّةٍ وَالْمَلَائِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
       "bm": "Kepada Allah sujud sekelian dicekrawala dan dibumi - setiap tiap makhluk - dan begitu juga dengan para malaikat; dengan tidak sedikitpun merasa sombong.",
       "en": "To GOD prostrates everything in the heavens and everything on earth -- every creature--and so do the angels; without the least arrogance.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/016049.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/016049.mp3",
+      "footnote": {
+        "bm": "*16:49 Tubuh manusia, sama ada milik orang beriman atau orang kafir, tetap tunduk kepada Allah; degupan jantung, pergerakan paru-paru, dan peristalsis menunjukkan ketundukan ini.",
+        "en": "*16:49 The human body, whether it belongs to a believer or a disbeliever, submits to God; the heartbeats, the lungs' movement, and peristalsis illustrate this submission."
+      }
     },
     {
       "number": 50,
@@ -547,7 +559,11 @@
       "arabic": "ثُمَّ كُلِي مِنْ كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا يَخْرُجُ مِنْ بُطُونِهَا شَرَابٌ مُخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِلنَّاسِ إِنَّ فِي ذَٰلِكَ لَآيَةً لِقَوْمٍ يَتَفَكَّرُونَ",
       "bm": "Maka makanlah dari semua buah buahan, yang direka oleh Tuhan kamu, dengan cukup tepat. Dari perut perut mereka keluar minuman yang beranika warna, dimana terdapat penyembuhan untuk manusia. Ini sepatutnya menjadi (cukup) bukti bagi orang orang yang dapat merenungkan.",
       "en": "Then eat from all the fruits, following the design of your Lord, precisely. From their bellies comes a drink of different colors, wherein there is healing for the people. This should be (sufficient) proof for people who reflect.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/016069.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/016069.mp3",
+      "footnote": {
+        "bm": "*16:69 Selain nilai pemakanannya yang diiktiraf, madu telah dibuktikan secara saintifik sebagai ubat penyembuh bagi sesetengah alahan dan penyakit lain.",
+        "en": "*16:69 Besides its recognized nutritive value, honey has been scientifically proven as a healing medicine for certain allergies and other ailments."
+      }
     },
     {
       "number": 70,
@@ -565,6 +581,10 @@
       "subtitle": {
         "bm": "Allah Tidak Ada Pasangan Pasangan.",
         "en": "No Partners With God"
+      },
+      "footnote": {
+        "bm": "*16:71 Jika manusia sendiri tidak mahu menyerahkan kuasa mereka sehingga begitu jauh, mengapakah mereka mengharapkan Allah melakukan hal itu dan mencipta sekutu bagi diri-Nya?",
+        "en": "*16:71 If the humans would not give up their power to that extent, why do they expect God to do this, and create partners for Himself?"
       }
     },
     {
@@ -747,7 +767,11 @@
       "arabic": "وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ يُضِلُّ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ وَلَتُسْأَلُنَّ عَمَّا كُنْتُمْ تَعْمَلُونَ",
       "bm": "Dengan kehendak Allah; Dia boleh jadikan kamu semua satu perhimpunan. Tetapi Dia yang menyesatkan sesiapa saja yang memilih kepada kesesatan, dan Dia membimbing sesiapa saja yang menginginkan untuk mendapat bimbingan. Tentu sekali kamu akan ditanya berkenaan segala sesuatu yang telah kamu lakukan.",
       "en": "Had GOD willed, He could have made you one congregation. But He sends astray whoever chooses to go astray, and He guides whoever wishes to be guided.* You will surely be asked about everything you have done.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/016093.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/016093.mp3",
+      "footnote": {
+        "bm": "*16:93 Allah mengetahui siapa antara kita yang benar-benar ikhlas dan layak ditebus. Oleh itu, Dia membimbing mereka, sambil menutup jalan bagi mereka yang memilih untuk tidak percaya.",
+        "en": "*16:93 God knows the sincere believers among us who deserve to be redeemed. Accordingly, He guides them, while blocking out those who choose to disbelieve."
+      }
     },
     {
       "number": 94,
@@ -794,6 +818,10 @@
       "subtitle": {
         "bm": "Perintah Yang Mustahak",
         "en": "An Important Commandment*"
+      },
+      "footnote": {
+        "bm": "*16:98 Keselamatan kita dicapai dengan mengenal mesej Allah kepada kita, iaitu Quran, dan Syaitan akan melakukan segala yang terdaya untuk menghalang kita daripada ditebus. Oleh sebab itulah perintah ini diberikan.",
+        "en": "*16:98 Our salvation is attained by knowing God's message to us, the Quran, and Satan will do his utmost to keep us from being redeemed. Hence this commandment."
       }
     },
     {
@@ -858,6 +886,10 @@
       "subtitle": {
         "bm": "Ucapan Di-Bibir Sahaja Tidak akan Diambil Kira.",
         "en": "Lip Service Does Not Count"
+      },
+      "footnote": {
+        "bm": "*16:106 Hikmah Allah menetapkan bahawa jika seseorang meletakkan pistol di kepala kamu dan memerintahkan kamu mengisytiharkan bahawa kamu tidak percaya kepada Allah, kamu boleh menuruti kehendaknya. Apa yang tersimpan dalam hati itulah yang dikira.",
+        "en": "*16:106 God's wisdom decrees that if someone holds a gun to your head and orders you to declare that you disbelieve in God, you may grant him his wish. What the heart harbors is what counts."
       }
     },
     {
@@ -933,6 +965,10 @@
       "subtitle": {
         "bm": "Hanya Empat Macam Makanan Di-Larang.",
         "en": "Only Four Foods Prohibited"
+      },
+      "footnote": {
+        "bm": "*16:115 & 118 Parasit trichinosis yang paling merosakkan, Trichinella spiralis, (juga cacing pita babi Taenia solium) hidup dalam daging babi, bukan lemaknya. Lebih 150,000 orang dijangkiti setiap tahun di Amerika Syarikat. Lihat 6:145-146 dan Lampiran 16.",
+        "en": "*16:115 & 118 The most devastating trichinosis parasite, Trichinella spiralis , (also the pork tapeworm Taenia solium ) survives in the meat of pigs, not the fat. More than 150,000 people are infected annually in the United States. See 6:145-146, and Appendix 16."
       }
     },
     {
@@ -997,6 +1033,10 @@
       "subtitle": {
         "bm": "Muhammad: Pengikut Ibrahim.",
         "en": "Muhammad: A Follower of Abraham*"
+      },
+      "footnote": {
+        "bm": "*16:123 Ini memberitahu kita bahawa semua amalan agama, yang sampai kepada kita melalui Ibrahim, masih utuh pada zaman Muhammad (lihat 22:78 dan Lampiran 9).",
+        "en": "*16:123 This informs us that all religious practices, which came to us through Abraham, were intact at the time of Muhammad (see 22:78 and Appendix 9)."
       }
     },
     {

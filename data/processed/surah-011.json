@@ -3,7 +3,7 @@
   "name": {
     "ar": "سورة هود",
     "bm": "Hud",
-    "en": "Hûd"
+    "en": "Hood"
   },
   "totalAyahs": 123,
   "ayahs": [
@@ -19,7 +19,11 @@
       "arabic": "الر كِتابٌ أُحكِمَت آياتُهُ ثُمَّ فُصِّلَت مِن لَدُن حَكيمٍ خَبيرٍ",
       "bm": "A . L . R.(Alif. Lam. Raa.) Ini adalah kitab yang revelasi revelasinya telah disempurnakan, dan menjelaskan. Ianya datang dari Yang Maha Bijaksana lagi yang Maha Mengetahui.",
       "en": "A.L.R. This is a scripture whose verses have been perfected, then elucidated.* It comes from a Most Wise, Most Cognizant.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/011001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/011001.mp3",
+      "footnote": {
+        "bm": "*11:1 Generasi kita beruntung kerana dapat menyaksikan dua fenomena yang menakjubkan dalam Quran: (1) satu kod matematik yang luar biasa (Lampiran 1), dan (2) satu mukjizat sastera yang sangat mengagumkan. Jika manusia cuba menulis karya yang disusun secara matematik, manipulasi angka itu akan menjejaskan mutu sasteranya. Quran menetapkan piawai kecemerlangan sastera.",
+        "en": "*11:1 Our generation is fortunate to witness two awesome phenomena in the Quran: (1) an extraordinary mathematical code (Appendix 1), and (2) a literary miracle of incredible dimensions. If humans attempt to write a mathematically structured work, the numerical manipulations will adversely affect the literary quality. The Quran sets the standard for literary excellence."
+      }
     },
     {
       "number": 2,
@@ -69,7 +73,11 @@
       "arabic": "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِنْ قُلْتَ إِنَّكُمْ مَبْعُوثُونَ مِنْ بَعْدِ الْمَوْتِ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
       "bm": "Dia Sahajalah yang menciptakan sekelian cekrawala dan bumi selama enam hari - dan segala kawasan kekuasaanNya (dibumi) telah diselubungi dengan air - untuk mencuba kamu, membezakan orang orang diantara kamu yang mengerjakan amal salih. Namun demikian, apabila kamu berkata, \"Kamu akan dibangkitkan sesudah mati,\" orang orang yang ingkar itu akan berkata, \"Ini tentu sekali magik yang terang.\"",
       "en": "He is the One who created the heavens and the earth in six days--*and His (earthly) domain was completely covered with water--**in order to test you, to distinguish those among you who work righteousness. Yet, when you say, \"You will be resurrected after death,\" those who disbelieve would say, \"This is clearly witchcraft.\"",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/011007.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/011007.mp3",
+      "footnote": {
+        "bm": "*11:7 Enam hari itu hanyalah satu ukuran yang memberikan kita banyak maklumat. Dengan itu, kita memahami bahawa alam fizikal yang luas dan tidak bernyawa dicipta dalam dua hari, manakala butir kecil yang dipanggil \"Bumi\" dicipta dalam empat hari (41:10-12). Penyediaan makanan, air, dan oksigen untuk penghuni bumi terpaksa dikira dan diatur dengan sangat tepat.",
+        "en": "*11:7 The six days are simply a yardstick providing us with a lot of information. Thus, we learn that the vast lifeless physical universe was created in two days, while the tiny mote called \"Earth\" was created in four days (41:10-12). The provision of food, water, and oxygen for the earth's inhabitants had to be precisely calculated and arranged."
+      }
     },
     {
       "number": 8,
@@ -119,6 +127,10 @@
       "subtitle": {
         "bm": "Quran: Mustahil Dapat Di-Tiru.",
         "en": "The Quran: Impossible to Imitate"
+      },
+      "footnote": {
+        "bm": "*11:13 Mukjizat matematik Quran tidak dapat ditiru (lihat Lampiran 1).",
+        "en": "*11:13 The Quran's mathematical miracle is inimitable (See Appendix 1)."
       }
     },
     {
@@ -151,6 +163,10 @@
       "subtitle": {
         "bm": "Kod Matemetik Di-Dalam Quran.",
         "en": "The Quran's Mathematical Code"
+      },
+      "footnote": {
+        "bm": "*11:17 Kod matematik Quran yang berasaskan 19 ialah bukti dalaman bahawa ia datang daripada Allah. Perlu diperhatikan bahawa perkataan \"Bayyinah\" (bukti) disebut dalam Quran sebanyak 19 kali.",
+        "en": "*11:17 The Quran's 19-based mathematical code is a built-in proof of divine authorship. It is noteworthy that the word \"Bayyinah\" (proof) is mentioned in the Quran 19 times."
       }
     },
     {
@@ -332,7 +348,11 @@
       "arabic": "حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ وَمَنْ آمَنَ وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ",
       "bm": "Apabila pengadilan kami tiba, dan atmosfera menggelegak kekemuncaknya, kami berkata, \"Bawalah bersama sama setiap jenis dengan berpasangan, bersama sama dengan keluargamu, melainkan orang orang yang telah dilaknatkan. Bawalah orang orang yang telah percaya,\" dan hanya beberapa orang saja yang percaya dengannya.",
       "en": "When our judgment came, and the atmosphere boiled over, we said, \"Carry on it a pair of each kind,* together with your family, except those who are condemned. Carry with you those who have believed,\" and only a few have believed with him.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/011040.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/011040.mp3",
+      "footnote": {
+        "bm": "*11:40 & 44 Inilah kebenaran Allah yang telah dibuktikan: bahtera Nuh dibuat daripada batang-batang kayu yang diikat bersama dengan tali yang sederhana (54:13). Bertentangan dengan kepercayaan umum, banjir itu terhad kepada kawasan sekitar Laut Mati pada hari ini, dan haiwan-haiwan yang dibawa hanyalah ternakan Nuh; bukan setiap haiwan yang hidup di bumi.",
+        "en": "*11:40 & 44 This is God's proven truth: Noah's ark was made of logs, tied together with primitive ropes (54:13). Contrary to common belief, the flood was limited to the area around today's Dead Sea, and the animals were only Noah's livestock; not every animal that lived on earth."
+      }
     },
     {
       "number": 41,
@@ -382,6 +402,10 @@
       "subtitle": {
         "bm": "Mitos Untuk Jaminan.",
         "en": "The Myth of Intercession*"
+      },
+      "footnote": {
+        "bm": "*11:46 Syafaat ialah umpan Syaitan yang paling berkesan untuk menjerumuskan manusia ke dalam penyembahan berhala. Namun demikian, Ibrahim tidak dapat menolong bapanya, Nuh tidak dapat menolong anaknya, dan Muhammad juga tidak dapat menolong kaum keluarganya sendiri (2:254, 9:80 & 114).",
+        "en": "*11:46 Intercession is Satan's most effective bait to entice people into idol worship. However, Abraham could not help his father, nor could Noah help his son, nor could Muhammad help his own relatives (2:254, 9:80 & 114)."
       }
     },
     {
@@ -941,7 +965,11 @@
       "arabic": "إِلَّا مَنْ رَحِمَ رَبُّكَ وَلِذَٰلِكَ خَلَقَهُمْ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ",
       "bm": "Hanya orang orang yang mendapat belas kasih dari Tuhan kamu saja (tidak akan bertikaian berkenaan kebenaran).  Itulah sebabnya kenapa Dia menciptakan mereka. Pengadilan dari Tuhan kamu telah diisukan: \"Aku akan penuhkan Neraka dengan jin jin dan manusia manusia, kesemuanya.\"",
       "en": "Only those blessed with mercy from your Lord (will not dispute the truth). This is why He created them.* The judgment of your Lord has already been issued: \"I will fill Hell with jinns and humans, all together.\"**",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/011119.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/011119.mp3",
+      "footnote": {
+        "bm": "*11:119 Allah Yang Maha Pemurah telah menciptakan kita di bumi ini untuk memberi kita satu lagi peluang menolak jenayah asal kita dan ditebus semula (lihat Pendahuluan dan Lampiran 7).",
+        "en": "*11:119 The Most Merciful has created us on this earth to give us yet another chance to denounce our original crime and to be redeemed (see the Introduction and Appendix 7)."
+      }
     },
     {
       "number": 120,

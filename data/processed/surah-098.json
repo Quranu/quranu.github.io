@@ -1,7 +1,7 @@
 {
   "surahNumber": 98,
   "name": {
-    "ar": "سورة الـبينة",
+    "ar": "سورة البينة",
     "bm": "Bukti",
     "en": "Proof"
   },
@@ -19,7 +19,11 @@
       "arabic": "لَم يَكُنِ الَّذينَ كَفَروا مِن أَهلِ الكِتابِ وَالمُشرِكينَ مُنفَكّينَ حَتّىٰ تَأتِيَهُمُ البَيِّنَةُ",
       "bm": "Orang orang yang ingkar diantara ahli kitab, dan juga penyembah pujaan pujaan, berkeras dengan pendirian mereka, meskipun bukti telah diberikan kepada mereka.",
       "en": "Those who disbelieved among the people of the scripture, as well as the idol worshipers, insist on their ways, despite the proof given to them.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/098001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/098001.mp3",
+      "footnote": {
+        "bm": "*98:1-2 Buktinya adalah Quran kod matematika (Appendik 1) dan rasulnya adalah Rashad Khalifa. Nombor surah (98), dicampur dengan nombor ayat (2), dicampurkan dengan nilai gematrikal \"Rashad Khalifa\" (1230) dicampurkan menjadi 1330 (19 x 70), sama totalnya disurah 81:19 (Appendik 2).",
+        "en": "*98:1-2 The proof is the Quran's mathematical code (Appendix 1) and the messenger is Rashad Khalifa. The No. of sura (98), plus the verse No. (2), plus the numerical value of \"Rashad Khalifa\" (1230) add up to 1330 (19x70), the same total as in 81:19 (App. 2)."
+      }
     },
     {
       "number": 2,

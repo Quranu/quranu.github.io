@@ -19,7 +19,11 @@
       "arabic": "الم",
       "bm": "A. L. M. (Alif. Lam. Mim.)",
       "en": "A. L. M.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/032001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/032001.mp3",
+      "footnote": {
+        "bm": "*32:1 Makna huruf-huruf ini diberikan dalam ayat berikutnya: \"Kitab ini, tanpa sebarang keraguan, adalah wahyu daripada Tuhan semesta alam.\" Lihat Lampiran 1 untuk perinciannya.",
+        "en": "*32:1 The meaning of these letters is given in the next verse: \"This book is, without a doubt, a revelation from the Lord of the universe.\" See Appendix 1 for the details."
+      }
     },
     {
       "number": 2,
@@ -108,6 +112,10 @@
       "subtitle": {
         "bm": "Sudah Terlambat",
         "en": "Too Late"
+      },
+      "footnote": {
+        "bm": "*32:12 Jika dihantar kembali, mereka akan melakukan pelanggaran yang sama. Lihat Nota Kaki 6:28.",
+        "en": "*32:12 If sent back, they would commit the same transgressions. See Footnote 6:28."
       }
     },
     {
@@ -115,7 +123,11 @@
       "arabic": "وَلَوْ شِئْنَا لَآتَيْنَا كُلَّ نَفْسٍ هُدَاهَا وَلَٰكِنْ حَقَّ الْقَوْلُ مِنِّي لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ",
       "bm": "Jika kami kehendaki, kami tentunya boleh memberikan tiap tiap rohnya bimbingan, tetapi itu telah ditetapkan bahwa Aku akan penuhkan Neraka dengan para jin dan manusia, semua sekali.",
       "en": "Had we willed, we could have given every soul its guidance, but it is already predetermined that I will fill Hell with jinns and humans, all together.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/032013.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/032013.mp3",
+      "footnote": {
+        "bm": "*32:13 Majoriti manusia \"berkeras\" mahu ke Neraka, dengan memilih untuk mengabaikan jemputan Allah supaya mereka menebus diri. Allah tidak akan memasukkan seorang pun ke dalam Neraka. Mereka yang gagal menebus diri dengan menolak penyembahan berhala dan mengabdikan diri kepada Allah SAHAJA, serta gagal mengembangkan jiwa mereka melalui amalan-amalan yang ditetapkan oleh Pencipta kita, terpaksa berlari ke Neraka atas pilihan mereka sendiri. Mereka terlalu lemah untuk menahan kehadiran fizikal tenaga Allah.",
+        "en": "*32:13 The majority of humans \"insist\" upon going to Hell, by choosing to ignore God's invitations to redeem them. God will not put a single person in Hell. Those who fail to redeem themselves by denouncing idolatry and devoting themselves to God ALONE, and fail to develop their souls through the practices prescribed by our Creator, will have to run to Hell on their own volition. They will be too weak to stand the physical presence of God's energy."
+      }
     },
     {
       "number": 14,

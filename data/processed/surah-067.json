@@ -1,7 +1,7 @@
 {
   "surahNumber": 67,
   "name": {
-    "ar": "سورة الـملك",
+    "ar": "سورة الملك",
     "bm": "Yang Menguasai Kerajaan Kerajaan",
     "en": "Kingship"
   },
@@ -30,6 +30,10 @@
       "subtitle": {
         "bm": "Tujuan Kehidupan Kita",
         "en": "The Purpose of Our Life*"
+      },
+      "footnote": {
+        "bm": "*67:2 Lihat Pendahuluan dan Lampiran 7 untuk perincian tentang tujuan di sebalik dunia ini.",
+        "en": "*67:2 See the Introduction and Appendix 7 for details of the purpose behind this world."
       }
     },
     {

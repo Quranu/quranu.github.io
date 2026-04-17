@@ -19,14 +19,22 @@
       "arabic": "الر تِلكَ آياتُ الكِتابِ المُبينِ",
       "bm": "A . L . R. (Alif. Lam. Raa - Huruf huruf) didalam kitab ini adalah bukti bukti yang sangat nyata.",
       "en": "A. L. R. These (letters) are proofs of this profound scripture.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/012001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/012001.mp3",
+      "footnote": {
+        "bm": "*12:1 Huruf-huruf awal Quran merupakan komponen utama bagi satu mukjizat yang agung (Lampiran 1).",
+        "en": "*12:1 The Quranic initials constitute a major component of a great miracle (App. 1)."
+      }
     },
     {
       "number": 2,
       "arabic": "إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
       "bm": "Kami telah turunkan Quran ini dalam bahasa Arab, supaya dapat kamu memahaminya.",
       "en": "We have revealed it an Arabic Quran, that you may understand.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/012002.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/012002.mp3",
+      "footnote": {
+        "bm": "*12:2 Mengapakah Quran diwahyukan dalam bahasa Arab? Lihat 41:44 dan Lampiran 4.",
+        "en": "*12:2 Why was the Quran revealed in Arabic? See 41:44 and Appendix 4."
+      }
     },
     {
       "number": 3,
@@ -79,6 +87,10 @@
       "subtitle": {
         "bm": "Nasib Yusuf Telah Ditentukan Oleh Allah.",
         "en": "Joseph's Fate Already Decided by God*"
+      },
+      "footnote": {
+        "bm": "*12:9 Kita belajar daripada mimpi Yusuf bahawa beliau telah ditakdirkan untuk masa depan yang cerah. Oleh itu, ketika saudara-saudaranya bermesyuarat untuk menentukan nasibnya, nasibnya telah pun ditentukan oleh Allah. Segala sesuatu dilakukan oleh Allah (8:17), dan telah pun dicatatkan (57:22).",
+        "en": "*12:9 We learn from Joseph's dream that he was destined for a bright future. Thus, while his brothers met to decide his fate, his fate was already decided by God. Everything is done by God (8:17), and is already recorded (57:22)."
       }
     },
     {
@@ -189,6 +201,10 @@
       "subtitle": {
         "bm": "Allah Memelihara Orang Orang Percaya Dari Dosa.",
         "en": "God Protects the Believers From Sin"
+      },
+      "footnote": {
+        "bm": "*12:23 Yusuf menyusun kata-kata ini dengan cara yang membuat isteri pembesar itu menyangka bahawa beliau merujuk kepada suaminya, sedangkan sebenarnya beliau merujuk kepada Allah.",
+        "en": "*12:23 Joseph worded this statement in such a way that the governor's wife thought that he was talking about her husband, when in fact he was talking about God."
       }
     },
     {
@@ -245,7 +261,11 @@
       "arabic": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
       "bm": "Apabila dia mendengar umpatan mereka, dia menjemput mereka, menyediakan mereka tempat rehat yang nyaman, dan memberikannya tiap tiap seorang sebuah pisau. Maka dia berkata kepadanya, \"Masuklah kedalam bilik.\" Apabila mereka melihat dia, mereka kagum, hinggakan mereka memotong (melukakan) tangan tangan mereka. Mereka lantas berkata, \"Maha suci bagi Allah, ini bukanlah manusia; ini seorang malaikat yang mulia.\"",
       "en": "When she heard of their gossip, she invited them, prepared for them a comfortable place, and gave each of them a knife. She then said to him, \"Enter their room.\" When they saw him, they so admired him, that they cut their hands.* They said, \"Glory be to GOD, this is not a human being; this is an honorable angel.\"",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/012031.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/012031.mp3",
+      "footnote": {
+        "bm": "*12:31 Inilah perkataan yang sama digunakan dalam 5:38 mengenai tangan pencuri, dan jumlah nombor sura serta ayat (12+31 dan 5+38) adalah sama. Oleh itu, tangan pencuri itu sepatutnya ditandakan, bukan dipotong seperti amalan Islam yang rosak (lihat Nota Kaki 5:38).",
+        "en": "*12:31 This is the same word used in 5:38 regarding the hand of the thief, and the sum of sura and verse numbers (12+31 and 5+38) are the same. Therefore, the thief 's hand should be marked, not severed as practiced by the corrupted Islam (see Footnote 5:38)."
+      }
     },
     {
       "number": 32,
@@ -322,7 +342,11 @@
       "arabic": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِنْهُمَا اذْكُرْنِي عِنْدَ رَبِّكَ فَأَنْسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ",
       "bm": "Maka dia berkata kepada orang yang akan diselamatkan \"Ingatlah aku dituhan kamu.\" Lantas syaitan telah membuat dia melupakan Tuhannya, maka akibat dari itu, dia tinggal didalam penjara beberapa tahun lagi.",
       "en": "He then said to the one to be saved \"Remember me at your lord.\"* Thus, the devil caused him to forget his Lord, and, consequently, he remained in prison a few more years.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/012042.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/012042.mp3",
+      "footnote": {
+        "bm": "*12:42 Apabila Yusuf meminta sahabatnya supaya menjadi perantara kepada raja bagi pihaknya, beliau menunjukkan pergantungan kepada selain Allah untuk dibebaskan dari penjara. Ini tidak sesuai bagi seorang mukmin sejati, dan ketergelinciran yang serius itu menyebabkan Yusuf tinggal beberapa tahun lagi dalam penjara. Kita belajar daripada Quran bahawa hanya Allah yang dapat menghilangkan apa jua kesusahan yang menimpa kita. Seorang mukmin sejati percaya kepada Allah dan bergantung sepenuhnya kepada-Nya sahaja (1:5, 6:17, 8:17, 10:107).",
+        "en": "*12:42 When Joseph begged his companion to intercede with the king on his behalf, he exhibited dependence on other than God to be saved from the prison. This does not befit a true believer, and such a serious slip cost Joseph a few years in the prison. We learn from the Quran that only God can relieve any hardship that might befall us. A true believer trusts in God and depends totally on Him alone (1:5, 6:17, 8:17, 10:107)."
+      }
     },
     {
       "number": 43,
@@ -707,7 +731,11 @@
       "arabic": "اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ",
       "bm": "\"Ambillah bajuku; apabila kamu lemparkan pada wajah bapaku, pemandangannya akan kembali semula. Bawalah semua keluarga kamu dan kembalilah semula kepada aku.\"",
       "en": "\"Take this shirt of mine; when you throw it on my father's face, his vision will be restored. Bring your whole family and come back to me.\"*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/012093.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/012093.mp3",
+      "footnote": {
+        "bm": "*12:93 Ini menandakan permulaan Bani Israil di Mesir. Musa membawa mereka keluar dari Mesir beberapa abad kemudian.",
+        "en": "*12:93 This marks the beginning of the Children of Israel in Egypt. Moses led them out of Egypt a few centuries later."
+      }
     },
     {
       "number": 94,

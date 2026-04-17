@@ -19,7 +19,11 @@
       "arabic": "الر كِتابٌ أَنزَلناهُ إِلَيكَ لِتُخرِجَ النّاسَ مِنَ الظُّلُماتِ إِلَى النّورِ بِإِذنِ رَبِّهِم إِلىٰ صِراطِ العَزيزِ الحَميدِ",
       "bm": "A . L . R . (Alif. Lam. Raa) Sebuah kitab yang kami telah terangkan kepadamu, untuk mengeluarkan manusia dari kegelapan menuju kepada cahaya - dengan mengikuti kehendak dari Tuhan mereka ? kejalan yang Maha Berkuasa lagi Maha Terpuji.",
       "en": "A. L. R.* A scripture that we revealed to you, in order to lead the people out of darkness into the light--in accordance with the will of their Lord --to the path of the Almighty, the Praiseworthy.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/014001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/014001.mp3",
+      "footnote": {
+        "bm": "*14:1 Huruf-huruf awal ini kekal sebagai rahsia Ilahi yang terpelihara sehinggalah kod matematik Quran ditemui pada tahun 1974 M. Lihat Lampiran 1 tentang kepentingan huruf-huruf awal ini.",
+        "en": "*14:1 These initials remained a divinely guarded secret until the Quran's mathematical code was discovered in 1974 A.D. See Appendix 1 for the significance of these initials."
+      }
     },
     {
       "number": 2,
@@ -159,7 +163,11 @@
       "arabic": "يَتَجَرَّعُهُ وَلَا يَكَادُ يُسِيغُهُ وَيَأْتِيهِ الْمَوْتُ مِنْ كُلِّ مَكَانٍ وَمَا هُوَ بِمَيِّتٍ وَمِنْ وَرَائِهِ عَذَابٌ غَلِيظٌ",
       "bm": "Dia akan menelannya kedalam walaupun dia tidak dapat menahannya, sementara ajal mendatanginya disetiap arahan, tetapi dia tidak akan mati. Menunggunya ialah hukuman yang dahsyat.",
       "en": "He will gulp it down, though he cannot stand it, as death comes to him from every direction, but he will never die. Awaiting him is a terrible retribution.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/014017.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/014017.mp3",
+      "footnote": {
+        "bm": "*14:17 Apabila kita memberontak terhadap Allah dan bersetuju dengan Syaitan dalam pertikaian besar itu (38:69), para malaikat mencadangkan supaya kita dibuang ke Neraka (Lampiran 7). Tetapi Allah Yang Maha Pemurah memutuskan untuk memberi kita satu lagi peluang untuk menebus diri. Dia berkata kepada para malaikat, \"Aku mengetahui apa yang kamu tidak ketahui\" (2:30). Allah mengetahui bahawa ramai manusia akan membantah dengan mengatakan bahawa mereka tidak tahu betapa dahsyatnya Neraka. Gambaran tentang Neraka yang amat menggerunkan dalam 14:17 dan 22:19-22 menafikan bantahan sedemikian. Kini kita telah mendapat gambaran yang cukup jelas betapa dahsyatnya Neraka itu.",
+        "en": "*14:17 When we rebelled against God, and agreed with Satan during the great feud (38:69), the angels suggested that we should be banished to Hell (Appendix 7). But the Most Merciful decided to give us another chance to redeem ourselves. He said to the angels, \"I know what you do not know\" (2:30). God knew that many humans would have protested that they had no idea how bad Hell was. The awesome description of Hell in 14:17 and in 22:19-22, nullifies such a protest. Now we have a pretty good idea how terrible Hell is."
+      }
     },
     {
       "number": 18,
@@ -195,6 +203,10 @@
       "subtitle": {
         "bm": "Di-Hari Kebangkitan.",
         "en": "On the Day of Resurrection"
+      },
+      "footnote": {
+        "bm": "*14:21 Quran kerap berbicara tentang Akhirat dalam bentuk kala lampau. Ini kerana peristiwa-peristiwa masa depan itu telah pun disaksikan oleh Allah, dan pasti akan berlaku.",
+        "en": "*14:21 Frequently, the Quran talks about the Hereafter in the past tense. This is because those are future events already witnessed by God, and will surely come to pass."
       }
     },
     {
@@ -424,6 +436,10 @@
       "subtitle": {
         "bm": "Cekrawala Baru Dan Bumi Baru.",
         "en": "New Heavens and New Earth*"
+      },
+      "footnote": {
+        "bm": "*14:48 Nubuat ini juga terdapat dalam Perjanjian Lama (Yesaya 65:17 & 66:22) dan Perjanjian Baru: \"Apa yang kita nantikan ialah langit yang baharu dan bumi yang baharu, tempat, menurut janji-Nya, keadilan Allah akan menetap.\" (2 Petrus 3:13).",
+        "en": "*14:48 This prophecy is also found in the Old Testament (Isaiah 65:17 & 66:22) and the New Testament: \"What we await are new heavens and a new earth where, according to his promise, the justice of God will reside.\" (2 Peter 3:13)."
       }
     },
     {

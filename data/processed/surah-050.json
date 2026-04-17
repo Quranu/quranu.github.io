@@ -3,7 +3,7 @@
   "name": {
     "ar": "سورة ق",
     "bm": "Qaf",
-    "en": "Q"
+    "en": "Q."
   },
   "totalAyahs": 45,
   "ayahs": [
@@ -19,7 +19,11 @@
       "arabic": "ق وَالقُرآنِ المَجيدِ",
       "bm": "Q., (Qaf) dan kegemilangan Quran.",
       "en": "Q., and the glorious Quran.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/050001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/050001.mp3",
+      "footnote": {
+        "bm": "*50:1 Lihat Lampiran 1 untuk mukjizat yang menakjubkan yang berkaitan dengan huruf awal \"Q.\"",
+        "en": "*50:1 See Appendix 1 for the awesome miracles connected with the Initial ?Q.?"
+      }
     },
     {
       "number": 2,
@@ -173,7 +177,11 @@
       "arabic": "وَقَالَ قَرِينُهُ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
       "bm": "Temannya berkata, \"Ini adalah testimoniku yang menggerunkan.\"",
       "en": "The companion said, \"Here is my formidable testimony.\"*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/050023.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/050023.mp3",
+      "footnote": {
+        "bm": "*50:23-28 Teman sepanjang hayat kamu menjadi saksi atas segala yang kamu lakukan. Lihat Lampiran 7.",
+        "en": "*50:23-28 Your life-time companion witnesses everything you do. See Appendix 7."
+      }
     },
     {
       "number": 24,

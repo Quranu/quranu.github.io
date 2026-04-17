@@ -1,7 +1,7 @@
 {
   "surahNumber": 23,
   "name": {
-    "ar": "سورة المؤمنون",
+    "ar": "سورة المومنون",
     "bm": "Orang Orang Yang Percaya",
     "en": "The Believers"
   },
@@ -217,7 +217,11 @@
       "arabic": "فَأَوْحَيْنَا إِلَيْهِ أَنِ اصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ فَاسْلُكْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ مِنْهُمْ وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا إِنَّهُمْ مُغْرَقُونَ",
       "bm": "Maka kami meinspirasikan kepadanya: \"Buatlah sebuah rakit dari susunan kayu kayu balak dibawah pengawasanKu, dengan mengikuti inspirasi dari kami. Apabila perintah kami datang, dan atmosfera menggelegak naik, letakkan diatasnya setiap pasangan dari tiap tiap jenis (binatang binatang yang dibela jinak), dan keluargamu, melainkan orang orang yang telah dikutuk dan akan dibinasakan. Janganlah bercakap kepadaKu bagi pihak orang orang yang keterlaluan itu; mereka akan ditenggelamkan.",
       "en": "We then inspired him: \"Make the watercraft* under our watchful eyes, and in accordance with our inspiration. When our command comes, and the atmosphere boils up, put on it a pair of every kind (of your domesticated animals), and your family, except those condemned to be doomed. Do not speak to Me on behalf of those who transgressed; they will be drowned.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/023027.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/023027.mp3",
+      "footnote": {
+        "bm": "*23:27 Para pencerita telah mempermainkan sejarah Nuh. Bahtera Nuh ialah rakit air yang rata, dibuat daripada batang-batang kayu yang diikat dengan tali sederhana (54:13), banjir itu bersifat tempatan di sekitar kawasan Laut Mati, dan haiwan-haiwannya ialah haiwan peliharaan Nuh.",
+        "en": "*23:27 The story tellers have created a mockery of Noah's history. Noah's ark was a flat watercraft made of logs, tied together with primitive ropes (54:13), the flood was local, around the Dead Sea area, and the animals were Noah's domesticated animals."
+      }
     },
     {
       "number": 28,
@@ -632,6 +636,10 @@
       "subtitle": {
         "bm": "Kebanyakan Dari Orang Orang Yang Percaya Di-Takdirkan Ke-Neraka",
         "en": "Most Believers are Destined for Hell*"
+      },
+      "footnote": {
+        "bm": "*23:84-89 Kepercayaan kepada Allah sah hanya jika seseorang mengiktiraf sifat-sifat Allah, seperti hakikat bahawa Allah mengawal segala sesuatu (8:17). Orang beriman yang tidak mengenal Allah sebenarnya bukan orang beriman. Kebanyakan orang beriman membatalkan iman mereka dengan memuja berhala-berhala yang tidak berdaya seperti nabi-nabi dan wali-wali (6:106).",
+        "en": "*23:84-89 Belief in God is valid only if one recognizes God's qualities, such as the fact that God controls everything (8:17). Believers who do not know God are not really believers. Most believers nullify their belief by idolizing such powerless idols as the prophets and saints (6:106)."
       }
     },
     {

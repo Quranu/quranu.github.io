@@ -1,7 +1,7 @@
 {
   "surahNumber": 53,
   "name": {
-    "ar": "سورة الـنجـم",
+    "ar": "سورة النجم",
     "bm": "Bintang Bintang",
     "en": "The Stars"
   },
@@ -19,7 +19,11 @@
       "arabic": "وَالنَّجمِ إِذا هَوىٰ",
       "bm": "Sedang bintang bintang menghilang.",
       "en": "As the stars fell away.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/053001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/053001.mp3",
+      "footnote": {
+        "bm": "*53:1-18 Muhammad telah dipanggil ke alam semesta tertinggi untuk menerima Quran ini ke dalam hatinya. Bintang-bintang berlalu pergi ketika beliau merentasinya pada kelajuan berjuta-juta kali ganda lebih laju daripada cahaya. Selepas itu, Quran dilepaskan secara beransur-ansur ke dalam ingatannya. Lampiran 28.",
+        "en": "*53:1-18 Muhammad was summoned to the highest universe to receive this Quran into his heart. The stars fell away as he traveled through them at millions of times the speed of light. Subsequently, the Quran was gradually released to his memory. App. 28."
+      }
     },
     {
       "number": 2,

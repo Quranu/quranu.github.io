@@ -149,7 +149,11 @@
       "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
       "bm": "Ini adalah perkataan dari rasul yang mulia.",
       "en": "This is the utterance of an honorable messenger. *",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/081019.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081019.mp3",
+      "footnote": {
+        "bm": "*81:19 Dengan menambah nombor sura, ditambah nombor ayat, ditambah nilai gematria nama \"Rashad\" (505), ditambah nilai \"Khalifa\" (725), kita memperoleh 1330, iaitu 19x70. Ini memberikan bukti matematik Quran bahawa rasul ini ialah Rashad Khalifa.",
+        "en": "*81:19 By adding the sura number, plus the verse number, plus the gematrical value of the name \"Rashad\" (505), plus the value of \"Khalifa\" (725), we get 1330, 19x70. This provides Quranic mathematical proof that this messenger is Rashad Khalifa."
+      }
     },
     {
       "number": 20,
@@ -177,7 +181,11 @@
       "arabic": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
       "bm": "Dia melihatnya diufuk yang tinggi.",
       "en": "He saw him at the high horizon. *",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/081023.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/081023.mp3",
+      "footnote": {
+        "bm": "*81:23 Rashad Khalifa telah dipanggil ke ufuk yang tinggi seperti yang diperincikan dalam Lampiran 2.",
+        "en": "*81:23 Rashad Khalifa was summoned to the high horizon as detailed in Appendix 2."
+      }
     },
     {
       "number": 24,

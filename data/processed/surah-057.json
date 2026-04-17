@@ -1,7 +1,7 @@
 {
   "surahNumber": 57,
   "name": {
-    "ar": "سورة الحـديد",
+    "ar": "سورة الحديد",
     "bm": "Besi",
     "en": "Iron"
   },
@@ -40,7 +40,11 @@
       "arabic": "هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
       "bm": "Dia sahajalah yang menciptakan sekelian cekrawala dan bumi dalam enam hari, dan memegang segala kekuasaan. Dia mengetahui segala apa yang masuk kedalam bumi, dan segala apa yang keluar darinya, dan segala apa yang turun dari langit, dan segala apa yang naik kedalamnya. Dia ada bersama kamu dimana saja kamu berada. Sesungguhnya, Allah sahajalah yang Maha Melihat akan segala apa yang kamu lakukan.",
       "en": "He is the One who created the heavens and the earth in six days,* then assumed all authority. He knows everything that enters into the earth, and everything that comes out of it, and everything that comes down from the sky, and everything that climbs into it. He is with you wherever you may be. GOD is Seer of everything you do.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/057004.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/057004.mp3",
+      "footnote": {
+        "bm": "*57:4 Enam hari penciptaan hanyalah satu ukuran untuk memberitahu kita kepentingan relatif pelbagai komponen, menekankan kepentingan planet Bumi, dan memberitahu kita bahawa Bumi ialah satu-satunya planet yang dihuni. Lihat Nota Kaki 41:9-10.",
+        "en": "*57:4 The six days of creation are simply a yardstick to inform us of the relative importance of various components, to emphasize the significance of the planet Earth, and to let us know that the Earth is the only inhabited planet. See Footnote 41:9-10."
+      }
     },
     {
       "number": 5,
@@ -194,6 +198,10 @@
       "subtitle": {
         "bm": "Fakta Yang Nyata",
         "en": "Profound Fact*"
+      },
+      "footnote": {
+        "bm": "*57:22 Kita benar-benar bebas untuk berpihak kepada Allah atau kepada Syaitan. Allah kebetulan mengetahui dengan tepat keputusan apa yang akan dibuat oleh setiap seorang daripada kita. Pita video kehidupan kamu, dari lahir hingga mati, telah pun dirakam. Lihat Lampiran 14.",
+        "en": "*57:22 We are absolutely free to side with God, or with Satan. God happens to know precisely what kind of decision each of us will make. The video tape of your life, from birth to death, is already recorded. See Appendix 14."
       }
     },
     {

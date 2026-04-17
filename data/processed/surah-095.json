@@ -1,7 +1,7 @@
 {
   "surahNumber": 95,
   "name": {
-    "ar": "سورة الـتين",
+    "ar": "سورة التين",
     "bm": "Buah Tin",
     "en": "The Fig"
   },
@@ -19,7 +19,11 @@
       "arabic": "وَالتّينِ وَالزَّيتونِ",
       "bm": "Demi buah tin dan buah zaitun.",
       "en": "By the fig and the olive.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/095001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/095001.mp3",
+      "footnote": {
+        "bm": "*95:1-3 Buah tin, zaitun, Sinai dan Mecca berkemungkinan simbolik bagi masing masing Adam, Isa, Musa, Ibrahim dan Muhammad. Lantas, merupakan semua agama.",
+        "en": "*95:1-3 The fig, olive, Sinai, and Mecca possibly symbolize Adam, Jesus, Moses, Abraham, and Muhammad, respectively. Thus, all major religions are represented."
+      }
     },
     {
       "number": 2,

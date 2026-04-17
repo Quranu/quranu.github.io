@@ -19,6 +19,7 @@ const appState = {
   availableSurahCache: new Map(),
   audioErrors: new Set(),
   searchQuery: "",
+  isKeywordSearchLoading: false,
   loadingSurahNumber: null,
   surahRequestId: 0,
 };
@@ -39,6 +40,7 @@ const elements = {
   searchLabel: document.querySelector("#search-label"),
   searchForm: document.querySelector("#search-form"),
   surahSearch: document.querySelector("#surah-search"),
+  searchClearButton: document.querySelector("#search-clear-button"),
   searchSubmit: document.querySelector("#search-submit"),
   searchHint: document.querySelector("#search-hint"),
   lastReadChip: document.querySelector("#last-read-chip"),
@@ -134,6 +136,7 @@ function bindEvents() {
   });
 
   elements.surahSearch.addEventListener("input", handleSearchInputChange);
+  elements.searchClearButton.addEventListener("click", handleSearchClear);
 
   elements.searchForm.addEventListener("submit", async (event) => {
     event.preventDefault();
@@ -269,6 +272,17 @@ function bindEvents() {
 
 function handleSearchInputChange(event) {
   appState.searchQuery = event.target.value;
+  syncSearchControls();
+}
+
+function handleSearchClear() {
+  appState.searchQuery = "";
+  elements.surahSearch.value = "";
+  resetSearchState();
+  syncSearchControls();
+  renderSurahList();
+  renderSearchResults();
+  elements.surahSearch.focus();
 }
 
 function registerServiceWorker() {
@@ -300,7 +314,7 @@ function applyUiText() {
   elements.searchLabel.textContent = translate(appState.language, "searchLabel");
   elements.surahSearch.placeholder = translate(appState.language, "searchPlaceholder");
   elements.searchHint.textContent = translate(appState.language, "searchHint");
-  elements.searchSubmit.textContent = translate(appState.language, "searchButton");
+  syncSearchControls();
   renderLastReadChip();
   elements.readerHeading.textContent = translate(appState.language, "readerHeading");
   elements.backToList.textContent = translate(appState.language, "backToList");
@@ -374,6 +388,8 @@ function renderSearchResults() {
   elements.searchResults.innerHTML = appState.searchResults
     .map((result) => {
       const primaryName = getSuraDisplayName(result);
+      const secondaryName = getSuraSecondaryName(result);
+      const arabicName = getSuraArabicDisplayName(result);
       const snippet = highlightMatch(result.snippet, result.query);
 
       return `
@@ -384,7 +400,7 @@ function renderSearchResults() {
           data-result-ayah="${result.ayahNumber}"
         >
           <h3 class="result-title">${formatAyahReference(result.surahNumber, result.ayahNumber)}</h3>
-          <p class="result-meta">${primaryName} • ${result.surahName.ar}</p>
+          <p class="result-meta">${primaryName} • ${secondaryName} • ${arabicName}</p>
           <p class="result-snippet">
             <span class="result-snippet-label">${translate(appState.language, "resultSnippetLabel")}</span>
             <br />
@@ -894,6 +910,7 @@ async function executeSearch(rawQuery) {
   const parsed = parseSearchInput(rawQuery);
 
   if (parsed.type === "empty") {
+    setKeywordSearchLoading(false);
     resetSearchState();
     renderSurahList();
     renderSearchResults();
@@ -901,6 +918,7 @@ async function executeSearch(rawQuery) {
   }
 
   if (parsed.type === "invalid") {
+    setKeywordSearchLoading(false);
     appState.searchMode = "browse";
     appState.searchResults = [];
     appState.filteredCatalog = [...appState.catalog];
@@ -911,6 +929,7 @@ async function executeSearch(rawQuery) {
   }
 
   if (parsed.type === "reference") {
+    setKeywordSearchLoading(false);
     const selected = appState.catalog.find((surah) => surah.number === parsed.surahNumber);
     if (!selected || parsed.surahNumber < 1 || parsed.surahNumber > 114) {
       setSearchFeedback(translate(appState.language, "invalidReference"), true);
@@ -935,6 +954,7 @@ async function executeSearch(rawQuery) {
   }
 
   if (parsed.type === "surah") {
+    setKeywordSearchLoading(false);
     if (parsed.surahNumber < 1 || parsed.surahNumber > 114) {
       setSearchFeedback(translate(appState.language, "invalidReference"), true);
       renderSearchResults();
@@ -955,11 +975,16 @@ async function executeSearch(rawQuery) {
 }
 
 async function runKeywordSearch(query) {
+  setKeywordSearchLoading(true);
+  setSearchFeedback(translate(appState.language, "searchLoading"), false);
+  renderSearchResults();
+
   const availableSurahs = appState.catalog.filter((surah) => surah.available);
   if (availableSurahs.length === 0) {
     appState.searchMode = "keyword";
     appState.searchResults = [];
     setSearchFeedback(translate(appState.language, "unavailableSearch"), true);
+    setKeywordSearchLoading(false);
     renderSurahList();
     renderSearchResults();
     return;
@@ -1003,6 +1028,7 @@ async function runKeywordSearch(query) {
     count: results.length,
     query,
   }), false);
+  setKeywordSearchLoading(false);
   renderSurahList();
   renderSearchResults();
 }
@@ -1099,12 +1125,33 @@ function setSearchFeedback(message, isWarning) {
   appState.searchMessageIsWarning = isWarning;
 }
 
+function setKeywordSearchLoading(isLoading) {
+  appState.isKeywordSearchLoading = isLoading;
+  syncSearchControls();
+}
+
 function resetSearchState() {
   appState.searchMode = "browse";
   appState.searchResults = [];
   appState.filteredCatalog = [...appState.catalog];
   appState.highlightedAyahNumber = null;
   setSearchFeedback("", false);
+  setKeywordSearchLoading(false);
+}
+
+function syncSearchControls() {
+  const hasQuery = appState.searchQuery.trim().length > 0;
+  const clearLabel = translate(appState.language, "clearSearch");
+  const submitLabel = appState.isKeywordSearchLoading
+    ? translate(appState.language, "searchLoading")
+    : translate(appState.language, "searchButton");
+
+  elements.searchClearButton.hidden = !hasQuery;
+  elements.searchClearButton.setAttribute("aria-label", clearLabel);
+  elements.searchClearButton.title = clearLabel;
+  elements.searchSubmit.textContent = submitLabel;
+  elements.searchSubmit.classList.toggle("is-loading", appState.isKeywordSearchLoading);
+  elements.searchSubmit.disabled = appState.isKeywordSearchLoading;
 }
 
 function getLastRead() {

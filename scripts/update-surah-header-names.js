@@ -1,9 +1,124 @@
 const fs = require("fs");
 const path = require("path");
-const vm = require("vm");
 
-const sourcePath = process.argv[2] || "c:\\Users\\Lubis\\Downloads\\surah.js";
 const rawDir = path.join(__dirname, "..", "data", "raw");
+
+const arabicNameMap = parseNameMap(`
+1|سورة الفاتحة
+2|سورة البقرة
+3|سورة آل عمران
+4|سورة النساء
+5|سورة المائدة
+6|سورة الأنعام
+7|سورة الأعراف
+8|سورة الأنفال
+9|سورة براءة
+10|سورة يونس
+11|سورة هود
+12|سورة يوسف
+13|سورة الرعد
+14|سورة إبراهيم
+15|سورة الحجر
+16|سورة النحل
+17|سورة بنى إسرائيل
+18|سورة الكهف
+19|سورة مريم
+20|سورة طه
+21|سورة الأنبياء
+22|سورة الحج
+23|سورة المومنون
+24|سورة النور
+25|سورة الفرقان
+26|سورة الشعراء
+27|سورة النمل
+28|سورة القصص
+29|سورة العنكبوت
+30|سورة الروم
+31|سورة لقمان
+32|سورة السجدة
+33|سورة الأحزاب
+34|سورة سبأ
+35|سورة فاطر
+36|سورة يس
+37|سورة الصافات
+38|سورة ص
+39|سورة الزمر
+40|سورة غافر
+41|سورة فصلت
+42|سورة الشورى
+43|سورة الزخرف
+44|سورة الدخان
+45|سورة الجاثية
+46|سورة الأحقاق
+47|سورة محمد
+48|سورة الفتح
+49|سورة الحجرات
+50|سورة ق
+51|سورة الذاريات
+52|سورة الطور
+53|سورة النجم
+54|سورة القمر
+55|سورة الرحمن
+56|سورة الواقعة
+57|سورة الحديد
+58|سورة المجادلة
+59|سورة الحشر
+60|سورة الممتحنة
+61|سورة الصف
+62|سورة الجمعة
+63|سورة المنافقون
+64|سورة التغابن
+65|سورة الطلاق
+66|سورة التحريم
+67|سورة الملك
+68|سورة القلم
+69|سورة الحاقة
+70|سورة المعارج
+71|سورة نوح
+72|سورة الجن
+73|سورة المزمل
+74|سورة المدثر
+75|سورة القيامة
+76|سورة الإنسان
+77|سورة المرسلاة
+78|سورة النبأ
+79|سورة النازعات
+80|سورة عبس
+81|سورة التكوير
+82|سورة الإنفطار
+83|سورة المطففين
+84|سورة الإنشقاق
+85|سورة البروج
+86|سورة الطارق
+87|سورة الأعلى
+88|سورة الغاشية
+89|سورة الفجر
+90|سورة البلد
+91|سورة الشمس
+92|سورة الليل
+93|سورة الضحى
+94|سورة الشرح
+95|سورة التين
+96|سورة العلق
+97|سورة القدر
+98|سورة البينة
+99|سورة الزلزلة
+100|سورة العاديات
+101|سورة القارعة
+102|سورة التكاثر
+103|سورة العصر
+104|سورة الهمزة
+105|سورة الفيل
+106|سورة قريش
+107|سورة الماعون
+108|سورة الكوثر
+109|سورة الكافرون
+110|سورة النصر
+111|سورة المسد
+112|سورة الإخلاص
+113|سورة الفلق
+114|سورة الناس
+`);
 
 const bmNameMap = parseNameMap(`
 1|Kunci
@@ -133,7 +248,7 @@ const enNameMap = parseNameMap(`
 8|The Spoils of War
 9|Ultimatum
 10|Jonah
-11|Hûd
+11|Hood
 12|Joseph
 13|Thunder
 14|Abraham
@@ -153,14 +268,14 @@ const enNameMap = parseNameMap(`
 28|History
 29|The Spider
 30|The Romans
-31|Luqman
+31|Luqmaan
 32|Prostration
 33|The Parties
 34|Sheba
 35|Initiator
 36|Y.S.
 37|The Arrangers
-38|S
+38|S.
 39|The Throngs
 40|Forgiver
 41|Detailed
@@ -172,7 +287,7 @@ const enNameMap = parseNameMap(`
 47|Muhammad
 48|Victory
 49|The Walls
-50|Q
+50|Q.
 51|Drivers of the Winds
 52|Mount Sinai
 53|The Stars
@@ -194,9 +309,9 @@ const enNameMap = parseNameMap(`
 69|Incontestable
 70|The Heights
 71|Noah
-72|The Jinn
+72|Jinns
 73|Cloaked
-74|The Hidden secret
+74|The Hidden Secret
 75|Resurrection
 76|The Human
 77|Dispatched
@@ -210,7 +325,7 @@ const enNameMap = parseNameMap(`
 85|The Galaxies
 86|The Bright Star
 87|The Most High
-88|The Overwhelming
+88|Overwhelming
 89|Dawn
 90|The Town
 91|The Sun
@@ -228,7 +343,7 @@ const enNameMap = parseNameMap(`
 103|The Afternoon
 104|The Backbiter
 105|The Elephant
-106|The Quraish Tribe
+106|Quraish Tribe
 107|Charity
 108|Bounty
 109|The Disbelievers
@@ -242,12 +357,9 @@ const enNameMap = parseNameMap(`
 main();
 
 function main() {
+  validateNameMap(arabicNameMap, "AR");
   validateNameMap(bmNameMap, "BM");
   validateNameMap(enNameMap, "EN");
-
-  const surahData = loadSurahData(sourcePath);
-  const arabicNameMap = buildArabicNameMap(surahData);
-  validateNameMap(arabicNameMap, "AR");
 
   const rawFiles = fs
     .readdirSync(rawDir, { withFileTypes: true })
@@ -296,53 +408,6 @@ function validateNameMap(map, label) {
   if (map.size !== 114) {
     throw new Error(`${label} name map must contain 114 entries; found ${map.size}.`);
   }
-}
-
-function loadSurahData(filePath) {
-  const scriptContent = fs.readFileSync(filePath, "utf8");
-  const context = { surahData: {} };
-  vm.createContext(context);
-  vm.runInContext(scriptContent, context, { filename: filePath });
-  return context.surahData;
-}
-
-function buildArabicNameMap(surahData) {
-  const map = new Map();
-
-  for (const [surahNumber, surah] of Object.entries(surahData)) {
-    if (!surah || typeof surah.surahNameArabic !== "string") {
-      continue;
-    }
-
-    const repaired = repairArabicText(surah.surahNameArabic);
-    if (containsArabic(repaired)) {
-      map.set(Number(surahNumber), repaired);
-    }
-  }
-
-  return map;
-}
-
-function repairArabicText(value) {
-  let current = value;
-
-  for (let index = 0; index < 3; index += 1) {
-    if (containsArabic(current)) {
-      return current;
-    }
-
-    const repaired = Buffer.from(current, "latin1").toString("utf8");
-    if (repaired === current) {
-      break;
-    }
-    current = repaired;
-  }
-
-  return current;
-}
-
-function containsArabic(value) {
-  return /[\u0600-\u06FF]/.test(value);
 }
 
 function updateHeaderNames(content, surahNumber, nameAr, nameBm, nameEn) {

@@ -1,7 +1,7 @@
 {
   "surahNumber": 66,
   "name": {
-    "ar": "سورة الـتحريم",
+    "ar": "سورة التحريم",
     "bm": "Larangan",
     "en": "Prohibition"
   },
@@ -19,7 +19,11 @@
       "arabic": "ياأَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ ما أَحَلَّ اللَّهُ لَكَ تَبتَغي مَرضاتَ أَزواجِكَ وَاللَّهُ غَفورٌ رَحيمٌ",
       "bm": "Wahai kau nabi, kenapakah kau melarang apa yang Allah telah menjadikan halal bagimu, hanya kerana untuk menggembirakan isteri isterimu? Sesungguhnya, Allah sahajalah yang Maha Pengampun lagi Maha Penyayang.",
       "en": "O you prophet, why do you prohibit what GOD has made lawful for you, just to please your wives? GOD is Forgiver, Merciful.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/066001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/066001.mp3",
+      "footnote": {
+        "bm": "*66:1 Golongan Muhammadan di seluruh dunia percaya bahawa Muhammad tidak pernah melakukan kesilapan. Ayat ini mengajar kita bahawa beliau sememangnya manusia yang boleh tersilap (18:110, 33:37, 40:66, 80:1).",
+        "en": "*66:1 Mohammedans around the world believe that Muhammad was infallible. This verse teaches us that he was indeed a fallible human being (18:110, 33:37, 40:66, 80:1)."
+      }
     },
     {
       "number": 2,

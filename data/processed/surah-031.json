@@ -3,7 +3,7 @@
   "name": {
     "ar": "سورة لقمان",
     "bm": "Luqman",
-    "en": "Luqman"
+    "en": "Luqmaan"
   },
   "totalAyahs": 34,
   "ayahs": [
@@ -19,7 +19,11 @@
       "arabic": "الم",
       "bm": "A. L. M. (Alif. Lam. Mim)",
       "en": "A. L. M.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/031001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/031001.mp3",
+      "footnote": {
+        "bm": "*31:1 Lihat Lampiran 1 untuk peranan penting huruf-huruf awal ini.",
+        "en": "*31:1 See Appendix 1 for the important role of these initials."
+      }
     },
     {
       "number": 2,
@@ -107,7 +111,11 @@
       "arabic": "وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَابُنَيَّ لَا تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
       "bm": "Ingatlah apabila Luqman berkata kepada anak lelakinya, untuk mengajarnya, \"Wahai anak lelakiku, janganlah mengadakan sebarang pujaan pujaan disamping Allah; sesungguhnya menyekutukan (Allah) adalah ketidak adilan yang terbesar.\"",
       "en": "Recall that Luqmãn said to his son, as he enlightened him, \"O my son, do not set up any idols beside GOD; idolatry is a gross injustice.\"*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/031013.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/031013.mp3",
+      "footnote": {
+        "bm": "*31:13 Bagaimanakah perasaan kamu jika kamu membesarkan seorang anak, memberinya pendidikan terbaik, dan mempersiapkannya untuk hidup, tetapi akhirnya dia berterima kasih kepada orang lain? Demikianlah penyembahan berhala; satu kezaliman.",
+        "en": "*31:13 How will you feel if you take care of a child, give him the best education, and prepare him for life, only to see him thank someone else? Thus is idolatry; injustice."
+      }
     },
     {
       "number": 14,
@@ -286,6 +294,10 @@
       "subtitle": {
         "bm": "Perkara Perkara Yang Boleh Jadi Kita Tahu Ataupun Boleh Jadi Tidak",
         "en": "Things We May and May Not Know*"
+      },
+      "footnote": {
+        "bm": "*31:34 Allah mendedahkan pengetahuan-Nya bila-bila masa Dia menghendaki. Kita belajar daripada ayat ini bahawa kita mungkin dapat meramalkan hujan, dan jantina janin. Tetapi kita tidak akan pernah mengetahui masa atau tempat kematian. Selaras dengan 72:27, Allah telah mendedahkan penghujung dunia melalui Rasul Perjanjian-Nya. Lihat 15:87, 20:15, dan Lampiran 25 untuk perinciannya.",
+        "en": "*31:34 God reveals His knowledge whenever He wills. We learn from this verse that we may be able to predict the rain, and the gender of the fetus. But we can never know the time or place of death. In accordance with 72:27, God has revealed the end of the world through His Messenger of the Covenant. See 15:87, 20:15, and Appendix 25 for the details."
       }
     }
   ]

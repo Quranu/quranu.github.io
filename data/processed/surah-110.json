@@ -1,7 +1,7 @@
 {
   "surahNumber": 110,
   "name": {
-    "ar": "سورة الـنصر",
+    "ar": "سورة النصر",
     "bm": "Kemenangan",
     "en": "Triumph"
   },
@@ -23,7 +23,11 @@
       "arabic": "إِذا جاءَ نَصرُ اللَّهِ وَالفَتحُ",
       "bm": "Apabila kemenangan datang dari Allah, dan kejayaan.",
       "en": "When triumph comes from GOD, and victory.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/110001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/110001.mp3",
+      "footnote": {
+        "bm": "*110:1-3 Surah akhir ini, mengikut kronologi, mengandungi 19 huruf huruf Arab (lihat 96:1), dan ayat yang pertama mengandungi 19 huruf huruf. Ini menunjukkan generasi masa kini yang percaya akan mendapatkan kejayaan yang dijanjikan. Penyerahan diri sepenuhnya (Islam yang sebenar) akan mengatasi kesemua agama diseluruh dunia (48:28).",
+        "en": "*110:1-3 This last sura, chronologically, consists of 19 Arabic words (see 96:1), and the first verse consists of 19 letters. This indicates that this generation of believers shall attain the promised victory. Submission (true Islam) will prevail throughout the world (48:28)."
+      }
     },
     {
       "number": 2,

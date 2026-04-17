@@ -3,7 +3,7 @@
   "name": {
     "ar": "سورة الجن",
     "bm": "Jin",
-    "en": "The Jinn"
+    "en": "Jinns"
   },
   "totalAyahs": 28,
   "ayahs": [
@@ -19,7 +19,11 @@
       "arabic": "قُل أوحِيَ إِلَيَّ أَنَّهُ استَمَعَ نَفَرٌ مِنَ الجِنِّ فَقالوا إِنّا سَمِعنا قُرآنًا عَجَبًا",
       "bm": "Katakanlah, \"Aku telah diinspirasikan yang segolongan para jin mendengarkan, lalu berkata, 'Kami telah mendengar sebuah Quran yang amat hebat.",
       "en": "Say, \"I was inspired that a group of jinns listened, then said, 'We have heard a wonderful Quran.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/072001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/072001.mp3",
+      "footnote": {
+        "bm": "*72:1-28 Rasul yang dimaksudkan di sini dinamakan, secara matematik, sebagai \"Rashad Khalifa,\" yang kepadanya Allah mendedahkan akhir dunia (Lampiran 25). Bilangan ayat dari 1:1 hingga 72:27, tempat rasul itu disebut, ialah 5472, iaitu 19x72x4. Perkataan \"Rashada\" muncul 4 kali dalam Sura 72. Nilai \"Rashada\" ialah 504, dan 504+28 (jumlah ayat dalam Sura 72) ialah 532, iaitu 19x28. Nilai \"Rashad Khalifa\" (1230)+72+28=1330 =19x70. Digit-digit Sura 72 dan bilangan ayatnya (28) berjumlah 7+2+2+8=19. Selain itu, ungkapan penting, \"kecuali kepada rasul yang Dia pilih\" mempunyai nilai 1919, iaitu 19x101.",
+        "en": "*72:1-28 The messenger here is named, mathematically, as \"Rashad Khalifa,\" to whom God revealed the end of the world (Appendix 25). The number of verses from 1:1 to 72:27, where the messenger is mentioned, is 5472, 19x72x4. The word \"Rashada\" occurs 4 times in Sura 72. The value of \"Rashada\" is 504, and 504+28 (verses of Sura 72) is 532, 19x28. The value of \"Rashad Khalifa\" (1230)+72+28=1330 =19x70. The digits of Sura 72 and its number of verses (28) add up to 7+2+2+8=19. Also, the crucial expression, \"only to a messenger that He chooses\" has a value of 1919, 19x101."
+      }
     },
     {
       "number": 2,

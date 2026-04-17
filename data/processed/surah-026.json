@@ -19,7 +19,11 @@
       "arabic": "طسم",
       "bm": "T. S. M. (Tha. Seen. Mim.)",
       "en": "T. S. M.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/026001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/026001.mp3",
+      "footnote": {
+        "bm": "*26:1 Lihat Lampiran 1 untuk kepentingan huruf-huruf yang sebelumnya misteri ini.",
+        "en": "*26:1 See Appendix 1 for the significance of these previously mysterious letters."
+      }
     },
     {
       "number": 2,
@@ -1538,6 +1542,10 @@
       "subtitle": {
         "bm": "Para Rasul Yang Palsu Tidak akan Dapat Menyampaikan Ajaran Supaya Menyembah Allah Sahaja",
         "en": "False Messengers Incapable of Preaching the Worship of God ALONE*"
+      },
+      "footnote": {
+        "bm": "*26:210 Rasul palsu ialah utusan Syaitan, kerana dialah pereka pembohongan yang paling dahsyat. Rasul seperti itu tidak mungkin menolak penyembahan berhala, atau menyeru kepada penyembahan Allah SAHAJA.",
+        "en": "*26:210 A false messenger is a messenger of Satan, for he is the fabricator of the most horrendous lie. Such a messenger can never denounce idolatry, or preach the worship of God ALONE."
       }
     },
     {
@@ -1570,6 +1578,10 @@
       "subtitle": {
         "bm": "Rasul Allah Yang Di-Janjikan",
         "en": "God's Messenger of the Covenant*"
+      },
+      "footnote": {
+        "bm": "*26:214-223 Ayat-ayat ini merujuk kepada Rasul Perjanjian Allah: jumlah nilai gematria \"Rashad Khalifa\" (1230), ditambah nombor ayat ini (214), ialah 1230+214=1444=19x76=19x19x4, dan jumlah nombor ayat dari 214 hingga 223 ialah 2185=19x115 (Lampiran 1).",
+        "en": "*26:214-223 These verses refer to God's Messenger of the Covenant: the sum of the gematrical value of \"Rashad Khalifa\" (1230), plus the verse number (214) is 1230+ 214=1444=19x76= 19x19x4, and the sum of the verse numbers from 214 through 223 is 2185=19x115 (Appendix 1)."
       }
     },
     {

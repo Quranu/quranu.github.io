@@ -19,7 +19,11 @@
       "arabic": "الر تِلكَ آياتُ الكِتابِ الحَكيمِ",
       "bm": "A . L . R. (Alif. Lam. Raa - Huruf huruf) ini ialah bukti bukti bagi kitab yang penuh dengan kebijaksanaan (hikmah).",
       "en": "A. L. R.* These (letters) are the proofs of this book of wisdom.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/010001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/010001.mp3",
+      "footnote": {
+        "bm": "*10:1 Huruf-huruf ini membentuk sebahagian besar daripada kod matematik Quran yang menakjubkan dan menjadi bukti bahawa ia datang daripada Allah. Lihat Lampiran 1 untuk perinciannya.",
+        "en": "*10:1 These letters constitute a major portion of the Quran's awesome mathematical code and proof of divine authorship. See Appendix 1 for details."
+      }
     },
     {
       "number": 2,
@@ -137,6 +141,10 @@
       "subtitle": {
         "bm": "Tiap Tiap Huruf Di-Kira Dan Di-Susun Oleh Tuhan.",
         "en": "Every Letter Calculated and Divinely Designed"
+      },
+      "footnote": {
+        "bm": "*10:15 Perkataan \"Quran\" disebut dalam Quran sebanyak 58 kali, tetapi oleh sebab ayat ini merujuk kepada \"quran lain,\" ia mesti dikecualikan; \"Quran ini\" disebut dalam Quran sebanyak 57 kali, iaitu 19x3.",
+        "en": "*10:15 The word \"Quran\" is mentioned in the Quran 58 times, but since this verse refers to \"another Quran,\" it must be excluded; \"This Quran\" is mentioned in the Quran 57 times, 19x3."
       }
     },
     {
@@ -176,6 +184,10 @@
       "subtitle": {
         "bm": "Maklumat Berkenaan Mukjizat Quran Telah Di-Sahkan Selepas Muhammad",
         "en": "Miracle of the Quran to be Unveiled After Muhammad*"
+      },
+      "footnote": {
+        "bm": "*10:20 Jika dilihat kembali, kini kita sedar bahawa mukjizat Quran, iaitu benar-benar \"salah satu mukjizat yang terbesar\" (74:30-35), telah ditakdirkan secara Ilahi untuk didedahkan 14 abad selepas Muhammad. Melihat keadaan semasa Muslim tradisional, jika Muhammad sendiri diberikan mukjizat ini, Muslim yang sudah pun memujanya di samping Allah tentu akan menyembahnya sebagai Tuhan yang menjelma. Tambahan pula, mukjizat ini jelas direka untuk zaman komputer, dan untuk dihargai oleh generasi yang maju dalam matematik.",
+        "en": "*10:20 In retrospect, we see now that the Quran's miracle, indeed \"One of the greatest miracles\" (74:30-35), was divinely predestined to be unveiled 14 centuries after Muhammad. In view of the current condition of the traditional Muslims, if Muhammad had been given this miracle, those Muslims, who are already idolizing Muhammad beside God, would have worshiped him as God incarnate. Additionally, this miracle is obviously designed for the computer age, and to be appreciated by mathematically sophisticated generations."
       }
     },
     {
@@ -208,7 +220,11 @@
       "arabic": "إِنَّمَا مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْأَنْعَامُ حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَنْ لَمْ تَغْنَ بِالْأَمْسِ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ",
       "bm": "Analogi kehidupan didunia ini: kami turunkan hujan dari langit untuk mengeluarkan berbagai rupa tumbuh tumbuhan dari bumi, dan untuk memberikan makanan kepada manusia dan binatang binatang. Maka, apabila saja bumi ini telah disempurnakan hiasannya, dan apabila orang orang ini berfikir bahwa merekalah yang menguasai itu semua, pengadilan kami pun datang diwaktu malam ataupun siang, ditinggalkan habis keseluruhannya seolah olah kesemuanya itu tidak pernah wujud sebelumnya. Lantas kami terangkan revelasi revelasi kami kepada orang orang yang dapat merenungkan.",
       "en": "The analogy of this worldly life is like this: we send down water from the sky to produce with it all kinds of plants from the earth, and to provide food for the people and the animals. Then, just as the earth is perfectly adorned, and its people think that they are in control thereof, our judgment comes by night or by day,* leaving it completely barren, as if nothing existed the previous day. We thus explain the revelations for people who reflect.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/010024.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/010024.mp3",
+      "footnote": {
+        "bm": "*10:24 Sudah tentu Allah mengetahui sama ada penghakiman-Nya akan datang pada waktu siang atau malam. Tetapi kebetulannya bumi akan berada separuh siang dan separuh malam apabila kiamat tiba. Ini satu lagi \"mukjizat saintifik\" Quran.",
+        "en": "*10:24 God, of course, knows whether His judgment will come during the day, or during the night. But it just happens that the earth will be half day and half night when the end of the world comes. Another \"scientific miracle\" of the Quran."
+      }
     },
     {
       "number": 25,
@@ -518,6 +534,10 @@
       "subtitle": {
         "bm": "Kebahagian: Sekarang Dan Selama Lamanya.",
         "en": "Happiness: Now and Forever*"
+      },
+      "footnote": {
+        "bm": "*10:62-64 Kebanyakan orang berfikir bahawa mereka perlu menunggu sehingga Hari Kebangkitan sebelum menerima ganjaran bagi kebenaran, atau pembalasan bagi kejahatan. Tetapi Quran berulang kali memberi jaminan kepada orang beriman bahawa mereka dijamin kebahagiaan yang sempurna di dunia ini, sekarang dan selama-lamanya. Apabila tempoh mereka di sini berakhir, mereka terus pergi ke Syurga (lihat Lampiran 17).",
+        "en": "*10:62-64 Most people think that they have to wait until the Day of Resurrection before they receive their rewards for righteousness, or the retribution for wickedness. But the Quran repeatedly assures the believers that they are guaranteed perfect happiness here in this world, now and forever. At the end of their interim here, they go directly to Paradise (see Appendix 17)."
       }
     },
     {
@@ -741,7 +761,11 @@
       "arabic": "آلْآنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنْتَ مِنَ الْمُفْسِدِينَ",
       "bm": "\"Sudah terlambat! kerana kamu telah menentang, dan menjadi seorang yang pelampau.",
       "en": "\"Too late!* For you have rebelled already, and chose to be a transgressor.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/010091.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/010091.mp3",
+      "footnote": {
+        "bm": "*10:91 Beriman kepada Allah ialah langkah pertama. Selepas itu, seseorang perlu memelihara dan mengembangkan jiwanya melalui amalan-amalan ibadah (lihat Lampiran 15).",
+        "en": "*10:91 Believing in God is the first step. Thereafter, one needs to nourish and develop the soul through the practices of worship (see Appendix 15)."
+      }
     },
     {
       "number": 92,
@@ -752,6 +776,10 @@
       "subtitle": {
         "bm": "Mengekalkan Tubuh Fir'aun.",
         "en": "Pharaoh's Body Preserved*"
+      },
+      "footnote": {
+        "bm": "*10:92 Allah mengurniakan orang Mesir pengetahuan khusus tentang mumifikasi. Hari ini, tubuh Firaun yang telah diawet dipamerkan di Muzium Kaherah.",
+        "en": "*10:92 God endowed the Egyptians with the exclusive knowledge of mummification. Today, Pharaoh's mummified body is on display at the Cairo Museum."
       }
     },
     {
@@ -809,7 +837,11 @@
       "arabic": "وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا أَفَأَنْتَ تُكْرِهُ النَّاسَ حَتَّىٰ يَكُونُوا مُؤْمِنِينَ",
       "bm": "Dengan kehendak Allah, semua manusia dimuka bumi ini dapat mempercayainya. Adakah kamu berkeinginan memaksa orang orang ini supaya percaya?",
       "en": "Had your Lord willed, all the people on earth would have believed.* Do you want to force the people to become believers?",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/010099.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/010099.mp3",
+      "footnote": {
+        "bm": "*10:99-101 Ujian ini menuntut supaya kita menolak penyembahan berhala dengan pilihan kita sendiri, tanpa campur tangan Ilahi dalam keputusan awal kita. Allah menutup jalan bagi mereka yang memilih untuk tidak percaya.",
+        "en": "*10:99-101 The test demands that we denounce idolatry on our own, without divine intervention in our initial decision. God blocks out those who choose to disbelieve."
+      }
     },
     {
       "number": 100,

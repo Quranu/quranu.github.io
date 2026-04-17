@@ -3,7 +3,7 @@
   "name": {
     "ar": "سورة ص",
     "bm": "Saad",
-    "en": "S"
+    "en": "S."
   },
   "totalAyahs": 88,
   "ayahs": [
@@ -19,7 +19,11 @@
       "arabic": "ص وَالقُرآنِ ذِي الذِّكرِ",
       "bm": "S. (Saad), dan Quran yang mengandungi bukti.",
       "en": "S. (Saad),* and the Quran that contains the proof.**",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/038001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/038001.mp3",
+      "footnote": {
+        "bm": "*38:1 Huruf awal ini (Saad) muncul dalam sura 7, 19, dan 38 sebanyak 152 kali, iaitu 19x8 (Lampiran 1).",
+        "en": "*38:1 This Initial (Saad) occurs in suras 7, 19, & 38 a total of 152 times, 19x8 (Appendix 1)."
+      }
     },
     {
       "number": 2,
@@ -173,7 +177,11 @@
       "arabic": "إِنَّ هَٰذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِي فِي الْخِطَابِ",
       "bm": "\"Saudaraku ini mempunyai sembilan puluh sembilan biri biri, sementara aku hanya mempunyai satu biri biri saja. Dia berkehendak untuk mencampurkan biri biriku  kepada dia, dan berterusan dengan memaksaku.\"",
       "en": "\"This brother of mine owns ninety-nine* sheep, while I own one sheep. He wants to mix my sheep with his, and continues to pressure me.\"",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/038023.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/038023.mp3",
+      "footnote": {
+        "bm": "*38:23 Inilah satu-satunya tempat di mana nombor 99 muncul. Tiga puluh nombor berbeza disebut dalam Quran, dan jumlahnya ialah 162146, iaitu 19x8534. Lihat Lampiran 1.",
+        "en": "*38:23 This is the only place where the number 99 occurs. Thirty different numbers are mentioned in the Quran, and their total comes to 162146, 19x8534. See Appendix 1."
+      }
     },
     {
       "number": 24,
@@ -184,6 +192,10 @@
       "subtitle": {
         "bm": "Contoh Ketakwahan Daud.",
         "en": "David's Exemplary Piety"
+      },
+      "footnote": {
+        "bm": "*38:24 Dalam contoh yang jelas ini, 99 di satu pihak berbanding 1 di pihak yang lain, kehati-hatian Daud yang melampau untuk membuat penghakiman yang betul menyebabkan beliau memohon ampun. Adakah kita seteliti ini?",
+        "en": "*38:24 In this clear example, 99 on one side vs 1 on the other side, David's extreme care to render the correct judgment caused him to ask forgiveness. Are we this careful?"
       }
     },
     {
@@ -244,7 +256,11 @@
       "arabic": "فَقَالَ إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَنْ ذِكْرِ رَبِّي حَتَّىٰ تَوَارَتْ بِالْحِجَابِ",
       "bm": "Lalu dia berkata, \"Aku menyukai kebendaan lebih dari aku menyukai menyembah Tuhanku, sehinggakan matahari menghilang.",
       "en": "He then said, \"I enjoyed the material things more than I enjoyed worshiping my Lord, until the sun was gone.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/038032.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/038032.mp3",
+      "footnote": {
+        "bm": "*38:32 Sulaiman terlepas sembahyang petangnya kerana kuda-kudanya. Untuk membatalkan dakwaan Syaitan bahawa Sulaiman lebih mencintai kudanya daripada mencintai Allah, beliau melepaskan kudanya.",
+        "en": "*38:32 Solomon missed his afternoon prayer because of his horses. To nullify Satan's possible claim that Solomon loved his horses more than loving God, he got rid of his horses."
+      }
     },
     {
       "number": 33,
@@ -258,7 +274,11 @@
       "arabic": "وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِ جَسَدًا ثُمَّ أَنَابَ",
       "bm": "Lantas, kami mencuba Sulayman; kami merahmatinya dengan harta benda yang banyak, tetapi dia tetap menyerahkan dirinya dengan penuh kesabaran.",
       "en": "We thus put Solomon to the test; we blessed him with vast material wealth, but he steadfastly submitted.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/038034.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/038034.mp3",
+      "footnote": {
+        "bm": "*38:34 & 41 Sulaiman dan Ayub mewakili kedua-dua hujung spektrum ujian. Kita diuji sama ada dengan kekayaan, kesihatan, atau kekurangan semua itu, untuk melihat sama ada kita menyembah Allah sahaja dalam semua keadaan.",
+        "en": "*38:34 & 41 Solomon and Job represent both ends of the testing spectrum. We are put to the test through wealth, health, or lack of them, to see if we worship God alone under all circumstances."
+      }
     },
     {
       "number": 35,
@@ -527,7 +547,11 @@
       "arabic": "مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَإِ الْأَعْلَىٰ إِذْ يَخْتَصِمُونَ",
       "bm": "\"Aku dahulunya tidak mempunyai ilmu pengetahuan, tentang persengketaan didalam Masyarakat yang Tinggi.",
       "en": "\"I had no knowledge previously, about the feud in the High Society.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/038069.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/038069.mp3",
+      "footnote": {
+        "bm": "*38:69 Pertikaian dalam Majlis Tertinggi dicetuskan oleh cabaran Syaitan terhadap kekuasaan mutlak Allah. Inilah pasti peristiwa paling penting dalam sejarah umat manusia. Kita gagal mengambil pendirian tegas berhubung kekuasaan mutlak Allah. Kehidupan ini mewakili peluang ketiga dan terakhir untuk menebus diri (lihat Pendahuluan dan Lampiran 7).",
+        "en": "*38:69 The feud in the High Society was triggered by Satan's challenge to God's absolute authority. This is definitely the most important event in the history of the human race. We failed to make a firm stand regarding God's absolute authority. This life represents the third and final chance to redeem ourselves (See the Introduction and Appendix 7)."
+      }
     },
     {
       "number": 70,

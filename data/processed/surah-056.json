@@ -1,7 +1,7 @@
 {
   "surahNumber": 56,
   "name": {
-    "ar": "سورة الواقعـة",
+    "ar": "سورة الواقعة",
     "bm": "Yang Tidak Boleh Di-Elakkan Lagi",
     "en": "The Inevitable"
   },
@@ -103,7 +103,11 @@
       "arabic": "ثُلَّةٌ مِنَ الْأَوَّلِينَ",
       "bm": "Kebanyakan daripada generasi generasi yang pertama.",
       "en": "Many from the first generations.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/056013.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056013.mp3",
+      "footnote": {
+        "bm": "*56:13-40 Orang-orang yang beriman dan memelihara jiwa mereka melalui penyembahan Allah sahaja ditakdirkan ke Syurga Tinggi. Para pengikut sezaman bagi setiap rasul pasti menghadapi penganiayaan daripada golongan tradisionalis dan penganut agama yang telah rosak. Oleh itu, ada satu tempat istimewa yang disediakan untuk mereka di Syurga Tinggi. Semua orang yang meninggal sebelum umur 40 tahun sekurang-kurangnya akan ke Syurga Rendah (46:15).",
+        "en": "*56:13-40 People who believe and nourish their souls through worshiping God alone are destined for the High Heaven. The contemporary followers of each messenger invariably suffer persecution from the traditionalists and adherents of the corrupted religion. Thus, they have a special place reserved for them in the High Heaven. All people who die before the age of 40 go to the Lower Heaven, at least (46:15)."
+      }
     },
     {
       "number": 14,
@@ -553,6 +557,10 @@
       "subtitle": {
         "bm": "Hanya Yang Jujur Saja Yang Dapat Memahami Quran",
         "en": "Only the Sincere Can Understand the Quran"
+      },
+      "footnote": {
+        "bm": "*56:75-76 Alam semesta kita, yang paling kecil dan paling dalam daripada tujuh alam semesta, mengandungi satu bilion galaksi, satu bilion trilion bintang, merentasi berbilion tahun cahaya. Jasadi-jasad samawi yang tidak terhitung ini mengekalkan orbitnya dengan ketepatan yang dikawal secara Ilahi. Semakin banyak yang kita pelajari, semakin kita menyedari betapa agungnya sumpah ini. Lihat Lampiran 6.",
+        "en": "*56:75-76 Our universe, the smallest and innermost of seven universes, contains a billion galaxies, a billion trillion stars, spanning billions of light years. These uncountable decillions of heavenly bodies maintain their orbits in a divinely controlled precision. The more we learn, the more we realize how awesome this oath is. See Appendix 6."
       }
     },
     {
@@ -581,7 +589,11 @@
       "arabic": "لَا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
       "bm": "Tidak ada sesiapa yang boleh memegangnya melainkan yang jujur.",
       "en": "None can grasp it except the sincere.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/056079.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/056079.mp3",
+      "footnote": {
+        "bm": "*56:79 Orang-orang yang tidak ikhlas dan tidak berpuas hati dengan Quran sahaja dihalang secara Ilahi daripada memahami Quran. Konsep ini berulang kali dinyatakan di seluruh Quran (17:45, 18:57). Oleh itu, mereka tidak dapat memahami ayat ini. Sebagai contoh, bandingkan terjemahan 7:3, 17:46, 41:44, dan 56:79 ini dengan terjemahan-terjemahan lain.",
+        "en": "*56:79 The insincere who are not satisfied with the Quran alone are divinely prevented from understanding the Quran. This concept is repeated throughout the Quran (17:45, 18:57). Consequently, they cannot understand this verse. For example, compare this translation of 7:3, 17:46, 41:44, & 56:79 with other translations."
+      }
     },
     {
       "number": 80,

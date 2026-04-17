@@ -11,6 +11,7 @@ function main() {
   ensureDirectory(processedDir);
 
   const availableSurahs = new Set();
+  const parsedNameMap = new Map();
   const rawFiles = fs
     .readdirSync(rawDir, { withFileTypes: true })
     .filter((entry) => entry.isFile() && entry.name.endsWith(".txt"))
@@ -30,13 +31,18 @@ function main() {
     const officialAyahCount = validateAyahs(parsed.surahNumber, parsed.ayahs, expectedOfficialAyahs);
 
     availableSurahs.add(parsed.surahNumber);
+    parsedNameMap.set(parsed.surahNumber, {
+      ar: parsed.nameAr || meta.ar,
+      bm: parsed.nameBm || meta.bm,
+      en: parsed.nameEn || meta.en,
+    });
 
     const output = {
       surahNumber: parsed.surahNumber,
       name: {
-        ar: parsed.nameAr || meta.ar,
-        bm: parsed.nameBm || meta.bm,
-        en: parsed.nameEn || meta.en,
+        ar: parsedNameMap.get(parsed.surahNumber).ar,
+        bm: parsedNameMap.get(parsed.surahNumber).bm,
+        en: parsedNameMap.get(parsed.surahNumber).en,
       },
       totalAyahs: officialAyahCount,
       ayahs: parsed.ayahs,
@@ -53,9 +59,9 @@ function main() {
   const catalog = surahMeta.map((item) => ({
     number: item.number,
     name: {
-      ar: item.ar,
-      bm: item.bm,
-      en: item.en,
+      ar: parsedNameMap.get(item.number)?.ar ?? item.ar,
+      bm: parsedNameMap.get(item.number)?.bm ?? item.bm,
+      en: parsedNameMap.get(item.number)?.en ?? item.en,
     },
     totalAyahs: getExpectedOfficialAyahs(item.number, item.totalAyahs),
     available: availableSurahs.has(item.number),

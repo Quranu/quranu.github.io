@@ -1,7 +1,7 @@
 {
   "surahNumber": 17,
   "name": {
-    "ar": "سورة بني إسرائيل",
+    "ar": "سورة بنى إسرائيل",
     "bm": "Keturunan Israil",
     "en": "The Children of Israel"
   },
@@ -19,7 +19,11 @@
       "arabic": "سُبحانَ الَّذي أَسرىٰ بِعَبدِهِ لَيلًا مِنَ المَسجِدِ الحَرامِ إِلَى المَسجِدِ الأَقصَى الَّذي بارَكنا حَولَهُ لِنُرِيَهُ مِن آياتِنا إِنَّهُ هُوَ السَّميعُ البَصيرُ",
       "bm": "Maha Terpuji bagi yang Maha Esa yang memerintahkan hambaNya (Muhammad) diwaktu malam, dari Masjid Suci (Mekkah) ketempat persujudan yang paling jauh, dimana disekelilingnya telah kami rahmati, untuk menunjukkan kepadanya beberapa tanda tanda kami. Sesungguhnya, Dialah Maha Mendengar lagi Maha Melihat.",
       "en": "Most glorified is the One who summoned His servant (Muhammad) during the night, from the Sacred Masjid (of Mecca) to the farthest place of prostration,* whose surroundings we have blessed, in order to show him some of our signs. He is the Hearer, the Seer.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/017001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/017001.mp3",
+      "footnote": {
+        "bm": "*17:1 \"Masjid Al-Aqsa\" bermaksud \"tempat sujud yang paling jauh,\" berbilion-bilion tahun cahaya jauhnya. Ayat ini memberitahu kita bahawa Muhammad, iaitu roh itu, telah dibawa ke Syurga tertinggi untuk menerima Quran (2:185, 44:3, 53:1-18, & 97:1).",
+        "en": "*17:1 \"The Aqsa Masjid\" means \"the farthest place where there is prostration,\" many billions of Light Years away. This verse informs us that Muhammad, the soul, was taken to the highest Heaven to be given the Quran (2:185, 44:3, 53:1-18, & 97:1)."
+      }
     },
     {
       "number": 2,
@@ -111,6 +115,10 @@
       "subtitle": {
         "bm": "Pita Video",
         "en": "The Video Tape*"
+      },
+      "footnote": {
+        "bm": "*17:13 Kehidupan kamu telah pun dirakamkan, seolah-olah pada pita video, sejak lahir hingga mati. Rekod yang sama ini akan diberikan kepada kita semula ketika kebangkitan. Lihat 57:22 dan Lampiran 14.",
+        "en": "*17:13 Your life is already recorded, as if on a video tape, from birth to death. This same record will be made accessible to us upon resurrection. See 57:22 & Appendix 14."
       }
     },
     {
@@ -382,6 +390,10 @@
       "subtitle": {
         "bm": "Quran: SATU-SATUNYA Sumber",
         "en": "Quran: The ONLY Source"
+      },
+      "footnote": {
+        "bm": "*17:46 Perkataan Arab bagi \"sahaja\" merujuk kepada Allah dalam 7:70, 39:45, 40:12 & 84, dan 60:4. Jika kamu jumlahkan nombor-nombor ini, hasilnya 361, iaitu 19x19. Tetapi jika kamu masukkan 17:46, yang merujuk kepada Quran, hasilnya bukan lagi gandaan 19. Oleh itu, \"sahaja\" merujuk kepada Quran dalam 17:46 (Lampiran 18).",
+        "en": "*17:46 The Arabic word \"alone\" refers to God in 7:70, 39:45, 40:12 & 84, and 60:4. If you add these numbers, you get 361, 19x19. But if you include 17:46, which refers to the Quran, the product is not a multiple of 19. \"Alone,\" therefore refers to the Quran in 17:46 (Appendix 18)."
       }
     },
     {
@@ -492,7 +504,11 @@
       "arabic": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا",
       "bm": "Kami telah memberitahukan kepada kamu yang Tuhan kamu itu berkuasa dengan sepenuhnya keatas manusia, dan kami berikan visi yang telah kami tunjukkan kepada kamu bahwa itu adalah ujian bagi manusia, dan pokok yang telah disumpah didalam Quran. Kami tunjukkan kepada mereka bukti bukti yang kuat untuk menanamkan rasa penghormatan didalam diri diri mereka, tetapi ini hanyalah menambahkan keingkaran mereka.",
       "en": "We informed you that your Lord fully controls the people, and we rendered the vision that we showed you a test for the people, and the tree that is accursed in the Quran.* We showed them solid proofs to instill reverence in them, but this only augmented their defiance.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/017060.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/017060.mp3",
+      "footnote": {
+        "bm": "*17:60 Perjalanan Muhammad ke Syurga tertinggi untuk menerima Quran, sebagaimana dinyatakan dalam 17:1 dan 53:1-18, menjadi satu ujian kerana manusia perlu mempercayai Muhammad berdasarkan iman.",
+        "en": "*17:60 Muhammad's journey to the highest heaven to receive the Quran, as stated in 17:1 and 53:1-18, is a test because the people had to believe Muhammad on faith."
+      }
     },
     {
       "number": 61,
@@ -538,7 +554,11 @@
       "arabic": "رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا مِنْ فَضْلِهِ إِنَّهُ كَانَ بِكُمْ رَحِيمًا",
       "bm": "Tuhan kamu Sahajalah yang menyebabkan kapal kapal terapung diatas samudera, yang mana kamu dapat mencari pemberianNya. Sesungguhnya Dialah yang Maha Penyayang terhadap kamu.",
       "en": "Your Lord is the One who causes the ships to float on the ocean,* that you may seek His bounties. He is Most Merciful towards you.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/017066.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/017066.mp3",
+      "footnote": {
+        "bm": "*17:66 Kini kita mengetahui daripada fizik dan kimia fizik bahawa air memiliki sifat-sifat unik yang menjadikannya sangat sesuai untuk memenuhi pelbagai keperluan kita.",
+        "en": "*17:66 We now learn from physics and physical chemistry that water possesses unique qualities that render it perfectly suitable for serving our various needs."
+      }
     },
     {
       "number": 67,
@@ -759,7 +779,11 @@
       "arabic": "أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَقْرَؤُهُ قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا بَشَرًا رَسُولًا",
       "bm": "\"Ataupun jika kau mempunyai rumah besar yang mewah, ataupun jika kau dapat memanjat naik kelangit. Walaupun jika kau dapat memanjat, kami tidak akan percaya melainkan kau bawakan buku yang kami boleh baca.\" Katakanlah, \"Segala kepujian bagi Tuhanku. Mestikah aku lebih dari seorang rasul?\"",
       "en": "\"Or unless you own a luxurious mansion, or unless you climb into the sky. Even if you do climb, we will not believe unless you bring a book that we can read.\"* Say, \"Glory be to my Lord. Am I any more than a human messenger?\"",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/017093.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/017093.mp3",
+      "footnote": {
+        "bm": "*17:93 Rasul Perjanjian Allah, Rashad Khalifa, juga dicabar dengan cabaran-cabaran seperti ini, termasuk cabaran untuk membawa kitab baharu atau menjatuhkan bongkah-bongkah dari langit. Ayat 3:81 mentakrifkan tugas-tugas Rasul Perjanjian Allah. Bukti yang sangat kuat diperincikan dalam Lampiran 2 dan 26.",
+        "en": "*17:93 God's Messenger of the Covenant, Rashad Khalifa, was thus challenged, including the challenge to bring a new book, or bring down masses from the sky. Verse 3:81 defines the duties of God's Messenger of the Covenant. Overwhelming proof is detailed in Appendices 2 & 26."
+      }
     },
     {
       "number": 94,

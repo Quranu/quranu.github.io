@@ -1,7 +1,7 @@
 {
   "surahNumber": 46,
   "name": {
-    "ar": "سورة الأحقاف",
+    "ar": "سورة الأحقاق",
     "bm": "Bukit Pasir",
     "en": "The Dunes"
   },
@@ -62,6 +62,10 @@
       "subtitle": {
         "bm": "Pujaan Pujaan Menafikan Penyembah Penyembah Mereka",
         "en": "The Idols Disown Their Worshipers*"
+      },
+      "footnote": {
+        "bm": "*46:6 Lihat juga Matius 7:21-23: Isa dengan jelas berlepas diri daripada mereka yang memanggilnya \"Tuhan.\"",
+        "en": "*46:6 See also Matthew 7:21-23: Jesus clearly disowns those who call him \"Lord.\""
       }
     },
     {
@@ -94,6 +98,10 @@
       "subtitle": {
         "bm": "Rabai Judah Yang Warak",
         "en": "Rabbi Judah the Pious*"
+      },
+      "footnote": {
+        "bm": "*46:10 Saksi ini ialah Rabbi Judah the Pious (abad ke-11 M), yang menemui kod matematik berasaskan 19 yang sama dalam cebisan kitab suci yang masih utuh (lihat Lampiran 1).",
+        "en": "*46:10 This witness is Rabbi Judah the Pious (11th Century A.D.), who discovered the same 19-based mathematical code in intact fragments of the scripture (see Appendix 1)."
       }
     },
     {
@@ -137,6 +145,10 @@
       "subtitle": {
         "bm": "40: Umur Untuk Penentuan",
         "en": "40: The Age of Decision*"
+      },
+      "footnote": {
+        "bm": "*46:15 Allah mengetahui sepenuhnya siapa yang layak ke Syurga dan siapa yang layak ke Neraka. Sudah menjadi hukum-Nya bahawa sesiapa yang dimatikan sebelum umur 40 tahun akan masuk Syurga. Rahmat Allah yang amat besar ini tercermin pada hakikat bahawa kebanyakan manusia sukar menerima rahmat Ilahi ini; mereka membantah: \"Masukkan mereka ke dalam Neraka!\" Lihat Lampiran 32.",
+        "en": "*46:15 God knows full well who deserves to go to Heaven and who deserves to go to Hell. It is His law that whomever He puts to death before the age of 40 shall go to Heaven. God's immense mercy is reflected in the fact that most people have difficulty accepting this divine mercy; they argue: \"Put them in Hell!\" See Appendix 32."
       }
     },
     {
@@ -247,6 +259,10 @@
       "subtitle": {
         "bm": "Yang Percaya Di-Kalangan Para Jin",
         "en": "Believers Among the Jinns*"
+      },
+      "footnote": {
+        "bm": "*46:29 Jin ialah makhluk yang sepenuhnya bersetuju dengan Syaitan ketika dia memulakan penghujatannya yang terkenal berbilion-bilion tahun dahulu. Mereka dibawa ke dunia ini sebagai keturunan Syaitan. Seekor jin dilahirkan setiap kali seorang manusia dilahirkan. Jin yang baru lahir itu ditugaskan kepada tubuh manusia yang baru lahir itu, dan sentiasa mendorong sudut pandang Syaitan (Lampiran 7).",
+        "en": "*46:29 Jinns are the creatures who fully agreed with Satan when he initiated his famous blasphemy billions of years ago. They are brought into this world as descendants of Satan. One jinn is born every time a human being is born. The newly born jinn is assigned to the same body as the newly born human, and constantly pushes Satan's point of view (Appendix 7)."
       }
     },
     {
@@ -293,6 +309,10 @@
       "subtitle": {
         "bm": "Rasul Allah Yang Di-Janjikan",
         "en": "God's Messenger of the Covenant*"
+      },
+      "footnote": {
+        "bm": "*46:35 Bukti Quran dan matematik membuktikan bahawa rasul yang dimaksudkan di sini ialah Rashad Khalifa. Dengan menambah nilai gematria \"Rashad Khalifa\" (1230), ditambah nombor sura (46), ditambah nombor ayat (35), kita mendapat 1311, atau 19x69. Ini mematuhi kod Quran (Lampiran 2).",
+        "en": "*46:35 Quranic and mathematical evidence proves that the messenger addressed here is Rashad Khalifa. By adding the gematrical value of \"Rashad Khalifa\" (1230), plus the sura number (46), plus the verse number (35), we get 1311, or 19x69. This conforms with the Quran's code (App 2)."
       }
     }
   ]

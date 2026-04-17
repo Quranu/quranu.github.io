@@ -19,7 +19,11 @@
       "arabic": "حم",
       "bm": "H. M. (Ha Mim.)",
       "en": "H. M.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/041001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/041001.mp3",
+      "footnote": {
+        "bm": "*41:1 Untuk kepentingan huruf-huruf awal Quran ini, lihat Nota Kaki 40:1.",
+        "en": "*41:1 For the significance of these Quranic Initials, see Footnote 40:1."
+      }
     },
     {
       "number": 2,
@@ -75,7 +79,11 @@
       "arabic": "قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَنْدَادًا ذَٰلِكَ رَبُّ الْعَالَمِينَ",
       "bm": "Katakanlah, \"Kamu mengingkari kepada yang Maha Esa yang menciptakan bumi selama dua hari, dan kamu mengada adakan pujaan pujaan yang disamakan denganNya, walaupun Dia sahajalah Tuhan semesta alam.\"",
       "en": "Say, \"You disbelieve in the One who created the earth in two days,* and you set up idols to rank with Him, though He is Lord of the universe.\"",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/041009.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/041009.mp3",
+      "footnote": {
+        "bm": "*41:9-10 \"Hari-hari\" penciptaan itu mewakili satu ukuran. Dengan itu, alam semesta fizikal dicipta dalam dua hari, sedangkan pengiraan bekalan untuk semua makhluk di bumi memerlukan empat hari. Ini juga mengajar kita bahawa kehidupan hanya wujud di planet Bumi ini.",
+        "en": "*41:9-10 The \"days\" of creation represent a yardstick. Thus, the physical universe was created in two days, while the calculation of provisions for all the creatures on earth required four. This also teaches us that there is life only on this planet Earth."
+      }
     },
     {
       "number": 10,
@@ -96,7 +104,11 @@
       "arabic": "فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ وَأَوْحَىٰ فِي كُلِّ سَمَاءٍ أَمْرَهَا وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
       "bm": "Lantas, Dia menyelesaikan tujuh cekrawala dalam masa dua hari, dan mengadakan undang undang disetiap tiap cekrawala. Dan kami menghiaskan cekrawala yang terendah sekali dengan lampu lampu, dan meletakkan penjaga penjaga disekelilingnya. Demikian itulah reka bentuk dari yang Maha Kuat lagi Maha Mengetahui.",
       "en": "Thus, He* completed the seven universes in two days, and set up the laws for every universe. And we* adorned the lowest universe with lamps, and placed guards around it. Such is the design of the Almighty, the Omniscient.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/041012.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/041012.mp3",
+      "footnote": {
+        "bm": "*41:12 Allah sahaja yang mencipta alam semesta (18:51), tetapi para malaikat turut mengambil bahagian dalam menguruskan tugas-tugas tertentu di alam semesta yang paling rendah. Alam semesta kita tidak dapat menanggung kehadiran fizikal Allah (7:143). Bentuk jamak itu mengiktiraf peranan malaikat di alam semesta kita (Lampiran 10).",
+        "en": "*41:12 God alone created the universe (18:51), but the angels participated in handling certain jobs in the lowest universe. Our universe cannot stand the physical presence of God (7:143). The plural tense acknowledges the angels' role in our universe (Appendix 10)."
+      }
     },
     {
       "number": 13,
@@ -335,6 +347,10 @@
       "subtitle": {
         "bm": "Mukjizat Matematika Bagi Quran",
         "en": "Mathematical Miracle of the Quran*"
+      },
+      "footnote": {
+        "bm": "*41:41 Perkataan \"Zikr\" merujuk kepada kod matematik Quran, sebagaimana yang diperjelaskan dalam 38:1.",
+        "en": "*41:41 The word \"Zikr\" refers to the Quran's mathematical code, as made clear in 38:1."
       }
     },
     {
@@ -342,7 +358,11 @@
       "arabic": "لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ",
       "bm": "Tidak ada kepalsuan akan dapat memasukinya, pada masa lalu ataupun pada masa yang akan datang; sebuah revelasi dari yang Maha Bijaksana lagi Maha Terpuji. Rasul Allah Yang Di-Janjikan",
       "en": "No falsehood could enter it, in the past or in the future;* a revelation from a Most Wise, Praiseworthy.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/041042.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/041042.mp3",
+      "footnote": {
+        "bm": "*41:42 Salah satu fungsi utama mukjizat matematik Quran ialah menjaga setiap huruf dan setiap aspek Quran. Oleh itu, sebarang pengubahan akan segera dapat dikesan (Lampiran 1 & 24).",
+        "en": "*41:42 One of the major functions of the Quran's mathematical miracle is to guard every letter and every aspect of the Quran. Thus, any tampering is immediately recognized (Apps. 1 & 24)."
+      }
     },
     {
       "number": 43,
@@ -353,6 +373,10 @@
       "subtitle": {
         "bm": "Rasul Perjanjian Allah*",
         "en": "God's Messenger of the Covenant*"
+      },
+      "footnote": {
+        "bm": "*41:43 Bukti matematik menunjukkan bahawa ayat ini merujuk kepada Rasul Perjanjian Allah. Dengan menambah nilai gematria \"Rashad\" (505), ditambah nilai \"Khalifa\" (725), ditambah nombor ayat ini (43), kita mendapat 505+725+43=1273=19x67. Lihat Lampiran 2.",
+        "en": "*41:43 Mathematical proof shows that this verse refers to God's Messenger of the Covenant. By adding the gematrical value of \"Rashad\" (505), plus the value of \"Khalifa\" (725), plus this verse number (43), we get 505+725+43=1273=19x67. See Appendix 2."
       }
     },
     {
@@ -389,6 +413,10 @@
       "subtitle": {
         "bm": "Pujaan Pujaan Menafikan Pengikut Pengikut Mereka",
         "en": "Idols Disown Their Followers"
+      },
+      "footnote": {
+        "bm": "*41:47 Allah telah mendedahkan pengetahuan ini melalui Rasul Perjanjian-Nya (Lampiran 25).",
+        "en": "*41:47 God has revealed this knowledge through His Messenger of the Covenant (Appendix 25)."
       }
     },
     {
@@ -439,6 +467,10 @@
       "subtitle": {
         "bm": "Ramalan Yang Besar",
         "en": "A Great Prophecy*"
+      },
+      "footnote": {
+        "bm": "*41:53 Huruf-huruf yang membentuk ayat ini berjumlah 19, dan nilai gematria keseluruhannya ialah 1387, iaitu 19x73. Nubuat besar ini, bersama 9:33, 48:28, 61:9, dan 110:2, memberitahu kita bahawa seluruh dunia ditakdirkan menerima Quran sebagai mesej Allah yang tidak diubah (lihat Lampiran 38).",
+        "en": "*41:53 The letters that compose this verse are 19, and their gematrical values add up to 1387, 19x73. This great prophecy, together with 9:33, 48:28, 61:9 & 110:2, informs us that the whole world is destined to accept the Quran as God's unaltered message (See Appendix 38)."
       }
     },
     {

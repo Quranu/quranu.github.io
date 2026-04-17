@@ -1,7 +1,7 @@
 {
   "surahNumber": 68,
   "name": {
-    "ar": "سورة الـقـلـم",
+    "ar": "سورة القلم",
     "bm": "Pena",
     "en": "The Pen"
   },
@@ -19,7 +19,11 @@
       "arabic": "نون وَالقَلَمِ وَما يَسطُرونَ",
       "bm": "Nun, pena, dan apa yang (manusia) tulis.",
       "en": "NuN,* the pen, and what they (the people) write.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/068001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/068001.mp3",
+      "footnote": {
+        "bm": "*68:1 \"Nun\" adalah unik antara huruf-huruf awal Quran yang bersifat mukjizat. Lihat Lampiran 1.",
+        "en": "*68:1 \"NuN\" is unique among the Quran's miraculous initials. See Appendix 1."
+      }
     },
     {
       "number": 2,

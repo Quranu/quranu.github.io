@@ -1,7 +1,7 @@
 {
   "surahNumber": 96,
   "name": {
-    "ar": "سورة الـعلق",
+    "ar": "سورة العلق",
     "bm": "Embrio",
     "en": "The Embryo"
   },
@@ -19,7 +19,11 @@
       "arabic": "اقرَأ بِاسمِ رَبِّكَ الَّذي خَلَقَ",
       "bm": "Bacalah, dengan nama Tuhanmu yang menciptakan.",
       "en": "Read, in the name of your Lord, who created.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/096001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/096001.mp3",
+      "footnote": {
+        "bm": "*96:1-19 Dari 96 hingga 114 adalah 19 surah. Revelasi yang pertama (96:1-5) adalah 19 perkataan perkataan Arab, 76 huruf huruf (19 x 4). Surah ini mempunyai 19 ayat ayat dan 304 huruf huruf Arab (Appendik 1 & 23).",
+        "en": "*96:1-19 From 96 to 114 is 19 suras. The first revelation (96:1-5) is 19 Arabic words, 76 letters (19x4). The sura consists of 19 verses and 304 Arabic letters (App. 1 & 23)."
+      }
     },
     {
       "number": 2,

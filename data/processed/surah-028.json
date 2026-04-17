@@ -19,7 +19,11 @@
       "arabic": "طسم",
       "bm": "T. S. M. (Tha. Seen. Mim.)",
       "en": "T. S. M.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/028001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/028001.mp3",
+      "footnote": {
+        "bm": "*28:1 Lihat Lampiran 1 untuk perincian tentang kod matematik Quran yang bersifat mukjizat, serta makna atau kepentingan huruf-huruf awal Quran ini.",
+        "en": "*28:1 See Appendix 1 for details of the Quran's miraculous mathematical code, and the meaning or significance of these Quranic Initials."
+      }
     },
     {
       "number": 2,
@@ -361,6 +365,10 @@
       "subtitle": {
         "bm": "Buku Untuk Musa",
         "en": "The Book of Moses*"
+      },
+      "footnote": {
+        "bm": "*28:43 Taurat ialah himpunan semua kitab suci yang diwahyukan kepada semua nabi Bani Israil, termasuk kitab Musa. Quran secara konsisten menyatakan bahawa Musa diberikan sebuah kitab, atau \"Kitab Perundangan.\" Di mana-mana pun dalam Quran kita tidak melihat bahawa Musa diberikan \"Taurat.\" Oleh itu, Perjanjian Lama pada hari ini ialah Taurat (lihat 3:50, 5:46).",
+        "en": "*28:43 The Torah is the collection of all the scriptures revealed to all the prophets of Israel, including the book of Moses. The Quran consistently states that Moses was given a book, or \"the Statute Book.\" Nowhere in the Quran do we see that Moses was given \"the Torah.\" Today's Old Testament, therefore, is the Torah (see 3:50, 5:46)."
       }
     },
     {
@@ -372,6 +380,10 @@
       "subtitle": {
         "bm": "Pemberitahuan Kepada Rasul Allah Yang Di-Janjikan",
         "en": "Addressing God's Messenger of the Covenant"
+      },
+      "footnote": {
+        "bm": "*28:44 Nama rasul ini disahkan secara matematik: dengan meletakkan nilai gematria \"Rashad Khalifa\" (1230) di sebelah nombor ayat ini (44), kita memperoleh 123044=19x6476.",
+        "en": "*28:44 The name of this messenger is confirmed mathematically: by placing the gematrical value of \"Rashad Khalifa\" (1230) next to the verse number (44), we get 123044=19x6476."
       }
     },
     {

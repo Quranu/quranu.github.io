@@ -1,458 +1,458 @@
 export const surahDisplayMeta = {
   "1": {
-    "latin": "Al-Fãtehah",
-    "arabic": "الفاتحة"
+    "latin": "Al-Fatehah",
+    "arabic": "سورة الفاتحة"
   },
   "2": {
     "latin": "Al-Baqarah",
-    "arabic": "البقرة"
+    "arabic": "سورة البقرة"
   },
   "3": {
-    "latin": "Ãli-‘Imrãn",
-    "arabic": "آل عمران"
+    "latin": "Ali-'Imran",
+    "arabic": "سورة آل عمران"
   },
   "4": {
-    "latin": "Al-Nesã’",
-    "arabic": "النساء"
+    "latin": "Al-Nesa'",
+    "arabic": "سورة النساء"
   },
   "5": {
-    "latin": "Al-Mã’edah",
-    "arabic": "المائدة"
+    "latin": "Al-Ma'edah",
+    "arabic": "سورة المائدة"
   },
   "6": {
-    "latin": "Al-An ‘ãm",
-    "arabic": "الأنعام"
+    "latin": "Al-An'am",
+    "arabic": "سورة الأنعام"
   },
   "7": {
-    "latin": "Al-A’arãf",
-    "arabic": "الأعراف"
+    "latin": "Al-A'araf",
+    "arabic": "سورة الأعراف"
   },
   "8": {
-    "latin": "Al-Anfãl",
-    "arabic": "الأنفال"
+    "latin": "Al-Anfal",
+    "arabic": "سورة الأنفال"
   },
   "9": {
-    "latin": "Barã’ah",
-    "arabic": "بَرَاءَةٌ"
+    "latin": "Bara'ah",
+    "arabic": "سورة براءة"
   },
   "10": {
     "latin": "Younus",
-    "arabic": "يونس"
+    "arabic": "سورة يونس"
   },
   "11": {
-    "latin": "Hûd",
-    "arabic": "هود"
+    "latin": "Hud",
+    "arabic": "سورة هود"
   },
   "12": {
     "latin": "Yousuf",
-    "arabic": "يوسف"
+    "arabic": "سورة يوسف"
   },
   "13": {
-    "latin": "Al-Ra’ad",
-    "arabic": "الرعد"
+    "latin": "Al-Ra`ad",
+    "arabic": "سورة الرعد"
   },
   "14": {
-    "latin": "Ibrahîm",
-    "arabic": "إبراهيم"
+    "latin": "Ibrahim",
+    "arabic": "سورة إبراهيم"
   },
   "15": {
     "latin": "Al-Hijr",
-    "arabic": "الحجر"
+    "arabic": "سورة الحجر"
   },
   "16": {
     "latin": "Al-Nahl",
-    "arabic": "النحل"
+    "arabic": "سورة النحل"
   },
   "17": {
-    "latin": "Banî Israel",
-    "arabic": "بني إسرائيل"
+    "latin": "Bani Israel",
+    "arabic": "سورة بنى إسرائيل"
   },
   "18": {
     "latin": "Al-Kahf",
-    "arabic": "الكهف"
+    "arabic": "سورة الكهف"
   },
   "19": {
     "latin": "Maryam",
-    "arabic": "مريم"
+    "arabic": "سورة مريم"
   },
   "20": {
-    "latin": "TãHã",
-    "arabic": "طه"
+    "latin": "Ta Ha",
+    "arabic": "سورة طه"
   },
   "21": {
-    "latin": "Al-Anbyã’",
-    "arabic": "الأنبياء"
+    "latin": "Al-Anbya'",
+    "arabic": "سورة الأنبياء"
   },
   "22": {
     "latin": "Al-Hajj",
-    "arabic": "الحج"
+    "arabic": "سورة الحج"
   },
   "23": {
-    "latin": "Al-Mu’minûn",
-    "arabic": "المؤمنون"
+    "latin": "Al-Mu'minun",
+    "arabic": "سورة المومنون"
   },
   "24": {
     "latin": "Al-Noor",
-    "arabic": "النور"
+    "arabic": "سورة النور"
   },
   "25": {
-    "latin": "Al-Furqãn",
-    "arabic": "الفرقان"
+    "latin": "Al-Furqan",
+    "arabic": "سورة الفرقان"
   },
   "26": {
-    "latin": "Al-Shu‘arã‘",
-    "arabic": "الشعراء"
+    "latin": "Al-Shu`ara'",
+    "arabic": "سورة الشعراء"
   },
   "27": {
     "latin": "Al-Naml",
-    "arabic": "النمل"
+    "arabic": "سورة النمل"
   },
   "28": {
     "latin": "Al-Qasas",
-    "arabic": "القصص"
+    "arabic": "سورة القصص"
   },
   "29": {
-    "latin": "Al-‘Ankaboot",
-    "arabic": "العنكبوت"
+    "latin": "Al-'Ankaboot",
+    "arabic": "سورة العنكبوت"
   },
   "30": {
     "latin": "Al-Room",
-    "arabic": "الروم"
+    "arabic": "سورة الروم"
   },
   "31": {
-    "latin": "Luqmãn",
-    "arabic": "لقمان"
+    "latin": "Luqman",
+    "arabic": "سورة لقمان"
   },
   "32": {
     "latin": "Al-Sajdah",
-    "arabic": "السجدة"
+    "arabic": "سورة السجدة"
   },
   "33": {
-    "latin": "Al-Ahzãb",
-    "arabic": "الأحزاب"
+    "latin": "Al-Ahzab",
+    "arabic": "سورة الأحزاب"
   },
   "34": {
-    "latin": "Saba’",
-    "arabic": "سبإ"
+    "latin": "Saba'",
+    "arabic": "سورة سبأ"
   },
   "35": {
-    "latin": "Fãter",
-    "arabic": "فاطر"
+    "latin": "Faater",
+    "arabic": "سورة فاطر"
   },
   "36": {
-    "latin": "YãSîn",
-    "arabic": "يس"
+    "latin": "Ya Sin",
+    "arabic": "سورة يس"
   },
   "37": {
-    "latin": "Al-Sãffãt",
-    "arabic": "الصافات"
+    "latin": "Al-Saffat",
+    "arabic": "سورة الصافات"
   },
   "38": {
     "latin": "Saad",
-    "arabic": "ص"
+    "arabic": "سورة ص"
   },
   "39": {
     "latin": "Al-Zumar",
-    "arabic": "الزمر"
+    "arabic": "سورة الزمر"
   },
   "40": {
-    "latin": "Ghãfer",
-    "arabic": "غافر"
+    "latin": "Ghafer",
+    "arabic": "سورة غافر"
   },
   "41": {
     "latin": "Fussilat",
-    "arabic": "فصلت"
+    "arabic": "سورة فصلت"
   },
   "42": {
-    "latin": "Al-Shoorã",
-    "arabic": "الشورى"
+    "latin": "Al-Shoora",
+    "arabic": "سورة الشورى"
   },
   "43": {
     "latin": "Al-Zukhruf",
-    "arabic": "الزخرف"
+    "arabic": "سورة الزخرف"
   },
   "44": {
-    "latin": "Al-Dukhãn",
-    "arabic": "الدخان"
+    "latin": "Al-Dukhan",
+    "arabic": "سورة الدخان"
   },
   "45": {
-    "latin": "Al-Jãtheyah",
-    "arabic": "الجاثية"
+    "latin": "Al-Jatheyah",
+    "arabic": "سورة الجاثية"
   },
   "46": {
-    "latin": "Al-Ahqãf",
-    "arabic": "الأحقاف"
+    "latin": "Al-Ahqaf",
+    "arabic": "سورة الأحقاق"
   },
   "47": {
     "latin": "Muhammad",
-    "arabic": "محمـد"
+    "arabic": "سورة محمد"
   },
   "48": {
     "latin": "Al-Fatt-h",
-    "arabic": "الفتح"
+    "arabic": "سورة الفتح"
   },
   "49": {
-    "latin": "Al-Hujurãt",
-    "arabic": "الحـجـرات"
+    "latin": "Al-Hujurat",
+    "arabic": "سورة الحجرات"
   },
   "50": {
-    "latin": "Qãf",
-    "arabic": "ق"
+    "latin": "Qaf",
+    "arabic": "سورة ق"
   },
   "51": {
-    "latin": "Al-Dhãreyãt",
-    "arabic": "الذاريات"
+    "latin": "Al-Dhareyat",
+    "arabic": "سورة الذاريات"
   },
   "52": {
     "latin": "Al-Toor",
-    "arabic": "الـطور"
+    "arabic": "سورة الطور"
   },
   "53": {
     "latin": "Al-Najm",
-    "arabic": "الـنجـم"
+    "arabic": "سورة النجم"
   },
   "54": {
     "latin": "Al-Qamar",
-    "arabic": "الـقمـر"
+    "arabic": "سورة القمر"
   },
   "55": {
     "latin": "Al-Rahmaan",
-    "arabic": "الـرحـمـن"
+    "arabic": "سورة الرحمن"
   },
   "56": {
-    "latin": "Al-Waaqe’ah",
-    "arabic": "الواقعـة"
+    "latin": "Al-Waaqe'ah",
+    "arabic": "سورة الواقعة"
   },
   "57": {
     "latin": "Al-Hadeed",
-    "arabic": "الحـديد"
+    "arabic": "سورة الحديد"
   },
   "58": {
     "latin": "Al-Mujaadalah",
-    "arabic": "الـمجادلـة"
+    "arabic": "سورة المجادلة"
   },
   "59": {
     "latin": "Al-Hashr",
-    "arabic": "الـحـشـر"
+    "arabic": "سورة الحشر"
   },
   "60": {
     "latin": "Al-Mumtahanah",
-    "arabic": "الـمـمـتـحنة"
+    "arabic": "سورة الممتحنة"
   },
   "61": {
     "latin": "Al-Suff",
-    "arabic": "الـصـف"
+    "arabic": "سورة الصف"
   },
   "62": {
-    "latin": "Al-Jumu’ah",
-    "arabic": "الـجـمـعـة"
+    "latin": "Al-Jumu`ah",
+    "arabic": "سورة الجمعة"
   },
   "63": {
     "latin": "Al-Munaafeqoon",
-    "arabic": "الـمنافقون"
+    "arabic": "سورة المنافقون"
   },
   "64": {
     "latin": "Al-Taghaabun",
-    "arabic": "الـتغابن"
+    "arabic": "سورة التغابن"
   },
   "65": {
     "latin": "Al-Talaaq",
-    "arabic": "الـطلاق"
+    "arabic": "سورة الطلاق"
   },
   "66": {
     "latin": "Al-Tahreem",
-    "arabic": "الـتحريم"
+    "arabic": "سورة التحريم"
   },
   "67": {
     "latin": "Al-Mulk",
-    "arabic": "الـملك"
+    "arabic": "سورة الملك"
   },
   "68": {
     "latin": "Al-Qalam",
-    "arabic": "الـقـلـم"
+    "arabic": "سورة القلم"
   },
   "69": {
     "latin": "Al-Haaqqah",
-    "arabic": "الـحاقـة"
+    "arabic": "سورة الحاقة"
   },
   "70": {
-    "latin": "Al-Ma’aarej",
-    "arabic": "الـمعارج"
+    "latin": "Al-Ma'aarej",
+    "arabic": "سورة المعارج"
   },
   "71": {
-    "latin": "Nuh",
-    "arabic": "نوح"
+    "latin": "Noah",
+    "arabic": "سورة نوح"
   },
   "72": {
     "latin": "Al-Jinn",
-    "arabic": "الجن"
+    "arabic": "سورة الجن"
   },
   "73": {
     "latin": "Al-Muzzammil",
-    "arabic": "الـمـزمـل"
+    "arabic": "سورة المزمل"
   },
   "74": {
     "latin": "Al-Muddath-thir",
-    "arabic": "الـمـدثـر"
+    "arabic": "سورة المدثر"
   },
   "75": {
     "latin": "Al-Qeyaamah",
-    "arabic": "الـقـيامـة"
+    "arabic": "سورة القيامة"
   },
   "76": {
     "latin": "Al-Insaan",
-    "arabic": "الإنسان"
+    "arabic": "سورة الإنسان"
   },
   "77": {
     "latin": "Al-Mursalaat",
-    "arabic": "الـمرسلات"
+    "arabic": "سورة المرسلاة"
   },
   "78": {
-    "latin": "Al-Naba’",
-    "arabic": "الـنبإ"
+    "latin": "Al-Naba'",
+    "arabic": "سورة النبأ"
   },
   "79": {
-    "latin": "Al-Naaze’aat",
-    "arabic": "الـنازعات"
+    "latin": "Al-Naaze`aat",
+    "arabic": "سورة النازعات"
   },
   "80": {
-    "latin": "’Abasa",
-    "arabic": "عبس"
+    "latin": "`Abasa",
+    "arabic": "سورة عبس"
   },
   "81": {
     "latin": "Al-Takweer",
-    "arabic": "التكوير"
+    "arabic": "سورة التكوير"
   },
   "82": {
     "latin": "Al-Infitaar",
-    "arabic": "الانفطار"
+    "arabic": "سورة الإنفطار"
   },
   "83": {
     "latin": "Al-Mutaffifeen",
-    "arabic": "المطـفـفين"
+    "arabic": "سورة المطففين"
   },
   "84": {
     "latin": "Al-Inshiqaaq",
-    "arabic": "الانشقاق"
+    "arabic": "سورة الإنشقاق"
   },
   "85": {
     "latin": "Al-Burooj",
-    "arabic": "البروج"
+    "arabic": "سورة البروج"
   },
   "86": {
     "latin": "Al-Taareq",
-    "arabic": "الـطارق"
+    "arabic": "سورة الطارق"
   },
   "87": {
-    "latin": "Al-A’alaa",
-    "arabic": "الأعـلى"
+    "latin": "Al-A`alaa",
+    "arabic": "سورة الأعلى"
   },
   "88": {
     "latin": "Al-Ghaasheyah",
-    "arabic": "الغاشـيـة"
+    "arabic": "سورة الغاشية"
   },
   "89": {
     "latin": "Al-Fajr",
-    "arabic": "الفجر"
+    "arabic": "سورة الفجر"
   },
   "90": {
     "latin": "Al-Balad",
-    "arabic": "الـبلد"
+    "arabic": "سورة البلد"
   },
   "91": {
     "latin": "Al-Shams",
-    "arabic": "الـشـمـس"
+    "arabic": "سورة الشمس"
   },
   "92": {
     "latin": "Al-Layl",
-    "arabic": "الـيـل"
+    "arabic": "سورة الليل"
   },
   "93": {
     "latin": "Al-Duhaa",
-    "arabic": "الضـحى"
+    "arabic": "سورة الضحى"
   },
   "94": {
     "latin": "Al-Sharrhh",
-    "arabic": "الـشرح"
+    "arabic": "سورة الشرح"
   },
   "95": {
     "latin": "Al-Teen",
-    "arabic": "الـتين"
+    "arabic": "سورة التين"
   },
   "96": {
-    "latin": "Al-’Alaq",
-    "arabic": "الـعلق"
+    "latin": "Al-`Alaq",
+    "arabic": "سورة العلق"
   },
   "97": {
     "latin": "Al-Qadr",
-    "arabic": "الـقدر"
+    "arabic": "سورة القدر"
   },
   "98": {
     "latin": "Al-Bayyinah",
-    "arabic": "الـبينة"
+    "arabic": "سورة البينة"
   },
   "99": {
     "latin": "Al-Zalzalah",
-    "arabic": "الـزلزلة"
+    "arabic": "سورة الزلزلة"
   },
   "100": {
-    "latin": "Al-’Aadeyaat",
-    "arabic": "الـعاديات"
+    "latin": "Al-`Aadeyaat",
+    "arabic": "سورة العاديات"
   },
   "101": {
-    "latin": "Al-Qaare’ah",
-    "arabic": "الـقارعـة"
+    "latin": "Al-Qaare`ah",
+    "arabic": "سورة القارعة"
   },
   "102": {
     "latin": "Al-Takaathur",
-    "arabic": "الـتكاثر"
+    "arabic": "سورة التكاثر"
   },
   "103": {
-    "latin": "Al-’Asr",
-    "arabic": "الـعصر"
+    "latin": "Al-`Asr",
+    "arabic": "سورة العصر"
   },
   "104": {
     "latin": "Al-Humazah",
-    "arabic": "الـهمزة"
+    "arabic": "سورة الهمزة"
   },
   "105": {
     "latin": "Al-Feel",
-    "arabic": "الـفيل"
+    "arabic": "سورة الفيل"
   },
   "106": {
     "latin": "Quraish",
-    "arabic": "قريش"
+    "arabic": "سورة قريش"
   },
   "107": {
-    "latin": "Al-Maa’oon",
-    "arabic": "المـاعون"
+    "latin": "Al-Maa`oon",
+    "arabic": "سورة الماعون"
   },
   "108": {
     "latin": "Al-Kawthar",
-    "arabic": "الـكوثر"
+    "arabic": "سورة الكوثر"
   },
   "109": {
     "latin": "Al-Kaaferoon",
-    "arabic": "الـكافرون"
+    "arabic": "سورة الكافرون"
   },
   "110": {
-    "latin": "Al-Nassr",
-    "arabic": "الـنصر"
+    "latin": "Al-Naasr",
+    "arabic": "سورة النصر"
   },
   "111": {
     "latin": "Al-Masad",
-    "arabic": "الـمسد"
+    "arabic": "سورة المسد"
   },
   "112": {
     "latin": "Al-Ikhlaas",
-    "arabic": "الإخلاص"
+    "arabic": "سورة الإخلاص"
   },
   "113": {
     "latin": "Al-Falaq",
-    "arabic": "الـفلق"
+    "arabic": "سورة الفلق"
   },
   "114": {
     "latin": "Al-Naas",
-    "arabic": "الـناس"
+    "arabic": "سورة الناس"
   }
 };

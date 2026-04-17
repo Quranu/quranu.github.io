@@ -1,5 +1,5 @@
 ﻿SURAH_NUMBER: 67
-NAME_AR: سورة الـملك
+NAME_AR: سورة الملك
 NAME_BM: Yang Menguasai Kerajaan Kerajaan
 NAME_EN: Kingship
 ---
@@ -22,6 +22,9 @@ EN: The One who created death and life for the purpose of distinguishing those a
 AUDIO: https://everyayah.com/data/Alafasy_64kbps/067002.mp3
 SUBTITLE_BM: Tujuan Kehidupan Kita
 SUBTITLE_EN: The Purpose of Our Life*
+FOOTNOTE_BM: *67:2 Lihat Pendahuluan dan Lampiran 7 untuk perincian tentang tujuan di sebalik dunia ini.
+FOOTNOTE_EN: *67:2 See the Introduction and Appendix 7 for details of the purpose behind this world.
+
 
 # Ayah 3
 AR: الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِنْ تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِنْ فُطُورٍ
@@ -190,8 +193,5 @@ AR: قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُم
 BM: Katakan, "Apakah akan jadi jika air kamu menjadi surut, siapakah yang akan mengadakan untuk kamu air yang bersih?"
 EN: Say, "What if your water sinks away, who will provide you with pure water?"
 AUDIO: https://everyayah.com/data/Alafasy_64kbps/067030.mp3
-
-
-
 
 

@@ -1,5 +1,5 @@
 ﻿SURAH_NUMBER: 68
-NAME_AR: سورة الـقـلـم
+NAME_AR: سورة القلم
 NAME_BM: Pena
 NAME_EN: The Pen
 ---
@@ -14,6 +14,9 @@ AR: نون وَالقَلَمِ وَما يَسطُرونَ
 BM: Nun, pena, dan apa yang (manusia) tulis.
 EN: NuN,* the pen, and what they (the people) write.
 AUDIO: https://everyayah.com/data/Alafasy_64kbps/068001.mp3
+FOOTNOTE_BM: *68:1 "Nun" adalah unik antara huruf-huruf awal Quran yang bersifat mukjizat. Lihat Lampiran 1.
+FOOTNOTE_EN: *68:1 "NuN" is unique among the Quran's miraculous initials. See Appendix 1.
+
 
 # Ayah 2
 AR: مَا أَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ
@@ -322,8 +325,5 @@ AR: وَمَا هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ
 BM: Sebenarnya ianya adalah mesej untuk dunia.
 EN: It is in fact a message to the world.
 AUDIO: https://everyayah.com/data/Alafasy_64kbps/068052.mp3
-
-
-
 
 

@@ -1,7 +1,7 @@
 {
   "surahNumber": 65,
   "name": {
-    "ar": "سورة الـطلاق",
+    "ar": "سورة الطلاق",
     "bm": "Perceraian",
     "en": "Divorce"
   },
@@ -19,7 +19,11 @@
       "arabic": "ياأَيُّهَا النَّبِيُّ إِذا طَلَّقتُمُ النِّساءَ فَطَلِّقوهُنَّ لِعِدَّتِهِنَّ وَأَحصُوا العِدَّةَ وَاتَّقُوا اللَّهَ رَبَّكُم لا تُخرِجوهُنَّ مِن بُيوتِهِنَّ وَلا يَخرُجنَ إِلّا أَن يَأتينَ بِفاحِشَةٍ مُبَيِّنَةٍ وَتِلكَ حُدودُ اللَّهِ وَمَن يَتَعَدَّ حُدودَ اللَّهِ فَقَد ظَلَمَ نَفسَهُ لا تَدري لَعَلَّ اللَّهَ يُحدِثُ بَعدَ ذٰلِكَ أَمرًا",
       "bm": "Wahai engkau nabi, apabila kau orang menceraikan perempuan perempuan (isteri isteri), kau mestilah pastikan yang masa penungguan penceraian dipenuhkan. Kau mestilah mengira masa penungguannya dengan tepat. Kau mestilah menghormati Allah Tuhanmu. Janganlah mengusir mereka keluar dari rumah rumah mereka, dan jangan juga kau menjadikan kehidupan mereka menderita, untuk memaksakan mereka keluar rumah dengan sendirinya, melainkan jika terbukti yang mereka itu mengkomit zina. Ini adalah undang undang dari Allah. Sesiapa yang keterlaluan dengan undang undang Allah telah mengkomit ketidak adilan terhadap dirinya sendiri. Mana kamu tahu; mungkin Allah kehendaki suatu kebaikan akan datang daripada ini.",
       "en": "O you prophet, when you people divorce the women, you shall ensure that a divorce interim is fulfilled. You shall measure such an interim precisely.* You shall reverence GOD your Lord. Do not evict them from their homes, nor shall you make life miserable for them, to force them to leave on their own, unless they commit a proven adultery. These are GOD's laws. Anyone who transgresses GOD's laws commits an injustice against himself. You never know; maybe GOD wills something good to come out of this.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/065001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/065001.mp3",
+      "footnote": {
+        "bm": "*65:1 Tempoh tunggu bagi wanita yang diceraikan, sebelum dia layak berkahwin semula, ialah tiga kali haid. Ini memastikan bahawa wanita yang diceraikan itu tidak hamil (2:228).",
+        "en": "*65:1 The divorcee's interim, before becoming eligible for remarriage, is a waiting period of three menstruations. This ensures that the divorcee was not pregnant (2:228)."
+      }
     },
     {
       "number": 2,
@@ -82,7 +86,11 @@
       "arabic": "أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا فَاتَّقُوا اللَّهَ يَاأُولِي الْأَلْبَابِ الَّذِينَ آمَنُوا قَدْ أَنْزَلَ اللَّهُ إِلَيْكُمْ ذِكْرًا",
       "bm": "Allah telah sediakan untuk mereka hukuman yang dahsyat. Dari itu, kamu mestilah menghormati Allah, wahai kamu yang mempunyai kecerdasan dan kepercayaan. Sesungguhnya, Allah telah turunkan kepada kamu sebuah mesej-",
       "en": "GOD has prepared for them severe retribution. Therefore, you shall reverence GOD, O you who possess intelligence and believed. GOD has sent down to you a message--*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/065010.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/065010.mp3",
+      "footnote": {
+        "bm": "*65:10-11 \"Rasul\" di sini jelas merujuk kepada Quran. Ayat 10 bercakap tentang \"menurunkan satu mesej,\" dan ini menunjukkan bahawa Quran ialah rasul dalam 65:11 (Lampiran 20).",
+        "en": "*65:10-11 The \"Messenger\" here is clearly the Quran. Verse 10 talks about \"sending down a message,\" and this points to the Quran as the messenger in 65:11 (App. 20)."
+      }
     },
     {
       "number": 11,
@@ -100,6 +108,10 @@
       "subtitle": {
         "bm": "Tujuh Semesta Alam Dan Tujuh Bumi",
         "en": "Seven Universes And Seven Earths*"
+      },
+      "footnote": {
+        "bm": "*65:12 Walaupun Allah mencipta enam lagi planet yang sama seperti bumi kita, kehidupan hanya wujud di planet kita. Oleh itu, para evolusionis akan diperlihatkan pada Hari Penghakiman bahawa kehidupan tidak sekadar \"berevolusi\" di planet ini kerana keadaan khususnya.",
+        "en": "*65:12 Although God created six other planets that are identical to our Earth, there is life only on our planet. Thus, the evolutionists will be shown on the Day of Judgment that life did not just \"evolve\" on the planet because of its particular circumstances."
       }
     }
   ]

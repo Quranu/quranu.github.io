@@ -47,14 +47,22 @@
       "arabic": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِ",
       "bm": "Tuhan kepada sekelian cekrawala dan bumi dan segala gala diantara keduanya, dan Tuhan bagi timur.",
       "en": "The Lord of the heavens and the earth, and everything between them, and Lord of the easts.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/037005.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/037005.mp3",
+      "footnote": {
+        "bm": "*37:5 Setiap jasad samawi terbit di planet bumi, dan terbenam. Setiap tempat terbit disebut \"timur.\"",
+        "en": "*37:5 Every heavenly body rises on the planet earth, and sets. Every rise is called \"east.\""
+      }
     },
     {
       "number": 6,
       "arabic": "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ",
       "bm": "Kami telah hiaskan cekrawala yang paling bawah dengan hiasan planet planet.",
       "en": "We have adorned the lowest heaven with adorning planets.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/037006.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/037006.mp3",
+      "footnote": {
+        "bm": "*37:6 Kita hidup dalam alam semesta yang paling dalam dan paling kecil. Golongan jin terhad kepada alam semesta ini.",
+        "en": "*37:6 We live in the innermost and smallest universe. The jinns are confined to this universe."
+      }
     },
     {
       "number": 7,
@@ -409,7 +417,11 @@
       "arabic": "فَاطَّلَعَ فَرَآهُ فِي سَوَاءِ الْجَحِيمِ",
       "bm": "Apabila dia melihat, dia akan nampak kawannya ditengah tengah Neraka.",
       "en": "When he looks, he will see his friend in the heart of Hell.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/037055.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/037055.mp3",
+      "footnote": {
+        "bm": "*37:55 Orang-orang yang berjaya masuk Syurga akan dapat melawat saudara-mara dan sahabat mereka di Neraka, tanpa sebarang akibat buruk. Di Akhirat, sesiapa boleh bergerak ke bawah, tetapi tidak ke atas melebihi satu had tertentu. Had itu ditentukan oleh tahap pertumbuhan dan perkembangan seseorang (Lampiran 5).",
+        "en": "*37:55 People who make it to Heaven will be able to visit their relatives and friends in Hell, without adverse consequences. In the Hereafter, anyone can move downward, but not upward beyond a certain limit. The limit is decided by one's degree of growth and development (App. 5)."
+      }
     },
     {
       "number": 56,
@@ -758,6 +770,10 @@
       "subtitle": {
         "bm": "Mimpi Dari Syaitan",
         "en": "Satanic Dream*"
+      },
+      "footnote": {
+        "bm": "*37:102 Allah Yang Maha Pemurah tidak sekali-kali menyeru kepada kejahatan (7:28). Seperti halnya Ayub, Syaitan mendakwa bahawa Ibrahim terlalu mencintai anaknya, lalu diizinkan untuk menguji Ibrahim dengan ujian yang berat itu.",
+        "en": "*37:102 The Most Merciful never advocates evil (7:28). As with Job, Satan claimed that Abraham loved his son too much, and was permitted to put Abraham to that severe test."
       }
     },
     {
@@ -1097,7 +1113,11 @@
       "arabic": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
       "bm": "Lalu kami menghantarkan dia kepada seratus ribu, atau lebih.",
       "en": "Then we sent him to a hundred thousand,* or more.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/037147.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/037147.mp3",
+      "footnote": {
+        "bm": "*37:147 Quran menyebut 30 nombor: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 19, 20, 30, 40, 50, 60, 70, 80, 99, 100, 200, 300, 1000, 2000, 3000, 5000, 50000, dan 100000. Jumlah nombor-nombor ini ialah 162146, atau 19x8534 (lihat Lampiran 1).",
+        "en": "*37:147 The Quran mentions 30 numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 19, 20, 30, 40, 50, 60, 70, 80, 99, 100, 200, 300, 1000, 2000, 3000, 5000, 50000, and 100000. The sum of these numbers is 162146, or 19x8534 (see Appendix 1)."
+      }
     },
     {
       "number": 148,

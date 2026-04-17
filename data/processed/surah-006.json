@@ -157,6 +157,10 @@
       "subtitle": {
         "bm": "Quran, Hanya Quran, Dan Tidak Ada yang Lain Melainkan Quran Sahaja.",
         "en": "Quran, the Whole Quran, and Nothing But the Quran"
+      },
+      "footnote": {
+        "bm": "*6:19 Ayat ini mengisytiharkan Quran sebagai satu-satunya sumber bimbingan agama. Mereka yang menegakkan sumber tambahan seperti Hadith dan Sunna (pembohongan yang dikaitkan dengan Nabi) ditakrifkan sebagai penyembah berhala.",
+        "en": "*6:19 This verse proclaims the Quran as the only source of religious guidance. Those who uphold additional sources, such as Hadith & Sunna (lies attributed to the Prophet), are defined as idolators."
       }
     },
     {
@@ -189,7 +193,11 @@
       "arabic": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
       "bm": "Kecelakaan dapat dirasai oleh mereka dengan jawapan yang diutarakan, \"Demi Allah Tuhan kami, kami bukanlah yang menyekutukan.\"",
       "en": "Their disastrous response will be, \"By GOD our Lord, we never were idol worshipers.\"*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/006023.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/006023.mp3",
+      "footnote": {
+        "bm": "*6:23 Sekarang dan selama-lamanya, para penyembah berhala dengan keras menafikan bahawa mereka ialah penyembah berhala.",
+        "en": "*6:23 Now and forever, the idol worshipers vehemently deny that they are idolators."
+      }
     },
     {
       "number": 24,
@@ -224,7 +232,11 @@
       "arabic": "بَلْ بَدَا لَهُمْ مَا كَانُوا يُخْفُونَ مِنْ قَبْلُ وَلَوْ رُدُّوا لَعَادُوا لِمَا نُهُوا عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ",
       "bm": "Sebenarnya, (mereka hanya berkata demikian kerana) rahsia mereka telah terbongkar. Jika mereka dapat kembali, mereka akan melakukan persis sama dengan yang dulunya. Merekalah orang orang yang pembohong.",
       "en": "As a matter of fact, (they only say this because) their secrets have been exposed. If they go back, they will commit exactly the same crimes.* They are liars.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/006028.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/006028.mp3",
+      "footnote": {
+        "bm": "*6:28 Ini kerana sebaik sahaja kita memasuki dimensi dunia ini, kita menjadi tidak menyedari sama sekali peristiwa-peristiwa dalam dimensi roh, tempat Allah dan malaikat-malaikat-Nya, Syurga dan Neraka, dapat dilihat. Oleh itu, orang-orang yang bersalah tidak akan mengubah tingkah laku mereka walaupun setelah melihat dimensi kekal itu.",
+        "en": "*6:28 This is because as soon as we enter into our worldly dimension, we become totally unaware of events in the dimension of souls, where God and His angels, and Heaven and Hell, can be seen. Thus, the guilty will not change their behavior, even after seeing that eternal dimension."
+      }
     },
     {
       "number": 29,
@@ -302,6 +314,10 @@
       "subtitle": {
         "bm": "Binatang Binatang Dan Burung Burung : Haiwan Yang Menyerah Tunduk Kepada Tuhan.",
         "en": "Animals and Birds: Submitting Creatures*"
+      },
+      "footnote": {
+        "bm": "*6:38 Haiwan termasuk dalam kalangan makhluk yang mengambil peluang atas tawaran Allah untuk bertaubat setelah melakukan dosa asal (lihat Pendahuluan).",
+        "en": "*6:38 Animals were among the creatures who took advantage of God's offer to repent after committing the original sin (see the Introduction)."
       }
     },
     {
@@ -352,6 +368,10 @@
       "subtitle": {
         "bm": "Sistem",
         "en": "The System*"
+      },
+      "footnote": {
+        "bm": "*6:44 Sebelum orang-orang yang bersalah dicampakkan keluar dari tingkap, mereka terlebih dahulu dibawa ke tingkat yang tinggi.",
+        "en": "*6:44 Before the guilty are thrown out the window, they are taken up to a high floor."
       }
     },
     {
@@ -480,6 +500,10 @@
       "subtitle": {
         "bm": "Kematian Dan Kebangkitan: Setiap Hari",
         "en": "Death and Resurrection: Every Day*"
+      },
+      "footnote": {
+        "bm": "*6:60 Orang-orang yang benar tidak benar-benar mati; mereka terus pergi ke Syurga yang sama tempat Adam dan Hawa pernah tinggal. Orang-orang yang tidak benar mati dan mengalami mimpi ngeri yang berterusan hingga Hari Kebangkitan (lihat 2:154, 3:169, 8:24, 16:32, 22:58, 36:26-27, 40:46, 44:56, dan Lampiran 17).",
+        "en": "*6:60 The righteous do not really die; they go straight to the same Paradise where Adam and Eve once lived. The unrighteous die and experience a nightmare that lasts until the Day of Resurrection (see 2:154, 3:169, 8:24, 16:32, 22:58, 36:26-27, 40:46, 44:56, and Appendix 17)."
       }
     },
     {
@@ -720,7 +744,11 @@
       "arabic": "وَهَٰذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ مُصَدِّقُ الَّذِي بَيْنَ يَدَيْهِ وَلِتُنْذِرَ أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا وَالَّذِينَ يُؤْمِنُونَ بِالْآخِرَةِ يُؤْمِنُونَ بِهِ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
       "bm": "Yang ini juga adalah kitab yang dirahmati yang telah kami terangkan, mengesahkan kitab yang terdahulu, supaya dapat kamu memberi amaran kepada komuniti yang paling mustahak dan semua disekelilingnya. Sesiapa yang percaya kepada Akhirat akan percaya dengannya (kitab), dan akan Mengerjakan Sembahyang (Salat).",
       "en": "This too is a blessed scripture that we have revealed, confirming the previous scriptures, that you may warn the most important community* and all those around it. Those who believe in the Hereafter will believe in this (scripture), and will observe the Contact Prayers (Salat).",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/006092.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/006092.mp3",
+      "footnote": {
+        "bm": "*6:92 \"Komuniti yang paling penting\" pada hari ini ialah Amerika, tempat mesej Allah sedang dipulihkan. Ketika Quran diturunkan, Mekah ialah komuniti yang paling penting.",
+        "en": "*6:92 Today's \"most important community\" is America, where God's message is being restored. When the Quran was revealed, Mecca was the most important community."
+      }
     },
     {
       "number": 93,
@@ -891,6 +919,10 @@
       "subtitle": {
         "bm": "Mustahaknya Kriteria.",
         "en": "Important Criterion"
+      },
+      "footnote": {
+        "bm": "*6:113-115 Menegakkan mana-mana sumber selain Quran mencerminkan ketidakpercayaan terhadap Quran (Lampiran 18).",
+        "en": "*6:113-115 Upholding any source beside the Quran reflects disbelief in the Quran (Appendix 18)."
       }
     },
     {
@@ -955,7 +987,11 @@
       "arabic": "وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَىٰ أَوْلِيَائِهِمْ لِيُجَادِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
       "bm": "Jangan sekali memakan makanan yang nama Allah tidak disebutkan, kerana itu adalah satu amalan yang keji. Syaitan telah meinspirasikan sekutu sekutu mereka untuk berdebatan dengan kamu; jikalau kamu mengikuti mereka, maka kamu adalah orang orang yang menyekutukan.",
       "en": "Do not eat from that upon which the name of GOD has not been mentioned, for it is an abomination. The devils inspire their allies to argue with you; if you obey them, you will be idol worshipers.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/006121.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/006121.mp3",
+      "footnote": {
+        "bm": "*6:121 Larangan pemakanan yang ditetapkan oleh selain Allah merupakan penyembahan berhala.",
+        "en": "*6:121 Dietary prohibitions instituted by other than God represent idolatry."
+      }
     },
     {
       "number": 122,
@@ -980,6 +1016,10 @@
       "subtitle": {
         "bm": "Menyoalkan Kebijaksanaan (Hikmah) Allah.",
         "en": "Questioning God's Wisdom*"
+      },
+      "footnote": {
+        "bm": "*6:124 Iri hati dan ego ialah sifat manusia yang mendorong sesetengah orang mempersoalkan hikmah Allah dalam memilih rasul-rasul-Nya. Para sarjana Muslim yang telah rosak juga mengucapkan kata-kata yang sama berkenaan pewahyuan kod matematik Quran melalui Rasul Perjanjian Allah.",
+        "en": "*6:124 Jealousy and ego are human traits that provoke some people to question God's wisdom in selecting His messengers. Corrupted Muslim scholars have uttered this same utterance regarding the revelation of the Quran's mathematical code through God's Messenger of the Covenant."
       }
     },
     {
@@ -991,6 +1031,10 @@
       "subtitle": {
         "bm": "Ilmu Quran Lebih Lagi Kehadapan Dari Kemajuan Manusia",
         "en": "Quranic Knowledge Far Ahead of Human Progress*"
+      },
+      "footnote": {
+        "bm": "*6:125 Berabad-abad selepas penurunan Quran, kita mempelajari bahawa kadar oksigen berkurang apabila kita naik ke langit, lalu kita tercungap-cungap untuk bernafas.",
+        "en": "*6:125 Centuries after the revelation of the Quran, we learned that the proportion of oxygen diminishes as we climb towards the sky, and we gasp for air."
       }
     },
     {
@@ -1079,7 +1123,11 @@
       "arabic": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِنَ الْمُشْرِكِينَ قَتْلَ أَوْلَادِهِمْ شُرَكَاؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا عَلَيْهِمْ دِينَهُمْ وَلَوْ شَاءَ اللَّهُ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
       "bm": "Lantas, orang orang yang menyekutukan itu telah menjadi mangsa kepada pujaan pujaan mereka, sampai ketahap untuk membunuh anak anak mereka. Sebenarnya pujaan pujaan mereka itu telah mengenakan penderitaan yang amat sangat kepada mereka, dan membuat kebingungan dengan agama mereka. Jika Allah berkehendakan mereka tidak akan melakukannya. Kamu mestilah tinggalkan mereka dengan apa yang mereka reka rekakan.",
       "en": "Thus were the idol worshipers duped by their idols, to the extent of killing their own children.* In fact, their idols inflict great pain upon them, and confuse their religion for them. Had GOD willed, they would not have done it. You shall disregard them and their fabrications.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/006137.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/006137.mp3",
+      "footnote": {
+        "bm": "*6:137 Satu contoh yang tepat ialah insiden yang terkenal di peringkat antarabangsa tentang hukuman bunuh seorang puteri Arab Saudi pada tahun 1978 atas tuduhan zina. Hukum Allah menetapkan sebatan, bukan hukuman bunuh, sebagai hukuman bagi zina (24:1-2), sedangkan undang-undang penyembah berhala menetapkan hukuman bunuh. Seperti yang dinyatakan dalam 42:21, para tradisionalis mengikuti agama yang tidak diizinkan oleh Allah.",
+        "en": "*6:137 A perfect example is the internationally infamous incident of the execution of a Saudi Arabian princess in 1978 for alleged adultery. God's law institutes whipping, not execution, as a punishment for adultery (24:1-2), while the idolatrous laws stipulate execution. As pointed out in 42:21, the traditionalists follow a religion that is not authorized by God."
+      }
     },
     {
       "number": 138,
@@ -1115,6 +1163,10 @@
       "subtitle": {
         "bm": "Zakat (Derma) Mesti Diberi \"Pada Hari Penuaian\"",
         "en": "Zakat Must Be Given \"On The Day Of Harvest\"*"
+      },
+      "footnote": {
+        "bm": "*6:141 Zakat sangat penting sehingga Allah Yang Maha Pemurah menghadkan rahmat-Nya kepada mereka yang menunaikannya (7:156). Namun demikian, Muslim yang rosak telah kehilangan perintah yang sangat penting ini; mereka menunaikan Zakat hanya sekali setahun. Kita melihat di sini bahawa Zakat mesti dikeluarkan \"pada hari kita menerima pendapatan.\" Kadar yang sampai kepada kita melalui Ibrahim ialah 2.5% daripada pendapatan bersih kita.",
+        "en": "*6:141 Zakat charity is so important, the Most Merciful has restricted His mercy to those who give it (7:156). Yet, the corrupted Muslims have lost this most important commandment; they give Zakat only once a year. We see here that Zakat must be given away \"On the day we receive income.\" The proportion that came to us through Abraham is 2.5% of our net income."
       }
     },
     {
@@ -1151,6 +1203,10 @@
       "subtitle": {
         "bm": "Makanan Yang Di-Haramkan.",
         "en": "The Only Dietary Prohibitions*"
+      },
+      "footnote": {
+        "bm": "*6:145-146 Hanya empat jenis hasil haiwan yang diharamkan: haiwan yang mati sendiri, darah yang mengalir (bukan yang terperangkap dalam daging), daging babi, dan haiwan yang dipersembahkan kepada selain Penciptanya. Ayat 146 memberitahu kita bahawa larangan seperti ini sangat khusus; Allah mengharamkan sama ada \"daging\" atau \"lemak,\" atau kedua-duanya, jika Dia menghendaki.",
+        "en": "*6:145-146 Only four kinds of animal products are prohibited: animals that die of themselves, running blood (not trapped within the meat), the meat of pigs, and animals dedicated to other than their Creator. Verse 146 informs us that such prohibitions are very specific; God prohibits either \"the meat\" or \"the fat,\" or both, if He so wills."
       }
     },
     {
@@ -1183,6 +1239,10 @@
       "subtitle": {
         "bm": "Perdebatan Yang Sangat Kuat.",
         "en": "The Most Powerful Argument*"
+      },
+      "footnote": {
+        "bm": "*6:149 Kod matematik Quran ialah bukti nyata dan sama sekali tidak dapat disangkal bahawa inilah mesej Allah kepada dunia. Campur tangan Ilahi diperlukan untuk menghalang mana-mana pembaca daripada menghargai fenomena luar biasa ini, lalu sujud dan menerima mukjizat yang amat dahsyat ini (lihat 17:45-46, 18:57, 56:79, dan Lampiran Satu).",
+        "en": "*6:149 The Quran's mathematical code is a tangible and utterly incontrovertible proof that this is God's message to the world. It takes divine intervention to prevent any reader from appreciating this extraordinary phenomenon, then falling prostrate, and accepting this overwhelming miracle (see 17:45-46, 18:57, 56:79, and Appendix One)."
       }
     },
     {
@@ -1251,6 +1311,10 @@
       "subtitle": {
         "bm": "Matematik: Bukti Bukti Yang Utama.",
         "en": "Mathematics: The Ultimate Proof*"
+      },
+      "footnote": {
+        "bm": "*6:157 Peranan kod matematik Quran jelas daripada fakta bahawa jumlah nombor ayat ini (157) ditambah nilai gematria \"Rashad Khalifa\" (1230), yang melalui beliaulah kod ini diwahyukan, menghasilkan 1387, iaitu 19x73.",
+        "en": "*6:157 The role of the Quran's mathematical code is evident from the fact that the sum of the verse number (157) plus the gematrical value of \"Rashad Khalifa\" (1230), through whom the code was revealed, gives 1387, or 19x73."
       }
     },
     {
@@ -1262,6 +1326,10 @@
       "subtitle": {
         "bm": "Keperluan Dalam Menjalani Ujian",
         "en": "Requirements of the Test"
+      },
+      "footnote": {
+        "bm": "*6:158 Setelah beriman, jiwa mesti tumbuh dan berkembang melalui amalan-amalan ibadah yang ditetapkan oleh Allah.",
+        "en": "*6:158 After believing, the soul must grow and develop through the worship practices prescribed by God."
       }
     },
     {

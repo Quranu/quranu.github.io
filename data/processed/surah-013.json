@@ -19,7 +19,11 @@
       "arabic": "المر تِلكَ آياتُ الكِتابِ وَالَّذي أُنزِلَ إِلَيكَ مِن رَبِّكَ الحَقُّ وَلٰكِنَّ أَكثَرَ النّاسِ لا يُؤمِنونَ",
       "bm": "A . L . M . R. (Alif. Lam. Mim. Raa -  Huruf huruf ) ini adalah bukti bukti bagi kitab ini. Apa yang telah diturunkan kepadamu dari Tuhanmu adalah benar, tetapi kebanyakan dari manusia itu tidak mahu percaya.",
       "en": "A. L. M. R.* These (letters) are proofs of this scripture. What is revealed to you from your Lord is the truth, but most people do not believe.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/013001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/013001.mp3",
+      "footnote": {
+        "bm": "*13:1 Huruf-huruf awal ini merupakan komponen utama bukti dalaman Quran bahawa ia datang daripada Allah, iaitu kod matematik yang bersifat mukjizat. Lihat Lampiran 1.",
+        "en": "*13:1 These initials constitute a major component of the Quran's built-in proof of divine authorship, the miraculous mathematical code. See Appendix 1."
+      }
     },
     {
       "number": 2,
@@ -125,6 +129,10 @@
       "subtitle": {
         "bm": "Segala Yang Di-Cipta Telah Menyerah Kepada Allah.",
         "en": "All Creation Has Submitted to God"
+      },
+      "footnote": {
+        "bm": "*13:15 Bahkan orang-orang kafir pun sujud; mereka tidak dapat, contohnya, mengawal degupan jantung, paru-paru, atau peristalsis mereka. Bayang-bayang pula ditetapkan terlebih dahulu melalui reka bentuk Allah terhadap orbit matahari dan bulan, serta bentuk khusus planet bumi yang menghasilkan empat musim. Ketepatan mutlak hubungan matahari dan bumi dibuktikan dengan ciptaan jam matahari dan bayang-bayangnya.",
+        "en": "*13:15 Even the disbelievers prostrate; they cannot, for example, control their heartbeats, their lungs, or peristalsis. The shadows are predetermined by God's design of the solar and the lunar orbits, and by the peculiar shape of the planet earth which causes the four seasons. The absolute precision of the sun/earth relation is proven by the invention of solar clocks and their shadows."
       }
     },
     {
@@ -250,6 +258,10 @@
       "subtitle": {
         "bm": "Rasul Allah Yang Di-Janjikan.",
         "en": "God's Messenger of the Covenant*"
+      },
+      "footnote": {
+        "bm": "*13:30 Jika kita tambah nilai gematria \"Rashad\" (505), ditambah nilai \"Khalifa\" (725), ditambah nombor sura (13), dan nombor ayat (30), kita memperoleh 505+725+13+30 = 1273 = 19x67. Dengan itu Allah menentukan nama rasul-Nya (lihat Lampiran 2 untuk perinciannya).",
+        "en": "*13:30 If we add the gematrical value of \"Rashad\" (505), plus the value of \"Khalifa\" (725), plus the sura number (13), plus the verse number (30), we get 505+725+13+30 = 1273 = 19x67. God thus specifies the name of His messenger (see Appendix 2 for the details)."
       }
     },
     {
@@ -315,6 +327,10 @@
       "subtitle": {
         "bm": "Tuhan Mengautaritifkan Kod Matematik Didalam Quran.",
         "en": "Divine Authorization of the Quran's Mathematical Code*"
+      },
+      "footnote": {
+        "bm": "*13:37-38 Nombor ayat ini (38) = 19x2. Dengan meletakkan nilai \"Rashad\" (505) dan \"Khalifa\" (725) di sebelah 13:37-38, kita mendapat 505 725 13 37 38, iaitu 19x26617112302 (Lampiran 2).",
+        "en": "*13:37-38 The verse number (38) = 19x2. Placing the values of \"Rashad\" (505) and \"Khalifa\" (725) next to 13:37-38, gives 505 725 13 37 38, or 19x26617112302 (Appendix 2)."
       }
     },
     {

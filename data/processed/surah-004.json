@@ -19,7 +19,11 @@
       "arabic": "ياأَيُّهَا النّاسُ اتَّقوا رَبَّكُمُ الَّذي خَلَقَكُم مِن نَفسٍ واحِدَةٍ وَخَلَقَ مِنها زَوجَها وَبَثَّ مِنهُما رِجالًا كَثيرًا وَنِساءً وَاتَّقُوا اللَّهَ الَّذي تَساءَلونَ بِهِ وَالأَرحامَ إِنَّ اللَّهَ كانَ عَلَيكُم رَقيبًا",
       "bm": "Wahai Manusia, ingatlah akan Tuhan kamu; Dialah yang Esa yang menciptakan kamu dari seorang, dan menciptakan darinya pasangan, dan membiakkannya menjadi ramai lelaki dan perempuan. Kamu mesti mengambil berat terhadap Allah, yang mana kamu telah berikrar dengannya, dan mengambil berat terhadap ibu bapa ibu bapa kamu. Kerana Allah sentiasa Memerhatikan kamu.",
       "en": "O people, observe your Lord; the One who created you from one being, and created from it its mate, then spread from the two many men and women. You shall regard GOD, by whom you swear, and regard the parents. GOD is watching over you.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/004001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/004001.mp3",
+      "footnote": {
+        "bm": "*4:1 Ini ialah sura kedua terpanjang, dan tajuknya menunjukkan bahawa ia bertujuan mempertahankan hak-hak wanita. Sebarang tafsiran mestilah memihak kepada hak wanita, bukan sebaliknya.",
+        "en": "*4:1 This is the second longest sura, and the title indicates that it aims at defending the women's rights. Any interpretation must favor the women's rights, not the other way around."
+      }
     },
     {
       "number": 2,
@@ -41,6 +45,10 @@
       "subtitle": {
         "bm": "Peraturan Bagi Berpolygami",
         "en": "Grounds For Polygamy*"
+      },
+      "footnote": {
+        "bm": "*4:3 Lihat Lampiran 30 untuk perbincangan terperinci tentang poligami.",
+        "en": "*4:3 See Appendix 30 for a detailed discussion of polygamy."
       }
     },
     {
@@ -105,6 +113,10 @@
       "subtitle": {
         "bm": "Jika Tidak Ada Wasiat Yang Ditinggalkan.",
         "en": "If No Will Is Left*"
+      },
+      "footnote": {
+        "bm": "*4:11 Secara umumnya, anak lelaki memikul tanggungjawab terhadap keluarga, manakala anak perempuan dipelihara oleh suaminya. Namun demikian, Quran mengesyorkan dalam 2:180 supaya satu wasiat ditinggalkan mengikut keadaan khusus si mati. Sebagai contoh, jika anak lelaki kaya dan anak perempuan miskin, seseorang boleh meninggalkan wasiat yang memberikan segala-galanya kepada anak perempuan, atau dua kali ganda berbanding anak lelaki.",
+        "en": "*4:11 Generally, the son is responsible for a family, while the daughter is taken care of by a husband. However, the Quran recommends in 2:180 that a will shall be left to conform with the specific circumstances of the deceased. For example, if the son is rich and the daughter is poor, one may leave a will giving the daughter everything, or twice as much as the son."
       }
     },
     {
@@ -145,6 +157,10 @@
       "subtitle": {
         "bm": "Kesehatan Kuarantin.",
         "en": "Health Quarantine"
+      },
+      "footnote": {
+        "bm": "*4:15 Seorang wanita yang disaksikan oleh empat orang ketika melakukan zina pada empat kesempatan yang berbeza, dengan empat pasangan yang berbeza, mewakili bahaya kepada kesihatan awam. Wanita seperti itu menjadi tempat pembiakan kuman, dan kuarantin kesihatan melindungi masyarakat daripadanya. Satu contoh jalan keluar yang baik untuk menyelamatkan wanita yang dikuarantin ialah perkahwinan, iaitu seseorang mungkin mahu mengahwininya lalu melindungi dirinya dan masyarakat.",
+        "en": "*4:15 A woman witnessed by four people in the act of committing adultery on four different occasions, with four different partners, represents a danger to public health. Such a woman is a depository of germs, and a health quarantine protects the society from her. A good example of an exit that saves a quarantined woman is marriage--someone may wish to marry her, and thus protect her and the society."
       }
     },
     {
@@ -152,7 +168,11 @@
       "arabic": "وَالَّذٰنِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا إِنَّ اللَّهَ كَانَ تَوَّابًا رَحِيمًا",
       "bm": "Pasangan yang melakukan zina mestilah dihukum. Jika mereka bertaubat dan menjalani kehidupan yang bersih, kamu mestilah membiarkan mereka sendirian. Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
       "en": "The couple who commits adultery shall be punished.* If they repent and reform, you shall leave them alone. GOD is Redeemer, Most Merciful.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/004016.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/004016.mp3",
+      "footnote": {
+        "bm": "*4:16 Pendedahan umum terhadap para pesalah ialah pencegah yang besar, sebagaimana yang kita lihat dalam 5:38 dan 24:2.",
+        "en": "*4:16 Public exposure of the sinners is a major deterrent, as we see in 5:38 and 24:2."
+      }
     },
     {
       "number": 17,
@@ -228,6 +248,10 @@
       "subtitle": {
         "bm": "Saling Tertarik Perlukan Mas Kahwin.",
         "en": "Mutual Attraction And Dowry Required"
+      },
+      "footnote": {
+        "bm": "*4:24 Jika wanita beriman melarikan diri daripada suami mereka yang kafir dan sedang berperang dengan orang-orang beriman, mereka tidak perlu mendapatkan perceraian sebelum berkahwin semula. Lihat 60:10.",
+        "en": "*4:24 If believing women flee their disbelieving husbands who are at war with the believers, they do not have to obtain a divorce before remarriage. See 60:10."
       }
     },
     {
@@ -235,7 +259,11 @@
       "arabic": "وَمَنْ لَمْ يَسْتَطِعْ مِنْكُمْ طَوْلًا أَنْ يَنْكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ فَتَيَاتِكُمُ الْمُؤْمِنَاتِ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُمْ بَعْضُكُمْ مِنْ بَعْضٍ فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ ذَٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنْكُمْ وَأَنْ تَصْبِرُوا خَيْرٌ لَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ",
       "bm": "Sesiapa diantara kamu yang tidak berkemampuan untuk mengahwini perempuan yang percaya lagi merdeka, bolehlah mengahwini seorang hamba perempuan yang percaya. Allah amat mengetahui akan keimanan kamu, kamu adalah sama setaraf dalam kepercayaan apabila kamu sama sama menyerahkan diri diri kamu (kepada Allah). Kamu mestilah meminta keizinan dari penjaga mereka sebelum kamu mengahwini mereka, dan berilah mas kahwin mereka yang ditetapkan dengan seksama. Mereka mesti terus bermoral yang baik, dengan tidak melakukan zina, ataupun mengadakan perhubungan sulit. Apabila mereka merdeka setelah berkahwin, jika mereka melakukan zina, hukumannya adalah separuh dari perempuan yang merdeka. Mengahwini hamba mestilah menjadi pilihan yang terakhir bagi sesiapa yang tidak dapat menunggu lagi. Bersabar itu lebih baik untuk kamu. Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
       "en": "Those among you who cannot afford to marry free believing women, may marry believing slave women. GOD knows best about your belief, and you are equal to one another, as far as belief is concerned. You shall obtain permission from their guardians before you marry them, and pay them their due dowry equitably. They shall maintain moral behavior, by not committing adultery, or having secret lovers. Once they are freed through marriage, if they commit adultery, their punishment shall be half of that for the free women.* Marrying a slave shall be a last resort for those unable to wait. To be patient is better for you. GOD is Forgiver, Most Merciful.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/004025.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/004025.mp3",
+      "footnote": {
+        "bm": "*4:25 Hukum ini membuktikan bahawa hukuman bagi zina tidak mungkin sama sekali rejam sampai mati seperti yang dinyatakan dalam hukum-hakam Muslim yang rosak (lihat 24:2).",
+        "en": "*4:25 This law proves that the punishment for adultery could not possibly be stoning to death as stated in the laws of corrupted Muslims (see 24:2)."
+      }
     },
     {
       "number": 26,
@@ -318,6 +346,10 @@
       "subtitle": {
         "bm": "Jangan Memukul Isteri Kamu.",
         "en": "Do Not Beat Your Wife*"
+      },
+      "footnote": {
+        "bm": "*4:34 Allah melarang memukul isteri dengan menggunakan pendekatan psikologi yang terbaik. Sebagai contoh, jika saya tidak mahu kamu membeli-belah di Pasar X, saya akan meminta kamu membeli-belah di Pasar Y, kemudian di Pasar Z, kemudian, sebagai pilihan terakhir, di Pasar X. Ini akan berkesan menghentikan kamu daripada membeli-belah di Pasar X tanpa menghina kamu. Begitu juga, Allah menyediakan alternatif kepada memukul isteri; pertama menasihatinya, kemudian menggunakan insentif negatif tertentu. Ingatlah bahawa tema sura ini ialah mempertahankan hak wanita dan menentang penindasan terhadap wanita yang berleluasa. Sebarang tafsiran terhadap ayat-ayat sura ini mestilah memihak kepada wanita. Tema sura ini ialah \"perlindungan wanita.\"",
+        "en": "*4:34 God prohibits wife-beating by using the best psychological approach. For example, if I don't want you to shop at Market X, I will ask you to shop at Market Y, then at Market Z, then, as a last resort, at Market X. This will effectively stop you from shopping at Market X, without insulting you. Similarly, God provides alternatives to wife-beating; reasoning with her first, then employing certain negative incentives. Remember that the theme of this sura is defending the women's rights and countering the prevalent oppression of women. Any interpretation of the verses of this sura must be in favor of the women. This sura's theme is \"protection of women.\""
       }
     },
     {
@@ -418,7 +450,11 @@
       "arabic": "مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَأَقْوَمَ وَلَٰكِنْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
       "bm": "Diantara orang orang Yahudi, ada setengahnya yang menukar kalimah kalimah jauh dari kebenaran, dan mereka berkata, \"Kami dengar, tetapi kami menentang,\" dan \"Kata kata kamu jatuh kepada telinga telinga yang tidak mahu mendengarkan,\" dan \"Raa'na (jadi pengembala kambing kami),\" mereka sengaja berdolak dalek untuk mempermainkan agama. Jika mereka berkata, \"Kami dengar dan kami ta'at.\" Dan \"Kami dengar kamu,\" dan \"Unzurna (perhatikan kami),\" itu adalah lebih baik untuk mereka, dan lebih benar. Sebaliknya, mereka akan mendapat kutukkan dari Allah kerana keingkaran mereka. Bagaimanapun kebanyakkan dari mereka tidak akan percaya.",
       "en": "Among those who are Jewish, some distort the words beyond the truth, and they say, \"We hear, but we disobey,\" and \"Your words are falling on deaf ears,\" and \"Raa'ena* (be our shepherd),\" as they twist their tongues to mock the religion. Had they said, \"We hear, and we obey,\" and \"We hear you,\" and \"Unzurna (watch over us),\" it would have been better for them, and more righteous. Instead, they have incurred condemnation from GOD due to their disbelief. Consequently, the majority of them cannot believe.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/004046.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/004046.mp3",
+      "footnote": {
+        "bm": "*4:46 Perkataan \"Raa'ena\" telah diputarbelitkan oleh sebahagian orang yang berbahasa Ibrani supaya berbunyi seperti perkataan kotor. Lihat 2:104.",
+        "en": "*4:46 The word \"Raa'ena\" was twisted by some Hebrew speaking people to sound like a dirty word. See 2:104."
+      }
     },
     {
       "number": 47,
@@ -436,6 +472,10 @@
       "subtitle": {
         "bm": "Dosa Yang Tidak Dapat Di-Ampunkan.",
         "en": "The Unforgivable Sin"
+      },
+      "footnote": {
+        "bm": "*4:48 Penyembahan berhala tidak akan diampunkan jika dikekalkan hingga mati. Seseorang sentiasa boleh bertaubat daripada apa jua kesalahan, termasuk penyembahan berhala, sebelum kematian datang (lihat 4:18 dan 40:66).",
+        "en": "*4:48 Idol worship is not forgivable, if maintained until death. One can always repent from any offense, including idolatry before death comes (see 4:18 & 40:66)."
       }
     },
     {
@@ -678,6 +718,10 @@
       "subtitle": {
         "bm": "Tuhan Yang Melaksanakan Segala Galanya.",
         "en": "God is the Doer of Everything*"
+      },
+      "footnote": {
+        "bm": "*4:78 Perkara buruk ialah akibat daripada perbuatan kita sendiri (42:30, 64:11), walaupun Allah ialah Pelaku segala sesuatu (8:17). Allah mencipta api untuk berkhidmat kepada kita, tetapi kamu boleh memilih untuk meletakkan jari kamu ke dalamnya. Maka kita menyakiti diri sendiri. Demikianlah hukum Allah: jika kamu meletakkan jari ke dalam api, ia akan menyakitkan kamu.",
+        "en": "*4:78 Bad things are consequences of our own deeds (42:30, 64:11), though God is the doer of everything (8:17). God created the fire to serve us, but you can decide to put your finger in it. We thus hurt ourselves. It is God's law that if you put your finger in the fire, it will hurt."
       }
     },
     {
@@ -689,6 +733,10 @@
       "subtitle": {
         "bm": "Tidak Ada Kesusahan Yang Datangnya Dari Allah.",
         "en": "Nothing Bad Comes From God"
+      },
+      "footnote": {
+        "bm": "*4:79 Muhammad tidak diberikan bukti kenabian yang berbentuk mukjizat peribadi. Oleh itu wujud ungkapan \"Allah mencukupi sebagai saksi\" (29:51-52). Nilai gematria \"Muhammad\" ialah 92, dan 92 + 79 = 171 = 19 x 9.",
+        "en": "*4:79 Muhammad was not given any proof of prophethood. Hence the expression \"God suffices as a witness\" (29:51-52). The gematrical value of \"Muhammad\" is 92, and 92 + 79 = 171 = 19 x 9."
       }
     },
     {
@@ -714,6 +762,10 @@
       "subtitle": {
         "bm": "Bukti Yang Menunjukkan Pengarangnya Adalah Tuhan.",
         "en": "Proof of Divine Authorship"
+      },
+      "footnote": {
+        "bm": "*4:82 Walaupun Quran diturunkan pada zaman gelap, kamu tidak akan menemui sebarang karut di dalamnya; ini satu lagi bukti bahawa ia datang daripada Allah (lihat Pendahuluan dan Lampiran 1).",
+        "en": "*4:82 Although the Quran was revealed during the dark ages, you cannot find any nonsense in it; another proof of divine authorship (see the Introduction and App. 1)."
       }
     },
     {
@@ -779,7 +831,11 @@
       "arabic": "وَدُّوا لَوْ تَكْفُرُونَ كَمَا كَفَرُوا فَتَكُونُونَ سَوَاءً فَلَا تَتَّخِذُوا مِنْهُمْ أَوْلِيَاءَ حَتَّىٰ يُهَاجِرُوا فِي سَبِيلِ اللَّهِ فَإِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْ وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
       "bm": "Mereka menginginkan supaya kamu ingkar sebagaimana mereka telah mengingkarinya, dan menjadikan kamu semacam mereka. Jangan sekali kali kamu berangggapan yang mereka itu kawan kawan kamu, melainkan jika mereka sama sama berjuang dijalan Allah. Jikalau mereka menentang kamu, kamu mesti melawan mereka, dan kamu bolehlah bunuh mereka jika kamu berhadapan dengan mereka didalam peperangan. Jangan sekali kali kamu menerima mereka sebagai kawan, ataupun menjalin pihak berikatan dengan mereka.",
       "en": "They wish that you disbelieve as they have disbelieved, then you become equal. Do not consider them friends, unless they mobilize along with you in the cause of GOD. If they turn against you, you shall fight them, and you may kill them when you encounter them in war. You shall not accept them as friends, or allies.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/004089.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/004089.mp3",
+      "footnote": {
+        "bm": "*4:89 Peraturan asas yang mengawal semua peperangan dinyatakan dalam 60:8-9.",
+        "en": "*4:89 The basic rule controlling all fighting is stated in 60:8-9."
+      }
     },
     {
       "number": 90,
@@ -804,6 +860,10 @@
       "subtitle": {
         "bm": "Jangan Kamu Membunuh.",
         "en": "You Shall Not Kill"
+      },
+      "footnote": {
+        "bm": "*4:92 Oleh sebab perhambaan tidak lagi wujud, pesalah mesti menebus kesalahan dengan berpuasa dua bulan berturut-turut.",
+        "en": "*4:92 Since slavery does not exist, the offender must atone by fasting two consecutive months."
       }
     },
     {
@@ -901,6 +961,10 @@
       "subtitle": {
         "bm": "Sembahyang.",
         "en": "The Contact Prayers"
+      },
+      "footnote": {
+        "bm": "*4:103 Tuhan kamu ialah sesiapa atau apa sahaja yang memenuhi fikiran kamu sepanjang hari. Untuk menjadi layak memasuki kerajaan Allah dan menikmati rahmat serta perlindungan-Nya, Quran menggesa kita supaya mengingati Allah \"sentiasa\" (2:152 & 200, 3:191, 33:41-42). Hakikat yang mendalam ini menjelaskan banyak ayat yang menegaskan bahawa \"kebanyakan\" mereka yang percaya kepada Allah akan ke Neraka (12:106, 23:84-89, 29:61-63, 31:25, 39:38, 43:87). Lihat Nota Kaki 3:191 dan Lampiran 27.",
+        "en": "*4:103 Your god is whoever or whatever occupies your mind most of the day. In order to belong in God's kingdom, and enjoy His grace and protection, the Quran exhorts us to remember God \"always\" (2:152 & 200, 3:191, 33:41-42). This profound fact explains the numerous verses asserting that \"most\" of those who believe in God are going to Hell (12:106, 23:84-89, 29:61-63, 31:25, 39:38, 43:87). See Footnote 3:191 and Appendix 27."
       }
     },
     {
@@ -1004,6 +1068,10 @@
       "subtitle": {
         "bm": "Dosa Yang Tidak Terampun.",
         "en": "The Unforgivable Sin"
+      },
+      "footnote": {
+        "bm": "*4:116 Satu definisi mudah penyembahan berhala: percaya bahawa sesuatu selain Allah boleh menolong kamu.",
+        "en": "*4:116 A simple definition of idolatry: Believing that anything beside God can help you."
       }
     },
     {
@@ -1018,7 +1086,11 @@
       "arabic": "لَعَنَهُ اللَّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَفْرُوضًا",
       "bm": "Allah telah mengutuknya, dan dia berkata, \"Tentu sekali akan aku campurkan bahagianku kepada penyembahmu.",
       "en": "GOD has condemned him, and he said, \"I will surely recruit a definite share of Your worshipers.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/004118.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/004118.mp3",
+      "footnote": {
+        "bm": "*4:118 Majoriti orang yang percaya kepada Allah jatuh ke dalam penyembahan berhala (12:106).",
+        "en": "*4:118 The majority of believers in God fall into idolatry (12:106)."
+      }
     },
     {
       "number": 119,
@@ -1075,6 +1147,10 @@
       "subtitle": {
         "bm": "Ibrahim: Rasul Islam Yang Original.",
         "en": "Abraham: Original Messenger of Islam*"
+      },
+      "footnote": {
+        "bm": "*4:125 Semua rasul sejak Adam telah menyampaikan satu agama yang sama. Ibrahim ialah rasul asal bagi akidah yang dinamakan \"Islam\" (22:78, Lampiran 26). \"Islam\" bukan nama khas, sebaliknya satu keterangan yang bererti \"Penyerahan.\"",
+        "en": "*4:125 All messengers since Adam have preached one and the same religion. Abraham was the original messenger of the creed named \"Islam\" (22:78, Appendix 26). \"Islam\" is not a name, but rather a description meaning \"Submission.\""
       }
     },
     {
@@ -1111,6 +1187,10 @@
       "subtitle": {
         "bm": "Polygami Tidak Di-Galakkan.",
         "en": "Polygamy Discouraged*"
+      },
+      "footnote": {
+        "bm": "*4:129 Lihat Lampiran 30 yang bertajuk \"Poligami.\"",
+        "en": "*4:129 See Appendix 30, entitled \"Polygamy.\""
       }
     },
     {
@@ -1335,6 +1415,10 @@
       "subtitle": {
         "bm": "Menyalib \"Tubuh\" Isa",
         "en": "Crucifying \"the Body\" of Jesus*"
+      },
+      "footnote": {
+        "bm": "*4:157-158 Isa, iaitu dirinya yang sebenar, roh itu, telah diangkat dengan cara yang sama seperti kematian mana-mana orang benar. Selepas itu, musuh-musuhnya menangkap, menyeksa, dan menyalib tubuhnya yang masih hidup tetapi kosong. Lihat Lampiran 17 & 22, serta buku \"Jesus: Myths and Message\" oleh Lisa Spray (Universal Unity, Fremont, California, 1992).",
+        "en": "*4:157-158 Jesus, the real person, the soul, was raised in the same manner as in the death of any righteous person. Subsequently, his enemies arrested, tortured, and crucified his living, but empty, body. See Appendices 17 & 22, and the book \"Jesus: Myths and Message\" by Lisa Spray (Universal Unity, Fremont, California, 1992)."
       }
     },
     {

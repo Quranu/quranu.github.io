@@ -58,6 +58,10 @@
       "subtitle": {
         "bm": "Hadis Yang Manakah?",
         "en": "Which Hadith?*"
+      },
+      "footnote": {
+        "bm": "*45:6-7 Allah mengecam \"Hadith\" secara langsung dengan nama itu, dan memberitahu kita bahawa ia adalah satu rekaan yang menghujat.",
+        "en": "*45:6-7 God condemns \"Hadith\" by name, and informs us that it is a blasphemous fabrication."
       }
     },
     {
@@ -163,14 +167,22 @@
       "arabic": "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَنْ نَجْعَلَهُمْ كَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَوَاءً مَحْيَاهُمْ وَمَمَاتُهُمْ سَاءَ مَا يَحْكُمُونَ",
       "bm": "Adakah orang orang yang membuat kerja kerja jahat berharap yang kami akan memperlakukan mereka sama seperti mana kami perlakukan kepada orang orang yang percaya dan yang menjalani kehidupan yang benar? Bolehkah kehidupan mereka dan kematian mereka itu sama? Salah sungguh pengadilan mereka.",
       "en": "Do those who work evil expect that we will treat them in the same manner as those who believe and lead a righteous life? Can their life and their death be the same?* Wrong indeed is their judgment.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/045021.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/045021.mp3",
+      "footnote": {
+        "bm": "*45:21 Kini kita sedar bahawa orang-orang yang benar tidak benar-benar mati -- mereka terus pergi ke Syurga (16:32) -- manakala orang-orang yang tidak benar dipukul oleh malaikat maut (8:50 & 47:27).",
+        "en": "*45:21 We now realize that the righteous do not really die--they go straight to Heaven (16:32)--while the unrighteous are beaten up by the angels of death (8:50 & 47:27)."
+      }
     },
     {
       "number": 22,
       "arabic": "وَخَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
       "bm": "Allah menciptakan sekelian cekrawala dan bumi dengan tujuan yang tertentu, demi untuk membayar tiap tiap roh diatas apa saja yang telah diusahakan, dengan tidak sedikit pun ketidak adilan.",
       "en": "GOD created the heavens and the earth for a specific purpose, in order to pay each soul for whatever it earned, without the least injustice.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/045022.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/045022.mp3",
+      "footnote": {
+        "bm": "*45:22 Allah mengurniakan kehidupan ini kepada kita sebagai peluang yang sangat berharga untuk menebus diri, menolak pakatan lama kita dengan Syaitan, dan kembali menyertai kerajaan Allah. Lihat Pendahuluan & Lampiran 7.",
+        "en": "*45:22 God granted us this life as a precious chance to redeem ourselves, denounce our ancient alliance with Satan, and rejoin God's kingdom. See Introduction & Appendix 7."
+      }
     },
     {
       "number": 23,

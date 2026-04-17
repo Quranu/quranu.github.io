@@ -26,7 +26,11 @@
       "arabic": "يَاأَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا وَإِذَا حَلَلْتُمْ فَاصْطَادُوا وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
       "bm": "Wahai orang orang yang percaya, janganlah kamu melanggar rukun yang telah diinstitusikan oleh Allah, tidak juga pada Bulan yang Suci, begitu juga dengan binatang untuk dikurbankan, dan tidak juga kalungan yang ditandakan untuk binatang, dan begitu juga dengan orang orang yang menuju keMasjid Suci (Ka'aba) untuk mencari keberkatan dari Tuhan mereka dengan memohonkan keizinanNya. Apabila ibadah Haji kamu telah selesai, bolehlah kamu pergi memburu. Jangan sengaja kamu membuat pencerobohan kerana kebencian kamu kepada orang orang yang telah menghalang kamu untuk pergi keMasjid Suci. Kamu mestilah bekerja sama dalam melakukan kebaikan dan ketakwahan; jangan sekali kali kamu bersubahat dalam membuat dosa dengan mengikuti langkah syaitan. Kamu mestilah mengingati Allah . Sesungguhnya Allah Amat Keras dalam membuat hukuman.",
       "en": "O you who believe, do not violate the rites instituted by GOD, nor the Sacred Months, nor the animals to be offered, nor the garlands marking them, nor the people who head for the Sacred Shrine (Ka'bah) seeking blessings from their Lord and approval. Once you complete the pilgrimage, you may hunt.* Do not be provoked into aggression by your hatred of people who once prevented you from going to the Sacred Masjid. You shall cooperate in matters of righteousness and piety; do not cooperate in matters that are sinful and evil. You shall observe GOD. GOD is strict in enforcing retribution.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/005002.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/005002.mp3",
+      "footnote": {
+        "bm": "*5:2 Pemburuan dan pemotongan tumbuh-tumbuhan dilarang semasa ibadah haji demi pemeliharaan sumber semula jadi. Dengan ribuan jemaah berkumpul di Mekah, jika pemburuan dibenarkan, tanah itu akan cepat kehilangan sumber semula jadinya. Haiwan korban dijadikan sebahagian daripada ibadah haji untuk menyediakan makanan kepada para jemaah yang datang berkumpul, juga kepada penduduk tempatan, serta menambah semula bekalan yang mungkin berkurangan. Lihat 2:196.",
+        "en": "*5:2 Hunting and the cutting of plants are forbidden during pilgrimage for the conservation of natural resources. With thousands of pilgrims converging on Mecca, if hunting were permitted, the land would quickly be stripped of its natural resources. Animal offerings are made part of the pilgrimage to provide for the converging pilgrims, as well as the local population, and to replenish any depleted supplies. See 2:196."
+      }
     },
     {
       "number": 3,
@@ -37,6 +41,10 @@
       "subtitle": {
         "bm": "Hanya Empat Daging Yang Diharamkan \"Binatang Yang Mati Dengan Sendirinya\" Di-Definisikan.",
         "en": "Only Four Meats Prohibited \"Animals that die of themselves\" Defined"
+      },
+      "footnote": {
+        "bm": "*5:3 Yang diharamkan ialah \"daging\" babi, bukan \"lemaknya.\" Apa sahaja yang tidak diharamkan secara khusus dalam Quran mesti dianggap halal. Lihat 6:145-146.",
+        "en": "*5:3 The \"meat\" of the pig is prohibited, not the \"fat.\" Anything that is not specifically prohibited in the Quran must be considered lawful. See 6:145-146."
       }
     },
     {
@@ -116,6 +124,10 @@
       "subtitle": {
         "bm": "Syarat Syarat Untuk Mendapatkan Perlindungan Allah.",
         "en": "Conditions for Staying Within God's Protection*"
+      },
+      "footnote": {
+        "bm": "*5:12 Jika kamu memenuhi syarat-syarat yang dinyatakan dalam ayat ini, Allah akan memberitahu kamu bahawa Dia bersama kamu; kamu tidak akan meragukannya. Antara tanda Allah yang paling menonjol ialah tanda-tanda matematik bagi mereka yang memahami mukjizat Quran (Lampiran 1).",
+        "en": "*5:12 If you fulfill the requirements stated in this verse, God will let you know that He is with you; you will have no doubt about it. Prominent among God's signs are mathematical signs for those who understand the Quran's miracle (Appendix 1)."
       }
     },
     {
@@ -189,6 +201,10 @@
       "subtitle": {
         "bm": "Rasul Allah Yang Dijanjikan.",
         "en": "God's Messenger of the Covenant"
+      },
+      "footnote": {
+        "bm": "*5:19 Ayat ini melaporkan terlaksananya nubuat dalam Bible dan Quran mengenai kedatangan Rasul Perjanjian Allah (Maleakhi 3:1, Quran 3:81). Nama rasul ini dikodkan secara matematik dalam Quran sebagai \"Rashad Khalifa.\" Ayat yang sangat istimewa ini memerlukan pembentangan bukti yang khusus. Dengan menambah nilai gematria \"Rashad\" (505), ditambah nilai \"Khalifa\" (725), ditambah nombor sura (5), dan nombor ayat (19), kita memperoleh jumlah 505+725+5+19 = 1254, iaitu 19x66. Nombor 19 ialah penyebut bersama Quran yang diwahyukan melalui Rashad Khalifa. Bukti lanjut dan perincian khusus terdapat dalam Lampiran 2.",
+        "en": "*5:19 This verse reports the fulfillment of the biblical and Quranic prophecy regarding the advent of God's Messenger of the Covenant (Malachi 3:1, Quran 3:81). The name of this messenger is mathematically coded into the Quran as \"Rashad Khalifa.\" This very special verse warrants the presentation of specific evidence. By adding the gematrical value of \"Rashad\" (505), plus the value of \"Khalifa\" (725), plus the sura number (5), plus the verse number (19), we obtain a total of 505+725+5+19 = 1254, or 19x66. Nineteen is the Quran's common denominator, which was revealed through Rashad Khalifa. More evidence and specific details are in Appendix 2."
       }
     },
     {
@@ -257,6 +273,10 @@
       "subtitle": {
         "bm": "Pembunuhan Yang Pertama.",
         "en": "The First Murder*"
+      },
+      "footnote": {
+        "bm": "*5:27-31 Nama dua orang anak yang terlibat dalam pembunuhan pertama ini tidak penting. Namun demikian, nama mereka diberikan dalam Bible sebagai Abel dan Cain (Kejadian 4:2-9).",
+        "en": "*5:27-31 The names of the two sons involved in this first murder are not relevant. But they are given in the Bible as Abel and Cain (Genesis 4:2-9)."
       }
     },
     {
@@ -350,6 +370,10 @@
       "subtitle": {
         "bm": "Matematika: Membuktikan Dan Menyokong Keadilan Quran.",
         "en": "Mathematical Proof Supports Quranic Justice"
+      },
+      "footnote": {
+        "bm": "*5:38 Amalan memotong tangan pencuri seperti yang ditetapkan oleh Muslim palsu ialah amalan syaitan tanpa asas Quran. Oleh kerana contoh ini sangat penting, Allah telah memberikan bukti matematik yang menyokong penandaan tangan pencuri, bukannya memotongnya. Ayat 12:31 merujuk kepada wanita-wanita yang begitu mengagumi Yusuf sehingga mereka \"melukai\" tangan mereka. Sudah tentu mereka tidak \"memotong putus\" tangan mereka; tiada siapa boleh berbuat demikian. Jumlah nombor sura dan ayat bagi 5:38 dan 12:31 adalah sama, iaitu 43. Ini juga adalah kehendak dan rahmat Allah supaya hubungan matematik ini mematuhi kod Quran berasaskan 19. Sembilan belas ayat selepas 12:31, kita melihat perkataan yang sama lagi (12:50).",
+        "en": "*5:38 The practice of cutting off the thief 's hand, as decreed by the false Muslims, is a satanic practice without Quranic basis. Due to the special importance of this example, God has provided mathematical proof in support of marking the hand of the thief, rather than severing it. Verse 12:31 refers to the women who so admired Joseph that they \"cut\" their hands. Obviously, they did not \"cut off\" their hands; nobody can. The sum of sura and verse numbers are the same for 5:38 and 12:31, i.e., 43. It is also the will and mercy of God that this mathematical relationship conforms with the Quran's 19-based code. Nineteen verses after 12:31, we see the same word (12:50)."
       }
     },
     {
@@ -396,6 +420,10 @@
       "subtitle": {
         "bm": "Memuliakan Kitab yang Terdahulu.",
         "en": "Honoring Previous Scripture"
+      },
+      "footnote": {
+        "bm": "*5:44 Taurat ialah himpunan semua kitab suci yang diwahyukan melalui semua nabi Bani Israil sebelum Isa Al-Masih, iaitu Perjanjian Lama pada hari ini. Di mana-mana pun dalam Quran kita tidak menemui kenyataan bahawa Taurat diberikan kepada Musa sahaja.",
+        "en": "*5:44 The Torah is a collection of all the scriptures revealed through all the prophets of Israel prior to Jesus Christ, i.e., today's Old Testament. Nowhere in the Quran do we find that the Torah was given to Moses."
       }
     },
     {
@@ -461,6 +489,10 @@
       "subtitle": {
         "bm": "Ada Di-Antara Yahudi Dan Nasrani Tidak Boleh Dijadikan Kawan.",
         "en": "Certain Jews and Christians Cannot Be Friends*"
+      },
+      "footnote": {
+        "bm": "*5:51 Hubungan dengan orang lain ditadbir oleh peraturan asas dalam 5:57 dan 60:8-9. Yahudi dan Nasrani yang tidak boleh dijadikan sahabat disebut secara khusus dalam 5:57; merekalah yang mengejek dan memperolok-olokkan orang beriman, atau menyerang mereka.",
+        "en": "*5:51 Relations with other people are governed by the basic rule in 5:57 & 60:8-9. The Jews and Christians who cannot be friends are specifically mentioned in 5:57; they are the ones who mock and ridicule the believers, or attack them."
       }
     },
     {
@@ -640,6 +672,10 @@
       "subtitle": {
         "bm": "Kristianiti (Nasrani) Bukanlah Dari Agama Isa.",
         "en": "Today's Christianity Not Jesus' Religion*"
+      },
+      "footnote": {
+        "bm": "*5:72-76 Dalam Yohanes 20:17, kita melihat bahawa Isa mengajar bahawa beliau bukan Tuhan dan bukan anak Tuhan. Ramai ahli teologi telah membuat kesimpulan, setelah penyelidikan yang teliti, bahawa Christianity pada hari ini bukanlah Christianity yang diajarkan oleh Isa. Dua buku penting mengenai perkara ini ialah \"The Myth of God Incarnate\" (The Westminster Press, Philadelphia, 1977) dan \"The Mythmaker\" (Harper & Row, New York, 1986). Pada kulit hadapan \"The Mythmaker\" terdapat pernyataan berikut: \"... Hyam Maccoby mengemukakan hujah-hujah baharu untuk menyokong pandangan bahawa Paul, bukan Jesus, ialah pengasas Christianity.... hanya Paul yang mencipta satu agama baharu melalui visinya tentang Jesus sebagai Penyelamat ilahi yang mati untuk menyelamatkan manusia.\"",
+        "en": "*5:72-76 In John 20:17, we see that Jesus taught that he was neither God, nor the son of God. Many theologians have concluded, after careful research, that today's Christianity is not the same Christianity taught by Jesus. Two outstanding books on this subject are \"The Myth of God Incarnate\" (The Westminster Press, Philadelphia, 1977) and \"The Mythmaker\" (Harper & Row, New York, 1986). On the front jacket of \"The Mythmaker\" we read the following statement: \"... Hyam Maccoby presents new arguments to support the view that Paul, not Jesus, was the founder of Christianity....it was Paul alone who created a new religion through his vision of Jesus as a divine Saviour who died to save humanity .\""
       }
     },
     {
@@ -847,7 +883,11 @@
       "arabic": "جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
       "bm": "Allah telah menjadikan Ka'bah, dan Masjid Suci, untuk dijadikan tempat yang suci bagi sekelian manusia, dan begitu juga dengan bulan-bulan yang Suci, persembahan (diMasjid Suci) dan kalungan yang ditandakan kepada binatang- binatang untuk persembahan. Kamu mestilah mengetahui bahawa Alah tahu segala apa yang berada disekelian cekrawala dan dibumi, sesungguhnya Allah Maha Mengetahui.",
       "en": "GOD has appointed the Ka'bah, the Sacred Masjid,* to be a sanctuary for the people, and also the Sacred Months, the offerings (to the Sacred Masjid), and the garlands marking them. You should know that GOD knows everything in the heavens and the earth, and that GOD is Omniscient.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/005097.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/005097.mp3",
+      "footnote": {
+        "bm": "*5:97 Muslim penyembah berhala telah mewujudkan dua \"Masjidil Haram\" dengan menguduskan makam Nabi. Quran hanya berbicara tentang satu Masjidil Haram.",
+        "en": "*5:97 The idol-worshiping Muslims have instituted two \"Sacred Masjids\" by consecrating the Prophet's tomb. The Quran talks only about one Sacred Masjid."
+      }
     },
     {
       "number": 98,
@@ -986,6 +1026,10 @@
       "subtitle": {
         "bm": "Besarnya Mukjizat Mukjizat Akan Membawa Kepada Tanggungjawab Yang Besar.",
         "en": "Greater Miracles Bring Greater Responsibility*"
+      },
+      "footnote": {
+        "bm": "*5:114-115 Mukjizat Quran yang sangat dahsyat (Lampiran 1) digambarkan dalam 74:35 sebagai \"salah satu mukjizat yang terbesar,\" dan ia datang bersama tanggungjawab yang sangat besar.",
+        "en": "*5:114-115 The Quran's overwhelming miracle (Appendix 1) is described in 74:35 as \"One of the greatest miracles,\" and brings with it an uncommonly great responsibility."
       }
     },
     {
@@ -1004,6 +1048,10 @@
       "subtitle": {
         "bm": "Di-Hari Kebangkitan.",
         "en": "On The Day Of Resurrection"
+      },
+      "footnote": {
+        "bm": "*5:116 Perlu diperhatikan bahawa Quran secara konsisten memanggil Isa sebagai \"anak Maryam\" manakala Bible memanggilnya \"anak manusia.\" Allah mengetahui bahawa ada yang akan melakukan penghujatan lalu memanggilnya \"anak Tuhan\"!",
+        "en": "*5:116 It is noteworthy that the Quran consistently calls Jesus \"son of Mary\" and the Bible calls him \"son of man.\" God knew that some will blaspheme and call him \"son of God\"!"
       }
     },
     {

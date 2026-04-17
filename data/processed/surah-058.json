@@ -1,7 +1,7 @@
 {
   "surahNumber": 58,
   "name": {
-    "ar": "سورة الـمجادلـة",
+    "ar": "سورة المجادلة",
     "bm": "Perdebatan",
     "en": "The Debate"
   },
@@ -26,7 +26,11 @@
       "arabic": "الَّذِينَ يُظَاهِرُونَ مِنْكُمْ مِنْ نِسَائِهِمْ مَا هُنَّ أُمَّهَاتِهِمْ إِنْ أُمَّهَاتُهُمْ إِلَّا الّٰٓیِ وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنْكَرًا مِنَ الْقَوْلِ وَزُورًا وَإِنَّ اللَّهَ لَعَفُوٌّ غَفُورٌ",
       "bm": "Orang orang diantara kamu yang telah berpisah dengan isteri isteri mereka ( kenyatan dengan melarangkan perhubungan sek dengan mereka) seperti ibu ibu mereka sendiri sedangkan mereka tahu benar bahwasanya mereka itu bukanlah ibu ibu mereka. Ibu ibu mereka adalah wanita wanita yang telah melahirkan mereka. Sebenarnya, mereka telah mengkomitkan satu kekufuran dan kepalsuan. Sesungguhnya, Allah sahajalah yang Maha Pemaaf lagi Maha Pengampun.",
       "en": "Those among you who estrange their wives (by declaring them as forbidden in sex) as their mothers know full well that they are not their mothers.* Their mothers are the women who gave birth to them. Indeed, they are committing a blasphemy and a falsehood. GOD is Pardoner, Forgiver.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/058002.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/058002.mp3",
+      "footnote": {
+        "bm": "*58:2 Menjauhkan isteri dengan mengisytiharkan bahawa dia seperti ibu sendiri ialah tradisi kuno di Arabia. Inilah satu-satunya sura di mana perkataan \"Allah\" muncul dalam setiap ayat.",
+        "en": "*58:2 Estranging a wife by declaring that she is like one's mother was an ancient tradition in Arabia. This is the only sura where the word \"Allah\" occurs in every verse."
+      }
     },
     {
       "number": 3,

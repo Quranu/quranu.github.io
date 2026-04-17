@@ -1,7 +1,7 @@
 {
   "surahNumber": 64,
   "name": {
-    "ar": "سورة الـتغابن",
+    "ar": "سورة التغابن",
     "bm": "Saling Menuduh",
     "en": "Mutual Blaming"
   },
@@ -33,7 +33,11 @@
       "arabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَإِلَيْهِ الْمَصِيرُ",
       "bm": "Dialah yang menciptakan sekelian cekrawala dan bumi untuk tujuan yang tertentu, membentukkan kamu dan menyempurnakan pembentukkan kamu, lalu kepadaNya sajalah destini yang terakhir.",
       "en": "He created the heavens and the earth for a specific purpose,* designed you and perfected your design, then to Him is the final destiny.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/064003.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/064003.mp3",
+      "footnote": {
+        "bm": "*64:3 Kita berada di dunia ini kerana rahmat Allah yang amat besar. Allah Yang Maha Pemurah telah memberi kita peluang untuk menebus diri. Lihat Pendahuluan & Lampiran 7.",
+        "en": "*64:3 We are in this world due to God's immense mercy. The Most Gracious has given us a chance to redeem ourselves. See the Introduction & Appendix 7."
+      }
     },
     {
       "number": 4,

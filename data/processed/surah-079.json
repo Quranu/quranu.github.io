@@ -1,7 +1,7 @@
 {
   "surahNumber": 79,
   "name": {
-    "ar": "سورة الـنازعات",
+    "ar": "سورة النازعات",
     "bm": "Peragut",
     "en": "The Snatchers"
   },
@@ -222,7 +222,11 @@
       "arabic": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا",
       "bm": "Dia yang menjadikan bumi yang berbentuk telor.",
       "en": "He made the earth egg-shaped.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/079030.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/079030.mp3",
+      "footnote": {
+        "bm": "*79:30 Perkataan Arab \"dahhaahaa\" berasal daripada \"Dahhyah\" yang bermaksud \"telur.\"",
+        "en": "*79:30 The Arabic word \"dahhaahaa\" is derived from \"Dahhyah\" which means \"egg.\""
+      }
     },
     {
       "number": 31,

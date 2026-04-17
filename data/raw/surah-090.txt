@@ -1,5 +1,5 @@
 ﻿SURAH_NUMBER: 90
-NAME_AR: سورة الـبلد
+NAME_AR: سورة البلد
 NAME_BM: Bandar
 NAME_EN: The Town
 ---
@@ -32,6 +32,9 @@ AR: لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ
 BM: Kami menciptakan manusia untuk bekerja kuat (demi untuk menebus dirinya sendiri).
 EN: We created the human being to work hard (to redeem himself).*
 AUDIO: https://everyayah.com/data/Alafasy_64kbps/090004.mp3
+FOOTNOTE_BM: *90:4 Lihat Pendahuluan dan Lampiran 7 untuk tujuan di sebalik penciptaan kita.
+FOOTNOTE_EN: *90:4 See the Introduction and Appendix 7 for the purpose behind our creation.
+
 
 # Ayah 5
 AR: أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ
@@ -128,8 +131,5 @@ AR: عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ
 BM: Mereka akan dikurung didalam api Neraka.
 EN: They will be confined in the Hellfire.
 AUDIO: https://everyayah.com/data/Alafasy_64kbps/090020.mp3
-
-
-
 
 

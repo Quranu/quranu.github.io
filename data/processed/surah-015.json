@@ -19,7 +19,11 @@
       "arabic": "الر تِلكَ آياتُ الكِتابِ وَقُرآنٍ مُبينٍ",
       "bm": "A . L . R. (Alif. Lam. Raa - Huruf huruf) ini adalah bukti bukti bagi kitab ini; Quran yang nyata.",
       "en": "A.L.R.* These (letters) are proofs of this scripture; a profound Quran.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/015001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/015001.mp3",
+      "footnote": {
+        "bm": "*15:1 & *15:9 Sumber Ilahi dan pemeliharaan Quran yang sempurna dibuktikan oleh kod matematik Quran (Lampiran 1). Rasul Perjanjian Allah telah ditakdirkan untuk mendedahkan mukjizat agung ini. Perkataan \"Dhikr\" merujuk kepada kod Quran dalam beberapa ayat (15:6, 21:2, 26:5, 38:1, 38:8, 74:31). Nilai \"Rashad Khalifa\" (1230)+15+9=1254, iaitu 19x66.",
+        "en": "*15:1 & *15:9 The divine source and the perfect preservation of the Quran are proven by the Quran's mathematical code (App. 1). God's Messenger of the Covenant was destined to unveil this great miracle. The word \"Dhikr\" denotes the Quran's code in several verses (15:6, 21:2, 26:5, 38:1, 38:8, 74:31). The value of \"Rashad Khalifa\" (1230)+15+9=1254, 19x66."
+      }
     },
     {
       "number": 2,
@@ -156,7 +160,11 @@
       "arabic": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَنْ لَسْتُمْ لَهُ بِرَازِقِينَ",
       "bm": "kami jadikan kebiasaan untuk kamu, dan untuk makhluk makhluk yang kamu tidak perlu mengadakan untuknya.",
       "en": "We made it habitable for you,* and for creatures you do not provide for.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/015020.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/015020.mp3",
+      "footnote": {
+        "bm": "*15:20 Apabila kita menghantar angkasawan ke angkasa lepas, kita menyediakan kepada mereka jumlah makanan, air, dan oksigen yang diukur dengan tepat. Allah telah mencipta kapal angkasa Bumi dengan berbilion-bilion angkasawan yang bekerja dan membiak; Dia membekalkan mereka dengan satu sistem yang menyokong dirinya sendiri dan menghasilkan oksigen, air tawar, serta pelbagai jenis makanan dan minuman yang lazat.",
+        "en": "*15:20 When we send astronauts into space, we provide them with precisely measured quantities of food, water, and oxygen. God created the spaceship Earth with billions of astronauts who work and reproduce; He supplied them with a self-supporting system that generates oxygen, fresh water, and a great variety of delicious foods and drinks."
+      }
     },
     {
       "number": 21,
@@ -627,6 +635,10 @@
       "subtitle": {
         "bm": "Masa Akhirnya Dunia Didedahkan.",
         "en": "End of the World Unveiled*"
+      },
+      "footnote": {
+        "bm": "*15:85-88 Salah satu fungsi Rasul Perjanjian Allah ialah menyampaikan kenyataan Quran bahawa dunia akan berakhir pada tahun 2280 M (20:15, 72:27, dan Lampiran 25).",
+        "en": "*15:85-88 One of the functions of God's Messenger of the Covenant is to deliver the Quranic assertion that the world will end in AD 2280 (20:15, 72:27 & Appendix 25)."
       }
     },
     {
@@ -725,7 +737,11 @@
       "arabic": "وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ",
       "bm": "Dan sembahlah Tuhan kamu sehingga kamu dapat mencapai kepastian.",
       "en": "And worship your Lord, in order to attain certainty.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/015099.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/015099.mp3",
+      "footnote": {
+        "bm": "*15:99 Amalan-amalan ibadah ialah cara kita mencapai keyakinan (Lampiran 15).",
+        "en": "*15:99 The practices of worship are our means of attaining certainty (Appendix 15)."
+      }
     }
   ]
 }

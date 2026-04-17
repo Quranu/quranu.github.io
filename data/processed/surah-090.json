@@ -1,7 +1,7 @@
 {
   "surahNumber": 90,
   "name": {
-    "ar": "سورة الـبلد",
+    "ar": "سورة البلد",
     "bm": "Bandar",
     "en": "The Town"
   },
@@ -40,7 +40,11 @@
       "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
       "bm": "Kami menciptakan manusia untuk bekerja kuat (demi untuk menebus dirinya sendiri).",
       "en": "We created the human being to work hard (to redeem himself).*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/090004.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/090004.mp3",
+      "footnote": {
+        "bm": "*90:4 Lihat Pendahuluan dan Lampiran 7 untuk tujuan di sebalik penciptaan kita.",
+        "en": "*90:4 See the Introduction and Appendix 7 for the purpose behind our creation."
+      }
     },
     {
       "number": 5,

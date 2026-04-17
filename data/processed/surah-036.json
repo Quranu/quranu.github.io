@@ -19,7 +19,11 @@
       "arabic": "يس",
       "bm": "Y. S. (Ya Sin)",
       "en": "Y. S.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/036001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/036001.mp3",
+      "footnote": {
+        "bm": "*36:1 Lihat Lampiran 1 untuk penjelasan terperinci tentang huruf-huruf awal ini.",
+        "en": "*36:1 See Appendix 1 for the detailed explanation of these initials."
+      }
     },
     {
       "number": 2,
@@ -33,7 +37,11 @@
       "arabic": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
       "bm": "Pasti sekali, kau (Rashad) adalah salah satu dari para rasul.",
       "en": "Most assuredly, you (Rashad) are one of the messengers.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/036003.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/036003.mp3",
+      "footnote": {
+        "bm": "*36:3 Lihat Lampiran 2 & 26 untuk bukti fizikal yang tidak dapat disangkal.",
+        "en": "*36:3 See Appendices 2 & 26 for the irrefutable physical evidence."
+      }
     },
     {
       "number": 4,
@@ -82,7 +90,11 @@
       "arabic": "وَسَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
       "bm": "Itu adalah serupa saja sama ada kau memberikan amaran kepada mereka ataupun tidak, mereka tidak akan dapat mempercayainya.",
       "en": "It is the same whether you warn them or not, they cannot believe.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/036010.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/036010.mp3",
+      "footnote": {
+        "bm": "*36:10 Setiap orang telah pun ditandai sebagai beriman atau tidak beriman. Lihat Lampiran 14.",
+        "en": "*36:10 Everyone is already stamped as a believer or a disbeliever. See Appendix 14."
+      }
     },
     {
       "number": 11,
@@ -107,6 +119,10 @@
       "subtitle": {
         "bm": "Mengingkari Para Rasul: Tragik Yang Biasa Bagi Manusia",
         "en": "Rejecting The Messengers: A Tragic Human Trait*"
+      },
+      "footnote": {
+        "bm": "*36:13-27 Rasul-rasul Allah mempunyai bukti, menyeru kepada Allah sahaja, dan tidak meminta wang.",
+        "en": "*36:13-27 God's messengers have proof, advocate God alone, and do not ask for money."
       }
     },
     {
@@ -202,6 +218,10 @@
       "subtitle": {
         "bm": "Orang Orang Yang Benar Terus Ke-Syurga",
         "en": "The Righteous Go Straight to Paradise*"
+      },
+      "footnote": {
+        "bm": "*36:26 Orang-orang yang benar tidak benar-benar mati; mereka hanya berpindah ke Syurga yang sama tempat Adam dan Hawa pernah tinggal. Mereka menyertai para nabi, wali, dan syuhada dalam kehidupan yang aktif dan utopia (lihat Lampiran 17).",
+        "en": "*36:26 The righteous do not really die; they simply move on to the same Paradise where Adam & Eve lived. They join the prophets, saints, and martyrs in an active and utopian life (see App. 17)."
       }
     },
     {
@@ -234,6 +254,10 @@
       "subtitle": {
         "bm": "Mengingkari Para Rasul: Tragik Yang Biasa Bagi Manusia",
         "en": "Ridiculing The Messengers: A Tragic Human Trait*"
+      },
+      "footnote": {
+        "bm": "*36:30 Jika seorang rasul membawa bukti yang kukuh, menyeru kepada penyembahan Allah sahaja, dan tidak meminta wang daripada kita, mengapa kita tidak harus percaya? (lihat Lampiran 2)",
+        "en": "*36:30 If the messenger presents solid proof of messengership, advocates the worship of God alone, and does not ask us for money, why should we not believe? (see Appendix 2)"
       }
     },
     {
@@ -519,7 +543,11 @@
       "arabic": "وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغِي لَهُ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْآنٌ مُبِينٌ",
       "bm": "Apa yang kami mengajarkan kepadanya (rasul) bukanlah syair, dan bukan juga dia seorang (penyair). Ini sesungguhnya adalah bukti yang amat mengkagumkan, dan Quran yang nyata.",
       "en": "What we taught him (the messenger) was not poetry, nor is he (a poet). This is but a formidable proof,* and a profound Quran.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/036069.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/036069.mp3",
+      "footnote": {
+        "bm": "*36:69 Perkataan \"Zikr\" kerap merujuk kepada kod matematik besar Quran, yang pastinya bukan karya sastera atau puisi. Sila periksa 38:1,8; 15:6,9; 16:44; 21:2,24; 26:5; dan 36:11.",
+        "en": "*36:69 The word \"Zikr\" refers frequently to the Quran's great mathematical code, which is certainly not literary, nor poetry. Please check out 38:1,8; 15:6,9; 16:44; 21:2, 24; 26:5; & 36:11."
+      }
     },
     {
       "number": 70,
@@ -621,7 +649,11 @@
       "arabic": "فَسُبْحَانَ الَّذِي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ وَإِلَيْهِ تُرْجَعُونَ",
       "bm": "Dari itu, Maha suci bagi yang Esa dimana ditangannya adalah kedaulatan diatas segala galanya, dan kepadaNya sahajalah kamu akan dikembalikan.",
       "en": "Therefore, glory be to the One in whose hand is the sovereignty over all things, and to Him you will be returned.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/036083.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/036083.mp3",
+      "footnote": {
+        "bm": "*36:83 Perlu diperhatikan bahawa nilai gematria \"Rashad\" (505), ditambah nilai gematria \"Khalifa\" (725), ditambah nombor sura (36), ditambah bilangan ayat (83), menghasilkan jumlah yang merupakan gandaan 19 (505+725+36+83=1349=19x71). Juga, Sura 36 ialah nombor 19 dalam kalangan 29 sura berinisial.",
+        "en": "*36:83 It is noteworthy that the gematrical value of \"Rashad\" (505), plus the gematrical value of \"Khalifa\" (725), plus the sura number (36), plus the number of verses (83), produces a total that is a multiple of 19 (505+725+36+83=1349=19x71). Also, Sura 36 is number 19 among the 29 initialed suras."
+      }
     }
   ]
 }

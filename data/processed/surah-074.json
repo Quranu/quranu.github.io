@@ -1,9 +1,9 @@
 {
   "surahNumber": 74,
   "name": {
-    "ar": "سورة الـمـدثـر",
+    "ar": "سورة المدثر",
     "bm": "Rahsia Yang Tersembunyi",
-    "en": "The Hidden secret"
+    "en": "The Hidden Secret"
   },
   "totalAyahs": 56,
   "ayahs": [
@@ -19,7 +19,11 @@
       "arabic": "ياأَيُّهَا المُدَّثِّرُ",
       "bm": "Wahai kau rahsia yang tersembunyi.",
       "en": "O you hidden secret.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/074001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/074001.mp3",
+      "footnote": {
+        "bm": "*74:1 Hikmah Allah yang tidak terbatas menetapkan supaya Quran diwahyukan melalui Muhammad, manakala mukjizat matematik Quran yang menakjubkan berasaskan 19 diwahyukan melalui Rasul Perjanjian Allah 1406 tahun bulan selepas penurunan Quran (1406=19x74 & 1974 M ialah tahun matahari penemuannya). Apabila dilihat kembali, kita sedar bahawa keseluruhan sura ini merujuk kepada mukjizat Quran berasaskan 19 (Lampiran 1 & 2).",
+        "en": "*74:1 God's infinite wisdom willed to reveal the Quran through Muhammad, while the Quran's awesome 19-based mathematical miracle was revealed through God's Messenger of the Covenant 1406 lunar years after revelation of the Quran (1406=19x74 & 1974 AD was the Solar Year of discovery). In retrospect, we realize that the whole sura refers to the Quran's 19-based miracle (Appendices 1 & 2)."
+      }
     },
     {
       "number": 2,
@@ -40,7 +44,11 @@
       "arabic": "وَثِيَابَكَ فَطَهِّرْ",
       "bm": "Sucikan pakaianmu (Quran).",
       "en": "Purify your garment.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/074004.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/074004.mp3",
+      "footnote": {
+        "bm": "*74:4 Quran ialah pakaian yang mengandungi kod rahsia. Ini merujuk kepada penyingkiran 9:128-9.",
+        "en": "*74:4 Quran is the garment containing the secret code. This refers to removing 9:128-9."
+      }
     },
     {
       "number": 5,
@@ -226,6 +234,10 @@
       "subtitle": {
         "bm": "Nombor Asas Kiraan Di-Dalam Quran",
         "en": "The Quran's Common Denominator"
+      },
+      "footnote": {
+        "bm": "*74:30-35 \"Salah satu mukjizat yang besar\" ini memberikan bukti fizikal pertama bahawa Quran ialah mesej Allah kepada dunia. Mukjizat berasaskan 19 ini diperincikan dalam Lampiran 1.",
+        "en": "*74:30-35 This \"One of the great miracles\" provides the first physical evidence that the Quran is God's message to the world. This 19-based miracle is detailed in Appendix 1."
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "surahNumber": 55,
   "name": {
-    "ar": "سورة الـرحـمـن",
+    "ar": "سورة الرحمن",
     "bm": "Yang Maha Pengasih",
     "en": "Most Gracious"
   },
@@ -89,7 +89,11 @@
       "arabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
       "bm": "Didalamnya ada buah buahan, dan pokok pokok kurma yang buahnya bergantungan.",
       "en": "In it there are fruits, and date palms with their hanging fruit.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/055011.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055011.mp3",
+      "footnote": {
+        "bm": "*55:11 Bandingkan sistem boleh diperbaharui kapal angkasa Bumi dan para angkasawan yang membiak di atasnya dengan kapal-kapal angkasa paling canggih yang kita lancarkan ke angkasa. Maha Suci Allah.",
+        "en": "*55:11 Compare the spaceship Earth's renewable systems and reproducing astronauts, with the most sophisticated spaceships that we launch into space. God be glorified."
+      }
     },
     {
       "number": 12,
@@ -320,7 +324,11 @@
       "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
       "bm": "Mereka akan mengelilingi serta tidak akan dapat tertahan apinya yang menjulang.",
       "en": "They will circulate between it and an intolerable inferno.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/055044.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/055044.mp3",
+      "footnote": {
+        "bm": "*55:44 Perincian penuh tentang Syurga Tinggi, Syurga Rendah, Tempat Penungguan, Neraka, dan inferno yang tidak tertanggung diberikan dalam Lampiran 5 dan 11.",
+        "en": "*55:44 Full details about the High Heaven, Low Heaven, the Purgatory, Hell, and the intolerable inferno are given in Appendices 5 and 11."
+      }
     },
     {
       "number": 45,

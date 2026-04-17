@@ -1,7 +1,7 @@
 {
   "surahNumber": 60,
   "name": {
-    "ar": "سورة الـمـمـتـحنة",
+    "ar": "سورة الممتحنة",
     "bm": "Ujian",
     "en": "The Test"
   },
@@ -44,6 +44,10 @@
       "subtitle": {
         "bm": "Ibrahim: Contoh Tauladan",
         "en": "Abraham: An Example"
+      },
+      "footnote": {
+        "bm": "*60:4 Perkataan Arab bagi \"SAHAJA\" (WAHDAHU) hanya muncul enam kali dalam Quran, dan salah satunya merujuk kepada menegakkan Quran SAHAJA (17:46). Rujukan kepada Allah SAHAJA berlaku dalam 7:70, 39:45, 40:12 & 84, dan 60:4. Jumlah nombor-nombor ini (7+70+39+45+40+12+84+60+4) ialah 361, atau 19x19. Ini menekankan bahawa tema utama Quran ialah \"Sembahlah Allah SAHAJA.\" Lampiran 1.",
+        "en": "*60:4 The Arabic word for \"ALONE\" (WAHDAHU) occurs only six times in the Quran, one of them refers to upholding the Quran ALONE (17:46). The reference to God ALONE occurs in 7:70, 39:45, 40:12 & 84, and 60:4. The sum of these numbers (7+70+39+45+40+12+84+60+4) equals 361, or 19x19. This emphasizes that the main theme of the Quran is \"Worship God ALONE.\" Appendix 1."
       }
     },
     {

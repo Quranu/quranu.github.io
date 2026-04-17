@@ -1,7 +1,7 @@
 {
   "surahNumber": 54,
   "name": {
-    "ar": "سورة الـقمـر",
+    "ar": "سورة القمر",
     "bm": "Bulan",
     "en": "The Moon"
   },
@@ -19,7 +19,11 @@
       "arabic": "اقتَرَبَتِ السّاعَةُ وَانشَقَّ القَمَرُ",
       "bm": "Waktu telah datang lebih dekat, dan bulan telah terbelah.",
       "en": "The Hour has come closer, and the moon has split.*",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/054001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/054001.mp3",
+      "footnote": {
+        "bm": "*54:1 Tanda penting tentang hampir tibanya akhir dunia ini telah berlaku pada tahun 1969 apabila manusia mendarat di bulan dan membawa cebisan bulan ke bumi. Pada masa yang sama, Mukjizat matematik Quran daripada Allah sedang didedahkan secara beransur-ansur. Muslim tradisional menentangnya, kerana ia membongkar kepalsuan amalan mereka (Lampiran 25).",
+        "en": "*54:1 This important sign of the approaching end of the world came to pass in 1969 when humans landed on the moon and brought pieces of the moon to earth. At the same time, God's mathematical Miracle of the Quran was being gradually unveiled. Traditional Muslims opposed it, since it exposed the fallacy of their practices (App. 25)."
+      }
     },
     {
       "number": 2,

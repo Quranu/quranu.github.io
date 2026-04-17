@@ -1,7 +1,7 @@
 {
   "surahNumber": 63,
   "name": {
-    "ar": "سورة الـمنافقون",
+    "ar": "سورة المنافقون",
     "bm": "Orang Orang Hypokrit",
     "en": "The Hypocrites"
   },
@@ -19,7 +19,11 @@
       "arabic": "إِذا جاءَكَ المُنافِقونَ قالوا نَشهَدُ إِنَّكَ لَرَسولُ اللَّهِ وَاللَّهُ يَعلَمُ إِنَّكَ لَرَسولُهُ وَاللَّهُ يَشهَدُ إِنَّ المُنافِقينَ لَكاذِبونَ",
       "bm": "Apabila orang orang hypokrit datang kepadamu mereka berkata, \"Kami menjadi saksi yang kau adalah rasul Allah.\" Allah tahu yang kau itu adalah rasulNya, dan Allah menjadi saksi bahwa orang orang hypokrit itu adalah pembohong.",
       "en": "When the hypocrites come to you they say, \"We bear witness that you are the messenger of GOD.\"* GOD knows that you are His messenger, and GOD bears witness that the hypocrites are liars.",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/063001.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/063001.mp3",
+      "footnote": {
+        "bm": "*63:1 \"Rukun pertama Islam,\" sebagaimana dinyatakan dalam 3:18, ialah menyaksikan bahawa Allah ialah satu-satunya Tuhan. Tetapi para sarjana \"Muslim\" yang rosak menambah \"Muhammad ialah rasul Allah,\" dan ini melanggar beberapa perintah (lihat 2:285). Ayat 63:1 ialah satu-satunya tempat dalam Quran di mana pernyataan seperti ini dibuat. Hanya golongan munafik yang membuat pernyataan sedemikian.",
+        "en": "*63:1 The \"first pillar of Islam,\" as stated in 3:18 is to bear witness that God is the only god. But the corrupted \"Muslim\" scholars add \"Muhammad is God's messenger,\" and this violates a number of commandments (see 2:285). Verse 63:1 is the only place in the Quran where such a statement is made. Only the hypocrites make such a statement."
+      }
     },
     {
       "number": 2,
@@ -62,6 +66,10 @@
       "subtitle": {
         "bm": "Mitos Perantaraan Hancur Berkecai",
         "en": "The Myth of Intercession Shattered*"
+      },
+      "footnote": {
+        "bm": "*63:6 Berjuta-juta orang memuja nabi-nabi mereka kerana mitos ini (Lampiran 8).",
+        "en": "*63:6 Millions of people idolize their prophets because of this myth (Appendix 8)."
       }
     },
     {

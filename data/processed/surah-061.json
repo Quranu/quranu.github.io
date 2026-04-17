@@ -1,7 +1,7 @@
 {
   "surahNumber": 61,
   "name": {
-    "ar": "سورة الـصـف",
+    "ar": "سورة الصف",
     "bm": "Barisan",
     "en": "The Column"
   },
@@ -83,6 +83,10 @@
       "subtitle": {
         "bm": "Ramalan Yang Besar",
         "en": "The Great Prophecy"
+      },
+      "footnote": {
+        "bm": "*61:9 Nama khusus rasul ini dieja secara matematik (Lampiran 2).",
+        "en": "*61:9 The specific name of this messenger is spelled out mathematically (Appendix 2)."
       }
     },
     {

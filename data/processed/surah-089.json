@@ -26,14 +26,22 @@
       "arabic": "وَلَيَالٍ عَشْرٍ",
       "bm": "Dan malam yang kesepuluh.",
       "en": "And the ten nights. *",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/089002.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089002.mp3",
+      "footnote": {
+        "bm": "*89:2 Sepuluh malam terakhir Ramadan, ketika ramai orang beriman beriktikaf di masjid-masjid (2:187).",
+        "en": "*89:2 Last ten nights of Ramadan, wherein many believers retreat to the masjids (2:187)."
+      }
     },
     {
       "number": 3,
       "arabic": "وَالشَّفْعِ وَالْوَتْرِ",
       "bm": "Bagi yang genap dan yang ganjil.",
       "en": "By the even and the odd. *",
-      "audio": "https://everyayah.com/data/Alafasy_64kbps/089003.mp3"
+      "audio": "https://everyayah.com/data/Alafasy_64kbps/089003.mp3",
+      "footnote": {
+        "bm": "*89:3 Lihat Lampiran 1 untuk peranan nombor genap dan nombor ganjil.",
+        "en": "*89:3 See Appendix 1 for the role of the even numbers and the odd numbers."
+      }
     },
     {
       "number": 4,
