@@ -125,16 +125,16 @@ $root = Split-Path -Parent $PSScriptRoot
 $iconsRoot = Join-Path $root "assets\\icons"
 
 $targets = @(
-  @{ Size = 512; Path = (Join-Path $iconsRoot "icon-512.png") },
-  @{ Size = 192; Path = (Join-Path $iconsRoot "icon-192.png") },
-  @{ Size = 180; Path = (Join-Path $iconsRoot "apple-touch-icon.png") },
-  @{ Size = 32; Path = (Join-Path $iconsRoot "favicon-32.png") },
-  @{ Size = 16; Path = (Join-Path $iconsRoot "favicon-16.png") }
+  @{ Size = 512; Path = (Join-Path $iconsRoot "icon-512-v2.png") },
+  @{ Size = 192; Path = (Join-Path $iconsRoot "icon-192-v2.png") },
+  @{ Size = 180; Path = (Join-Path $iconsRoot "apple-touch-icon-v2.png") },
+  @{ Size = 32; Path = (Join-Path $iconsRoot "favicon-32-v2.png") },
+  @{ Size = 16; Path = (Join-Path $iconsRoot "favicon-16-v2.png") }
 )
 
 foreach ($target in $targets) {
   Save-QuranuIcon -size $target.Size -outputPath $target.Path
 }
 
-Get-ChildItem $iconsRoot\icon-512.png, $iconsRoot\icon-192.png, $iconsRoot\apple-touch-icon.png, $iconsRoot\favicon-32.png, $iconsRoot\favicon-16.png |
+Get-ChildItem $iconsRoot\icon-512-v2.png, $iconsRoot\icon-192-v2.png, $iconsRoot\apple-touch-icon-v2.png, $iconsRoot\favicon-32-v2.png, $iconsRoot\favicon-16-v2.png |
   Select-Object Name, Length, LastWriteTime

@@ -1,15 +1,15 @@
-const STATIC_CACHE = "quranu-static-v2";
-const RUNTIME_CACHE = "quranu-runtime-v2";
+const STATIC_CACHE = "quranu-static-v3";
+const RUNTIME_CACHE = "quranu-runtime-v3";
 const CORE_ASSETS = [
   "/",
   "/index.html",
-  "/manifest.webmanifest",
+  "/manifest.webmanifest?v=2",
   "/assets/styles/main.css",
-  "/assets/icons/icon-192.png",
-  "/assets/icons/icon-512.png",
-  "/assets/icons/apple-touch-icon.png",
-  "/assets/icons/favicon-32.png",
-  "/assets/icons/favicon-16.png",
+  "/assets/icons/icon-192-v2.png",
+  "/assets/icons/icon-512-v2.png",
+  "/assets/icons/apple-touch-icon-v2.png",
+  "/assets/icons/favicon-32-v2.png",
+  "/assets/icons/favicon-16-v2.png",
   "/src/main.js",
   "/src/i18n.js",
   "/src/audioController.js",
