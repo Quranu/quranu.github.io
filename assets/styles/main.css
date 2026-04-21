@@ -837,15 +837,23 @@ select {
   padding-bottom: 0.15rem;
 }
 
+.study-table-wrap:has(.study-appendix-table),
+.study-table-wrap:has(.tab) {
+  border: 1px solid rgba(32, 21, 13, 0.14);
+  border-radius: 14px;
+  padding: 0.4rem;
+  background: rgba(255, 255, 255, 0.74);
+}
+
 .study-appendix-table {
   width: 100%;
   min-width: 640px;
   border-collapse: collapse;
   font-size: 0.96rem;
-  background: rgba(255, 255, 255, 0.86);
-  border: 1px solid rgba(32, 21, 13, 0.12);
-  border-radius: 14px;
-  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  overflow: visible;
 }
 
 .study-appendix-table th,
@@ -857,22 +865,123 @@ select {
 }
 
 .study-appendix-table thead th {
-  background: rgba(15, 118, 110, 0.08);
-  color: var(--accent-strong);
-  font-weight: 800;
+  background: transparent;
+  color: inherit;
+  font-weight: 700;
 }
 
 .study-appendix-table tbody tr:last-child td {
   border-bottom: 0;
 }
 
+.study-appendix-table-source {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.study-appendix-table-source thead th {
+  background: transparent;
+  color: inherit;
+  font-weight: 700;
+}
+
+.study-appendix-table-source th,
+.study-appendix-table-source td {
+  border-bottom-color: rgba(32, 21, 13, 0.08);
+}
+
+.study-appendix-table-source-18 th,
+.study-appendix-table-source-18 td,
+.study-appendix-table-source-19 th,
+.study-appendix-table-source-19 td {
+  text-align: center;
+}
+
+.study-table-center {
+  text-align: center !important;
+}
+
+.study-table-note-inline {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.study-table-note-center {
+  text-align: center !important;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.study-table-spacer {
+  border-bottom: 0 !important;
+  height: 1rem;
+  padding: 0 !important;
+}
+
+.tab {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  overflow: visible;
+  box-shadow: none;
+}
+
+.tab td,
+.tab th {
+  padding: 0.75rem 0.8rem;
+  border-bottom: 1px solid rgba(32, 21, 13, 0.08);
+  vertical-align: top;
+}
+
+.cen,
+.tab .cen,
+.tab td.cen,
+.tab th.cen,
+.tab tr.cen td {
+  text-align: center;
+}
+
+.tabmar {
+  margin: 0 auto;
+}
+
+.db th,
+.tab .db th {
+  text-align: center;
+  font-weight: 700;
+}
+
+.ul {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.tdu {
+  border-top: dotted 1px rgba(32, 21, 13, 0.45) !important;
+}
+
 .study-table-note {
-  display: block;
-  margin-top: 0.2rem;
+  display: table-cell;
+  margin-top: 0;
   text-align: left !important;
   font-weight: 700;
   color: var(--accent-strong);
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.study-table-underline {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.study-table-dotted-top {
+  border-top: dotted 1px rgba(32, 21, 13, 0.45) !important;
 }
 
 .study-appendix-translation {
@@ -934,6 +1043,39 @@ select {
 
 .study-table-wrap:has(.study-appendix-table-compact) {
   overflow-x: visible;
+}
+
+.study-table-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.study-table-card {
+  border: 1px solid rgba(32, 21, 13, 0.14);
+  border-radius: 14px;
+  padding: 0.4rem;
+  background: rgba(255, 255, 255, 0.74);
+}
+
+.study-table-card .tab {
+  min-width: 0;
+}
+
+.study-longno {
+  font-weight: 700;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.study-longno-desc {
+  text-align: center !important;
+}
+
+@media (max-width: 760px) {
+  .study-table-pair {
+    grid-template-columns: 1fr;
+  }
 }
 
 .study-appendix-figure {
