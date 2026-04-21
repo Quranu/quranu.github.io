@@ -1036,6 +1036,11 @@ select {
   table-layout: auto;
 }
 
+.study-appendix-table-compact:has(.study-appendix-figure-image) {
+  max-width: 42rem;
+  width: min(100%, 42rem);
+}
+
 .study-appendix-table-compact td:last-child,
 .study-appendix-table-compact th:last-child {
   text-align: right;
@@ -1043,6 +1048,14 @@ select {
 
 .study-table-wrap:has(.study-appendix-table-compact) {
   overflow-x: visible;
+}
+
+.study-appendix-figure-image {
+  display: block;
+  width: 100%;
+  max-width: min(100%, 38rem);
+  height: auto;
+  margin: 0 auto;
 }
 
 .study-table-pair {
